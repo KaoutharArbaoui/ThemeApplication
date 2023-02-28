@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Stems>
+<res>
+<word>ثنائية</word> 
+ <stem>ثَنَائِيَّة</stem>
+</res>
+<res>
+<word>بنزيمة</word> 
+ <stem>بنزيمة</stem>
+</res>
+<res>
+<word>تقود</word> 
+ <stem>تَقُود</stem>
+</res>
+<res>
+<word>ريال</word> 
+ <stem>رِيَال</stem>
+</res>
+<res>
+<word>مدريد</word> 
+ <stem>مَدْرِيد</stem>
+</res>
+<res>
+<word>لمواصلة</word> 
+ <stem>مُوَاصَلَة</stem>
+</res>
+<res>
+<word>انتفاضته</word> 
+ <stem>انْتِفَاضَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الليغا</word> 
+ <stem>الليغا</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>حساب</word> 
+ <stem>حِسَاب</stem>
+</res>
+<res>
+<word>بلباو</word> 
+ <stem>بلباو</stem>
+</res>
+
+<res>
+<word>سجل</word> 
+ <stem>سَجَّل</stem>
+</res>
+<res>
+<word>المهاجم</word> 
+ <stem>مُهَاجِم</stem>
+</res>
+<res>
+<word>الفرنسي</word> 
+ <stem>فَرَنْسِيّ</stem>
+</res>
+<res>
+<word>المخضرم</word> 
+ <stem>مُخَضْرَم</stem>
+</res>
+<res>
+<word>كريم</word> 
+ <stem>كَرِيم</stem>
+</res>
+<res>
+<word>بنزيمة</word> 
+ <stem>بنزيمة</stem>
+</res>
+<res>
+<word>هدفين</word> 
+ <stem>هَدَفَيْن</stem>
+</res>
+<res>
+<word>ليقود</word> 
+ <stem>يَقُود</stem>
+</res>
+<res>
+<word>فريقه</word> 
+ <stem>فَرِيق</stem>
+</res>
+<res>
+<word>ريال</word> 
+ <stem>رِيَال</stem>
+</res>
+<res>
+<word>مدريد</word> 
+ <stem>مَدْرِيد</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>مواصلة</word> 
+ <stem>مُوَاصَلَة</stem>
+</res>
+<res>
+<word>انتفاضته</word> 
+ <stem>انْتِفَاضَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>رحلة</word> 
+ <stem>رِحْلَة</stem>
+</res>
+<res>
+<word>الدفاع</word> 
+ <stem>دِفَاع</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>لقبه</word> 
+ <stem>لَقَب</stem>
+</res>
+<res>
+<word>بالدوري</word> 
+ <stem>دَوْرِيّ</stem>
+</res>
+<res>
+<word>الإسباني</word> 
+ <stem>إِسْبَانِيّ</stem>
+</res>
+<res>
+<word>لكرة</word> 
+ <stem>كُرَة</stem>
+</res>
+<res>
+<word>القدم</word> 
+ <stem>قَدَم</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بتحقيق</word> 
+ <stem>تَحْقِيق</stem>
+</res>
+<res>
+<word>انتصاره</word> 
+ <stem>انْتِصَار</stem>
+</res>
+<res>
+<word>الثالث</word> 
+ <stem>ثَالِث</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>التوالي</word> 
+ <stem>تَوَالِي</stem>
+</res>
+<res>
+<word>بالفوز</word> 
+ <stem>فَوْز</stem>
+</res>
+<res>
+<word> 3-1 </word> 
+ <stem> 3-1 </stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>أتلتيك</word> 
+ <stem>أَتْلَتَي</stem>
+</res>
+<res>
+<word>بلباو</word> 
+ <stem>بلباو</stem>
+</res>
+<res>
+<word>مساء</word> 
+ <stem>مَسَاء</stem>
+</res>
+<res>
+<word>الثلاثاء</word> 
+ <stem>ثُلَاثَاء</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وعلى</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>ملعب</word> 
+ <stem>مَلْعَب</stem>
+</res>
+<res>
+<word>ألفريدو</word> 
+ <stem>ألفريدو</stem>
+</res>
+<res>
+<word>دي</word> 
+ <stem>دِي</stem>
+</res>
+<res>
+<word>ستيفانو</word> 
+ <stem>ستيفانو</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>مدريد</word> 
+ <stem>مَدْرِيد</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>استغل</word> 
+ <stem>اسْتَغَلّ</stem>
+</res>
+<res>
+<word>الريال</word> 
+ <stem>رِيَال</stem>
+</res>
+<res>
+<word>النقص</word> 
+ <stem>نَقْص</stem>
+</res>
+<res>
+<word>العددي</word> 
+ <stem>عَدَدِيّ</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>صفوف</word> 
+ <stem>صُفُوف</stem>
+</res>
+<res>
+<word>ضيفه</word> 
+ <stem>ضَيْف</stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>طرد</word> 
+ <stem>طَرْد</stem>
+</res>
+<res>
+<word>راؤول</word> 
+ <stem>راؤول</stem>
+</res>
+<res>
+<word>غارسيا</word> 
+ <stem>غَارْسْيَا</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الدقيقة</word> 
+ <stem>دَقِيقَة</stem>
+</res>
+<res>
+<word> 13، </word> 
+ <stem> 13، </stem>
+</res>
+<res>
+<word>وانتزع</word> 
+ <stem>انْتَزَع</stem>
+</res>
+<res>
+<word>فوزا</word> 
+ <stem>فَوْزًا</stem>
+</res>
+<res>
+<word>غاليا</word> 
+ <stem>غَالِيًا</stem>
+</res>
+<res>
+<word> 3-1 </word> 
+ <stem> 3-1 </stem>
+</res>
+<res>
+<word>ليرفع</word> 
+ <stem>يَرْفَع</stem>
+</res>
+<res>
+<word>رصيده</word> 
+ <stem>رَصِيد</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word> 26 </word> 
+ <stem> 26 </stem>
+</res>
+<res>
+<word>نقطة</word> 
+ <stem>نُقْطَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ويتقدم</word> 
+ <stem>يَتَقَدَّم</stem>
+</res>
+<res>
+<word>لمزاحمة</word> 
+ <stem>مُزَاحَمَة</stem>
+</res>
+<res>
+<word>ريال</word> 
+ <stem>رِيَال</stem>
+</res>
+<res>
+<word>سوسييداد</word> 
+ <stem>سوسييداد</stem>
+</res>
+<res>
+<word>وأتلتيكو</word> 
+ <stem>أَتْلِتِيكُو</stem>
+</res>
+<res>
+<word>مدريد</word> 
+ <stem>مَدْرِيد</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الصدارة</word> 
+ <stem>صَدَارَة</stem>
+</res>
+<res>
+<word>وإن</word> 
+ <stem>إِن</stem>
+</res>
+<res>
+<word>تفوق</word> 
+ <stem>تَفُوق</stem>
+</res>
+<res>
+<word>سوسييداد</word> 
+ <stem>سوسييداد</stem>
+</res>
+<res>
+<word>وأتلتيكو</word> 
+ <stem>أَتْلِتِيكُو</stem>
+</res>
+<res>
+<word>بفارق</word> 
+ <stem>فَارِق</stem>
+</res>
+<res>
+<word>الأهداف</word> 
+ <stem>أَهْدَاف</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وأنهى</word> 
+ <stem>أَنْهَى</stem>
+</res>
+<res>
+<word>الريال</word> 
+ <stem>رِيَال</stem>
+</res>
+<res>
+<word>الشوط</word> 
+ <stem>شَوْط</stem>
+</res>
+<res>
+<word>الأول</word> 
+ <stem>أَوَّل</stem>
+</res>
+<res>
+<word>لصالحه</word> 
+ <stem>صَالِح</stem>
+</res>
+<res>
+<word>بهدف</word> 
+ <stem>هَدَف</stem>
+</res>
+<res>
+<word>نظيف</word> 
+ <stem>نَظِيف</stem>
+</res>
+<res>
+<word>سجله</word> 
+ <stem>سَجَّل</stem>
+</res>
+<res>
+<word>الألماني</word> 
+ <stem>أَلْمَانِيّ</stem>
+</res>
+<res>
+<word>الدولي</word> 
+ <stem>دُوَلِيّ</stem>
+</res>
+<res>
+<word>توني</word> 
+ <stem>تُونَي</stem>
+</res>
+<res>
+<word>كروس</word> 
+ <stem>رَوْس</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الدقيقة</word> 
+ <stem>دَقِيقَة</stem>
+</res>
+<res>
+<word>الثانية</word> 
+ <stem>ثَانِيَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الوقت</word> 
+ <stem>وَقْت</stem>
+</res>
+<res>
+<word>بدل</word> 
+ <stem>بَدَل</stem>
+</res>
+<res>
+<word>الضائع</word> 
+ <stem>ضَائِع</stem>
+</res>
+<res>
+<word>للشوط</word> 
+ <stem>شَوْط</stem>
+</res>
+<res>
+<word>الأول</word> 
+ <stem>أَوَّل</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>🤩⚽</word> 
+ <stem>🤩⚽</stem>
+</res>
+<res>
+<word>احتفال</word> 
+ <stem>احْتِفَال</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>توني</word> 
+ <stem>تُونَي</stem>
+</res>
+<res>
+<word>كروس</word> 
+ <stem>رَوْس</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>بهدفه</word> 
+ <stem>هَدَف</stem>
+</res>
+<res>
+<word>الأول</word> 
+ <stem>أَوَّل</stem>
+</res>
+<res>
+<word>هذا</word> 
+ <stem>هَذَا</stem>
+</res>
+<res>
+<word>الموسم</word> 
+ <stem>مَوْسِم</stem>
+</res>
+<res>
+<word>مع</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>الملكي</word> 
+ <stem>مَلَكِيّ</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>#LaLigaFanCam #RealMadridAthletic #LaLigaSantander pic</word> 
+ <stem>#LaLigaFanCam #RealMadridAthletic #LaLigaSantander pic</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>twitter</word> 
+ <stem>twitter</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>com/QeMz1Cc4Ji</word> 
+ <stem>com/QeMz1Cc4Ji</stem>
+</res>
+
+<res>
+<word>— LaLiga (@LaLigaArab) December 15, 2020</word> 
+ <stem>— LaLiga (@LaLigaArab) December 15, 2020</stem>
+</res>
+
+
+<res>
+<word>وفي</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الشوط</word> 
+ <stem>شَوْط</stem>
+</res>
+<res>
+<word>الثاني</word> 
+ <stem>ثَانِي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>سجل</word> 
+ <stem>سِجِلّ</stem>
+</res>
+<res>
+<word>أندير</word> 
+ <stem>نُدِير</stem>
+</res>
+<res>
+<word>كابا</word> 
+ <stem>كَابًّا</stem>
+</res>
+<res>
+<word>هدف</word> 
+ <stem>هَدَف</stem>
+</res>
+<res>
+<word>التعادل</word> 
+ <stem>تَعَادُل</stem>
+</res>
+<res>
+<word>لبلباو</word> 
+ <stem>لبلباو</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الدقيقة</word> 
+ <stem>دَقِيقَة</stem>
+</res>
+<res>
+<word> 52 </word> 
+ <stem> 52 </stem>
+</res>
+<res>
+<word>ليتأزم</word> 
+ <stem>يَتَأَزَّم</stem>
+</res>
+<res>
+<word>موقف</word> 
+ <stem>مَوْقِف</stem>
+</res>
+<res>
+<word>الملكي</word> 
+ <stem>مَلَكِيّ</stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>فشل</word> 
+ <stem>فَشِل</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الحفاظ</word> 
+ <stem>حِفَاظ</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>تقدمه</word> 
+ <stem>تَقْدَم</stem>
+</res>
+<res>
+<word>أمام</word> 
+ <stem>أَمَام</stem>
+</res>
+<res>
+<word> 10 </word> 
+ <stem> 10 </stem>
+</res>
+<res>
+<word>لاعبين</word> 
+ <stem>لَاعِبِين</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>أندير</word> 
+ <stem>نُدِير</stem>
+</res>
+<res>
+<word>كابا</word> 
+ <stem>كَابًّا</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>يحتفل</word> 
+ <stem>يَحْتَفِل</stem>
+</res>
+<res>
+<word>بهدف</word> 
+ <stem>هَدَف</stem>
+</res>
+<res>
+<word>التعادل</word> 
+ <stem>تَعَادُل</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>🎬🤗#LaLigaFanCam #RealMadridAthletic #LaLigaSantander pic</word> 
+ <stem>🎬🤗#LaLigaFanCam #RealMadridAthletic #LaLigaSantander pic</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>twitter</word> 
+ <stem>twitter</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>com/0kwmy2fGNe</word> 
+ <stem>com/0kwmy2fGNe</stem>
+</res>
+
+<res>
+<word>— LaLiga (@LaLigaArab) December 15, 2020</word> 
+ <stem>— LaLiga (@LaLigaArab) December 15, 2020</stem>
+</res>
+
+
+<res>
+<word>🔥9⃣⚽</word> 
+ <stem>🔥9⃣⚽</stem>
+</res>
+<res>
+<word>أنا</word> 
+ <stem>أَنَّا</stem>
+</res>
+<res>
+<word> @Benzema ، </word> 
+ <stem> @Benzema ، </stem>
+</res>
+<res>
+<word>أنا</word> 
+ <stem>أَنَا</stem>
+</res>
+<res>
+<word>الهداف</word> 
+ <stem>هَدَّاف</stem>
+</res>
+<res>
+<word>…#RealMadridAthletic 2-1#LaLigaSantander pic</word> 
+ <stem>…#RealMadridAthletic 2-1#LaLigaSantander pic</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>twitter</word> 
+ <stem>twitter</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>com/xnPaupDBO9</word> 
+ <stem>com/xnPaupDBO9</stem>
+</res>
+
+<res>
+<word>— LaLiga (@LaLigaArab) December 15, 2020</word> 
+ <stem>— LaLiga (@LaLigaArab) December 15, 2020</stem>
+</res>
+
+
+<res>
+<word>لكن</word> 
+ <stem>لَكِن</stem>
+</res>
+<res>
+<word>النجم</word> 
+ <stem>نَجْم</stem>
+</res>
+<res>
+<word>الفرنسي</word> 
+ <stem>فَرَنْسِيّ</stem>
+</res>
+<res>
+<word>كريم</word> 
+ <stem>كَرِيم</stem>
+</res>
+<res>
+<word>بنزيمة</word> 
+ <stem>بنزيمة</stem>
+</res>
+<res>
+<word>استعاد</word> 
+ <stem>اسْتَعَاد</stem>
+</res>
+<res>
+<word>تألقه</word> 
+ <stem>تَأَلُّق</stem>
+</res>
+<res>
+<word>وسجل</word> 
+ <stem>سَجَّل</stem>
+</res>
+<res>
+<word>هدفي</word> 
+ <stem>هَدَف</stem>
+</res>
+<res>
+<word>الفوز</word> 
+ <stem>فَوْز</stem>
+</res>
+<res>
+<word>للريال</word> 
+ <stem>رِيَال</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الدقيقتين</word> 
+ <stem>دَقِيقَتَيْن</stem>
+</res>
+<res>
+<word> 74 </word> 
+ <stem> 74 </stem>
+</res>
+<res>
+<word>والثانية</word> 
+ <stem>ثَانِيَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الوقت</word> 
+ <stem>وَقْت</stem>
+</res>
+<res>
+<word>بدل</word> 
+ <stem>بَدَل</stem>
+</res>
+<res>
+<word>الضائع</word> 
+ <stem>ضَائِع</stem>
+</res>
+<res>
+<word>للمباراة</word> 
+ <stem>مُبَارَاة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ليتجمد</word> 
+ <stem>يَتَجَمَّد</stem>
+</res>
+<res>
+<word>رصيد</word> 
+ <stem>رَصِيد</stem>
+</res>
+<res>
+<word>بلباو</word> 
+ <stem>بلباو</stem>
+</res>
+<res>
+<word>عند</word> 
+ <stem>عِنْد</stem>
+</res>
+<res>
+<word> 14 </word> 
+ <stem> 14 </stem>
+</res>
+<res>
+<word>نقطة</word> 
+ <stem>نُقْطَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>المركز</word> 
+ <stem>مَرْكَز</stem>
+</res>
+<res>
+<word> 13</word> 
+ <stem> 13</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ثنائية</word> 
+ <stem>ثَنَائِيَّة</stem>
+</res>
+<res>
+<word>كريم</word> 
+ <stem>كَرِيم</stem>
+</res>
+<res>
+<word> @Benzema </word> 
+ <stem> @Benzema </stem>
+</res>
+<res>
+<word>و</word> 
+ <stem>و</stem>
+</res>
+<res>
+<word>هدف</word> 
+ <stem>هَدَف</stem>
+</res>
+<res>
+<word> @ToniKroos </word> 
+ <stem> @ToniKroos </stem>
+</res>
+<res>
+<word>يمنحان</word> 
+ <stem>يُمْنَحَانّ</stem>
+</res>
+<res>
+<word>الملكي</word> 
+ <stem>مَلَكِيّ</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>ريال</word> 
+ <stem>رِيَال</stem>
+</res>
+<res>
+<word>مدريد</word> 
+ <stem>مَدْرِيد</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>الفوز</word> 
+ <stem>فَوْز</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>👏💜#RealMadridAthletic 3-1#LiveResults pic</word> 
+ <stem>👏💜#RealMadridAthletic 3-1#LiveResults pic</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>twitter</word> 
+ <stem>twitter</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>com/pLU2asfKnT</word> 
+ <stem>com/pLU2asfKnT</stem>
+</res>
+
+<res>
+<word>— LaLiga (@LaLigaArab) December 15, 2020</word> 
+ <stem>— LaLiga (@LaLigaArab) December 15, 2020</stem>
+</res>
+
+
+</Stems>

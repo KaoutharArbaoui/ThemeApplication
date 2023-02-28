@@ -1,0 +1,4650 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Stems>
+<res>
+<word>تجار</word> 
+ <stem>تُجَّار</stem>
+</res>
+<res>
+<word>الديون</word> 
+ <stem>دُيُون</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>مخاطر</word> 
+ <stem>مُخَاطِر</stem>
+</res>
+<res>
+<word>قيادة</word> 
+ <stem>قِيَادَة</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>للاقتصاد</word> 
+ <stem>اقْتِصَاد</stem>
+</res>
+<res>
+<word>التركي</word> 
+ <stem>تُرْكِيّ</stem>
+</res>
+<res>
+<word>؟</word> 
+ <stem>؟</stem>
+</res>
+
+<res>
+<word>يمر</word> 
+ <stem>يَمُرّ</stem>
+</res>
+<res>
+<word>الاقتصاد</word> 
+ <stem>اقْتِصَاد</stem>
+</res>
+<res>
+<word>التركي</word> 
+ <stem>تُرْكِيّ</stem>
+</res>
+<res>
+<word>بفترة</word> 
+ <stem>فَتْرَة</stem>
+</res>
+<res>
+<word>استثنائية</word> 
+ <stem>اسْتِثْنَائِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>كباقي</word> 
+ <stem>بَاقِي</stem>
+</res>
+<res>
+<word>دول</word> 
+ <stem>دُوَل</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>ظل</word> 
+ <stem>ظِلّ</stem>
+</res>
+<res>
+<word>أزمة</word> 
+ <stem>أَزْمَة</stem>
+</res>
+<res>
+<word>جائحة</word> 
+ <stem>جَائِحَة</stem>
+</res>
+<res>
+<word>كورونا</word> 
+ <stem>كَوَّرُوا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>فقد</word> 
+ <stem>قَد</stem>
+</res>
+<res>
+<word>تضرر</word> 
+ <stem>تَضَرَّر</stem>
+</res>
+<res>
+<word>بشكل</word> 
+ <stem>شَكْل</stem>
+</res>
+<res>
+<word>كبير</word> 
+ <stem>كَبِير</stem>
+</res>
+<res>
+<word>بسبب</word> 
+ <stem>سَبَب</stem>
+</res>
+<res>
+<word>توقف</word> 
+ <stem>تَوَقُّف</stem>
+</res>
+<res>
+<word>قطاع</word> 
+ <stem>قِطَاع</stem>
+</res>
+<res>
+<word>السياحة</word> 
+ <stem>سِيَاحَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>كان</word> 
+ <stem>كَان</stem>
+</res>
+<res>
+<word>يدر</word> 
+ <stem>يَدُر</stem>
+</res>
+<res>
+<word>إيرادات</word> 
+ <stem>إِيرَادَات</stem>
+</res>
+<res>
+<word>سنوية</word> 
+ <stem>سَنَوِيَّة</stem>
+</res>
+<res>
+<word>بنحو</word> 
+ <stem>نَحْو</stem>
+</res>
+<res>
+<word> 40 </word> 
+ <stem> 40 </stem>
+</res>
+<res>
+<word>مليار</word> 
+ <stem>مِلْيَار</stem>
+</res>
+<res>
+<word>دولار</word> 
+ <stem>دُولَار</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>فضلا</word> 
+ <stem>فَضْلًا</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>الخسائر</word> 
+ <stem>خَسَائِر</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>لحقت</word> 
+ <stem>لَحِقَت</stem>
+</res>
+<res>
+<word>بقطاع</word> 
+ <stem>قِطَاع</stem>
+</res>
+<res>
+<word>الطيران</word> 
+ <stem>طَيَرَان</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وكذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>باقي</word> 
+ <stem>بَاقِي</stem>
+</res>
+<res>
+<word>المنشآت</word> 
+ <stem>مُنْشَآت</stem>
+</res>
+<res>
+<word>السياحية</word> 
+ <stem>سِيَاحِيَّة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وألقت</word> 
+ <stem>أَلْقَت</stem>
+</res>
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>العوامل</word> 
+ <stem>عَوَامِل</stem>
+</res>
+<res>
+<word>الاقتصادية</word> 
+ <stem>اقْتِصَادِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بالإضافة</word> 
+ <stem>إِضَافَة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>عوامل</word> 
+ <stem>عَوَامِل</stem>
+</res>
+<res>
+<word>سياسية</word> 
+ <stem>سِيَاسِيَّة</stem>
+</res>
+<res>
+<word>تمر</word> 
+ <stem>تَمُرّ</stem>
+</res>
+<res>
+<word>بها</word> 
+ <stem>بِهَا</stem>
+</res>
+<res>
+<word>تركيا</word> 
+ <stem>تُرْكِيَّا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بظلالها</word> 
+ <stem>ظِلَال</stem>
+</res>
+<res>
+<word>السلبية</word> 
+ <stem>سَلْبِيَّة</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>قيمة</word> 
+ <stem>قَيِّمَة</stem>
+</res>
+<res>
+<word>العملة</word> 
+ <stem>عُمْلَة</stem>
+</res>
+<res>
+<word>المحلية</word> 
+ <stem>مَحَلِّيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>مما</word> 
+ <stem>مِمَّا</stem>
+</res>
+<res>
+<word>ساهم</word> 
+ <stem>سَاهَم</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>انخفاض</word> 
+ <stem>انْخِفَاض</stem>
+</res>
+<res>
+<word>قيمتها</word> 
+ <stem>قِيمَة</stem>
+</res>
+<res>
+<word>أمام</word> 
+ <stem>أَمَام</stem>
+</res>
+<res>
+<word>العملات</word> 
+ <stem>عُمُلَات</stem>
+</res>
+<res>
+<word>الأجنبية</word> 
+ <stem>أَجْنَبِيَّة</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>مدار</word> 
+ <stem>مَدَار</stem>
+</res>
+<res>
+<word>أشهر</word> 
+ <stem>شَهْر</stem>
+</res>
+<res>
+<word>عام</word> 
+ <stem>عَام</stem>
+</res>
+<res>
+<word> 2020، </word> 
+ <stem> 2020، </stem>
+</res>
+<res>
+<word>لتفقد</word> 
+ <stem>تَفْقِد</stem>
+</res>
+<res>
+<word>نحو</word> 
+ <stem>نَحْو</stem>
+</res>
+<res>
+<word> 25% </word> 
+ <stem> 25% </stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>قيمتها</word> 
+ <stem>قِيمَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وإن</word> 
+ <stem>إِن</stem>
+</res>
+<res>
+<word>كانت</word> 
+ <stem>كَانَت</stem>
+</res>
+<res>
+<word>العوامل</word> 
+ <stem>عَوَامِل</stem>
+</res>
+<res>
+<word>السياسية</word> 
+ <stem>سِيَاسِيَّة</stem>
+</res>
+<res>
+<word>الخارجية</word> 
+ <stem>خَارِجِيَّة</stem>
+</res>
+<res>
+<word>لها</word> 
+ <stem>لَهَا</stem>
+</res>
+<res>
+<word>التأثير</word> 
+ <stem>تَأْثِير</stem>
+</res>
+<res>
+<word>الأكبر</word> 
+ <stem>أَكْبَر</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>انخفاض</word> 
+ <stem>انْخِفَاض</stem>
+</res>
+<res>
+<word>قيمة</word> 
+ <stem>قِيمَة</stem>
+</res>
+<res>
+<word>العملة</word> 
+ <stem>عُمْلَة</stem>
+</res>
+<res>
+<word>المحلية</word> 
+ <stem>مَحَلِّيَّة</stem>
+</res>
+<res>
+<word>التركية</word> 
+ <stem>تُرْكِيَّة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>أدى</word> 
+ <stem>أَدَّى</stem>
+</res>
+<res>
+<word>انخفاض</word> 
+ <stem>انْخِفَاض</stem>
+</res>
+<res>
+<word>قيمة</word> 
+ <stem>قِيمَة</stem>
+</res>
+<res>
+<word>العملة</word> 
+ <stem>عُمْلَة</stem>
+</res>
+<res>
+<word>التركية</word> 
+ <stem>تُرْكِيَّة</stem>
+</res>
+<res>
+<word>خلال</word> 
+ <stem>خِلَال</stem>
+</res>
+<res>
+<word>أشهر</word> 
+ <stem>شَهْر</stem>
+</res>
+<res>
+<word> 2020، </word> 
+ <stem> 2020، </stem>
+</res>
+<res>
+<word>وما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>صحبه</word> 
+ <stem>صَحْب</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>تأثيرات</word> 
+ <stem>تَأْثِيرَات</stem>
+</res>
+<res>
+<word>سلبية</word> 
+ <stem>سَلْبِيَّة</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>الأوضاع</word> 
+ <stem>أَوْضَاع</stem>
+</res>
+<res>
+<word>النقدية</word> 
+ <stem>نَقْدِيَّة</stem>
+</res>
+<res>
+<word>والمالية</word> 
+ <stem>مَالِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>إقالة</word> 
+ <stem>إِقَالَة</stem>
+</res>
+<res>
+<word>محافظ</word> 
+ <stem>مُحَافِظ</stem>
+</res>
+<res>
+<word>البنك</word> 
+ <stem>بَنْك</stem>
+</res>
+<res>
+<word>المركزي</word> 
+ <stem>مَرْكَزِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وكذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>وزير</word> 
+ <stem>وَزِير</stem>
+</res>
+<res>
+<word>المالية</word> 
+ <stem>مَالِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ولمواجهة</word> 
+ <stem>مُوَاجَهَة</stem>
+</res>
+<res>
+<word>المشكلة</word> 
+ <stem>مُشْكِلَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>قرر</word> 
+ <stem>قَرَّر</stem>
+</res>
+<res>
+<word>البنك</word> 
+ <stem>بَنْك</stem>
+</res>
+<res>
+<word>المركزي</word> 
+ <stem>مَرْكَزِيّ</stem>
+</res>
+<res>
+<word>التركي</word> 
+ <stem>تُرْكِيّ</stem>
+</res>
+<res>
+<word>رفع</word> 
+ <stem>رَفْع</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word> 15% </word> 
+ <stem> 15% </stem>
+</res>
+<res>
+<word>يوم</word> 
+ <stem>يَوْم</stem>
+</res>
+<res>
+<word>الخميس</word> 
+ <stem>خَمِيس</stem>
+</res>
+<res>
+<word>الموافق</word> 
+ <stem>مُوَافِق</stem>
+</res>
+<res>
+<word> 19 </word> 
+ <stem> 19 </stem>
+</res>
+<res>
+<word>نوفمبر</word> 
+ <stem>نُوفَمْبِر</stem>
+</res>
+<res>
+<word>/ </word> 
+ <stem>/ </stem>
+</res>
+<res>
+<word>تشرين</word> 
+ <stem>تِشْرِين</stem>
+</res>
+<res>
+<word>الثاني</word> 
+ <stem>ثَانِي</stem>
+</res>
+<res>
+<word> 2020</word> 
+ <stem> 2020</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وبذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>أصبح</word> 
+ <stem>أَصْبَح</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>قروض</word> 
+ <stem>قُرُوض</stem>
+</res>
+<res>
+<word>البنوك</word> 
+ <stem>الْبُنُوا</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>تركيا</word> 
+ <stem>تُرْكِيَّا</stem>
+</res>
+<res>
+<word>هو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>الأعلى</word> 
+ <stem>أَعْلَى</stem>
+</res>
+<res>
+<word>بين</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>دول</word> 
+ <stem>دُوَل</stem>
+</res>
+<res>
+<word>المنطقة</word> 
+ <stem>مِنْطَقَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بوصوله</word> 
+ <stem>وُصُول</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word> 15%، </word> 
+ <stem> 15%، </stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>كان</word> 
+ <stem>كَان</stem>
+</res>
+<res>
+<word>بحدود</word> 
+ <stem>حُدُود</stem>
+</res>
+<res>
+<word> 10</word> 
+ <stem> 10</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>25%، </word> 
+ <stem>25%، </stem>
+</res>
+<res>
+<word>ومن</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الطبيعي</word> 
+ <stem>طَبِيعِيّ</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>تتجه</word> 
+ <stem>تَتَّجِه</stem>
+</res>
+<res>
+<word>قرارات</word> 
+ <stem>قَرَارَات</stem>
+</res>
+<res>
+<word>المدخرين</word> 
+ <stem>مُدَّخِرَيْن</stem>
+</res>
+<res>
+<word>المحليين</word> 
+ <stem>مَحَلِّيِّين</stem>
+</res>
+<res>
+<word>ومستثمري</word> 
+ <stem>مُسْتَثْمِر</stem>
+</res>
+<res>
+<word>الخارج</word> 
+ <stem>خَارِج</stem>
+</res>
+<res>
+<word>للاستفادة</word> 
+ <stem>اسْتِفَادَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>الفرصة</word> 
+ <stem>فُرْصَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وإيداع</word> 
+ <stem>إِيدَاع</stem>
+</res>
+<res>
+<word>أموالهم</word> 
+ <stem>أَمْوَال</stem>
+</res>
+<res>
+<word>بالمصارف</word> 
+ <stem>مَصَارِف</stem>
+</res>
+<res>
+<word>وأدوات</word> 
+ <stem>أَدَوَات</stem>
+</res>
+<res>
+<word>الدين</word> 
+ <stem>دِين</stem>
+</res>
+<res>
+<word>المحلي</word> 
+ <stem>مَحَلِّيّ</stem>
+</res>
+<res>
+<word>للحكومة</word> 
+ <stem>حُكُومَة</stem>
+</res>
+<res>
+<word>التركية</word> 
+ <stem>تُرْكِيَّة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ففي</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word> 15 </word> 
+ <stem> 15 </stem>
+</res>
+<res>
+<word>نوفمبر</word> 
+ <stem>نُوفَمْبِر</stem>
+</res>
+<res>
+<word>/</word> 
+ <stem>/</stem>
+</res>
+<res>
+<word>تشرين</word> 
+ <stem>تِشْرِين</stem>
+</res>
+<res>
+<word>الثاني</word> 
+ <stem>ثَانِي</stem>
+</res>
+<res>
+<word> 2020، </word> 
+ <stem> 2020، </stem>
+</res>
+<res>
+<word>كانت</word> 
+ <stem>كَانَت</stem>
+</res>
+<res>
+<word>أسعار</word> 
+ <stem>أَسْعَار</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>أذون</word> 
+ <stem>أُذُون</stem>
+</res>
+<res>
+<word>الخزانة</word> 
+ <stem>خَزَّانَة</stem>
+</res>
+<res>
+<word>المصرية</word> 
+ <stem>مِصْرِيَّة</stem>
+</res>
+<res>
+<word>لمدة</word> 
+ <stem>مَدَّة</stem>
+</res>
+<res>
+<word> 90 </word> 
+ <stem> 90 </stem>
+</res>
+<res>
+<word>يوما</word> 
+ <stem>يَوْمًا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بحدود</word> 
+ <stem>حُدُود</stem>
+</res>
+<res>
+<word> 13</word> 
+ <stem> 13</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>1%، </word> 
+ <stem>1%، </stem>
+</res>
+<res>
+<word>وكون</word> 
+ <stem>كَوْن</stem>
+</res>
+<res>
+<word>تركيا</word> 
+ <stem>تُرْكِيَّا</stem>
+</res>
+<res>
+<word>ترفع</word> 
+ <stem>تَرْفَع</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word> 15%، </word> 
+ <stem> 15%، </stem>
+</res>
+<res>
+<word>فيتوقع</word> 
+ <stem>يُتَوَقَّع</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>تغير</word> 
+ <stem>تَغَيُّر</stem>
+</res>
+<res>
+<word>الأموال</word> 
+ <stem>أَمْوَال</stem>
+</res>
+<res>
+<word>الساخنة</word> 
+ <stem>سَاخِنَة</stem>
+</res>
+<res>
+<word>وجهتها</word> 
+ <stem>وَجَّهْت</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>تركيا</word> 
+ <stem>تُرْكِيَّا</stem>
+</res>
+<res>
+<word>خلال</word> 
+ <stem>خِلَال</stem>
+</res>
+<res>
+<word>الفترة</word> 
+ <stem>فَتْرَة</stem>
+</res>
+<res>
+<word>القادمة</word> 
+ <stem>قَادِمَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>لتجني</word> 
+ <stem>تَجْنِي</stem>
+</res>
+<res>
+<word>ثمار</word> 
+ <stem>ثِمَار</stem>
+</res>
+<res>
+<word>الفارق</word> 
+ <stem>فَارِق</stem>
+</res>
+<res>
+<word>بين</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>البلدين</word> 
+ <stem>بَلَدَيْن</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وقد</word> 
+ <stem>قَد</stem>
+</res>
+<res>
+<word>أدى</word> 
+ <stem>أَدَّى</stem>
+</res>
+<res>
+<word>قرار</word> 
+ <stem>قَرَار</stem>
+</res>
+<res>
+<word>البنك</word> 
+ <stem>بَنْك</stem>
+</res>
+<res>
+<word>المركزي</word> 
+ <stem>مَرْكَزِيّ</stem>
+</res>
+<res>
+<word>التركي</word> 
+ <stem>تُرْكِيّ</stem>
+</res>
+<res>
+<word>برفع</word> 
+ <stem>رَفْع</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>رفع</word> 
+ <stem>رَفْع</stem>
+</res>
+<res>
+<word>قيمة</word> 
+ <stem>قِيمَة</stem>
+</res>
+<res>
+<word>الليرة</word> 
+ <stem>الليرة</stem>
+</res>
+<res>
+<word>التركية</word> 
+ <stem>تُرْكِيَّة</stem>
+</res>
+<res>
+<word>أمام</word> 
+ <stem>أَمَام</stem>
+</res>
+<res>
+<word>العملات</word> 
+ <stem>عُمُلَات</stem>
+</res>
+<res>
+<word>الأجنبية</word> 
+ <stem>أَجْنَبِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ليصل</word> 
+ <stem>يَصِل</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word> 7</word> 
+ <stem> 7</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>59 </word> 
+ <stem>59 </stem>
+</res>
+<res>
+<word>ليرات</word> 
+ <stem>يَرَّات</stem>
+</res>
+<res>
+<word>للدولار</word> 
+ <stem>دُولَار</stem>
+</res>
+<res>
+<word>الخميس</word> 
+ <stem>خَمِيس</stem>
+</res>
+<res>
+<word>الماضي</word> 
+ <stem>مَاضِي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ومتوقع</word> 
+ <stem>مُتَوَقَّع</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>يشهد</word> 
+ <stem>يَشْهَد</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>صرف</word> 
+ <stem>صَرْف</stem>
+</res>
+<res>
+<word>الليرة</word> 
+ <stem>الليرة</stem>
+</res>
+<res>
+<word>حالة</word> 
+ <stem>حَالَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الاستقرار</word> 
+ <stem>اسْتِقْرَار</stem>
+</res>
+<res>
+<word>عند</word> 
+ <stem>عِنْد</stem>
+</res>
+<res>
+<word>هذا</word> 
+ <stem>هَذَا</stem>
+</res>
+<res>
+<word>السعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>قد</word> 
+ <stem>قَد</stem>
+</res>
+<res>
+<word>يستمر</word> 
+ <stem>يَسْتَمِرّ</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الارتفاع</word> 
+ <stem>ارْتِفَاع</stem>
+</res>
+<res>
+<word>أمام</word> 
+ <stem>أَمَام</stem>
+</res>
+<res>
+<word>العملات</word> 
+ <stem>عُمُلَات</stem>
+</res>
+<res>
+<word>الأجنبية</word> 
+ <stem>أَجْنَبِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>إذا</word> 
+ <stem>إِذَا</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>استمرت</word> 
+ <stem>اسْتَمَرَّت</stem>
+</res>
+<res>
+<word>السياسة</word> 
+ <stem>سِيَاسَة</stem>
+</res>
+<res>
+<word>النقدية</word> 
+ <stem>نَقْدِيَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>البقاء</word> 
+ <stem>بَقَاء</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>هو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>عليه</word> 
+ <stem>عَلَي</stem>
+</res>
+<res>
+<word>عند</word> 
+ <stem>عِنْد</stem>
+</res>
+<res>
+<word>نسبة</word> 
+ <stem>نِسْبَة</stem>
+</res>
+<res>
+<word> 15%، </word> 
+ <stem> 15%، </stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>اتجهت</word> 
+ <stem>اتَّجَهَت</stem>
+</res>
+<res>
+<word>لمزيد</word> 
+ <stem>مَزِيد</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الارتفاع</word> 
+ <stem>ارْتِفَاع</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ولا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>يعد</word> 
+ <stem>يَعِد</stem>
+</res>
+<res>
+<word>السعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الحالي</word> 
+ <stem>حَالِيّ</stem>
+</res>
+<res>
+<word>للفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>هو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>الأعلى</word> 
+ <stem>أَعْلَى</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>أداء</word> 
+ <stem>أَدَاء</stem>
+</res>
+<res>
+<word>السياسة</word> 
+ <stem>سِيَاسَة</stem>
+</res>
+<res>
+<word>النقدية</word> 
+ <stem>نَقْدِيَّة</stem>
+</res>
+<res>
+<word>لتركيا</word> 
+ <stem>تُرْكِيَا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ففي</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>سبتمبر</word> 
+ <stem>سَبْتَمْبَر</stem>
+</res>
+<res>
+<word>/</word> 
+ <stem>/</stem>
+</res>
+<res>
+<word>أيلول</word> 
+ <stem>أَيْلُول</stem>
+</res>
+<res>
+<word> 2018، </word> 
+ <stem> 2018، </stem>
+</res>
+<res>
+<word>وصل</word> 
+ <stem>وَصَل</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word> 24%، </word> 
+ <stem> 24%، </stem>
+</res>
+<res>
+<word>وهو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>جعل</word> 
+ <stem>جَعْل</stem>
+</res>
+<res>
+<word>المدخرين</word> 
+ <stem>مُدَّخِرَيْن</stem>
+</res>
+<res>
+<word>بالعملة</word> 
+ <stem>عُمْلَة</stem>
+</res>
+<res>
+<word>المحلية</word> 
+ <stem>مَحَلِّيَّة</stem>
+</res>
+<res>
+<word>يهربون</word> 
+ <stem>يُهَرَّبُون</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>أسواق</word> 
+ <stem>أَسْوَاق</stem>
+</res>
+<res>
+<word>الاستثمار</word> 
+ <stem>اسْتِثْمَار</stem>
+</res>
+<res>
+<word>المباشر</word> 
+ <stem>مُبَاشِر</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ويكدسون</word> 
+ <stem>يُكْدَسُون</stem>
+</res>
+<res>
+<word>أموالهم</word> 
+ <stem>أَمْوَال</stem>
+</res>
+<res>
+<word>لدى</word> 
+ <stem>لَدَى</stem>
+</res>
+<res>
+<word>المصارف</word> 
+ <stem>مَصَارِف</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>يذكر</word> 
+ <stem>يَذْكُر</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>هذا</word> 
+ <stem>هَذَا</stem>
+</res>
+<res>
+<word>السعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>المرتفع</word> 
+ <stem>مُرْتَفِع</stem>
+</res>
+<res>
+<word>للفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>يخص</word> 
+ <stem>يَخُصّ</stem>
+</res>
+<res>
+<word>فقط</word> 
+ <stem>فَقَط</stem>
+</res>
+<res>
+<word>الودائع</word> 
+ <stem>وَدَائِع</stem>
+</res>
+<res>
+<word>بالعملة</word> 
+ <stem>عُمْلَة</stem>
+</res>
+<res>
+<word>المحلية</word> 
+ <stem>مَحَلِّيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بينما</word> 
+ <stem>بَيْنَمَا</stem>
+</res>
+<res>
+<word>تبقى</word> 
+ <stem>تَبْقَى</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>الودائع</word> 
+ <stem>وَدَائِع</stem>
+</res>
+<res>
+<word>بالعملات</word> 
+ <stem>عُمُلَات</stem>
+</res>
+<res>
+<word>الأجنبية</word> 
+ <stem>أَجْنَبِيَّة</stem>
+</res>
+<res>
+<word>منخفضة</word> 
+ <stem>مُنْخَفِضَة</stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>تتجاوز</word> 
+ <stem>تَتَجَاوَز</stem>
+</res>
+<res>
+<word>نسبة</word> 
+ <stem>نِسْبَة</stem>
+</res>
+<res>
+<word> 2</word> 
+ <stem> 2</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>5%</word> 
+ <stem>5%</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وتعد</word> 
+ <stem>تُعَدّ</stem>
+</res>
+<res>
+<word>سياسة</word> 
+ <stem>سِيَاسَة</stem>
+</res>
+<res>
+<word>رفع</word> 
+ <stem>رَفْع</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>لمعالجة</word> 
+ <stem>مُعَالَجَة</stem>
+</res>
+<res>
+<word>انخفاض</word> 
+ <stem>انْخِفَاض</stem>
+</res>
+<res>
+<word>قيمة</word> 
+ <stem>قِيمَة</stem>
+</res>
+<res>
+<word>العملة</word> 
+ <stem>عُمْلَة</stem>
+</res>
+<res>
+<word>المحلية</word> 
+ <stem>مَحَلِّيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>واحدة</word> 
+ <stem>وَاحِدَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>السياسات</word> 
+ <stem>سِيَاسَات</stem>
+</res>
+<res>
+<word>البارزة</word> 
+ <stem>بَارِزَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>إطار</word> 
+ <stem>إِطَار</stem>
+</res>
+<res>
+<word>النظام</word> 
+ <stem>نِظَام</stem>
+</res>
+<res>
+<word>الرأسمالي</word> 
+ <stem>رَأْسْمَالِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ولكن</word> 
+ <stem>لَكِن</stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>يعني</word> 
+ <stem>يَعْنِي</stem>
+</res>
+<res>
+<word>ذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>أنها</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>سياسة</word> 
+ <stem>سِيَاسَة</stem>
+</res>
+<res>
+<word>ناجعة</word> 
+ <stem>نَاجِعَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>فصانع</word> 
+ <stem>صَانِع</stem>
+</res>
+<res>
+<word>السياسة</word> 
+ <stem>سِيَاسَة</stem>
+</res>
+<res>
+<word>النقدية</word> 
+ <stem>نَقْدِيَّة</stem>
+</res>
+<res>
+<word>يستهدف</word> 
+ <stem>يَسْتَهْدِف</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مَن</stem>
+</res>
+<res>
+<word>رفع</word> 
+ <stem>رَفْع</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>عدة</word> 
+ <stem>عُدَّة</stem>
+</res>
+<res>
+<word>أمور</word> 
+ <stem>أُمُور</stem>
+</res>
+<res>
+<word>منها</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>:</word> 
+ <stem>:</stem>
+</res>
+<res>
+<word>سحب</word> 
+ <stem>سَحْب</stem>
+</res>
+<res>
+<word>النقود</word> 
+ <stem>نُقُود</stem>
+</res>
+<res>
+<word>الزائدة</word> 
+ <stem>زَائِدَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>يد</word> 
+ <stem>يَد</stem>
+</res>
+<res>
+<word>الأفراد</word> 
+ <stem>أَفْرَاد</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>خلال</word> 
+ <stem>خِلَال</stem>
+</res>
+<res>
+<word>ترغيبهم</word> 
+ <stem>تَرْغِيب</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الادخار</word> 
+ <stem>ادِّخَار</stem>
+</res>
+<res>
+<word>عند</word> 
+ <stem>عِنْد</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>العالي</word> 
+ <stem>عَالِي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وكذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>مواجهة</word> 
+ <stem>مُوَاجَهَة</stem>
+</res>
+<res>
+<word>ظاهرة</word> 
+ <stem>ظَاهِرَة</stem>
+</res>
+<res>
+<word>الدولرة</word> 
+ <stem>الدولرة</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>شراء</word> 
+ <stem>شِرَاء</stem>
+</res>
+<res>
+<word>الذهب</word> 
+ <stem>ذَهَب</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>حيث</word> 
+ <stem>حَيْث</stem>
+</res>
+<res>
+<word>يجد</word> 
+ <stem>يَجِد</stem>
+</res>
+<res>
+<word>المدخرون</word> 
+ <stem>مُدْخَرُون</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>لدى</word> 
+ <stem>لَدَى</stem>
+</res>
+<res>
+<word>المصارف</word> 
+ <stem>مَصَارِف</stem>
+</res>
+<res>
+<word>عائد</word> 
+ <stem>عَائِد</stem>
+</res>
+<res>
+<word>يفوق</word> 
+ <stem>يَفُوق</stem>
+</res>
+<res>
+<word>احتفاظهم</word> 
+ <stem>احْتِفَاظ</stem>
+</res>
+<res>
+<word>بمدخراتهم</word> 
+ <stem>مُدَّخِرَات</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>خلال</word> 
+ <stem>خِلَال</stem>
+</res>
+<res>
+<word>العملات</word> 
+ <stem>عُمُلَات</stem>
+</res>
+<res>
+<word>الأجنبية</word> 
+ <stem>أَجْنَبِيَّة</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>شراء</word> 
+ <stem>شِرَاء</stem>
+</res>
+<res>
+<word>الذهب</word> 
+ <stem>ذَهَب</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وبلا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>شك</word> 
+ <stem>شَكّ</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>استقرار</word> 
+ <stem>اسْتِقْرَار</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الصرف</word> 
+ <stem>صَرْف</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>المتطلبات</word> 
+ <stem>مُتَطَلِّبَات</stem>
+</res>
+<res>
+<word>المهمة</word> 
+ <stem>مُهِمَّة</stem>
+</res>
+<res>
+<word>لمناخ</word> 
+ <stem>مُنَاخ</stem>
+</res>
+<res>
+<word>الاستثمار</word> 
+ <stem>اسْتِثْمَار</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>أي</word> 
+ <stem>أَيّ</stem>
+</res>
+<res>
+<word>دولة</word> 
+ <stem>دَوْلَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ولكن</word> 
+ <stem>لَكِنّ</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>هو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>الثمن</word> 
+ <stem>ثَمَن</stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>سيدفعه</word> 
+ <stem>يَدْفَع</stem>
+</res>
+<res>
+<word>الاقتصاد</word> 
+ <stem>اقْتِصَاد</stem>
+</res>
+<res>
+<word>التركي</word> 
+ <stem>تُرْكِيّ</stem>
+</res>
+<res>
+<word>نظير</word> 
+ <stem>نَظِير</stem>
+</res>
+<res>
+<word>استخدام</word> 
+ <stem>اسْتِخْدَام</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>لرفع</word> 
+ <stem>رَفْع</stem>
+</res>
+<res>
+<word>قيمة</word> 
+ <stem>قِيمَة</stem>
+</res>
+<res>
+<word>العملة</word> 
+ <stem>عُمْلَة</stem>
+</res>
+<res>
+<word>المحلية</word> 
+ <stem>مَحَلِّيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>استقرار</word> 
+ <stem>اسْتِقْرَار</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الصرف</word> 
+ <stem>صَرْف</stem>
+</res>
+<res>
+<word>؟</word> 
+ <stem>؟</stem>
+</res>
+
+<res>
+<word>ثمة</word> 
+ <stem>ثَمَّة</stem>
+</res>
+<res>
+<word>مجموعة</word> 
+ <stem>مَجْمُوعَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>المخاطر</word> 
+ <stem>مَخَاطِر</stem>
+</res>
+<res>
+<word>تكتنف</word> 
+ <stem>تَكْتَنِف</stem>
+</res>
+<res>
+<word>سياسة</word> 
+ <stem>سِيَاسَة</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>يقود</word> 
+ <stem>يَقُود</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>مقدرات</word> 
+ <stem>مُقَدَّرَات</stem>
+</res>
+<res>
+<word>الاقتصاد</word> 
+ <stem>اقْتِصَاد</stem>
+</res>
+<res>
+<word>التركي</word> 
+ <stem>تُرْكِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وبخاصة</word> 
+ <stem>خَاصَّة</stem>
+</res>
+<res>
+<word>إذا</word> 
+ <stem>إِذَا</stem>
+</res>
+<res>
+<word>كنا</word> 
+ <stem>كُنَّا</stem>
+</res>
+<res>
+<word>أمام</word> 
+ <stem>أَمَام</stem>
+</res>
+<res>
+<word>اقتصاد</word> 
+ <stem>اقْتِصَاد</stem>
+</res>
+<res>
+<word>يمتلك</word> 
+ <stem>يَمْتَلِك</stem>
+</res>
+<res>
+<word>مقومات</word> 
+ <stem>مُقَوِّمَات</stem>
+</res>
+<res>
+<word>إنتاجية</word> 
+ <stem>إِنْتَاجِيَّة</stem>
+</res>
+<res>
+<word>قوية</word> 
+ <stem>قَوِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وبخاصة</word> 
+ <stem>خَاصَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>قطاعي</word> 
+ <stem>قِطَاع</stem>
+</res>
+<res>
+<word>الزراعة</word> 
+ <stem>زِرَاعَة</stem>
+</res>
+<res>
+<word>والصناعة</word> 
+ <stem>صِنَاعَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بل</word> 
+ <stem>بَل</stem>
+</res>
+<res>
+<word>وفي</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>القطاع</word> 
+ <stem>قِطَاع</stem>
+</res>
+<res>
+<word>الخدمي</word> 
+ <stem>خَدَمِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>كذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>عبر</word> 
+ <stem>عَبْر</stem>
+</res>
+<res>
+<word>قطاعي</word> 
+ <stem>قِطَاع</stem>
+</res>
+<res>
+<word>السياحة</word> 
+ <stem>سِيَاحَة</stem>
+</res>
+<res>
+<word>والرعاية</word> 
+ <stem>رِعَايَة</stem>
+</res>
+<res>
+<word>الصحية</word> 
+ <stem>صِحِّيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وفيما</word> 
+ <stem>فِيمَا</stem>
+</res>
+<res>
+<word>يلي</word> 
+ <stem>يَلِي</stem>
+</res>
+<res>
+<word>نتناول</word> 
+ <stem>نَتَنَاوَل</stem>
+</res>
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>المخاطر</word> 
+ <stem>مَخَاطِر</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>الأصل</word> 
+ <stem>أَصْل</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>يكون</word> 
+ <stem>يَكُون</stem>
+</res>
+<res>
+<word>الاقتصاد</word> 
+ <stem>اقْتِصَاد</stem>
+</res>
+<res>
+<word>المالي</word> 
+ <stem>مَالِيّ</stem>
+</res>
+<res>
+<word>والنقدي</word> 
+ <stem>نَقْدِيّ</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>خدمة</word> 
+ <stem>خِدْمَة</stem>
+</res>
+<res>
+<word>الاقتصاد</word> 
+ <stem>اقْتِصَاد</stem>
+</res>
+<res>
+<word>الإنتاجي</word> 
+ <stem>إِنْتَاجِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ولكن</word> 
+ <stem>كِن</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>ظل</word> 
+ <stem>ظِلّ</stem>
+</res>
+<res>
+<word>زيادة</word> 
+ <stem>زِيَادَة</stem>
+</res>
+<res>
+<word>رفع</word> 
+ <stem>رَفْع</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>فسيكون</word> 
+ <stem>يَكُون</stem>
+</res>
+<res>
+<word>السلوك</word> 
+ <stem>سُلُوك</stem>
+</res>
+<res>
+<word>الطبيعي</word> 
+ <stem>طَبِيعِيّ</stem>
+</res>
+<res>
+<word>للأفراد</word> 
+ <stem>أَفْرَاد</stem>
+</res>
+<res>
+<word>والمؤسسات</word> 
+ <stem>مُؤَسَّسَات</stem>
+</res>
+<res>
+<word>هو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>الابتعاد</word> 
+ <stem>ابْتِعَاد</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>الاقتصاد</word> 
+ <stem>اقْتِصَاد</stem>
+</res>
+<res>
+<word>الإنتاجي</word> 
+ <stem>إِنْتَاجِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بسبب</word> 
+ <stem>سَبَب</stem>
+</res>
+<res>
+<word>انخفاض</word> 
+ <stem>انْخِفَاض</stem>
+</res>
+<res>
+<word>العائد</word> 
+ <stem>عَائِد</stem>
+</res>
+<res>
+<word>منه</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وبذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>سيكون</word> 
+ <stem>يَكُون</stem>
+</res>
+<res>
+<word>صانع</word> 
+ <stem>صَانِع</stem>
+</res>
+<res>
+<word>السياسة</word> 
+ <stem>سِيَاسَة</stem>
+</res>
+<res>
+<word>الاقتصادية</word> 
+ <stem>اقْتِصَادِيَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>تركيا</word> 
+ <stem>تُرْكِيَّا</stem>
+</res>
+<res>
+<word>بين</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>فكي</word> 
+ <stem>فَكّ</stem>
+</res>
+<res>
+<word>رحى</word> 
+ <stem>رَحَى</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>إما</word> 
+ <stem>إِمَّا</stem>
+</res>
+<res>
+<word>يستجيب</word> 
+ <stem>يَسْتَجِيب</stem>
+</res>
+<res>
+<word>لرفع</word> 
+ <stem>رَفْع</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ويحد</word> 
+ <stem>يُحَدّ</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>انطلاق</word> 
+ <stem>انْطِلَاق</stem>
+</res>
+<res>
+<word>الاقتصاد</word> 
+ <stem>اقْتِصَاد</stem>
+</res>
+<res>
+<word>الإنتاجي</word> 
+ <stem>إِنْتَاجِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>يخضع</word> 
+ <stem>يَخْضَع</stem>
+</res>
+<res>
+<word>لرغبات</word> 
+ <stem>رَغَبَات</stem>
+</res>
+<res>
+<word>المضاربين</word> 
+ <stem>مُضَارِبَيْن</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>العملة</word> 
+ <stem>عُمْلَة</stem>
+</res>
+<res>
+<word>المحلية</word> 
+ <stem>مَحَلِّيَّة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>حسب</word> 
+ <stem>حَسَب</stem>
+</res>
+<res>
+<word>الأرقام</word> 
+ <stem>أَرْقَام</stem>
+</res>
+<res>
+<word>المعلنة</word> 
+ <stem>مُعْلَنَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>قبل</word> 
+ <stem>قِبَل</stem>
+</res>
+<res>
+<word>معهد</word> 
+ <stem>مَعْهَد</stem>
+</res>
+<res>
+<word>الإحصاء</word> 
+ <stem>إِحْصَاء</stem>
+</res>
+<res>
+<word>التركي</word> 
+ <stem>تُرْكِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بلغ</word> 
+ <stem>بَلَغ</stem>
+</res>
+<res>
+<word>معدل</word> 
+ <stem>مُعَدَّل</stem>
+</res>
+<res>
+<word>البطالة</word> 
+ <stem>بِطَالَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>أغسطس</word> 
+ <stem>أَغُسْطُس</stem>
+</res>
+<res>
+<word>/</word> 
+ <stem>/</stem>
+</res>
+<res>
+<word>آب</word> 
+ <stem>آب</stem>
+</res>
+<res>
+<word> 2020 </word> 
+ <stem> 2020 </stem>
+</res>
+<res>
+<word>نحو</word> 
+ <stem>نَحْو</stem>
+</res>
+<res>
+<word> 13</word> 
+ <stem> 13</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>2%، </word> 
+ <stem>2%، </stem>
+</res>
+<res>
+<word>وهو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>معدل</word> 
+ <stem>مُعَدَّل</stem>
+</res>
+<res>
+<word>مرتفع</word> 
+ <stem>مُرْتَفِع</stem>
+</res>
+<res>
+<word>بلا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>شك</word> 
+ <stem>شَكّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وسياسة</word> 
+ <stem>سِيَاسَة</stem>
+</res>
+<res>
+<word>رفع</word> 
+ <stem>رَفْع</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>تبنها</word> 
+ <stem>تَبَنّ</stem>
+</res>
+<res>
+<word>البنك</word> 
+ <stem>بَنْك</stem>
+</res>
+<res>
+<word>المركزي</word> 
+ <stem>مَرْكَزِيّ</stem>
+</res>
+<res>
+<word>التركي</word> 
+ <stem>تُرْكِيّ</stem>
+</res>
+<res>
+<word>مؤخرا</word> 
+ <stem>مُؤَخَّرًا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>سوف</word> 
+ <stem>سَوْف</stem>
+</res>
+<res>
+<word>ترفع</word> 
+ <stem>تَرْفَع</stem>
+</res>
+<res>
+<word>تكلفة</word> 
+ <stem>تَكْلِفَة</stem>
+</res>
+<res>
+<word>الاستثمار</word> 
+ <stem>اسْتِثْمَار</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>جهة</word> 
+ <stem>جِهَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ومن</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>جهة</word> 
+ <stem>جِهَة</stem>
+</res>
+<res>
+<word>أخرى</word> 
+ <stem>أُخْرَى</stem>
+</res>
+<res>
+<word>ستساعد</word> 
+ <stem>تُسَاعِد</stem>
+</res>
+<res>
+<word>الأفراد</word> 
+ <stem>أَفْرَاد</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>إيداع</word> 
+ <stem>إِيدَاع</stem>
+</res>
+<res>
+<word>أموالهم</word> 
+ <stem>أَمْوَال</stem>
+</res>
+<res>
+<word>بالبنوك</word> 
+ <stem>بالبنوك</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وعدم</word> 
+ <stem>عَدَم</stem>
+</res>
+<res>
+<word>التوجه</word> 
+ <stem>تَوَجُّه</stem>
+</res>
+<res>
+<word>للاستثمار</word> 
+ <stem>اسْتِثْمَار</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>مما</word> 
+ <stem>مِمَّا</stem>
+</res>
+<res>
+<word>سيؤدي</word> 
+ <stem>يُؤَدِّي</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>ارتفاع</word> 
+ <stem>ارْتِفَاع</stem>
+</res>
+<res>
+<word>معدلات</word> 
+ <stem>مُعَدَّلَات</stem>
+</res>
+<res>
+<word>البطالة</word> 
+ <stem>بِطَالَة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>سوف</word> 
+ <stem>سَوْف</stem>
+</res>
+<res>
+<word>تساعد</word> 
+ <stem>تُسَاعِد</stem>
+</res>
+<res>
+<word>سياسة</word> 
+ <stem>سِيَاسَة</stem>
+</res>
+<res>
+<word>رفع</word> 
+ <stem>رَفْع</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>سحب</word> 
+ <stem>سَحْب</stem>
+</res>
+<res>
+<word>السيولة</word> 
+ <stem>سُيُولَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>يد</word> 
+ <stem>يَد</stem>
+</res>
+<res>
+<word>المدخرين</word> 
+ <stem>مُدَّخِرَيْن</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>خلال</word> 
+ <stem>خِلَال</stem>
+</res>
+<res>
+<word>تشجيعهم</word> 
+ <stem>تَشْجِيع</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>الادخار</word> 
+ <stem>ادِّخَار</stem>
+</res>
+<res>
+<word>بالبنوك</word> 
+ <stem>بالبنوك</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وهو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>يساعد</word> 
+ <stem>يُسَاعِد</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>خفض</word> 
+ <stem>خَفْض</stem>
+</res>
+<res>
+<word>معدلات</word> 
+ <stem>مُعَدَّلَات</stem>
+</res>
+<res>
+<word>التضخم</word> 
+ <stem>تَضَخُّم</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>جانب</word> 
+ <stem>جَانِب</stem>
+</res>
+<res>
+<word>الطلب</word> 
+ <stem>طَلَب</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ولكن</word> 
+ <stem>كِن</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>الجانب</word> 
+ <stem>جَانِب</stem>
+</res>
+<res>
+<word>الآخر</word> 
+ <stem>آخَر</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>سترتفع</word> 
+ <stem>تَرْتَفِع</stem>
+</res>
+<res>
+<word>تكاليف</word> 
+ <stem>تَكَالِيف</stem>
+</res>
+<res>
+<word>الإنتاج</word> 
+ <stem>إِنْتَاج</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وهو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>سيؤدي</word> 
+ <stem>يُؤَدِّي</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>رفع</word> 
+ <stem>رَفْع</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>السلع</word> 
+ <stem>سِلَع</stem>
+</res>
+<res>
+<word>والخدمات</word> 
+ <stem>خِدْمَات</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>أي</word> 
+ <stem>أَيّ</stem>
+</res>
+<res>
+<word>رفع</word> 
+ <stem>رَفْع</stem>
+</res>
+<res>
+<word>معدل</word> 
+ <stem>مُعَدَّل</stem>
+</res>
+<res>
+<word>التضخم</word> 
+ <stem>تَضَخُّم</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>جانب</word> 
+ <stem>جَانِب</stem>
+</res>
+<res>
+<word>العرض</word> 
+ <stem>عَرْض</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>لأن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>المنتجين</word> 
+ <stem>مُنْتِجِين</stem>
+</res>
+<res>
+<word>يعتمدون</word> 
+ <stem>يَعْتَمِدُون</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>التمويل</word> 
+ <stem>تَمْوِيل</stem>
+</res>
+<res>
+<word>البنكي</word> 
+ <stem>بَنْكِيّ</stem>
+</res>
+<res>
+<word>بشكل</word> 
+ <stem>شَكْل</stem>
+</res>
+<res>
+<word>كبير</word> 
+ <stem>كَبِير</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وبخاصة</word> 
+ <stem>خَاصَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>اقتصاد</word> 
+ <stem>اقْتِصَاد</stem>
+</res>
+<res>
+<word>رأسمالي</word> 
+ <stem>رَأْسْمَالِيّ</stem>
+</res>
+<res>
+<word>مثل</word> 
+ <stem>مِثْل</stem>
+</res>
+<res>
+<word>تركيا</word> 
+ <stem>تُرْكِيَّا</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>بلغ</word> 
+ <stem>بَلَغ</stem>
+</res>
+<res>
+<word>الدين</word> 
+ <stem>دَيْن</stem>
+</res>
+<res>
+<word>الحكومي</word> 
+ <stem>حُكُومِيّ</stem>
+</res>
+<res>
+<word>التركي</word> 
+ <stem>تُرْكِيّ</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word> 13 </word> 
+ <stem> 13 </stem>
+</res>
+<res>
+<word>نوفمبر</word> 
+ <stem>نُوفَمْبِر</stem>
+</res>
+<res>
+<word>/</word> 
+ <stem>/</stem>
+</res>
+<res>
+<word>تشرين</word> 
+ <stem>تِشْرِين</stem>
+</res>
+<res>
+<word>الثاني</word> 
+ <stem>ثَانِي</stem>
+</res>
+<res>
+<word> 2020 </word> 
+ <stem> 2020 </stem>
+</res>
+<res>
+<word>نحو</word> 
+ <stem>نَحْو</stem>
+</res>
+<res>
+<word> 137</word> 
+ <stem> 137</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>9 </word> 
+ <stem>9 </stem>
+</res>
+<res>
+<word>مليار</word> 
+ <stem>مِلْيَار</stem>
+</res>
+<res>
+<word>دولار</word> 
+ <stem>دُولَار</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>يسيطر</word> 
+ <stem>يُسَيْطِر</stem>
+</res>
+<res>
+<word>الدائنون</word> 
+ <stem>دَائِنُون</stem>
+</res>
+<res>
+<word>المحليون</word> 
+ <stem>مَحَلِّيُّون</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>غالبية</word> 
+ <stem>غَالِبِيَّة</stem>
+</res>
+<res>
+<word>هذا</word> 
+ <stem>هَذَا</stem>
+</res>
+<res>
+<word>الدين</word> 
+ <stem>دِين</stem>
+</res>
+<res>
+<word>بنسبة</word> 
+ <stem>نِسْبَة</stem>
+</res>
+<res>
+<word>كبيرة</word> 
+ <stem>كَبِيرَة</stem>
+</res>
+<res>
+<word>تصل</word> 
+ <stem>تَصِل</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word> 95%، </word> 
+ <stem> 95%، </stem>
+</res>
+<res>
+<word>حيث</word> 
+ <stem>حَيْث</stem>
+</res>
+<res>
+<word>خرجت</word> 
+ <stem>خَرَجَت</stem>
+</res>
+<res>
+<word>أموال</word> 
+ <stem>أَمْوَال</stem>
+</res>
+<res>
+<word>الأجانب</word> 
+ <stem>أَجَانِب</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الدين</word> 
+ <stem>دَيْن</stem>
+</res>
+<res>
+<word>العام</word> 
+ <stem>عَامّ</stem>
+</res>
+<res>
+<word>التركي</word> 
+ <stem>تُرْكِيّ</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>عام</word> 
+ <stem>عَام</stem>
+</res>
+<res>
+<word> 2019 </word> 
+ <stem> 2019 </stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>انخفاض</word> 
+ <stem>انْخِفَاض</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>أقل</word> 
+ <stem>أَقَلّ</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word> 9%</word> 
+ <stem> 9%</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وفي</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>ظل</word> 
+ <stem>ظِلّ</stem>
+</res>
+<res>
+<word>قرار</word> 
+ <stem>قَرَار</stem>
+</res>
+<res>
+<word>البنك</word> 
+ <stem>بَنْك</stem>
+</res>
+<res>
+<word>المركزي</word> 
+ <stem>مَرْكَزِيّ</stem>
+</res>
+<res>
+<word>التركي</word> 
+ <stem>تُرْكِيّ</stem>
+</res>
+<res>
+<word>برفع</word> 
+ <stem>رَفْع</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word> 15%، </word> 
+ <stem> 15%، </stem>
+</res>
+<res>
+<word>سيكلف</word> 
+ <stem>يُكَلَّف</stem>
+</res>
+<res>
+<word>ذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>موازنة</word> 
+ <stem>مُوَازَنَة</stem>
+</res>
+<res>
+<word>الدولة</word> 
+ <stem>دَوْلَة</stem>
+</res>
+<res>
+<word>بأعباء</word> 
+ <stem>أَعْبَاء</stem>
+</res>
+<res>
+<word>أكبر</word> 
+ <stem>أَكْبَر</stem>
+</res>
+<res>
+<word>للدين</word> 
+ <stem>دِين</stem>
+</res>
+<res>
+<word>المستحق</word> 
+ <stem>مُسْتَحِقّ</stem>
+</res>
+<res>
+<word>عليها</word> 
+ <stem>عَلَي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وسيكون</word> 
+ <stem>يَكُون</stem>
+</res>
+<res>
+<word>ارتفاع</word> 
+ <stem>ارْتِفَاع</stem>
+</res>
+<res>
+<word>أعباء</word> 
+ <stem>أَعْبَاء</stem>
+</res>
+<res>
+<word>الدين</word> 
+ <stem>دَيْن</stem>
+</res>
+<res>
+<word>بالموازنة</word> 
+ <stem>مُوَازَنَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>عام</word> 
+ <stem>عَام</stem>
+</res>
+<res>
+<word> 2021، </word> 
+ <stem> 2021، </stem>
+</res>
+<res>
+<word>خصما</word> 
+ <stem>خَصْمًا</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الإنفاق</word> 
+ <stem>إِنْفَاق</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>قطاعات</word> 
+ <stem>قِطَاعَات</stem>
+</res>
+<res>
+<word>حيوية</word> 
+ <stem>حَيَوِيَّة</stem>
+</res>
+<res>
+<word>تتعلق</word> 
+ <stem>تَتَعَلَّق</stem>
+</res>
+<res>
+<word>بالتعليم</word> 
+ <stem>تَعْلِيم</stem>
+</res>
+<res>
+<word>والصحة</word> 
+ <stem>صِحَّة</stem>
+</res>
+<res>
+<word>وباقي</word> 
+ <stem>بَاقِي</stem>
+</res>
+<res>
+<word>القطاعات</word> 
+ <stem>قِطَاعَات</stem>
+</res>
+<res>
+<word>المهمة</word> 
+ <stem>مُهِمَّة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>السلوك</word> 
+ <stem>سُلُوك</stem>
+</res>
+<res>
+<word>الطبيعي</word> 
+ <stem>طَبِيعِيّ</stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>رفع</word> 
+ <stem>رَفْع</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الجهاز</word> 
+ <stem>جِهَاز</stem>
+</res>
+<res>
+<word>المصرفي</word> 
+ <stem>مَصْرِفِيّ</stem>
+</res>
+<res>
+<word>التركي</word> 
+ <stem>تُرْكِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>تحدث</word> 
+ <stem>تَحْدُث</stem>
+</res>
+<res>
+<word>حالة</word> 
+ <stem>حَالَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الهروب</word> 
+ <stem>هُرُوب</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>البورصة</word> 
+ <stem>البورصة</stem>
+</res>
+<res>
+<word>والتوجه</word> 
+ <stem>تَوَجُّه</stem>
+</res>
+<res>
+<word>للبنوك</word> 
+ <stem>لَبَنُوا</stem>
+</res>
+<res>
+<word>للحصول</word> 
+ <stem>حُصُول</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>عائد</word> 
+ <stem>عَائِد</stem>
+</res>
+<res>
+<word>أفضل</word> 
+ <stem>أَفْضَل</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وكانت</word> 
+ <stem>كَانَت</stem>
+</res>
+<res>
+<word>البورصة</word> 
+ <stem>البورصة</stem>
+</res>
+<res>
+<word>التركية</word> 
+ <stem>تُرْكِيَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>عام</word> 
+ <stem>عَام</stem>
+</res>
+<res>
+<word> 2019 </word> 
+ <stem> 2019 </stem>
+</res>
+<res>
+<word>قد</word> 
+ <stem>قَد</stem>
+</res>
+<res>
+<word>شهدت</word> 
+ <stem>شَهِدَت</stem>
+</res>
+<res>
+<word>تحسنا</word> 
+ <stem>تَحَسُّنًا</stem>
+</res>
+<res>
+<word>كبيرا</word> 
+ <stem>كَبِيرًا</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>ظل</word> 
+ <stem>ظِلّ</stem>
+</res>
+<res>
+<word>انخفاض</word> 
+ <stem>انْخِفَاض</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>لأن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>المدخرين</word> 
+ <stem>مُدَّخِرَيْن</stem>
+</res>
+<res>
+<word>وجدوا</word> 
+ <stem>وَجَدُوا</stem>
+</res>
+<res>
+<word>ضالتهم</word> 
+ <stem>ضَالَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>البورصة</word> 
+ <stem>البورصة</stem>
+</res>
+<res>
+<word>للحصول</word> 
+ <stem>حُصُول</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>عائد</word> 
+ <stem>عَائِد</stem>
+</res>
+<res>
+<word>أفضل</word> 
+ <stem>أَفْضَل</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الادخار</word> 
+ <stem>ادِّخَار</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>البنوك</word> 
+ <stem>الْبُنُوا</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وبذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>تظل</word> 
+ <stem>تُظِلّ</stem>
+</res>
+<res>
+<word>النقود</word> 
+ <stem>نُقُود</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>حالة</word> 
+ <stem>حَالَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الانتقال</word> 
+ <stem>انْتِقَال</stem>
+</res>
+<res>
+<word>غير</word> 
+ <stem>غَيْر</stem>
+</res>
+<res>
+<word>المجدي</word> 
+ <stem>مَجْدِيّ</stem>
+</res>
+<res>
+<word>اقتصاديا</word> 
+ <stem>اقْتِصَادِيًّا</stem>
+</res>
+<res>
+<word>بين</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>البنوك</word> 
+ <stem>الْبُنُوا</stem>
+</res>
+<res>
+<word>والبورصة</word> 
+ <stem>والبورصة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>دون</word> 
+ <stem>دُون</stem>
+</res>
+<res>
+<word>تحقيق</word> 
+ <stem>تَحْقِيق</stem>
+</res>
+<res>
+<word>أي</word> 
+ <stem>أَيّ</stem>
+</res>
+<res>
+<word>إضافة</word> 
+ <stem>إِضَافَة</stem>
+</res>
+<res>
+<word>اقتصادية</word> 
+ <stem>اقْتِصَادِيَّة</stem>
+</res>
+<res>
+<word>حقيقية</word> 
+ <stem>حَقِيقِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>فلم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>يؤد</word> 
+ <stem>يُؤَدّ</stem>
+</res>
+<res>
+<word>هذا</word> 
+ <stem>هَذَا</stem>
+</res>
+<res>
+<word>الانتقال</word> 
+ <stem>انْتِقَال</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>إضافة</word> 
+ <stem>إِضَافَة</stem>
+</res>
+<res>
+<word>فرص</word> 
+ <stem>فُرَص</stem>
+</res>
+<res>
+<word>عمل</word> 
+ <stem>عَمَل</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ولا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>وجود</word> 
+ <stem>وُجُود</stem>
+</res>
+<res>
+<word>سلع</word> 
+ <stem>سِلَع</stem>
+</res>
+<res>
+<word>وخدمات</word> 
+ <stem>خِدْمَات</stem>
+</res>
+<res>
+<word>جديدة</word> 
+ <stem>جَدِيدَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ولا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>أضاف</word> 
+ <stem>أَضَاف</stem>
+</res>
+<res>
+<word>للناتج</word> 
+ <stem>نَاتِج</stem>
+</res>
+<res>
+<word>المحلي</word> 
+ <stem>مَحَلِّيّ</stem>
+</res>
+<res>
+<word>رصيد</word> 
+ <stem>رَصِيد</stem>
+</res>
+<res>
+<word>يقوي</word> 
+ <stem>يُقْوِي</stem>
+</res>
+<res>
+<word>وضعه</word> 
+ <stem>وَضْع</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الاقتصاديات</word> 
+ <stem>اقْتِصَادِيَّات</stem>
+</res>
+<res>
+<word>الرأسمالية</word> 
+ <stem>رَأْسْمَالِيَّة</stem>
+</res>
+<res>
+<word>يتم</word> 
+ <stem>يَتِمّ</stem>
+</res>
+<res>
+<word>اللجوء</word> 
+ <stem>لُجُوء</stem>
+</res>
+<res>
+<word>لاستثمارات</word> 
+ <stem>اسْتِثْمَارَات</stem>
+</res>
+<res>
+<word>الأجانب</word> 
+ <stem>أَجَانِب</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الدين</word> 
+ <stem>دَيْن</stem>
+</res>
+<res>
+<word>العام</word> 
+ <stem>عَامّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>أجل</word> 
+ <stem>أَجْل</stem>
+</res>
+<res>
+<word>زيادة</word> 
+ <stem>زِيَادَة</stem>
+</res>
+<res>
+<word>المعروض</word> 
+ <stem>مَعْرُوض</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>النقد</word> 
+ <stem>نَقْد</stem>
+</res>
+<res>
+<word>الأجنبي</word> 
+ <stem>أَجْنَبِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>تأتي</word> 
+ <stem>تَأْتِي</stem>
+</res>
+<res>
+<word>به</word> 
+ <stem>بِه</stem>
+</res>
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>الاستثمارات</word> 
+ <stem>اسْتِثْمَارَات</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ويطلق</word> 
+ <stem>يُطْلَق</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>الاستثمارات</word> 
+ <stem>اسْتِثْمَارَات</stem>
+</res>
+<res>
+<word>الأموال</word> 
+ <stem>أَمْوَال</stem>
+</res>
+<res>
+<word>الساخنة</word> 
+ <stem>سَاخِنَة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>والأموال</word> 
+ <stem>أَمْوَال</stem>
+</res>
+<res>
+<word>الساخنة</word> 
+ <stem>سَاخِنَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>أسوأ</word> 
+ <stem>أَسْوَأ</stem>
+</res>
+<res>
+<word>الأدوات</word> 
+ <stem>أَدَوَات</stem>
+</res>
+<res>
+<word>النقدية</word> 
+ <stem>نَقْدِيَّة</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>تؤثر</word> 
+ <stem>تُؤَثِّر</stem>
+</res>
+<res>
+<word>بشكل</word> 
+ <stem>شَكْل</stem>
+</res>
+<res>
+<word>سلبي</word> 
+ <stem>سَلْبِيّ</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>أداء</word> 
+ <stem>أَدَاء</stem>
+</res>
+<res>
+<word>أي</word> 
+ <stem>أَيّ</stem>
+</res>
+<res>
+<word>اقتصاد</word> 
+ <stem>اقْتِصَاد</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>تلك</word> 
+ <stem>تِلْك</stem>
+</res>
+<res>
+<word>الأموال</word> 
+ <stem>أَمْوَال</stem>
+</res>
+<res>
+<word>الساخنة</word> 
+ <stem>سَاخِنَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>تأتي</word> 
+ <stem>تَأْتِي</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>أجل</word> 
+ <stem>أَجْل</stem>
+</res>
+<res>
+<word>الحصول</word> 
+ <stem>حُصُول</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>أكبر</word> 
+ <stem>أَكْبَر</stem>
+</res>
+<res>
+<word>عائد</word> 
+ <stem>عَائِد</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>أقل</word> 
+ <stem>أَقَلّ</stem>
+</res>
+<res>
+<word>فترة</word> 
+ <stem>فَتْرَة</stem>
+</res>
+<res>
+<word>زمنية</word> 
+ <stem>زَمَنِيَّة</stem>
+</res>
+<res>
+<word>ممكنة</word> 
+ <stem>مُمْكِنَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ولا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>يعنيها</word> 
+ <stem>يَعْنِي</stem>
+</res>
+<res>
+<word>استقرار</word> 
+ <stem>اسْتِقْرَار</stem>
+</res>
+<res>
+<word>اقتصادي</word> 
+ <stem>اقْتِصَادِيّ</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>تنمية</word> 
+ <stem>تَنْمِيَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ويتوقع</word> 
+ <stem>يُتَوَقَّع</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>تعود</word> 
+ <stem>تَعُود</stem>
+</res>
+<res>
+<word>الأموال</word> 
+ <stem>أَمْوَال</stem>
+</res>
+<res>
+<word>الساخنة</word> 
+ <stem>سَاخِنَة</stem>
+</res>
+<res>
+<word>مرة</word> 
+ <stem>مَرَّة</stem>
+</res>
+<res>
+<word>ثانية</word> 
+ <stem>ثَانِيَة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>تركيا</word> 
+ <stem>تُرْكِيَّا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>للاستفادة</word> 
+ <stem>اسْتِفَادَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>الأعلى</word> 
+ <stem>أَعْلَى</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>المنطقة</word> 
+ <stem>مِنْطَقَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ولكنها</word> 
+ <stem>لَكِنّ</stem>
+</res>
+<res>
+<word>ستخرج</word> 
+ <stem>تَخْرُج</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>أقرب</word> 
+ <stem>أَقْرَب</stem>
+</res>
+<res>
+<word>فرصة</word> 
+ <stem>فُرْصَة</stem>
+</res>
+<res>
+<word>حال</word> 
+ <stem>حَال</stem>
+</res>
+<res>
+<word>ظهور</word> 
+ <stem>ظُهُور</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>فائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>أعلى</word> 
+ <stem>أَعْلَى</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>تركيا</word> 
+ <stem>تُرْكِيَّا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>كما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>فعلت</word> 
+ <stem>فَعَلْت</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word> 2019</word> 
+ <stem> 2019</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الختام</word> 
+ <stem>خِتَام</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>نستطيع</word> 
+ <stem>نَسْتَطِيع</stem>
+</res>
+<res>
+<word>القول</word> 
+ <stem>قَوْل</stem>
+</res>
+<res>
+<word>إن</word> 
+ <stem>إِنّ</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>يشقى</word> 
+ <stem>يُشْقَى</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>ظل</word> 
+ <stem>ظِلّ</stem>
+</res>
+<res>
+<word>اقتصاديات</word> 
+ <stem>اقْتِصَادِيَّات</stem>
+</res>
+<res>
+<word>الربا</word> 
+ <stem>رِبَا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>تقوم</word> 
+ <stem>تَقُوم</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>آلية</word> 
+ <stem>آلِيَّة</stem>
+</res>
+<res>
+<word>الديون</word> 
+ <stem>دُيُون</stem>
+</res>
+<res>
+<word>والتجارة</word> 
+ <stem>تِجَارَة</stem>
+</res>
+<res>
+<word>فيها</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بينما</word> 
+ <stem>بَيْنَمَا</stem>
+</res>
+<res>
+<word>الواقع</word> 
+ <stem>وَاقِع</stem>
+</res>
+<res>
+<word>بين</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>نجاعة</word> 
+ <stem>نَجَاعَة</stem>
+</res>
+<res>
+<word>وصحة</word> 
+ <stem>صِحَّة</stem>
+</res>
+<res>
+<word>آلية</word> 
+ <stem>آلِيَّة</stem>
+</res>
+<res>
+<word>المشاركة</word> 
+ <stem>مُشَارَكَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>تجعل</word> 
+ <stem>تَجْعَل</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>رأس</word> 
+ <stem>رَأْس</stem>
+</res>
+<res>
+<word>المال</word> 
+ <stem>مَال</stem>
+</res>
+<res>
+<word>عامل</word> 
+ <stem>عَامِل</stem>
+</res>
+<res>
+<word>استقرار</word> 
+ <stem>اسْتِقْرَار</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>لقبوله</word> 
+ <stem>قُبُول</stem>
+</res>
+<res>
+<word>بمبدأ</word> 
+ <stem>مَبْدَأ</stem>
+</res>
+<res>
+<word>الربح</word> 
+ <stem>رِبْح</stem>
+</res>
+<res>
+<word>والخسارة</word> 
+ <stem>خَسَارَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وليس</word> 
+ <stem>لَيْس</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>لقد</word> 
+ <stem>قَد</stem>
+</res>
+<res>
+<word>كان</word> 
+ <stem>كَان</stem>
+</res>
+<res>
+<word>أبرز</word> 
+ <stem>أَبْرَز</stem>
+</res>
+<res>
+<word>دروس</word> 
+ <stem>دُرُوس</stem>
+</res>
+<res>
+<word>الأزمة</word> 
+ <stem>أَزْمَة</stem>
+</res>
+<res>
+<word>المالية</word> 
+ <stem>مَالِيَّة</stem>
+</res>
+<res>
+<word>العالمية</word> 
+ <stem>عَالَمِيَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>عام</word> 
+ <stem>عَام</stem>
+</res>
+<res>
+<word> 2008، </word> 
+ <stem> 2008، </stem>
+</res>
+<res>
+<word>هو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>خطأ</word> 
+ <stem>خَطَأ</stem>
+</res>
+<res>
+<word>الاستمرار</word> 
+ <stem>اسْتِمْرَار</stem>
+</res>
+<res>
+<word>بالعمل</word> 
+ <stem>عَمَل</stem>
+</res>
+<res>
+<word>وفق</word> 
+ <stem>وَفْق</stem>
+</res>
+<res>
+<word>آلية</word> 
+ <stem>آلِيَّة</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الفائدة</word> 
+ <stem>فَائِدَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>إلا</word> 
+ <stem>إِلَّا</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>المرابين</word> 
+ <stem>مُرَابَيْن</stem>
+</res>
+<res>
+<word>وتجار</word> 
+ <stem>تُجَّار</stem>
+</res>
+<res>
+<word>الديون</word> 
+ <stem>دُيُون</stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>يزالون</word> 
+ <stem>يُزَالُون</stem>
+</res>
+<res>
+<word>يملكون</word> 
+ <stem>يَمْلِكُون</stem>
+</res>
+<res>
+<word>سطوة</word> 
+ <stem>سَطْوَة</stem>
+</res>
+<res>
+<word>السيطرة</word> 
+ <stem>سَيْطَرَة</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>مقدرات</word> 
+ <stem>مُقَدَّرَات</stem>
+</res>
+<res>
+<word>الأمور</word> 
+ <stem>أُمُور</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+</Stems>

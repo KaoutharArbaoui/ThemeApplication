@@ -1,0 +1,1786 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>التحديث</word> 
+ <lemma>تَحْدِيث</lemma>
+</res>
+<res>
+<word>الأخير</word> 
+ <lemma>أَخِير</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>كيف</word> 
+ <lemma>كَيْفَ</lemma>
+</res>
+<res>
+<word>يساعدك</word> 
+ <lemma>سَاعَدَ</lemma>
+</res>
+<res>
+<word>هاتفك</word> 
+ <lemma>هَاتِف</lemma>
+</res>
+<res>
+<word>الأندرويد</word> 
+ <lemma>الأندرويد</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>حالات</word> 
+ <lemma>حَالَة</lemma>
+</res>
+<res>
+<word>الطوارئ</word> 
+ <lemma>طَارِئَة</lemma>
+</res>
+<res>
+<word>؟</word> 
+ <lemma>؟</lemma>
+</res>
+
+<res>
+<word>إذا</word> 
+ <lemma>إِذَا</lemma>
+</res>
+<res>
+<word>كنت</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>تواجه</word> 
+ <lemma>وَاجَهَ</lemma>
+</res>
+<res>
+<word>حالة</word> 
+ <lemma>حَال</lemma>
+</res>
+<res>
+<word>طبية</word> 
+ <lemma>طِبِّيّ</lemma>
+</res>
+<res>
+<word>طارئة</word> 
+ <lemma>طَارِئ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فأنت</word> 
+ <lemma>أَنْتَ</lemma>
+</res>
+<res>
+<word>تريد</word> 
+ <lemma>أَرَادَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>يعرف</word> 
+ <lemma>عَرَفَ</lemma>
+</res>
+<res>
+<word>المستجيبون</word> 
+ <lemma>مُسْتَجِيب</lemma>
+</res>
+<res>
+<word>الأوائل</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>كيفية</word> 
+ <lemma>كَيْفِيَّة</lemma>
+</res>
+<res>
+<word>الوصول</word> 
+ <lemma>وُصُول</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>أحبائك</word> 
+ <lemma>حَبِيب</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>قد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>ترغب</word> 
+ <lemma>رَغِبَ</lemma>
+</res>
+<res>
+<word>أيضا</word> 
+ <lemma>أَيْض</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنّ</lemma>
+</res>
+<res>
+<word>يعرفوا</word> 
+ <lemma>عَرَفَ</lemma>
+</res>
+<res>
+<word>معلومات</word> 
+ <lemma>مَعْلُومَة</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>تاريخك</word> 
+ <lemma>تَارِيخ</lemma>
+</res>
+<res>
+<word>المرضي</word> 
+ <lemma>مَرَضِيّ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الحساسية</word> 
+ <lemma>حُسَاسِيّ</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>التحديات</word> 
+ <lemma>تَحْدِيَة</lemma>
+</res>
+<res>
+<word>الصحية</word> 
+ <lemma>صِحِّيّ</lemma>
+</res>
+<res>
+<word>غير</word> 
+ <lemma>غَيْر</lemma>
+</res>
+<res>
+<word>المرئية</word> 
+ <lemma>مَرْئِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>أليس</word> 
+ <lemma>لَيْسَ</lemma>
+</res>
+<res>
+<word>كذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>؟</word> 
+ <lemma>؟</lemma>
+</res>
+
+<res>
+<word>تحتوي</word> 
+ <lemma>احْتَوَى</lemma>
+</res>
+<res>
+<word>هواتف</word> 
+ <lemma>هَاتِف</lemma>
+</res>
+<res>
+<word>أندرويد</word> 
+ <lemma>أندرويد</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>أداة</word> 
+ <lemma>أَدَاة</lemma>
+</res>
+<res>
+<word>مخصصة</word> 
+ <lemma>مُخَصَّص</lemma>
+</res>
+<res>
+<word>لعرض</word> 
+ <lemma>عَرْض</lemma>
+</res>
+<res>
+<word>المعلومات</word> 
+ <lemma>مَعْلُومَة</lemma>
+</res>
+<res>
+<word>الحيوية</word> 
+ <lemma>حَيَوِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>بما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>ذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>جهات</word> 
+ <lemma>جِهَة</lemma>
+</res>
+<res>
+<word>الاتصال</word> 
+ <lemma>اتِّصَال</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>حالات</word> 
+ <lemma>حَالَة</lemma>
+</res>
+<res>
+<word>الطوارئ</word> 
+ <lemma>طَارِئَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>والتي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>يتم</word> 
+ <lemma>أَتَمَّ</lemma>
+</res>
+<res>
+<word>تدريب</word> 
+ <lemma>تَدْرِيب</lemma>
+</res>
+<res>
+<word>طواقم</word> 
+ <lemma>طواقم</lemma>
+</res>
+<res>
+<word>الإسعاف</word> 
+ <lemma>إِسْعَاف</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>البحث</word> 
+ <lemma>بَحْث</lemma>
+</res>
+<res>
+<word>عنها</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ومؤخرا</word> 
+ <lemma>مُؤَخَّر</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>أصدرت</word> 
+ <lemma>أَصْدَرَ</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>تحديثا</word> 
+ <lemma>تَحْدِيث</lemma>
+</res>
+<res>
+<word>لنقل</word> 
+ <lemma>نَقْل</lemma>
+</res>
+<res>
+<word>تطبيق</word> 
+ <lemma>تَطْبِيق</lemma>
+</res>
+<res>
+<word>الأمان</word> 
+ <lemma>أَمَان</lemma>
+</res>
+<res>
+<word>الخاص</word> 
+ <lemma>خَاصّ</lemma>
+</res>
+<res>
+<word>بها</word> 
+ <lemma>بِي</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>هواتف</word> 
+ <lemma>هَاتِف</lemma>
+</res>
+<res>
+<word>بكسل</word> 
+ <lemma>كَسَل</lemma>
+</res>
+<res>
+<word> (Pixel) </word> 
+ <lemma> (Pixel) </lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>المزيد</word> 
+ <lemma>مَزِيد</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الأجهزة</word> 
+ <lemma>جِهَاز</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وتوسيع</word> 
+ <lemma>تَوْسِيع</lemma>
+</res>
+<res>
+<word>قدراتها</word> 
+ <lemma>قُدْرَة</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الاستجابة</word> 
+ <lemma>اسْتِجَابَة</lemma>
+</res>
+<res>
+<word>للحالات</word> 
+ <lemma>حَالَة</lemma>
+</res>
+<res>
+<word>الطارئة</word> 
+ <lemma>طَارِئ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ولكن</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>قبل</word> 
+ <lemma>قَبْلَ</lemma>
+</res>
+<res>
+<word>التعمق</word> 
+ <lemma>تَعَمُّق</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>تطبيق</word> 
+ <lemma>تَطْبِيق</lemma>
+</res>
+<res>
+<word>الأمان</word> 
+ <lemma>أَمَان</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>نوصيك</word> 
+ <lemma>أَوْصَى</lemma>
+</res>
+<res>
+<word>بإعداد</word> 
+ <lemma>إِعْدَاد</lemma>
+</res>
+<res>
+<word>معلومات</word> 
+ <lemma>مَعْلُومَة</lemma>
+</res>
+<res>
+<word>الطوارئ</word> 
+ <lemma>طَارِئَة</lemma>
+</res>
+<res>
+<word>الشخصية</word> 
+ <lemma>شَخْصِيّ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>هاتف</word> 
+ <lemma>هَاتِف</lemma>
+</res>
+<res>
+<word>أندرويد</word> 
+ <lemma>أندرويد</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>حيث</word> 
+ <lemma>حَيْثُ</lemma>
+</res>
+<res>
+<word>يمكن</word> 
+ <lemma>أَمْكَنَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>ينقذ</word> 
+ <lemma>أَنْقَذَ</lemma>
+</res>
+<res>
+<word>حياتك</word> 
+ <lemma>حَيَاة</lemma>
+</res>
+<res>
+<word>يوما</word> 
+ <lemma>يَوْم</lemma>
+</res>
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>سيختلف</word> 
+ <lemma>اخْتَلَفَ</lemma>
+</res>
+<res>
+<word>إعداد</word> 
+ <lemma>إِعْدَاد</lemma>
+</res>
+<res>
+<word>التفاصيل</word> 
+ <lemma>تَفْصِيل</lemma>
+</res>
+<res>
+<word>الخاصة</word> 
+ <lemma>خَاصّ</lemma>
+</res>
+<res>
+<word>بك</word> 
+ <lemma>بَك</lemma>
+</res>
+<res>
+<word>اعتمادا</word> 
+ <lemma>اعْتِمَاد</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>نوع</word> 
+ <lemma>نَوْع</lemma>
+</res>
+<res>
+<word>الهاتف</word> 
+ <lemma>هَاتِف</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>تستخدمه</word> 
+ <lemma>اسْتَخْدَمَ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>يمكن</word> 
+ <lemma>أَمْكَنَ</lemma>
+</res>
+<res>
+<word>لمستخدمي</word> 
+ <lemma>مُسْتَخْدَم</lemma>
+</res>
+<res>
+<word>سامسونغ</word> 
+ <lemma>سَامْسُونْغ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>سبيل</word> 
+ <lemma>سَبِيل</lemma>
+</res>
+<res>
+<word>المثال</word> 
+ <lemma>مِثَال</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>تعبئة</word> 
+ <lemma>تَعْبِئَة</lemma>
+</res>
+<res>
+<word>هذه</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>المعلومات</word> 
+ <lemma>مَعْلُومَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>طريق</word> 
+ <lemma>طَرِيق</lemma>
+</res>
+<res>
+<word>فتح</word> 
+ <lemma>فَتْح</lemma>
+</res>
+<res>
+<word>تطبيق</word> 
+ <lemma>تَطْبِيق</lemma>
+</res>
+<res>
+<word>الهاتف</word> 
+ <lemma>هَاتِف</lemma>
+</res>
+<res>
+<word>ثم</word> 
+ <lemma>ثُمَّ</lemma>
+</res>
+<res>
+<word>الذهاب</word> 
+ <lemma>ذَهَاب</lemma>
+</res>
+<res>
+<word>لجهات</word> 
+ <lemma>جِهَة</lemma>
+</res>
+<res>
+<word>الاتصال</word> 
+ <lemma>اتِّصَال</lemma>
+</res>
+<res>
+<word> (Contact) </word> 
+ <lemma> (Contact) </lemma>
+</res>
+<res>
+<word>واختيار</word> 
+ <lemma>اخْتِيَار</lemma>
+</res>
+<res>
+<word>ملفهم</word> 
+ <lemma>مِلَفّ</lemma>
+</res>
+<res>
+<word>الشخصي</word> 
+ <lemma>شَخْصِيّ</lemma>
+</res>
+<res>
+<word>والذهاب</word> 
+ <lemma>ذَهَاب</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>أسفل</word> 
+ <lemma>أَسْفَل</lemma>
+</res>
+<res>
+<word>الصفحة</word> 
+ <lemma>صَفْحَة</lemma>
+</res>
+<res>
+<word>ليجدوا</word> 
+ <lemma>وَجَدَ</lemma>
+</res>
+<res>
+<word>فقرة</word> 
+ <lemma>فَقْرَة</lemma>
+</res>
+<res>
+<word>خاصة</word> 
+ <lemma>خَاصّ</lemma>
+</res>
+<res>
+<word>بمعلومات</word> 
+ <lemma>مَعْلُوم</lemma>
+</res>
+<res>
+<word>الطوارئ</word> 
+ <lemma>طَارِئَة</lemma>
+</res>
+<res>
+<word>يمكنهم</word> 
+ <lemma>أَمْكَنَ</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>طريقها</word> 
+ <lemma>طَرِيق</lemma>
+</res>
+<res>
+<word>تعبئة</word> 
+ <lemma>تَعْبِئَة</lemma>
+</res>
+<res>
+<word>معلوماتهم</word> 
+ <lemma>مَعْلُومَة</lemma>
+</res>
+<res>
+<word>الطبية</word> 
+ <lemma>طِبِّيّ</lemma>
+</res>
+<res>
+<word>وجهات</word> 
+ <lemma>وِجْهَة</lemma>
+</res>
+<res>
+<word>الاتصال</word> 
+ <lemma>اتِّصَال</lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>يودون</word> 
+ <lemma>وَدَّ</lemma>
+</res>
+<res>
+<word>الاتصال</word> 
+ <lemma>اتِّصَال</lemma>
+</res>
+<res>
+<word>بها</word> 
+ <lemma>بِي</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>حالات</word> 
+ <lemma>حَالَة</lemma>
+</res>
+<res>
+<word>الطوارئ</word> 
+ <lemma>طَارِئَة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>بشكل</word> 
+ <lemma>شَكْل</lemma>
+</res>
+<res>
+<word>عام</word> 
+ <lemma>عَامّ</lemma>
+</res>
+<res>
+<word>لجميع</word> 
+ <lemma>جَمِيع</lemma>
+</res>
+<res>
+<word>مستخدمي</word> 
+ <lemma>مُسْتَخْدَم</lemma>
+</res>
+<res>
+<word>أندرويد</word> 
+ <lemma>أندرويد</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>يمكنهم</word> 
+ <lemma>أَمْكَنَ</lemma>
+</res>
+<res>
+<word>فتح</word> 
+ <lemma>فَتَحَ</lemma>
+</res>
+<res>
+<word>تطبيق</word> 
+ <lemma>تَطْبِيق</lemma>
+</res>
+<res>
+<word>الإعدادات</word> 
+ <lemma>إِعْدَاد</lemma>
+</res>
+<res>
+<word>والبحث</word> 
+ <lemma>بَحْث</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>معلومات</word> 
+ <lemma>مَعْلُومَة</lemma>
+</res>
+<res>
+<word>الطوارئ</word> 
+ <lemma>طَارِئَة</lemma>
+</res>
+<res>
+<word>باستخدام</word> 
+ <lemma>اسْتِخْدَام</lemma>
+</res>
+<res>
+<word>شريط</word> 
+ <lemma>شَرِيط</lemma>
+</res>
+<res>
+<word>البحث</word> 
+ <lemma>بَحْث</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>أعلى</word> 
+ <lemma>أَعْلَى</lemma>
+</res>
+<res>
+<word>الشاشة</word> 
+ <lemma>شَاشَة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>ويجب</word> 
+ <lemma>وَجَبَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>تأخذهم</word> 
+ <lemma>أَخَذَ</lemma>
+</res>
+<res>
+<word>إحدى</word> 
+ <lemma>أَحَد</lemma>
+</res>
+<res>
+<word>النتائج</word> 
+ <lemma>نَتِيجَة</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>القسم</word> 
+ <lemma>قِسْم</lemma>
+</res>
+<res>
+<word>المناسب</word> 
+ <lemma>مُنَاسِب</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الإعدادات</word> 
+ <lemma>إِعْدَاد</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وبمجرد</word> 
+ <lemma>مُجَرَّد</lemma>
+</res>
+<res>
+<word>العثور</word> 
+ <lemma>عُثُور</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>قسم</word> 
+ <lemma>قِسْم</lemma>
+</res>
+<res>
+<word>معلومات</word> 
+ <lemma>مَعْلُومَة</lemma>
+</res>
+<res>
+<word>الطوارئ</word> 
+ <lemma>طَارِئَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>أدخل</word> 
+ <lemma>أَدْخَلَ</lemma>
+</res>
+<res>
+<word>المعلومات</word> 
+ <lemma>مَعْلُومَة</lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>تريد</word> 
+ <lemma>أَرَادَ</lemma>
+</res>
+<res>
+<word>مشاركتها</word> 
+ <lemma>مُشَارِك</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>بما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>ذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>تفاصيلك</word> 
+ <lemma>تَفْصِيل</lemma>
+</res>
+<res>
+<word>الطبية</word> 
+ <lemma>طِبِّيّ</lemma>
+</res>
+<res>
+<word>وجهات</word> 
+ <lemma>وِجْهَة</lemma>
+</res>
+<res>
+<word>الاتصال</word> 
+ <lemma>اتِّصَال</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>حالات</word> 
+ <lemma>حَالَة</lemma>
+</res>
+<res>
+<word>الطوارئ</word> 
+ <lemma>طَارِئَة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ولعرض</word> 
+ <lemma>عَرَضَ</lemma>
+</res>
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>سيراه</word> 
+ <lemma>رَأَى</lemma>
+</res>
+<res>
+<word>الآخرون</word> 
+ <lemma>آخَر</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>هاتفك</word> 
+ <lemma>هَاتِف</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>أو</word> 
+ <lemma>أَوْ</lemma>
+</res>
+<res>
+<word>التدرب</word> 
+ <lemma>تَدَرُّب</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الوصول</word> 
+ <lemma>وُصُول</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>المعلومات</word> 
+ <lemma>مَعْلُومَة</lemma>
+</res>
+<res>
+<word>الطبية</word> 
+ <lemma>طِبِّيّ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>هاتف</word> 
+ <lemma>هَاتِف</lemma>
+</res>
+<res>
+<word>شخص</word> 
+ <lemma>شَخْص</lemma>
+</res>
+<res>
+<word>آخر</word> 
+ <lemma>آخَر</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>حاول</word> 
+ <lemma>حَاوَلَ</lemma>
+</res>
+<res>
+<word>إلغاء</word> 
+ <lemma>إِلْغَاء</lemma>
+</res>
+<res>
+<word>قفل</word> 
+ <lemma>قُفْل</lemma>
+</res>
+<res>
+<word>هاتفك</word> 
+ <lemma>هَاتِف</lemma>
+</res>
+<res>
+<word>بالضغط</word> 
+ <lemma>ضَغْط</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>زر</word> 
+ <lemma>زَرّ</lemma>
+</res>
+<res>
+<word>الطاقة</word> 
+ <lemma>طَاقَة</lemma>
+</res>
+<res>
+<word>أو</word> 
+ <lemma>أَوْ</lemma>
+</res>
+<res>
+<word>النقر</word> 
+ <lemma>نَقَر</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الشاشة</word> 
+ <lemma>شَاشَة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>وعند</word> 
+ <lemma>عِنْدَ</lemma>
+</res>
+<res>
+<word>طلب</word> 
+ <lemma>طَلَبَ</lemma>
+</res>
+<res>
+<word>الهاتف</word> 
+ <lemma>هَاتِف</lemma>
+</res>
+<res>
+<word>إدخال</word> 
+ <lemma>إِدْخَال</lemma>
+</res>
+<res>
+<word>رمز</word> 
+ <lemma>رَمْز</lemma>
+</res>
+<res>
+<word>المرور</word> 
+ <lemma>مُرُور</lemma>
+</res>
+<res>
+<word>الخاص</word> 
+ <lemma>خَاصّ</lemma>
+</res>
+<res>
+<word>بك</word> 
+ <lemma>بَك</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>انقر</word> 
+ <lemma>انْقَارَ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الطوارئ</word> 
+ <lemma>طَارِئَة</lemma>
+</res>
+<res>
+<word>أو</word> 
+ <lemma>أَوْ</lemma>
+</res>
+<res>
+<word>مكالمة</word> 
+ <lemma>مُكَالَمَة</lemma>
+</res>
+<res>
+<word>الطوارئ</word> 
+ <lemma>طَارِئَة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>ستحتوي</word> 
+ <lemma>احْتَوَى</lemma>
+</res>
+<res>
+<word>الشاشة</word> 
+ <lemma>شَاشَة</lemma>
+</res>
+<res>
+<word>التالية</word> 
+ <lemma>تَالِيَة</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>زر</word> 
+ <lemma>زَرّ</lemma>
+</res>
+<res>
+<word>آخر</word> 
+ <lemma>آخَر</lemma>
+</res>
+<res>
+<word>لإظهار</word> 
+ <lemma>إِظْهَار</lemma>
+</res>
+<res>
+<word>المعلومات</word> 
+ <lemma>مَعْلُومَة</lemma>
+</res>
+<res>
+<word>الطبية</word> 
+ <lemma>طِبِّيّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ويتوفر</word> 
+ <lemma>تَوَفَّرَ</lemma>
+</res>
+<res>
+<word>لمستخدمي</word> 
+ <lemma>مُسْتَخْدَم</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>بكسل</word> 
+ <lemma>كَسَل</lemma>
+</res>
+<res>
+<word>خيار</word> 
+ <lemma>خِيَار</lemma>
+</res>
+<res>
+<word>آخر</word> 
+ <lemma>آخَر</lemma>
+</res>
+<res>
+<word>باستخدام</word> 
+ <lemma>اسْتِخْدَام</lemma>
+</res>
+<res>
+<word>تطبيق</word> 
+ <lemma>تَطْبِيق</lemma>
+</res>
+<res>
+<word>الأمان</word> 
+ <lemma>أَمَان</lemma>
+</res>
+<res>
+<word>الشخصي</word> 
+ <lemma>شَخْصِيّ</lemma>
+</res>
+<res>
+<word>الموجود</word> 
+ <lemma>مَوْجُود</lemma>
+</res>
+<res>
+<word>بالهاتف</word> 
+ <lemma>هَاتِف</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>ورغم</word> 
+ <lemma>رَغْم</lemma>
+</res>
+<res>
+<word>توسيع</word> 
+ <lemma>تَوْسِيع</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>تضمين</word> 
+ <lemma>تَضْمِين</lemma>
+</res>
+<res>
+<word>هذا</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>التطبيق</word> 
+ <lemma>تَطْبِيق</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>تشكيلة</word> 
+ <lemma>تَشْكِيلَة</lemma>
+</res>
+<res>
+<word>هواتف</word> 
+ <lemma>هَاتِف</lemma>
+</res>
+<res>
+<word>بكسل</word> 
+ <lemma>كَسَل</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مَنْ</lemma>
+</res>
+<res>
+<word>خلال</word> 
+ <lemma>خِلَال</lemma>
+</res>
+<res>
+<word>إطلاقها</word> 
+ <lemma>إِطْلَاق</lemma>
+</res>
+<res>
+<word>تحديث</word> 
+ <lemma>تَحْدِيث</lemma>
+</res>
+<res>
+<word>بكسل</word> 
+ <lemma>كَسَل</lemma>
+</res>
+<res>
+<word>دروب</word> 
+ <lemma>دَرْب</lemma>
+</res>
+<res>
+<word> (Pixel Drop) </word> 
+ <lemma> (Pixel Drop) </lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>يونيو</word> 
+ <lemma>يُونْيُو</lemma>
+</res>
+<res>
+<word>/</word> 
+ <lemma>/</lemma>
+</res>
+<res>
+<word>حزيران</word> 
+ <lemma>حُزَيْرَان</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فإنه</word> 
+ <lemma>إِنَّ</lemma>
+</res>
+<res>
+<word>لن</word> 
+ <lemma>لَنْ</lemma>
+</res>
+<res>
+<word>يتمكن</word> 
+ <lemma>تَمَكَّنَ</lemma>
+</res>
+<res>
+<word>سوى</word> 
+ <lemma>سِوَى</lemma>
+</res>
+<res>
+<word>مستخدمي</word> 
+ <lemma>مُسْتَخْدَم</lemma>
+</res>
+<res>
+<word>بكسل</word> 
+ <lemma>كَسَل</lemma>
+</res>
+<res>
+<word> 3 </word> 
+ <lemma> 3 </lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>4 </word> 
+ <lemma>4 </lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الوصول</word> 
+ <lemma>وُصُول</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>ميزة</word> 
+ <lemma>مِيزَة</lemma>
+</res>
+<res>
+<word>الكشف</word> 
+ <lemma>كَشْف</lemma>
+</res>
+<res>
+<word>التلقائي</word> 
+ <lemma>تِلْقَائِيّ</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>الحوادث</word> 
+ <lemma>حَادِث</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>والتي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>ستتصل</word> 
+ <lemma>اتَّصَلَ</lemma>
+</res>
+<res>
+<word>تلقائيا</word> 
+ <lemma>تِلْقَائِيّ</lemma>
+</res>
+<res>
+<word>للمساعدة</word> 
+ <lemma>مُسَاعَدَة</lemma>
+</res>
+<res>
+<word>وتنبيه</word> 
+ <lemma>تَنَبّ</lemma>
+</res>
+<res>
+<word>جهات</word> 
+ <lemma>جِهَة</lemma>
+</res>
+<res>
+<word>اتصالك</word> 
+ <lemma>اتِّصَال</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>حالات</word> 
+ <lemma>حَالَة</lemma>
+</res>
+<res>
+<word>الطوارئ</word> 
+ <lemma>طَارِئَة</lemma>
+</res>
+<res>
+<word>عندما</word> 
+ <lemma>عِنْدَ</lemma>
+</res>
+<res>
+<word>تكتشف</word> 
+ <lemma>اكْتَشَفَ</lemma>
+</res>
+<res>
+<word>أنك</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>تعرضت</word> 
+ <lemma>تَعَرَّضَ</lemma>
+</res>
+<res>
+<word>لحادث</word> 
+ <lemma>حَادِث</lemma>
+</res>
+<res>
+<word>سيارة</word> 
+ <lemma>سَيَّارَة</lemma>
+</res>
+<res>
+<word>مثلا</word> 
+ <lemma>مِثْل</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>بمجرد</word> 
+ <lemma>مُجَرَّد</lemma>
+</res>
+<res>
+<word>إعداد</word> 
+ <lemma>إِعْدَاد</lemma>
+</res>
+<res>
+<word>تطبيق</word> 
+ <lemma>تَطْبِيق</lemma>
+</res>
+<res>
+<word>الأمان</word> 
+ <lemma>أَمَان</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ستتمكن</word> 
+ <lemma>تَمَكَّنَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>بدء</word> 
+ <lemma>بَدْء</lemma>
+</res>
+<res>
+<word>مشاركة</word> 
+ <lemma>مُشَارَكَة</lemma>
+</res>
+<res>
+<word>معلومات</word> 
+ <lemma>مَعْلُومَة</lemma>
+</res>
+<res>
+<word>الطوارئ</word> 
+ <lemma>طَارِئَة</lemma>
+</res>
+<res>
+<word>لإعطاء</word> 
+ <lemma>إِعْطَاء</lemma>
+</res>
+<res>
+<word>موقعك</word> 
+ <lemma>مَوْقِع</lemma>
+</res>
+<res>
+<word>للجهات</word> 
+ <lemma>جِهَة</lemma>
+</res>
+<res>
+<word>المعنية</word> 
+ <lemma>مَعْنِيّ</lemma>
+</res>
+<res>
+<word>وتعيين</word> 
+ <lemma>تَعْيِين</lemma>
+</res>
+<res>
+<word>فحوصات</word> 
+ <lemma>فَحْص</lemma>
+</res>
+<res>
+<word>الأمان</word> 
+ <lemma>أَمَان</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>وستسألك</word> 
+ <lemma>سَأَلَ</lemma>
+</res>
+<res>
+<word>هذه</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>الميزة</word> 
+ <lemma>مِيزَة</lemma>
+</res>
+<res>
+<word>إذا</word> 
+ <lemma>إِذَا</lemma>
+</res>
+<res>
+<word>كنت</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>بحاجة</word> 
+ <lemma>حَاجَة</lemma>
+</res>
+<res>
+<word>للمساعدة</word> 
+ <lemma>مُسَاعَدَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وإذا</word> 
+ <lemma>إِذَا</lemma>
+</res>
+<res>
+<word>لم</word> 
+ <lemma>لَمْ</lemma>
+</res>
+<res>
+<word>تستجب</word> 
+ <lemma>اسْتَجَابَ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فستبدأ</word> 
+ <lemma>بَدَأَ</lemma>
+</res>
+<res>
+<word>مشاركة</word> 
+ <lemma>مُشَارَكَة</lemma>
+</res>
+<res>
+<word>الطوارئ</word> 
+ <lemma>طَارِئَة</lemma>
+</res>
+<res>
+<word>تلقائيا</word> 
+ <lemma>تِلْقَائِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وهي</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>ميزة</word> 
+ <lemma>مِيزَة</lemma>
+</res>
+<res>
+<word>مفيدة</word> 
+ <lemma>مُفِيد</lemma>
+</res>
+<res>
+<word>إذا</word> 
+ <lemma>إِذَا</lemma>
+</res>
+<res>
+<word>كنت</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>ستخرج</word> 
+ <lemma>خَرَجَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>وقت</word> 
+ <lemma>وَقْت</lemma>
+</res>
+<res>
+<word>متأخر</word> 
+ <lemma>مُتَأَخِّر</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الليل</word> 
+ <lemma>لَيْل</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>وستحصل</word> 
+ <lemma>حَصَلَ</lemma>
+</res>
+<res>
+<word>أيضا</word> 
+ <lemma>أَيْض</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>تنبيهات</word> 
+ <lemma>تَنْبِيه</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>حالات</word> 
+ <lemma>حَالَة</lemma>
+</res>
+<res>
+<word>الأزمات</word> 
+ <lemma>أَزْمَة</lemma>
+</res>
+<res>
+<word>والطوارئ</word> 
+ <lemma>طَارِئَة</lemma>
+</res>
+<res>
+<word>أو</word> 
+ <lemma>أَوْ</lemma>
+</res>
+<res>
+<word>الكوارث</word> 
+ <lemma>كَارِثَة</lemma>
+</res>
+<res>
+<word>الطبيعية</word> 
+ <lemma>طَبِيعِيّ</lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>تحدث</word> 
+ <lemma>حَدَثَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>منطقتك</word> 
+ <lemma>مُنَطَّق</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Stems>
+<res>
+<word>هكذا</word> 
+ <stem>هَكَذَا</stem>
+</res>
+<res>
+<word>عاقبت</word> 
+ <stem>عَاقَبْت</stem>
+</res>
+<res>
+<word>فيسبوك</word> 
+ <stem>فَيْسْبُوك</stem>
+</res>
+<res>
+<word>موظفي</word> 
+ <stem>مُوَظَّف</stem>
+</res>
+<res>
+<word>شركة</word> 
+ <stem>شَرِكَة</stem>
+</res>
+<res>
+<word>التجسس</word> 
+ <stem>تَجَسُّس</stem>
+</res>
+<res>
+<word>الإسرائيلية</word> 
+ <stem>إِسْرَائِيلِيَّة</stem>
+</res>
+<res>
+<word>الحاليين</word> 
+ <stem>حَالِيِّين</stem>
+</res>
+<res>
+<word>والسابقين</word> 
+ <stem>سَابِقِين</stem>
+</res>
+<res>
+<word>لاختراقهم</word> 
+ <stem>اخْتِرَاق</stem>
+</res>
+<res>
+<word>واتساب</word> 
+ <stem>واتساب</stem>
+</res>
+
+<res>
+<word>اتخذ</word> 
+ <stem>اتَّخَذ</stem>
+</res>
+<res>
+<word>موظفو</word> 
+ <stem>مُوَظَّفُو</stem>
+</res>
+<res>
+<word>مجموعة</word> 
+ <stem>مَجْمُوعَة</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>أس</word> 
+ <stem>أُسّ</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>" (NSO) </word> 
+ <stem>" (NSO) </stem>
+</res>
+<res>
+<word>الإسرائيلية</word> 
+ <stem>إِسْرَائِيلِيَّة</stem>
+</res>
+<res>
+<word>إجراءات</word> 
+ <stem>إِجْرَاءَات</stem>
+</res>
+<res>
+<word>قانونية</word> 
+ <stem>قَانُونِيَّة</stem>
+</res>
+<res>
+<word>ضد</word> 
+ <stem>ضِدّ</stem>
+</res>
+<res>
+<word>فيسبوك</word> 
+ <stem>فَيْسْبُوك</stem>
+</res>
+<res>
+<word>لحظر</word> 
+ <stem>حَظْر</stem>
+</res>
+<res>
+<word>حساباتهم</word> 
+ <stem>حِسَابَات</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وهو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>يعد</word> 
+ <stem>يُعَدّ</stem>
+</res>
+<res>
+<word>انتهاكا</word> 
+ <stem>انْتِهَاكًا</stem>
+</res>
+<res>
+<word>لشروط</word> 
+ <stem>شُرُوط</stem>
+</res>
+<res>
+<word>الخدمة</word> 
+ <stem>خِدْمَة</stem>
+</res>
+<res>
+<word>وقانون</word> 
+ <stem>قَانُون</stem>
+</res>
+<res>
+<word>الخصوصية</word> 
+ <stem>خُصُوصِيَّة</stem>
+</res>
+<res>
+<word>الإسرائيلي</word> 
+ <stem>إِسْرَائِيلِيّ</stem>
+</res>
+<res>
+<word>لاستخدام</word> 
+ <stem>اسْتِخْدَام</stem>
+</res>
+<res>
+<word>المعلومات</word> 
+ <stem>مَعْلُومَات</stem>
+</res>
+<res>
+<word>الشخصية</word> 
+ <stem>شَخْصِيَّة</stem>
+</res>
+<res>
+<word>للموظفين</word> 
+ <stem>مُوَظَّفِين</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وأقام</word> 
+ <stem>أَقَام</stem>
+</res>
+<res>
+<word>محامون</word> 
+ <stem>مُحَامُون</stem>
+</res>
+<res>
+<word>يمثلون</word> 
+ <stem>يُمَثِّلُون</stem>
+</res>
+<res>
+<word>الموظفين</word> 
+ <stem>مُوَظَّفِين</stem>
+</res>
+<res>
+<word>الحاليين</word> 
+ <stem>حَالِيِّين</stem>
+</res>
+<res>
+<word>والسابقين</word> 
+ <stem>سَابِقِين</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>المجموعة</word> 
+ <stem>مَجْمُوعَة</stem>
+</res>
+<res>
+<word>الإسرائيلية</word> 
+ <stem>إِسْرَائِيلِيَّة</stem>
+</res>
+<res>
+<word>دعوى</word> 
+ <stem>دَعْوَى</stem>
+</res>
+<res>
+<word>قانونية</word> 
+ <stem>قَانُونِيَّة</stem>
+</res>
+<res>
+<word>ضد</word> 
+ <stem>ضِدّ</stem>
+</res>
+<res>
+<word>فيسبوك</word> 
+ <stem>فَيْسْبُوك</stem>
+</res>
+<res>
+<word>لمحاولة</word> 
+ <stem>مُحَاوَلَة</stem>
+</res>
+<res>
+<word>استعادة</word> 
+ <stem>اسْتِعَادَة</stem>
+</res>
+<res>
+<word>حساباتهم</word> 
+ <stem>حِسَابَات</stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>حظرها</word> 
+ <stem>حَظْر</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>قبل</word> 
+ <stem>قِبَل</stem>
+</res>
+<res>
+<word>عملاق</word> 
+ <stem>عِمْلَاق</stem>
+</res>
+<res>
+<word>وسائل</word> 
+ <stem>وَسَائِل</stem>
+</res>
+<res>
+<word>التواصل</word> 
+ <stem>تَوَاصُل</stem>
+</res>
+<res>
+<word>الاجتماعي</word> 
+ <stem>اجْتِمَاعِيّ</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وكانت</word> 
+ <stem>كَانَت</stem>
+</res>
+<res>
+<word>فيسبوك</word> 
+ <stem>فَيْسْبُوك</stem>
+</res>
+<res>
+<word>قد</word> 
+ <stem>قَد</stem>
+</res>
+<res>
+<word>رفعت</word> 
+ <stem>رَفَعَت</stem>
+</res>
+<res>
+<word>دعوى</word> 
+ <stem>دَعْوَى</stem>
+</res>
+<res>
+<word>قضائية</word> 
+ <stem>قَضَائِيَّة</stem>
+</res>
+<res>
+<word>ضد</word> 
+ <stem>ضِدّ</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>أس</word> 
+ <stem>أُسّ</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>كاليفورنيا</word> 
+ <stem>كَالِيفُورْنِيَا</stem>
+</res>
+<res>
+<word>لاستغلال</word> 
+ <stem>اسْتِغْلَال</stem>
+</res>
+<res>
+<word>ثغرة</word> 
+ <stem>ثُغْرَة</stem>
+</res>
+<res>
+<word>أمنية</word> 
+ <stem>أَمْنِيَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>برنامج</word> 
+ <stem>بَرْنَامَج</stem>
+</res>
+<res>
+<word>الدردشة</word> 
+ <stem>دَرْدَشَة</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>واتساب</word> 
+ <stem>واتساب</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>استخدمه</word> 
+ <stem>اسْتَخْدَم</stem>
+</res>
+<res>
+<word>موظفو</word> 
+ <stem>مُوَظَّفُو</stem>
+</res>
+<res>
+<word>المجموعة</word> 
+ <stem>مَجْمُوعَة</stem>
+</res>
+<res>
+<word>الإسرائيلية</word> 
+ <stem>إِسْرَائِيلِيَّة</stem>
+</res>
+<res>
+<word>لاختراق</word> 
+ <stem>اخْتِرَاق</stem>
+</res>
+<res>
+<word>الأهداف</word> 
+ <stem>أَهْدَاف</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>وفي</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>جزء</word> 
+ <stem>جُزْء</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>ذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>حظر</word> 
+ <stem>حَظْر</stem>
+</res>
+<res>
+<word>فيسبوك</word> 
+ <stem>فَيْسْبُوك</stem>
+</res>
+<res>
+<word>أيضًا</word> 
+ <stem>أَيْضًا</stem>
+</res>
+<res>
+<word>الحسابات</word> 
+ <stem>حِسَابَات</stem>
+</res>
+<res>
+<word>الشخصية</word> 
+ <stem>شَخْصِيَّة</stem>
+</res>
+<res>
+<word>لموظفي</word> 
+ <stem>مُوَظَّف</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>أس</word> 
+ <stem>أُسّ</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>الحاليين</word> 
+ <stem>حَالِيِّين</stem>
+</res>
+<res>
+<word>والسابقين</word> 
+ <stem>سَابِقِين</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>فيسبوك</word> 
+ <stem>فَيْسْبُوك</stem>
+</res>
+<res>
+<word>وإنستغرام</word> 
+ <stem>وإنستغرام</stem>
+</res>
+<res>
+<word>وواتساب</word> 
+ <stem>وواتساب</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وتقول</word> 
+ <stem>تَقُول</stem>
+</res>
+<res>
+<word>الدعوى</word> 
+ <stem>دَعْوَى</stem>
+</res>
+<res>
+<word>المرفوعة</word> 
+ <stem>مَرْفُوعَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>قبل</word> 
+ <stem>قِبَل</stem>
+</res>
+<res>
+<word>موظفي</word> 
+ <stem>مُوَظَّف</stem>
+</res>
+<res>
+<word>المجموعة</word> 
+ <stem>مَجْمُوعَة</stem>
+</res>
+<res>
+<word>إن</word> 
+ <stem>إِنّ</stem>
+</res>
+<res>
+<word>فيسبوك</word> 
+ <stem>فَيْسْبُوك</stem>
+</res>
+<res>
+<word>انتهكت</word> 
+ <stem>انْتُهِكَت</stem>
+</res>
+<res>
+<word>شروط</word> 
+ <stem>شُرُوط</stem>
+</res>
+<res>
+<word>الخدمة</word> 
+ <stem>خِدْمَة</stem>
+</res>
+<res>
+<word>الخاصة</word> 
+ <stem>خَاصَّة</stem>
+</res>
+<res>
+<word>بها</word> 
+ <stem>بِهَا</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>طريق</word> 
+ <stem>طَرِيق</stem>
+</res>
+<res>
+<word>حظر</word> 
+ <stem>حَظْر</stem>
+</res>
+<res>
+<word>موظفي</word> 
+ <stem>مُوَظَّف</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>أس</word> 
+ <stem>أُسّ</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>"، </word> 
+ <stem>"، </stem>
+</res>
+<res>
+<word>وإنها</word> 
+ <stem>إِنّ</stem>
+</res>
+<res>
+<word>استخدمت</word> 
+ <stem>اسْتَخْدَمَت</stem>
+</res>
+<res>
+<word>المعلومات</word> 
+ <stem>مَعْلُومَات</stem>
+</res>
+<res>
+<word>الشخصية</word> 
+ <stem>شَخْصِيَّة</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>شاركوها</word> 
+ <stem>شَارَكُوا</stem>
+</res>
+<res>
+<word>مع</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>فيسبوك</word> 
+ <stem>فَيْسْبُوك</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>أجل</word> 
+ <stem>أَجْل</stem>
+</res>
+<res>
+<word>التعرف</word> 
+ <stem>تَعَرُّف</stem>
+</res>
+<res>
+<word>عليهم</word> 
+ <stem>عَلَي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>انتهاك</word> 
+ <stem>انْتِهَاك</stem>
+</res>
+<res>
+<word>لقانون</word> 
+ <stem>قَانُون</stem>
+</res>
+<res>
+<word>الخصوصية</word> 
+ <stem>خُصُوصِيَّة</stem>
+</res>
+<res>
+<word>الإسرائيلي</word> 
+ <stem>إِسْرَائِيلِيّ</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ويطلب</word> 
+ <stem>يَطْلُب</stem>
+</res>
+<res>
+<word>المحامون</word> 
+ <stem>مُحَامُون</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>المحكمة</word> 
+ <stem>مَحْكَمَة</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>تأمر</word> 
+ <stem>تَأْمُر</stem>
+</res>
+<res>
+<word>فيسبوك</word> 
+ <stem>فَيْسْبُوك</stem>
+</res>
+<res>
+<word>برفع</word> 
+ <stem>رَفْع</stem>
+</res>
+<res>
+<word>الحظر</word> 
+ <stem>حَظْر</stem>
+</res>
+<res>
+<word>المفروض</word> 
+ <stem>مَفْرُوض</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>الحسابات</word> 
+ <stem>حِسَابَات</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وأُعلن</word> 
+ <stem>أُعْلِن</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>الدعوى</word> 
+ <stem>دَعْوَى</stem>
+</res>
+<res>
+<word>لأول</word> 
+ <stem>أَوَّل</stem>
+</res>
+<res>
+<word>مرة</word> 
+ <stem>مَرَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>وسائل</word> 
+ <stem>وَسَائِل</stem>
+</res>
+<res>
+<word>الإعلام</word> 
+ <stem>إِعْلَام</stem>
+</res>
+<res>
+<word>الإسرائيلية</word> 
+ <stem>إِسْرَائِيلِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ولم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>يتسن</word> 
+ <stem>يُتَسَنّ</stem>
+</res>
+<res>
+<word>الحصول</word> 
+ <stem>حُصُول</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>تعليق</word> 
+ <stem>تَعْلِيق</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>المحامين</word> 
+ <stem>مُحَامِين</stem>
+</res>
+<res>
+<word>الذين</word> 
+ <stem>الَّذِين</stem>
+</res>
+<res>
+<word>يمثلون</word> 
+ <stem>يُمَثِّلُون</stem>
+</res>
+<res>
+<word>موظفي</word> 
+ <stem>مُوَظَّف</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>أس</word> 
+ <stem>أُسّ</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>الحاليين</word> 
+ <stem>حَالِيِّين</stem>
+</res>
+<res>
+<word>والسابقين</word> 
+ <stem>سَابِقِين</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+</Stems>

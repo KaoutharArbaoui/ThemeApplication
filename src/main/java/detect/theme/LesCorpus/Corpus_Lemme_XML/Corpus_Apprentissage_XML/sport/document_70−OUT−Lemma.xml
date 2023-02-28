@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>فيروس</word> 
+ <lemma>فَيْرُوس</lemma>
+</res>
+<res>
+<word>كورونا</word> 
+ <lemma>كَوَّرَ</lemma>
+</res>
+<res>
+<word>يعصف</word> 
+ <lemma>عَصَفَ</lemma>
+</res>
+<res>
+<word>بسباق</word> 
+ <lemma>سِبَاق</lemma>
+</res>
+<res>
+<word>فورمولا</word> 
+ <lemma>فورمولا</lemma>
+</res>
+<res>
+<word> 1 </word> 
+ <lemma> 1 </lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الصين</word> 
+ <lemma>صِين</lemma>
+</res>
+
+<res>
+<word>قال</word> 
+ <lemma>قَالَ</lemma>
+</res>
+<res>
+<word>تشيس</word> 
+ <lemma>تشيس</lemma>
+</res>
+<res>
+<word>كاري</word> 
+ <lemma>كَارّ</lemma>
+</res>
+<res>
+<word>الرئيس</word> 
+ <lemma>رَئِيس</lemma>
+</res>
+<res>
+<word>التنفيذي</word> 
+ <lemma>تَنْفِيذِيّ</lemma>
+</res>
+<res>
+<word>لمجموعة</word> 
+ <lemma>مَجْمُوعَة</lemma>
+</res>
+<res>
+<word>سباقات</word> 
+ <lemma>سِبَاق</lemma>
+</res>
+<res>
+<word>فورمولا</word> 
+ <lemma>فورمولا</lemma>
+</res>
+<res>
+<word> 1 </word> 
+ <lemma> 1 </lemma>
+</res>
+<res>
+<word>للسيارات</word> 
+ <lemma>سَيَّارَة</lemma>
+</res>
+<res>
+<word>اليوم</word> 
+ <lemma>يَوْم</lemma>
+</res>
+<res>
+<word>الأربعاء</word> 
+ <lemma>أَرْبِعَاء</lemma>
+</res>
+<res>
+<word>إن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>سباق</word> 
+ <lemma>سِبَاق</lemma>
+</res>
+<res>
+<word>جائزة</word> 
+ <lemma>جَائِزَة</lemma>
+</res>
+<res>
+<word>الصين</word> 
+ <lemma>صِين</lemma>
+</res>
+<res>
+<word>الكبرى</word> 
+ <lemma>كُبْرَى</lemma>
+</res>
+<res>
+<word>لن</word> 
+ <lemma>لَنْ</lemma>
+</res>
+<res>
+<word>يقام</word> 
+ <lemma>أَقَامَ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الأرجح</word> 
+ <lemma>أَرْجَح</lemma>
+</res>
+<res>
+<word>بموعده</word> 
+ <lemma>مَوْعِد</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word> 19 </word> 
+ <lemma> 19 </lemma>
+</res>
+<res>
+<word>أبريل</word> 
+ <lemma>أَبْرِيل</lemma>
+</res>
+<res>
+<word>/</word> 
+ <lemma>/</lemma>
+</res>
+<res>
+<word>نيسان</word> 
+ <lemma>نِيسَان</lemma>
+</res>
+<res>
+<word>بسبب</word> 
+ <lemma>سَبَب</lemma>
+</res>
+<res>
+<word>تفشي</word> 
+ <lemma>تَفَشّ</lemma>
+</res>
+<res>
+<word>فيروس</word> 
+ <lemma>فَيْرُوس</lemma>
+</res>
+<res>
+<word>كورونا</word> 
+ <lemma>كَوَّرَ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وأضاف</word> 
+ <lemma>أَضَافَ</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>نقر</word> 
+ <lemma>أَقَرَّ</lemma>
+</res>
+<res>
+<word>بأنه</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>المحتمل</word> 
+ <lemma>مُحْتَمَل</lemma>
+</res>
+<res>
+<word>تأجيل</word> 
+ <lemma>تَأْجِيل</lemma>
+</res>
+<res>
+<word>السباق</word> 
+ <lemma>سِبَاق</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ويمكنكم</word> 
+ <lemma>أَمْكَنَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>تقولوا</word> 
+ <lemma>قَالَ</lemma>
+</res>
+<res>
+<word>إن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>هذا</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>سيحدث</word> 
+ <lemma>أَحْدَثَ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الأرجح</word> 
+ <lemma>أَرْجَح</lemma>
+</res>
+<res>
+<word>"</word> 
+ <lemma>"</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وتسبب</word> 
+ <lemma>تَسَبَّبَ</lemma>
+</res>
+<res>
+<word>الفيروس</word> 
+ <lemma>فَيْرُوس</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>وفاة</word> 
+ <lemma>وَفَاة</lemma>
+</res>
+<res>
+<word>أكثر</word> 
+ <lemma>أَكْثَر</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word> 1100 </word> 
+ <lemma> 1100 </lemma>
+</res>
+<res>
+<word>شخص</word> 
+ <lemma>شَخْص</lemma>
+</res>
+<res>
+<word>وإصابة</word> 
+ <lemma>إِصَابَة</lemma>
+</res>
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>يزيد</word> 
+ <lemma>زَادَ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word> 44 </word> 
+ <lemma> 44 </lemma>
+</res>
+<res>
+<word>ألف</word> 
+ <lemma>أَلْف</lemma>
+</res>
+<res>
+<word>شخص</word> 
+ <lemma>شَخْص</lemma>
+</res>
+<res>
+<word>بالصين</word> 
+ <lemma>صِين</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>بعدما</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>ظهر</word> 
+ <lemma>ظُهْر</lemma>
+</res>
+<res>
+<word>لأول</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>مرة</word> 
+ <lemma>مَرَّة</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>مدينة</word> 
+ <lemma>مَدِينَة</lemma>
+</res>
+<res>
+<word>ووهان</word> 
+ <lemma>وِهَان</lemma>
+</res>
+<res>
+<word>نهاية</word> 
+ <lemma>نِهَايَة</lemma>
+</res>
+<res>
+<word>العام</word> 
+ <lemma>عَام</lemma>
+</res>
+<res>
+<word>الماضي</word> 
+ <lemma>مَاضِي</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وقال</word> 
+ <lemma>قَالَ</lemma>
+</res>
+<res>
+<word>الاتحاد</word> 
+ <lemma>اتِّحَاد</lemma>
+</res>
+<res>
+<word>الدولي</word> 
+ <lemma>دَوْلِيّ</lemma>
+</res>
+<res>
+<word>للسيارات</word> 
+ <lemma>سَيَّارَة</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>وقت</word> 
+ <lemma>وَقْت</lemma>
+</res>
+<res>
+<word>سابق</word> 
+ <lemma>سَابِق</lemma>
+</res>
+<res>
+<word>إنه</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>يراقب</word> 
+ <lemma>رَاقَبَ</lemma>
+</res>
+<res>
+<word>الوضع</word> 
+ <lemma>وَضْع</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الصين</word> 
+ <lemma>صِين</lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>تستضيف</word> 
+ <lemma>اسْتَضَافَ</lemma>
+</res>
+<res>
+<word>الجولة</word> 
+ <lemma>جَوْلَة</lemma>
+</res>
+<res>
+<word>الرابعة</word> 
+ <lemma>رَابِع</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>موسم</word> 
+ <lemma>مَوْسِم</lemma>
+</res>
+<res>
+<word> 2020 </word> 
+ <lemma> 2020 </lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>حلبة</word> 
+ <lemma>حَلْبَة</lemma>
+</res>
+<res>
+<word>شنغهاي</word> 
+ <lemma>شَنْغْهَاي</lemma>
+</res>
+<res>
+<word>الدولية</word> 
+ <lemma>دَوْلِيّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وذكرت</word> 
+ <lemma>ذَكَرَ</lemma>
+</res>
+<res>
+<word>تقارير</word> 
+ <lemma>تَقْرِير</lemma>
+</res>
+<res>
+<word>إعلامية</word> 
+ <lemma>إِعْلَامِيّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>أوروبا</word> 
+ <lemma>أُورُوبَّا</lemma>
+</res>
+<res>
+<word>والولايات</word> 
+ <lemma>وِلَايَة</lemma>
+</res>
+<res>
+<word>المتحدة</word> 
+ <lemma>مُتَّحِد</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>قرار</word> 
+ <lemma>قَرَار</lemma>
+</res>
+<res>
+<word>تأجيل</word> 
+ <lemma>تَأْجِيل</lemma>
+</res>
+<res>
+<word>السباق</word> 
+ <lemma>سِبَاق</lemma>
+</res>
+<res>
+<word>سيصدر</word> 
+ <lemma>صَدَرَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>وقت</word> 
+ <lemma>وَقْت</lemma>
+</res>
+<res>
+<word>لاحق</word> 
+ <lemma>لَاحِق</lemma>
+</res>
+<res>
+<word>اليوم</word> 
+ <lemma>يَوْم</lemma>
+</res>
+<res>
+<word>الأربعاء</word> 
+ <lemma>أَرْبِعَاء</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وفي</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>وجود</word> 
+ <lemma>وُجُود</lemma>
+</res>
+<res>
+<word> 22 </word> 
+ <lemma> 22 </lemma>
+</res>
+<res>
+<word>سباقا</word> 
+ <lemma>سِبَاق</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وهو</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>رقم</word> 
+ <lemma>رَقْم</lemma>
+</res>
+<res>
+<word>قياسي</word> 
+ <lemma>قِيَاسِيّ</lemma>
+</res>
+<res>
+<word>موسم</word> 
+ <lemma>مَوْسِم</lemma>
+</res>
+<res>
+<word> 2020، </word> 
+ <lemma> 2020، </lemma>
+</res>
+<res>
+<word>سيكون</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الصعب</word> 
+ <lemma>صَعْب</lemma>
+</res>
+<res>
+<word>العثور</word> 
+ <lemma>عُثُور</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>تاريخ</word> 
+ <lemma>تَارِيخ</lemma>
+</res>
+<res>
+<word>لاحق</word> 
+ <lemma>لَاحِق</lemma>
+</res>
+<res>
+<word>لإقامة</word> 
+ <lemma>إِقَامَة</lemma>
+</res>
+<res>
+<word>سباق</word> 
+ <lemma>سِبَاق</lemma>
+</res>
+<res>
+<word>الصين</word> 
+ <lemma>صِين</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ويؤدي</word> 
+ <lemma>أَدَّى</lemma>
+</res>
+<res>
+<word>غياب</word> 
+ <lemma>غِيَاب</lemma>
+</res>
+<res>
+<word>سباق</word> 
+ <lemma>سِبَاق</lemma>
+</res>
+<res>
+<word>الصين</word> 
+ <lemma>صِين</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>فجوة</word> 
+ <lemma>فَجْوَة</lemma>
+</res>
+<res>
+<word>مدتها</word> 
+ <lemma>مَدَّ</lemma>
+</res>
+<res>
+<word>أربعة</word> 
+ <lemma>أَرْبَع</lemma>
+</res>
+<res>
+<word>أسابيع</word> 
+ <lemma>أُسْبُوع</lemma>
+</res>
+<res>
+<word>بين</word> 
+ <lemma>بَيْنَ</lemma>
+</res>
+<res>
+<word>جائزة</word> 
+ <lemma>جَائِزَة</lemma>
+</res>
+<res>
+<word>فيتنام</word> 
+ <lemma>فيتنام</lemma>
+</res>
+<res>
+<word>الكبرى</word> 
+ <lemma>كُبْرَى</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الخامس</word> 
+ <lemma>خَامِس</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>أبريل</word> 
+ <lemma>أَبْرِيل</lemma>
+</res>
+<res>
+<word>/</word> 
+ <lemma>/</lemma>
+</res>
+<res>
+<word>نيسان</word> 
+ <lemma>نِيسَان</lemma>
+</res>
+<res>
+<word>وسباق</word> 
+ <lemma>سِبَاق</lemma>
+</res>
+<res>
+<word>هولندا</word> 
+ <lemma>هُولَنْدَا</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الثالث</word> 
+ <lemma>ثَالِث</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>مايو</word> 
+ <lemma>مَايُو</lemma>
+</res>
+<res>
+<word>/</word> 
+ <lemma>/</lemma>
+</res>
+<res>
+<word>أيار</word> 
+ <lemma>أَيَّار</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وأدى</word> 
+ <lemma>أَدَّى</lemma>
+</res>
+<res>
+<word>تفشي</word> 
+ <lemma>تَفَشّ</lemma>
+</res>
+<res>
+<word>فيروس</word> 
+ <lemma>فَيْرُوس</lemma>
+</res>
+<res>
+<word>كورونا</word> 
+ <lemma>كَوَّرَ</lemma>
+</res>
+<res>
+<word>لإلغاء</word> 
+ <lemma>إِلْغَاء</lemma>
+</res>
+<res>
+<word>العديد</word> 
+ <lemma>عَدِيد</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الأحداث</word> 
+ <lemma>حَدَث</lemma>
+</res>
+<res>
+<word>الرياضية</word> 
+ <lemma>رِيَاضِيّ</lemma>
+</res>
+<res>
+<word>الدولية</word> 
+ <lemma>دُوَلِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>بما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>ذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>تخلي</word> 
+ <lemma>تَخَلَّى</lemma>
+</res>
+<res>
+<word>سلسلة</word> 
+ <lemma>سِلْسِلَة</lemma>
+</res>
+<res>
+<word>سباقات</word> 
+ <lemma>سِبَاق</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>فورمولا</word> 
+ <lemma>فورمولا</lemma>
+</res>
+<res>
+<word>إي</word> 
+ <lemma>إِي</lemma>
+</res>
+<res>
+<word>" </word> 
+ <lemma>" </lemma>
+</res>
+<res>
+<word>للسيارات</word> 
+ <lemma>سَيَّارَة</lemma>
+</res>
+<res>
+<word>الكهربائية</word> 
+ <lemma>كَهْرُبَائِيّ</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>خطط</word> 
+ <lemma>خَطَّطَ</lemma>
+</res>
+<res>
+<word>لإقامة</word> 
+ <lemma>إِقَامَة</lemma>
+</res>
+<res>
+<word>سباق</word> 
+ <lemma>سِبَاق</lemma>
+</res>
+<res>
+<word>بمدينة</word> 
+ <lemma>مَدِينَة</lemma>
+</res>
+<res>
+<word>سانيا</word> 
+ <lemma>سَان</lemma>
+</res>
+<res>
+<word>الصينية</word> 
+ <lemma>صِينِيّ</lemma>
+</res>
+<res>
+<word>الشهر</word> 
+ <lemma>شَهْر</lemma>
+</res>
+<res>
+<word>المقبل</word> 
+ <lemma>مُقْبِل</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

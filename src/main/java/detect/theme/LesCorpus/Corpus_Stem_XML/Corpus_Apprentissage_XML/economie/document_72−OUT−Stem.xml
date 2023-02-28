@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Stems>
+<res>
+<word>زيادة</word> 
+ <stem>زِيَادَة</stem>
+</res>
+<res>
+<word>أسعار</word> 
+ <stem>أَسْعَار</stem>
+</res>
+<res>
+<word>الغذاء</word> 
+ <stem>غِذَاء</stem>
+</res>
+<res>
+<word>والوقود</word> 
+ <stem>وَقُود</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>التضخم</word> 
+ <stem>تَضَخُّم</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>السودان</word> 
+ <stem>سُودَان</stem>
+</res>
+<res>
+<word>يقفز</word> 
+ <stem>يَقْفِز</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word> 136%</word> 
+ <stem> 136%</stem>
+</res>
+
+<res>
+<word>قال</word> 
+ <stem>قَال</stem>
+</res>
+<res>
+<word>الجهاز</word> 
+ <stem>جِهَاز</stem>
+</res>
+<res>
+<word>المركزي</word> 
+ <stem>مَرْكَزِيّ</stem>
+</res>
+<res>
+<word>للإحصاء</word> 
+ <stem>إِحْصَاء</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>السودان</word> 
+ <stem>سُودَان</stem>
+</res>
+<res>
+<word>اليوم</word> 
+ <stem>يَوْم</stem>
+</res>
+<res>
+<word>الثلاثاء</word> 
+ <stem>ثُلَاثَاء</stem>
+</res>
+<res>
+<word>إن</word> 
+ <stem>إِنّ</stem>
+</res>
+<res>
+<word>معدل</word> 
+ <stem>مُعَدَّل</stem>
+</res>
+<res>
+<word>التضخم</word> 
+ <stem>تَضَخُّم</stem>
+</res>
+<res>
+<word>السنوي</word> 
+ <stem>سَنَوِيّ</stem>
+</res>
+<res>
+<word>ارتفع</word> 
+ <stem>ارْتَفَع</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word> 136</word> 
+ <stem> 136</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>36% </word> 
+ <stem>36% </stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>يونيو</word> 
+ <stem>يُونْيُو</stem>
+</res>
+<res>
+<word>/</word> 
+ <stem>/</stem>
+</res>
+<res>
+<word>حزيران</word> 
+ <stem>حُزَيْرَان</stem>
+</res>
+<res>
+<word>الماضي</word> 
+ <stem>مَاضِي</stem>
+</res>
+<res>
+<word>مقابل</word> 
+ <stem>مُقَابِل</stem>
+</res>
+<res>
+<word> 114</word> 
+ <stem> 114</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>23% </word> 
+ <stem>23% </stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>مايو</word> 
+ <stem>مَايُو</stem>
+</res>
+<res>
+<word>/</word> 
+ <stem>/</stem>
+</res>
+<res>
+<word>أيار</word> 
+ <stem>أَيَّار</stem>
+</res>
+<res>
+<word>السابق</word> 
+ <stem>سَابِق</stem>
+</res>
+<res>
+<word>له</word> 
+ <stem>لَه</stem>
+</res>
+<res>
+<word>مدفوعا</word> 
+ <stem>مَدْفُوعًا</stem>
+</res>
+<res>
+<word>بأسعار</word> 
+ <stem>أَسْعَار</stem>
+</res>
+<res>
+<word>الغذاء</word> 
+ <stem>غِذَاء</stem>
+</res>
+<res>
+<word>والوقود</word> 
+ <stem>وَقُود</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وارتفع</word> 
+ <stem>ارْتَفَع</stem>
+</res>
+<res>
+<word>التضخم</word> 
+ <stem>تَضَخُّم</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>السودان</word> 
+ <stem>سُودَان</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الأعوام</word> 
+ <stem>أَعْوَام</stem>
+</res>
+<res>
+<word>الماضية</word> 
+ <stem>مَاضِيَة</stem>
+</res>
+<res>
+<word>مدفوعا</word> 
+ <stem>مَدْفُوعًا</stem>
+</res>
+<res>
+<word>بزيادة</word> 
+ <stem>زِيَادَة</stem>
+</res>
+<res>
+<word>أسعار</word> 
+ <stem>أَسْعَار</stem>
+</res>
+<res>
+<word>الغذاء</word> 
+ <stem>غِذَاء</stem>
+</res>
+<res>
+<word>والمشروبات</word> 
+ <stem>مَشْرُوبَات</stem>
+</res>
+<res>
+<word>والسوق</word> 
+ <stem>سُوَق</stem>
+</res>
+<res>
+<word>السوداء</word> 
+ <stem>سَوْدَاء</stem>
+</res>
+<res>
+<word>للدولار</word> 
+ <stem>دُولَار</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وكان</word> 
+ <stem>كَان</stem>
+</res>
+<res>
+<word>ذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>أحد</word> 
+ <stem>أَحَد</stem>
+</res>
+<res>
+<word>عوامل</word> 
+ <stem>عَوَامِل</stem>
+</res>
+<res>
+<word>الإطاحة</word> 
+ <stem>إِطَاحَة</stem>
+</res>
+<res>
+<word>بالرئيس</word> 
+ <stem>رَئِيس</stem>
+</res>
+<res>
+<word>السابق</word> 
+ <stem>سَابِق</stem>
+</res>
+<res>
+<word>عمر</word> 
+ <stem>عُمَر</stem>
+</res>
+<res>
+<word>البشير</word> 
+ <stem>بَشِير</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>العام</word> 
+ <stem>عَام</stem>
+</res>
+<res>
+<word>الماضي</word> 
+ <stem>مَاضِي</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وقال</word> 
+ <stem>قَال</stem>
+</res>
+<res>
+<word>بيان</word> 
+ <stem>بَيَان</stem>
+</res>
+<res>
+<word>صادر</word> 
+ <stem>صَادِر</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>الجهاز</word> 
+ <stem>جِهَاز</stem>
+</res>
+<res>
+<word>المركزي</word> 
+ <stem>مَرْكَزِيّ</stem>
+</res>
+<res>
+<word>للإحصاء</word> 
+ <stem>إِحْصَاء</stem>
+</res>
+<res>
+<word>اليوم</word> 
+ <stem>يَوْم</stem>
+</res>
+<res>
+<word>الثلاثاء</word> 
+ <stem>ثُلَاثَاء</stem>
+</res>
+<res>
+<word>إن</word> 
+ <stem>إِنّ</stem>
+</res>
+<res>
+<word>معدل</word> 
+ <stem>مُعَدَّل</stem>
+</res>
+<res>
+<word>التضخم</word> 
+ <stem>تَضَخُّم</stem>
+</res>
+<res>
+<word>الشهري</word> 
+ <stem>شَهْرِيّ</stem>
+</res>
+<res>
+<word>ارتفع</word> 
+ <stem>ارْتَفَع</stem>
+</res>
+<res>
+<word>هو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>الآخر</word> 
+ <stem>آخَر</stem>
+</res>
+<res>
+<word>بنسبة</word> 
+ <stem>نِسْبَة</stem>
+</res>
+<res>
+<word> 22</word> 
+ <stem> 22</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>13% </word> 
+ <stem>13% </stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>يونيو</word> 
+ <stem>يُونْيُو</stem>
+</res>
+<res>
+<word>/</word> 
+ <stem>/</stem>
+</res>
+<res>
+<word>حزيران</word> 
+ <stem>حُزَيْرَان</stem>
+</res>
+<res>
+<word>مقارنة</word> 
+ <stem>مُقَارَنَة</stem>
+</res>
+<res>
+<word>بمايو</word> 
+ <stem>مَايُو</stem>
+</res>
+<res>
+<word>/</word> 
+ <stem>/</stem>
+</res>
+<res>
+<word>أيار</word> 
+ <stem>أَيَّار</stem>
+</res>
+<res>
+<word>الماضيين</word> 
+ <stem>مَاضِيَيْن</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وأرجع</word> 
+ <stem>أَرْجِع</stem>
+</res>
+<res>
+<word>الجهاز</word> 
+ <stem>جِهَاز</stem>
+</res>
+<res>
+<word>المركزي</word> 
+ <stem>مَرْكَزِيّ</stem>
+</res>
+<res>
+<word>للإحصاء</word> 
+ <stem>إِحْصَاء</stem>
+</res>
+<res>
+<word>أسباب</word> 
+ <stem>أَسْبَاب</stem>
+</res>
+<res>
+<word>ارتفاع</word> 
+ <stem>ارْتِفَاع</stem>
+</res>
+<res>
+<word>التضخم</word> 
+ <stem>تَضَخُّم</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>أساس</word> 
+ <stem>أَسَاس</stem>
+</res>
+<res>
+<word>سنوي</word> 
+ <stem>سَنَوِيّ</stem>
+</res>
+<res>
+<word>وشهري</word> 
+ <stem>شَهْرِيّ</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>صعود</word> 
+ <stem>صُعُود</stem>
+</res>
+<res>
+<word>جميع</word> 
+ <stem>جَمِيع</stem>
+</res>
+<res>
+<word>مكونات</word> 
+ <stem>مُكَوِّنَات</stem>
+</res>
+<res>
+<word>مجموعة</word> 
+ <stem>مَجْمُوعَة</stem>
+</res>
+<res>
+<word>الأغذية</word> 
+ <stem>أَغْذِيَة</stem>
+</res>
+<res>
+<word>والمشروبات</word> 
+ <stem>مَشْرُوبَات</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>خاصة</word> 
+ <stem>خَاصَّة</stem>
+</res>
+<res>
+<word>أسعار</word> 
+ <stem>أَسْعَار</stem>
+</res>
+<res>
+<word>الخبز</word> 
+ <stem>خُبْز</stem>
+</res>
+<res>
+<word>والحبوب</word> 
+ <stem>حُبُوب</stem>
+</res>
+<res>
+<word>واللحوم</word> 
+ <stem>لُحُوم</stem>
+</res>
+<res>
+<word>واللبن</word> 
+ <stem>لَبَن</stem>
+</res>
+<res>
+<word>والجبن</word> 
+ <stem>الْجَبِنّ</stem>
+</res>
+<res>
+<word>والبيض</word> 
+ <stem>بُيْض</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>كما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>أظهرت</word> 
+ <stem>أَظْهَرَت</stem>
+</res>
+<res>
+<word>البيانات</word> 
+ <stem>بَيَانَات</stem>
+</res>
+<res>
+<word>وجود</word> 
+ <stem>وُجُود</stem>
+</res>
+<res>
+<word>ارتفاع</word> 
+ <stem>ارْتِفَاع</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>أسعار</word> 
+ <stem>أَسْعَار</stem>
+</res>
+<res>
+<word>مجموعة</word> 
+ <stem>مَجْمُوعَة</stem>
+</res>
+<res>
+<word>النقل</word> 
+ <stem>نَقْل</stem>
+</res>
+<res>
+<word>نتيجة</word> 
+ <stem>نَتِيجَة</stem>
+</res>
+<res>
+<word>صعود</word> 
+ <stem>صُعُود</stem>
+</res>
+<res>
+<word>أسعار</word> 
+ <stem>أَسْعَار</stem>
+</res>
+<res>
+<word>الوقود</word> 
+ <stem>وَقُود</stem>
+</res>
+<res>
+<word>خلال</word> 
+ <stem>خِلَال</stem>
+</res>
+<res>
+<word>يونيو</word> 
+ <stem>يُونْيُو</stem>
+</res>
+<res>
+<word>/</word> 
+ <stem>/</stem>
+</res>
+<res>
+<word>حزيران</word> 
+ <stem>حُزَيْرَان</stem>
+</res>
+<res>
+<word>الماضي</word> 
+ <stem>مَاضِي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>للشهر</word> 
+ <stem>شَهْر</stem>
+</res>
+<res>
+<word>الثاني</word> 
+ <stem>ثَانِي</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>التوالي</word> 
+ <stem>تَوَالِي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>تراجعات</word> 
+ <stem>تَرَاجُعَات</stem>
+</res>
+<res>
+<word>حادة</word> 
+ <stem>حَادَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>أبريل</word> 
+ <stem>أَبْرِيل</stem>
+</res>
+<res>
+<word>/</word> 
+ <stem>/</stem>
+</res>
+<res>
+<word>نيسان</word> 
+ <stem>نِيسَان</stem>
+</res>
+<res>
+<word> 2020</word> 
+ <stem> 2020</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وتدهور</word> 
+ <stem>تَدَهْوُر</stem>
+</res>
+<res>
+<word>الاقتصاد</word> 
+ <stem>اقْتِصَاد</stem>
+</res>
+<res>
+<word>السوداني</word> 
+ <stem>سُودَانِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>وقت</word> 
+ <stem>وَقْت</stem>
+</res>
+<res>
+<word>تكافح</word> 
+ <stem>تُكَافِح</stem>
+</res>
+<res>
+<word>الحكومة</word> 
+ <stem>حُكُومَة</stem>
+</res>
+<res>
+<word>الانتقالية</word> 
+ <stem>انْتِقَالِيَّة</stem>
+</res>
+<res>
+<word>لبدء</word> 
+ <stem>بَدْء</stem>
+</res>
+<res>
+<word>إصلاحات</word> 
+ <stem>إِصْلَاحَات</stem>
+</res>
+<res>
+<word>اقتصادية</word> 
+ <stem>اقْتِصَادِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وسط</word> 
+ <stem>وَسْط</stem>
+</res>
+<res>
+<word>احتجاجات</word> 
+ <stem>احْتِجَاجَات</stem>
+</res>
+<res>
+<word>شعبية</word> 
+ <stem>شَعْبِيَّة</stem>
+</res>
+<res>
+<word>تنديدا</word> 
+ <stem>تَنْدِيدًا</stem>
+</res>
+<res>
+<word>بتردي</word> 
+ <stem>تَرَدِّي</stem>
+</res>
+<res>
+<word>الأوضاع</word> 
+ <stem>أَوْضَاع</stem>
+</res>
+<res>
+<word>الاقتصادية</word> 
+ <stem>اقْتِصَادِيَّة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ويعاني</word> 
+ <stem>يُعَانِي</stem>
+</res>
+<res>
+<word>السودان</word> 
+ <stem>سُودَان</stem>
+</res>
+<res>
+<word>أزمات</word> 
+ <stem>أَزَمَات</stem>
+</res>
+<res>
+<word>متجددة</word> 
+ <stem>مُتَجَدِّدَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الخبز</word> 
+ <stem>خُبْز</stem>
+</res>
+<res>
+<word>والطحين</word> 
+ <stem>طَحِين</stem>
+</res>
+<res>
+<word>والوقود</word> 
+ <stem>وَقُود</stem>
+</res>
+<res>
+<word>وغاز</word> 
+ <stem>غَاز</stem>
+</res>
+<res>
+<word>الطهي</word> 
+ <stem>طُهِيّ</stem>
+</res>
+<res>
+<word>نتيجة</word> 
+ <stem>نَتِيجَة</stem>
+</res>
+<res>
+<word>ارتفاع</word> 
+ <stem>ارْتِفَاع</stem>
+</res>
+<res>
+<word>سعر</word> 
+ <stem>سِعْر</stem>
+</res>
+<res>
+<word>الدولار</word> 
+ <stem>دُولَار</stem>
+</res>
+<res>
+<word>مقابل</word> 
+ <stem>مُقَابِل</stem>
+</res>
+<res>
+<word>الجنيه</word> 
+ <stem>جُنَيْه</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الأسواق</word> 
+ <stem>أَسْوَاق</stem>
+</res>
+<res>
+<word>الموازية</word> 
+ <stem>مَوَّازِيَّة</stem>
+</res>
+<res>
+<word> (</word> 
+ <stem> (</stem>
+</res>
+<res>
+<word>غير</word> 
+ <stem>غَيْر</stem>
+</res>
+<res>
+<word>الرسمية</word> 
+ <stem>رَسْمِيَّة</stem>
+</res>
+<res>
+<word>) </word> 
+ <stem>) </stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>أرقام</word> 
+ <stem>رَقَّام</stem>
+</res>
+<res>
+<word>قياسية</word> 
+ <stem>قِيَاسِيَّة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ويدفع</word> 
+ <stem>يَدْفَع</stem>
+</res>
+<res>
+<word>تراجع</word> 
+ <stem>تَرَاجُع</stem>
+</res>
+<res>
+<word>الجنيه</word> 
+ <stem>جُنَيْه</stem>
+</res>
+<res>
+<word>التضخم</word> 
+ <stem>تَضَخُّم</stem>
+</res>
+<res>
+<word>للارتفاع</word> 
+ <stem>ارْتِفَاع</stem>
+</res>
+<res>
+<word>نظرا</word> 
+ <stem>نَظَرًا</stem>
+</res>
+<res>
+<word>لقلة</word> 
+ <stem>قِلَّة</stem>
+</res>
+<res>
+<word>المنتجات</word> 
+ <stem>مُنْتَجَات</stem>
+</res>
+<res>
+<word>السودانية</word> 
+ <stem>سُودَانِيَّة</stem>
+</res>
+<res>
+<word>واعتماد</word> 
+ <stem>اعْتِمَاد</stem>
+</res>
+<res>
+<word>البلد</word> 
+ <stem>بَلَد</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>الواردات</word> 
+ <stem>وَارِدَات</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+</Stems>

@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>ثنائية</word> 
+ <lemma>ثَنَائِيّ</lemma>
+</res>
+<res>
+<word>بنزيمة</word> 
+ <lemma>بنزيمة</lemma>
+</res>
+<res>
+<word>تقود</word> 
+ <lemma>قَادَ</lemma>
+</res>
+<res>
+<word>ريال</word> 
+ <lemma>رِيَال</lemma>
+</res>
+<res>
+<word>مدريد</word> 
+ <lemma>مَدْرِيد</lemma>
+</res>
+<res>
+<word>لمواصلة</word> 
+ <lemma>مُوَاصَلَة</lemma>
+</res>
+<res>
+<word>انتفاضته</word> 
+ <lemma>انْتِفَاضَة</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الليغا</word> 
+ <lemma>الليغا</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>حساب</word> 
+ <lemma>حِسَاب</lemma>
+</res>
+<res>
+<word>بلباو</word> 
+ <lemma>بلباو</lemma>
+</res>
+
+<res>
+<word>سجل</word> 
+ <lemma>سَجَّلَ</lemma>
+</res>
+<res>
+<word>المهاجم</word> 
+ <lemma>مُهَاجِم</lemma>
+</res>
+<res>
+<word>الفرنسي</word> 
+ <lemma>فَرَنْسِيّ</lemma>
+</res>
+<res>
+<word>المخضرم</word> 
+ <lemma>مُخَضْرَم</lemma>
+</res>
+<res>
+<word>كريم</word> 
+ <lemma>كَرِيم</lemma>
+</res>
+<res>
+<word>بنزيمة</word> 
+ <lemma>بنزيمة</lemma>
+</res>
+<res>
+<word>هدفين</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>ليقود</word> 
+ <lemma>قَادَ</lemma>
+</res>
+<res>
+<word>فريقه</word> 
+ <lemma>فَرِيق</lemma>
+</res>
+<res>
+<word>ريال</word> 
+ <lemma>رِيَال</lemma>
+</res>
+<res>
+<word>مدريد</word> 
+ <lemma>مَدْرِيد</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>مواصلة</word> 
+ <lemma>مُوَاصَلَة</lemma>
+</res>
+<res>
+<word>انتفاضته</word> 
+ <lemma>انْتِفَاضَة</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>رحلة</word> 
+ <lemma>رِحْلَة</lemma>
+</res>
+<res>
+<word>الدفاع</word> 
+ <lemma>دِفَاع</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>لقبه</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>بالدوري</word> 
+ <lemma>دَوْرِيّ</lemma>
+</res>
+<res>
+<word>الإسباني</word> 
+ <lemma>إِسْبَانِيّ</lemma>
+</res>
+<res>
+<word>لكرة</word> 
+ <lemma>كُرَة</lemma>
+</res>
+<res>
+<word>القدم</word> 
+ <lemma>قَدَم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>بتحقيق</word> 
+ <lemma>تَحْقِيق</lemma>
+</res>
+<res>
+<word>انتصاره</word> 
+ <lemma>انْتِصَار</lemma>
+</res>
+<res>
+<word>الثالث</word> 
+ <lemma>ثَالِث</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>التوالي</word> 
+ <lemma>تَوَال</lemma>
+</res>
+<res>
+<word>بالفوز</word> 
+ <lemma>فَوْز</lemma>
+</res>
+<res>
+<word> 3-1 </word> 
+ <lemma> 3-1 </lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>أتلتيك</word> 
+ <lemma>أَتْلَة</lemma>
+</res>
+<res>
+<word>بلباو</word> 
+ <lemma>بلباو</lemma>
+</res>
+<res>
+<word>مساء</word> 
+ <lemma>مَسَاء</lemma>
+</res>
+<res>
+<word>الثلاثاء</word> 
+ <lemma>ثُلَاثَاء</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وعلى</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>ملعب</word> 
+ <lemma>مَلْعَب</lemma>
+</res>
+<res>
+<word>ألفريدو</word> 
+ <lemma>ألفريدو</lemma>
+</res>
+<res>
+<word>دي</word> 
+ <lemma>يَدَى</lemma>
+</res>
+<res>
+<word>ستيفانو</word> 
+ <lemma>ستيفانو</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>مدريد</word> 
+ <lemma>مَدْرِيد</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>استغل</word> 
+ <lemma>اسْتَغَلَّ</lemma>
+</res>
+<res>
+<word>الريال</word> 
+ <lemma>رِيَال</lemma>
+</res>
+<res>
+<word>النقص</word> 
+ <lemma>نَقْص</lemma>
+</res>
+<res>
+<word>العددي</word> 
+ <lemma>عَدَدِيّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>صفوف</word> 
+ <lemma>صَفّ</lemma>
+</res>
+<res>
+<word>ضيفه</word> 
+ <lemma>ضَيْف</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْد</lemma>
+</res>
+<res>
+<word>طرد</word> 
+ <lemma>طَرْد</lemma>
+</res>
+<res>
+<word>راؤول</word> 
+ <lemma>راؤول</lemma>
+</res>
+<res>
+<word>غارسيا</word> 
+ <lemma>غَارْسْيَا</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الدقيقة</word> 
+ <lemma>دَقِيق</lemma>
+</res>
+<res>
+<word> 13، </word> 
+ <lemma> 13، </lemma>
+</res>
+<res>
+<word>وانتزع</word> 
+ <lemma>انْتَزَعَ</lemma>
+</res>
+<res>
+<word>فوزا</word> 
+ <lemma>فَوْز</lemma>
+</res>
+<res>
+<word>غاليا</word> 
+ <lemma>غَال</lemma>
+</res>
+<res>
+<word> 3-1 </word> 
+ <lemma> 3-1 </lemma>
+</res>
+<res>
+<word>ليرفع</word> 
+ <lemma>رَفَعَ</lemma>
+</res>
+<res>
+<word>رصيده</word> 
+ <lemma>رَصِيد</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word> 26 </word> 
+ <lemma> 26 </lemma>
+</res>
+<res>
+<word>نقطة</word> 
+ <lemma>نُقْطَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ويتقدم</word> 
+ <lemma>تَقَدَّمَ</lemma>
+</res>
+<res>
+<word>لمزاحمة</word> 
+ <lemma>مُزَاحَم</lemma>
+</res>
+<res>
+<word>ريال</word> 
+ <lemma>رِيَال</lemma>
+</res>
+<res>
+<word>سوسييداد</word> 
+ <lemma>سوسييداد</lemma>
+</res>
+<res>
+<word>وأتلتيكو</word> 
+ <lemma>أَتْلِتِيكُو</lemma>
+</res>
+<res>
+<word>مدريد</word> 
+ <lemma>مَدْرِيد</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الصدارة</word> 
+ <lemma>صَدَارَة</lemma>
+</res>
+<res>
+<word>وإن</word> 
+ <lemma>إِنْ</lemma>
+</res>
+<res>
+<word>تفوق</word> 
+ <lemma>فَاقَ</lemma>
+</res>
+<res>
+<word>سوسييداد</word> 
+ <lemma>سوسييداد</lemma>
+</res>
+<res>
+<word>وأتلتيكو</word> 
+ <lemma>أَتْلِتِيكُو</lemma>
+</res>
+<res>
+<word>بفارق</word> 
+ <lemma>فَارِق</lemma>
+</res>
+<res>
+<word>الأهداف</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وأنهى</word> 
+ <lemma>أَنْهَى</lemma>
+</res>
+<res>
+<word>الريال</word> 
+ <lemma>رِيَال</lemma>
+</res>
+<res>
+<word>الشوط</word> 
+ <lemma>شَوْط</lemma>
+</res>
+<res>
+<word>الأول</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>لصالحه</word> 
+ <lemma>صَالِح</lemma>
+</res>
+<res>
+<word>بهدف</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>نظيف</word> 
+ <lemma>نَظِيف</lemma>
+</res>
+<res>
+<word>سجله</word> 
+ <lemma>سَجَّلَ</lemma>
+</res>
+<res>
+<word>الألماني</word> 
+ <lemma>أَلْمَانِيّ</lemma>
+</res>
+<res>
+<word>الدولي</word> 
+ <lemma>دُوَلِيّ</lemma>
+</res>
+<res>
+<word>توني</word> 
+ <lemma>وَنَى</lemma>
+</res>
+<res>
+<word>كروس</word> 
+ <lemma>رَوْس</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الدقيقة</word> 
+ <lemma>دَقِيق</lemma>
+</res>
+<res>
+<word>الثانية</word> 
+ <lemma>ثَانِي</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الوقت</word> 
+ <lemma>وَقْت</lemma>
+</res>
+<res>
+<word>بدل</word> 
+ <lemma>بَدَل</lemma>
+</res>
+<res>
+<word>الضائع</word> 
+ <lemma>ضَائِع</lemma>
+</res>
+<res>
+<word>للشوط</word> 
+ <lemma>شَوْط</lemma>
+</res>
+<res>
+<word>الأول</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>🤩⚽</word> 
+ <lemma>🤩⚽</lemma>
+</res>
+<res>
+<word>احتفال</word> 
+ <lemma>احْتِفَال</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>توني</word> 
+ <lemma>وَنَى</lemma>
+</res>
+<res>
+<word>كروس</word> 
+ <lemma>رَوْس</lemma>
+</res>
+<res>
+<word>" </word> 
+ <lemma>" </lemma>
+</res>
+<res>
+<word>بهدفه</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>الأول</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>هذا</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>الموسم</word> 
+ <lemma>مَوْسِم</lemma>
+</res>
+<res>
+<word>مع</word> 
+ <lemma>مَعَ</lemma>
+</res>
+<res>
+<word>الملكي</word> 
+ <lemma>مَلَكِيّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>#LaLigaFanCam #RealMadridAthletic #LaLigaSantander pic</word> 
+ <lemma>#LaLigaFanCam #RealMadridAthletic #LaLigaSantander pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/QeMz1Cc4Ji</word> 
+ <lemma>com/QeMz1Cc4Ji</lemma>
+</res>
+
+<res>
+<word>— LaLiga (@LaLigaArab) December 15, 2020</word> 
+ <lemma>— LaLiga (@LaLigaArab) December 15, 2020</lemma>
+</res>
+
+
+<res>
+<word>وفي</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الشوط</word> 
+ <lemma>شَوْط</lemma>
+</res>
+<res>
+<word>الثاني</word> 
+ <lemma>ثَانِي</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>سجل</word> 
+ <lemma>سِجِلّ</lemma>
+</res>
+<res>
+<word>أندير</word> 
+ <lemma>أَدَارَ</lemma>
+</res>
+<res>
+<word>كابا</word> 
+ <lemma>كَابّ</lemma>
+</res>
+<res>
+<word>هدف</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>التعادل</word> 
+ <lemma>تَعَادُل</lemma>
+</res>
+<res>
+<word>لبلباو</word> 
+ <lemma>لبلباو</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الدقيقة</word> 
+ <lemma>دَقِيق</lemma>
+</res>
+<res>
+<word> 52 </word> 
+ <lemma> 52 </lemma>
+</res>
+<res>
+<word>ليتأزم</word> 
+ <lemma>تَأَزَّمَ</lemma>
+</res>
+<res>
+<word>موقف</word> 
+ <lemma>مَوْقِف</lemma>
+</res>
+<res>
+<word>الملكي</word> 
+ <lemma>مَلَكِيّ</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>فشل</word> 
+ <lemma>فَشِلَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الحفاظ</word> 
+ <lemma>حِفَاظ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>تقدمه</word> 
+ <lemma>قَدِمَ</lemma>
+</res>
+<res>
+<word>أمام</word> 
+ <lemma>أَمَامَ</lemma>
+</res>
+<res>
+<word> 10 </word> 
+ <lemma> 10 </lemma>
+</res>
+<res>
+<word>لاعبين</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>"</word> 
+ <lemma>"</lemma>
+</res>
+<res>
+<word>أندير</word> 
+ <lemma>أَدَارَ</lemma>
+</res>
+<res>
+<word>كابا</word> 
+ <lemma>كَابّ</lemma>
+</res>
+<res>
+<word>" </word> 
+ <lemma>" </lemma>
+</res>
+<res>
+<word>يحتفل</word> 
+ <lemma>احْتَفَلَ</lemma>
+</res>
+<res>
+<word>بهدف</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>التعادل</word> 
+ <lemma>تَعَادُل</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>🎬🤗#LaLigaFanCam #RealMadridAthletic #LaLigaSantander pic</word> 
+ <lemma>🎬🤗#LaLigaFanCam #RealMadridAthletic #LaLigaSantander pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/0kwmy2fGNe</word> 
+ <lemma>com/0kwmy2fGNe</lemma>
+</res>
+
+<res>
+<word>— LaLiga (@LaLigaArab) December 15, 2020</word> 
+ <lemma>— LaLiga (@LaLigaArab) December 15, 2020</lemma>
+</res>
+
+
+<res>
+<word>🔥9⃣⚽</word> 
+ <lemma>🔥9⃣⚽</lemma>
+</res>
+<res>
+<word>أنا</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word> @Benzema ، </word> 
+ <lemma> @Benzema ، </lemma>
+</res>
+<res>
+<word>أنا</word> 
+ <lemma>أَنَا</lemma>
+</res>
+<res>
+<word>الهداف</word> 
+ <lemma>هَدَّاف</lemma>
+</res>
+<res>
+<word>…#RealMadridAthletic 2-1#LaLigaSantander pic</word> 
+ <lemma>…#RealMadridAthletic 2-1#LaLigaSantander pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/xnPaupDBO9</word> 
+ <lemma>com/xnPaupDBO9</lemma>
+</res>
+
+<res>
+<word>— LaLiga (@LaLigaArab) December 15, 2020</word> 
+ <lemma>— LaLiga (@LaLigaArab) December 15, 2020</lemma>
+</res>
+
+
+<res>
+<word>لكن</word> 
+ <lemma>لَكِنْ</lemma>
+</res>
+<res>
+<word>النجم</word> 
+ <lemma>نَجْم</lemma>
+</res>
+<res>
+<word>الفرنسي</word> 
+ <lemma>فَرَنْسِيّ</lemma>
+</res>
+<res>
+<word>كريم</word> 
+ <lemma>كَرِيم</lemma>
+</res>
+<res>
+<word>بنزيمة</word> 
+ <lemma>بنزيمة</lemma>
+</res>
+<res>
+<word>استعاد</word> 
+ <lemma>اسْتَعَادَ</lemma>
+</res>
+<res>
+<word>تألقه</word> 
+ <lemma>تَأَلُّق</lemma>
+</res>
+<res>
+<word>وسجل</word> 
+ <lemma>سَجَّلَ</lemma>
+</res>
+<res>
+<word>هدفي</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>الفوز</word> 
+ <lemma>فَوْز</lemma>
+</res>
+<res>
+<word>للريال</word> 
+ <lemma>رِيَال</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الدقيقتين</word> 
+ <lemma>دَقِيق</lemma>
+</res>
+<res>
+<word> 74 </word> 
+ <lemma> 74 </lemma>
+</res>
+<res>
+<word>والثانية</word> 
+ <lemma>ثَانِي</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الوقت</word> 
+ <lemma>وَقْت</lemma>
+</res>
+<res>
+<word>بدل</word> 
+ <lemma>بَدَل</lemma>
+</res>
+<res>
+<word>الضائع</word> 
+ <lemma>ضَائِع</lemma>
+</res>
+<res>
+<word>للمباراة</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ليتجمد</word> 
+ <lemma>تَجَمَّدَ</lemma>
+</res>
+<res>
+<word>رصيد</word> 
+ <lemma>رَصِيد</lemma>
+</res>
+<res>
+<word>بلباو</word> 
+ <lemma>بلباو</lemma>
+</res>
+<res>
+<word>عند</word> 
+ <lemma>عِنْدَ</lemma>
+</res>
+<res>
+<word> 14 </word> 
+ <lemma> 14 </lemma>
+</res>
+<res>
+<word>نقطة</word> 
+ <lemma>نُقْطَة</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>المركز</word> 
+ <lemma>مَرْكَز</lemma>
+</res>
+<res>
+<word> 13</word> 
+ <lemma> 13</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ثنائية</word> 
+ <lemma>ثَنَائِيّ</lemma>
+</res>
+<res>
+<word>كريم</word> 
+ <lemma>كَرِيم</lemma>
+</res>
+<res>
+<word> @Benzema </word> 
+ <lemma> @Benzema </lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>هدف</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word> @ToniKroos </word> 
+ <lemma> @ToniKroos </lemma>
+</res>
+<res>
+<word>يمنحان</word> 
+ <lemma>مَنَحَ</lemma>
+</res>
+<res>
+<word>الملكي</word> 
+ <lemma>مَلَكِيّ</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>ريال</word> 
+ <lemma>رِيَال</lemma>
+</res>
+<res>
+<word>مدريد</word> 
+ <lemma>مَدْرِيد</lemma>
+</res>
+<res>
+<word>" </word> 
+ <lemma>" </lemma>
+</res>
+<res>
+<word>الفوز</word> 
+ <lemma>فَوْز</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>👏💜#RealMadridAthletic 3-1#LiveResults pic</word> 
+ <lemma>👏💜#RealMadridAthletic 3-1#LiveResults pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/pLU2asfKnT</word> 
+ <lemma>com/pLU2asfKnT</lemma>
+</res>
+
+<res>
+<word>— LaLiga (@LaLigaArab) December 15, 2020</word> 
+ <lemma>— LaLiga (@LaLigaArab) December 15, 2020</lemma>
+</res>
+
+
+</Lemmas>

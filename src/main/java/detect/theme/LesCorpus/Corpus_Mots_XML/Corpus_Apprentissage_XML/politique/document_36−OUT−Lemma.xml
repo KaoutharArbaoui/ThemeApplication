@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>مصدر</word> 
+ <lemma>مَصْدَر</lemma>
+</res>
+<res>
+<word>:</word> 
+ <lemma>:</lemma>
+</res>
+<res>
+<word>طائرة</word> 
+ <lemma>طَائِرَة</lemma>
+</res>
+<res>
+<word>مسيرة</word> 
+ <lemma>مَسِيرَة</lemma>
+</res>
+<res>
+<word>تقتل</word> 
+ <lemma>قَتَلَ</lemma>
+</res>
+<res>
+<word>قائدا</word> 
+ <lemma>قَائِد</lemma>
+</res>
+<res>
+<word>عسكريا</word> 
+ <lemma>عَسْكَرِيّ</lemma>
+</res>
+<res>
+<word>إيرانيا</word> 
+ <lemma>إِيرَانِيّ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الحدود</word> 
+ <lemma>حَدّ</lemma>
+</res>
+<res>
+<word>العراقية</word> 
+ <lemma>عِرَاقِيّ</lemma>
+</res>
+<res>
+<word>السورية</word> 
+ <lemma>سُورِيّ</lemma>
+</res>
+
+<res>
+<word>قال</word> 
+ <lemma>قَالَ</lemma>
+</res>
+<res>
+<word>مصدر</word> 
+ <lemma>مَصْدَر</lemma>
+</res>
+<res>
+<word>بالحشد</word> 
+ <lemma>حَشْد</lemma>
+</res>
+<res>
+<word>الشعبي</word> 
+ <lemma>شَعْبِيّ</lemma>
+</res>
+<res>
+<word>العراقي</word> 
+ <lemma>عِرَاقِيّ</lemma>
+</res>
+<res>
+<word>إن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>قائدا</word> 
+ <lemma>قَائِد</lemma>
+</res>
+<res>
+<word>عسكريا</word> 
+ <lemma>عَسْكَرِيّ</lemma>
+</res>
+<res>
+<word>رفيعا</word> 
+ <lemma>رَفِيع</lemma>
+</res>
+<res>
+<word>ينتمي</word> 
+ <lemma>انْتَمَى</lemma>
+</res>
+<res>
+<word>للحرس</word> 
+ <lemma>حَرْس</lemma>
+</res>
+<res>
+<word>الثوري</word> 
+ <lemma>ثَوْرِيّ</lemma>
+</res>
+<res>
+<word>الإيراني</word> 
+ <lemma>إِيرَانِيّ</lemma>
+</res>
+<res>
+<word>قُتل</word> 
+ <lemma>قَتَلَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>وقت</word> 
+ <lemma>وَقْت</lemma>
+</res>
+<res>
+<word>متأخر</word> 
+ <lemma>مُتَأَخِّر</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>مساء</word> 
+ <lemma>مَسَاء</lemma>
+</res>
+<res>
+<word>الأحد</word> 
+ <lemma>أَحَد</lemma>
+</res>
+<res>
+<word>داخل</word> 
+ <lemma>دَاخِل</lemma>
+</res>
+<res>
+<word>الأراضي</word> 
+ <lemma>أَرْض</lemma>
+</res>
+<res>
+<word>السورية</word> 
+ <lemma>سُورِيّ</lemma>
+</res>
+<res>
+<word>قرب</word> 
+ <lemma>قُرْب</lemma>
+</res>
+<res>
+<word>الحدود</word> 
+ <lemma>حَدّ</lemma>
+</res>
+<res>
+<word>العراقية</word> 
+ <lemma>عِرَاقِيّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وأوضح</word> 
+ <lemma>أَوْضَحَ</lemma>
+</res>
+<res>
+<word>المصدر</word> 
+ <lemma>مَصْدَر</lemma>
+</res>
+<res>
+<word>للجزيرة</word> 
+ <lemma>جَزِيرَة</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>السيارة</word> 
+ <lemma>سَيَّارَة</lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>كان</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>بداخلها</word> 
+ <lemma>دَاخِل</lemma>
+</res>
+<res>
+<word>تعرضت</word> 
+ <lemma>تَعَرَّضَ</lemma>
+</res>
+<res>
+<word>لقصف</word> 
+ <lemma>قَصْف</lemma>
+</res>
+<res>
+<word>جوي</word> 
+ <lemma>جَوِّيّ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>طائرة</word> 
+ <lemma>طَائِرَة</lemma>
+</res>
+<res>
+<word>مسيرة</word> 
+ <lemma>مَسِيرَة</lemma>
+</res>
+<res>
+<word>مجهولة</word> 
+ <lemma>مَجْهُول</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وأضاف</word> 
+ <lemma>أَضَافَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>القيادي</word> 
+ <lemma>قِيَادِيّ</lemma>
+</res>
+<res>
+<word> -</word> 
+ <lemma> -</lemma>
+</res>
+<res>
+<word>واسمه</word> 
+ <lemma>اسْم</lemma>
+</res>
+<res>
+<word>مسلم</word> 
+ <lemma>مُسْلِم</lemma>
+</res>
+<res>
+<word>شهدان</word> 
+ <lemma>شَهْدَان</lemma>
+</res>
+<res>
+<word>- </word> 
+ <lemma>- </lemma>
+</res>
+<res>
+<word>قُتل</word> 
+ <lemma>قَتَلَ</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>أنهى</word> 
+ <lemma>أَنْهَى</lemma>
+</res>
+<res>
+<word>اجتماعا</word> 
+ <lemma>اجْتِمَاع</lemma>
+</res>
+<res>
+<word>مع</word> 
+ <lemma>مَعَ</lemma>
+</res>
+<res>
+<word>قيادات</word> 
+ <lemma>قِيَادَة</lemma>
+</res>
+<res>
+<word>بالحشد</word> 
+ <lemma>حَشْد</lemma>
+</res>
+<res>
+<word>الشعبي</word> 
+ <lemma>شَعْبِيّ</lemma>
+</res>
+<res>
+<word>داخل</word> 
+ <lemma>دَاخِل</lemma>
+</res>
+<res>
+<word>الأراضي</word> 
+ <lemma>أَرْض</lemma>
+</res>
+<res>
+<word>العراقية</word> 
+ <lemma>عِرَاقِيّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وقال</word> 
+ <lemma>قَالَ</lemma>
+</res>
+<res>
+<word>إن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>القصف</word> 
+ <lemma>قَصْف</lemma>
+</res>
+<res>
+<word>حدث</word> 
+ <lemma>حَدَثَ</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>دقائق</word> 
+ <lemma>دَقِيقَة</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>دخول</word> 
+ <lemma>دُخُول</lemma>
+</res>
+<res>
+<word>السيارة</word> 
+ <lemma>سَيَّارَة</lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>كان</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>يستقلها</word> 
+ <lemma>اسْتَقَلَّ</lemma>
+</res>
+<res>
+<word>منطقة</word> 
+ <lemma>مِنْطَقَة</lemma>
+</res>
+<res>
+<word>صحراوية</word> 
+ <lemma>صَحْرَاوِيّ</lemma>
+</res>
+<res>
+<word>حدودية</word> 
+ <lemma>حُدُودِيّ</lemma>
+</res>
+<res>
+<word>داخل</word> 
+ <lemma>دَاخِل</lemma>
+</res>
+<res>
+<word>الأراضي</word> 
+ <lemma>أَرْض</lemma>
+</res>
+<res>
+<word>السورية</word> 
+ <lemma>سُورِيّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>وذكر</word> 
+ <lemma>ذَكَرَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>القائد</word> 
+ <lemma>قَائِد</lemma>
+</res>
+<res>
+<word>كان</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>معه</word> 
+ <lemma>مَعَ</lemma>
+</res>
+<res>
+<word>داخل</word> 
+ <lemma>دَاخِل</lemma>
+</res>
+<res>
+<word>السيارة</word> 
+ <lemma>سَيَّارَة</lemma>
+</res>
+<res>
+<word> 3 </word> 
+ <lemma> 3 </lemma>
+</res>
+<res>
+<word>أشخاص</word> 
+ <lemma>شَخْص</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ويشار</word> 
+ <lemma>أَشَارَ</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>العديد</word> 
+ <lemma>عَدِيد</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الضباط</word> 
+ <lemma>ضَابِط</lemma>
+</res>
+<res>
+<word>الإيرانيين</word> 
+ <lemma>إِيرَانِيّ</lemma>
+</res>
+<res>
+<word>قتلوا</word> 
+ <lemma>قَتَلَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>سوريا</word> 
+ <lemma>سُورِيَا</lemma>
+</res>
+<res>
+<word>خلال</word> 
+ <lemma>خِلَال</lemma>
+</res>
+<res>
+<word>السنوات</word> 
+ <lemma>سَنَة</lemma>
+</res>
+<res>
+<word>الماضية</word> 
+ <lemma>مَاضِيَة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وتتزامن</word> 
+ <lemma>تَزَامَنَ</lemma>
+</res>
+<res>
+<word>هذه</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>التطورات</word> 
+ <lemma>تَطَوُّر</lemma>
+</res>
+<res>
+<word>مع</word> 
+ <lemma>مَعَ</lemma>
+</res>
+<res>
+<word>تشييع</word> 
+ <lemma>تَشْيِيع</lemma>
+</res>
+<res>
+<word>جنازة</word> 
+ <lemma>جِنَازَة</lemma>
+</res>
+<res>
+<word>العالم</word> 
+ <lemma>عَالِم</lemma>
+</res>
+<res>
+<word>النووي</word> 
+ <lemma>نَوَوِيّ</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>اغتيل</word> 
+ <lemma>اغْتَالَ</lemma>
+</res>
+<res>
+<word>أخيرا</word> 
+ <lemma>أَخِير</lemma>
+</res>
+<res>
+<word>قرب</word> 
+ <lemma>قُرْب</lemma>
+</res>
+<res>
+<word>طهران</word> 
+ <lemma>طَهْرَان</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>عملية</word> 
+ <lemma>عَمَلِيَّة</lemma>
+</res>
+<res>
+<word>معقدة</word> 
+ <lemma>مُعَقَّد</lemma>
+</res>
+<res>
+<word>تقول</word> 
+ <lemma>قَالَ</lemma>
+</res>
+<res>
+<word>إيران</word> 
+ <lemma>إِيرَان</lemma>
+</res>
+<res>
+<word>إن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>الموساد</word> 
+ <lemma>مُوسَاد</lemma>
+</res>
+<res>
+<word>الإسرائيلي</word> 
+ <lemma>إِسْرَائِيلِيّ</lemma>
+</res>
+<res>
+<word>يقف</word> 
+ <lemma>وَقَفَ</lemma>
+</res>
+<res>
+<word>خلفها</word> 
+ <lemma>خَلْف</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وشارك</word> 
+ <lemma>شَارَكَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>تشييع</word> 
+ <lemma>تَشْيِيع</lemma>
+</res>
+<res>
+<word>الجنازة</word> 
+ <lemma>جِنَازَة</lemma>
+</res>
+<res>
+<word>وزير</word> 
+ <lemma>وَزِير</lemma>
+</res>
+<res>
+<word>الدفاع</word> 
+ <lemma>دِفَاع</lemma>
+</res>
+<res>
+<word>أمير</word> 
+ <lemma>أَمِير</lemma>
+</res>
+<res>
+<word>حاتمي</word> 
+ <lemma>حَاتِم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>والقائد</word> 
+ <lemma>قَائِد</lemma>
+</res>
+<res>
+<word>العام</word> 
+ <lemma>عَامّ</lemma>
+</res>
+<res>
+<word>للحرس</word> 
+ <lemma>حَرْس</lemma>
+</res>
+<res>
+<word>الثوري</word> 
+ <lemma>ثَوْرِيّ</lemma>
+</res>
+<res>
+<word>حسين</word> 
+ <lemma>حُسَيْن</lemma>
+</res>
+<res>
+<word>سلامي</word> 
+ <lemma>سَلَام</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وقائد</word> 
+ <lemma>قَائِد</lemma>
+</res>
+<res>
+<word>فيلق</word> 
+ <lemma>فَيْلَق</lemma>
+</res>
+<res>
+<word>القدس</word> 
+ <lemma>قُدْس</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الحرس</word> 
+ <lemma>حَرْس</lemma>
+</res>
+<res>
+<word>إسماعيل</word> 
+ <lemma>إِسْمَاعِيل</lemma>
+</res>
+<res>
+<word>قاآني</word> 
+ <lemma>قاآني</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ووزير</word> 
+ <lemma>وَزِير</lemma>
+</res>
+<res>
+<word>المخابرات</word> 
+ <lemma>مُخَابَرَة</lemma>
+</res>
+<res>
+<word>محمود</word> 
+ <lemma>مَحْمُود</lemma>
+</res>
+<res>
+<word>علوي</word> 
+ <lemma>عَلَوِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ورئيس</word> 
+ <lemma>رَئِيس</lemma>
+</res>
+<res>
+<word>هيئة</word> 
+ <lemma>هَيْئَة</lemma>
+</res>
+<res>
+<word>الطاقة</word> 
+ <lemma>طَاقَة</lemma>
+</res>
+<res>
+<word>الذرية</word> 
+ <lemma>ذَرِّيّ</lemma>
+</res>
+<res>
+<word>الإيرانية</word> 
+ <lemma>إِيرَانِيّ</lemma>
+</res>
+<res>
+<word>علي</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>أكبر</word> 
+ <lemma>أَكْبَر</lemma>
+</res>
+<res>
+<word>صالحي</word> 
+ <lemma>صَالِح</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وعدد</word> 
+ <lemma>عَدَد</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>السياسيين</word> 
+ <lemma>سِيَاسِيّ</lemma>
+</res>
+<res>
+<word>والنواب</word> 
+ <lemma>نَائِب</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>البرلمان</word> 
+ <lemma>بَرْلَمَان</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

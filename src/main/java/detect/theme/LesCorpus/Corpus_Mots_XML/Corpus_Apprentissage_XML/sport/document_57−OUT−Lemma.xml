@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>بيع</word> 
+ <lemma>بَيْع</lemma>
+</res>
+<res>
+<word>أول</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>حذاء</word> 
+ <lemma>حِذَاء</lemma>
+</res>
+<res>
+<word>لأسطورة</word> 
+ <lemma>أُسْطُورَة</lemma>
+</res>
+<res>
+<word>السلة</word> 
+ <lemma>سَلَّة</lemma>
+</res>
+<res>
+<word>الأميركية</word> 
+ <lemma>أَمِيرْكِيّ</lemma>
+</res>
+<res>
+<word>بمبلغ</word> 
+ <lemma>مَبْلَغ</lemma>
+</res>
+<res>
+<word>قياسي</word> 
+ <lemma>قِيَاسِيّ</lemma>
+</res>
+
+<res>
+<word>أعلنت</word> 
+ <lemma>أَعْلَنَ</lemma>
+</res>
+<res>
+<word>دار</word> 
+ <lemma>دَار</lemma>
+</res>
+<res>
+<word>سوذبي</word> 
+ <lemma>سوذبي</lemma>
+</res>
+<res>
+<word>للمزادات</word> 
+ <lemma>مَزَاد</lemma>
+</res>
+<res>
+<word>بيع</word> 
+ <lemma>بَيْع</lemma>
+</res>
+<res>
+<word>حذاء</word> 
+ <lemma>حِذَاء</lemma>
+</res>
+<res>
+<word>ارتداه</word> 
+ <lemma>ارْتَدَى</lemma>
+</res>
+<res>
+<word>أسطورة</word> 
+ <lemma>أُسْطُورَة</lemma>
+</res>
+<res>
+<word>كرة</word> 
+ <lemma>كُرَة</lemma>
+</res>
+<res>
+<word>السلة</word> 
+ <lemma>سَلَّة</lemma>
+</res>
+<res>
+<word>الأميركية</word> 
+ <lemma>أَمِيرْكِيّ</lemma>
+</res>
+<res>
+<word>مايكل</word> 
+ <lemma>مايكل</lemma>
+</res>
+<res>
+<word>جوردان</word> 
+ <lemma>جوردان</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>المباريات</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>خلال</word> 
+ <lemma>خِلَال</lemma>
+</res>
+<res>
+<word>موسمه</word> 
+ <lemma>مَوْسِم</lemma>
+</res>
+<res>
+<word>الأول</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>مقابل</word> 
+ <lemma>مُقَابِل</lemma>
+</res>
+<res>
+<word>مبلغ</word> 
+ <lemma>مَبْلَغ</lemma>
+</res>
+<res>
+<word>قياسي</word> 
+ <lemma>قِيَاسِيّ</lemma>
+</res>
+<res>
+<word>بلغ</word> 
+ <lemma>بَلَغَ</lemma>
+</res>
+<res>
+<word> 560 </word> 
+ <lemma> 560 </lemma>
+</res>
+<res>
+<word>ألف</word> 
+ <lemma>أَلْف</lemma>
+</res>
+<res>
+<word>دولار</word> 
+ <lemma>دُولَار</lemma>
+</res>
+<res>
+<word>خلال</word> 
+ <lemma>خِلَال</lemma>
+</res>
+<res>
+<word>مزاد</word> 
+ <lemma>مَزَاد</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الإنترنت</word> 
+ <lemma>إِنْتِرْنِت</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وكان</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>المتوقع</word> 
+ <lemma>مُتَوَقَّع</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>تصل</word> 
+ <lemma>وَصَلَ</lemma>
+</res>
+<res>
+<word>قيمة</word> 
+ <lemma>قِيمَة</lemma>
+</res>
+<res>
+<word>أول</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>نسخة</word> 
+ <lemma>نُسْخَة</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>حذاء</word> 
+ <lemma>حِذَاء</lemma>
+</res>
+<res>
+<word>جوردان</word> 
+ <lemma>جوردان</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>صمم</word> 
+ <lemma>صَمَّمَ</lemma>
+</res>
+<res>
+<word>خصيصا</word> 
+ <lemma>خصيصا</lemma>
+</res>
+<res>
+<word>للاعب</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word> 1985 </word> 
+ <lemma> 1985 </lemma>
+</res>
+<res>
+<word>وهو</word> 
+ <lemma>هُو</lemma>
+</res>
+<res>
+<word>أول</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>حذاء</word> 
+ <lemma>حِذَاء</lemma>
+</res>
+<res>
+<word>يحمل</word> 
+ <lemma>حَمَلَ</lemma>
+</res>
+<res>
+<word>توقيعه</word> 
+ <lemma>تَوْقِيع</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>مبلغ</word> 
+ <lemma>مَبْلَغ</lemma>
+</res>
+<res>
+<word>يتراوح</word> 
+ <lemma>تَرَاوَحَ</lemma>
+</res>
+<res>
+<word>بين</word> 
+ <lemma>بَيْنَ</lemma>
+</res>
+<res>
+<word> 100 </word> 
+ <lemma> 100 </lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>150 </word> 
+ <lemma>150 </lemma>
+</res>
+<res>
+<word>ألف</word> 
+ <lemma>أَلْف</lemma>
+</res>
+<res>
+<word>دولار</word> 
+ <lemma>دُولَار</lemma>
+</res>
+<res>
+<word>قبل</word> 
+ <lemma>قِبَل</lemma>
+</res>
+<res>
+<word>انتهاء</word> 
+ <lemma>انْتِهَاء</lemma>
+</res>
+<res>
+<word>المزاد</word> 
+ <lemma>مَزَاد</lemma>
+</res>
+<res>
+<word>الأحد</word> 
+ <lemma>أَحَد</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وتشتهر</word> 
+ <lemma>اشْتَهَرَ</lemma>
+</res>
+<res>
+<word>سوذبي</word> 
+ <lemma>سوذبي</lemma>
+</res>
+<res>
+<word>ببيع</word> 
+ <lemma>بَيْع</lemma>
+</res>
+<res>
+<word>لوحات</word> 
+ <lemma>لَوْحَة</lemma>
+</res>
+<res>
+<word>فنية</word> 
+ <lemma>فَنِّيّ</lemma>
+</res>
+<res>
+<word>بمئات</word> 
+ <lemma>مِئَة</lemma>
+</res>
+<res>
+<word>الملايين</word> 
+ <lemma>مِلْيُون</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الدولارات</word> 
+ <lemma>دُولَار</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>لكنها</word> 
+ <lemma>لَكِنَّ</lemma>
+</res>
+<res>
+<word>أقامت</word> 
+ <lemma>أَقَامَ</lemma>
+</res>
+<res>
+<word>أول</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>مزاد</word> 
+ <lemma>مَزَاد</lemma>
+</res>
+<res>
+<word>للأحذية</word> 
+ <lemma>حِذَاء</lemma>
+</res>
+<res>
+<word>العام</word> 
+ <lemma>عَام</lemma>
+</res>
+<res>
+<word>الماضي</word> 
+ <lemma>مَاضِي</lemma>
+</res>
+<res>
+<word>ثم</word> 
+ <lemma>ثُمَّ</lemma>
+</res>
+<res>
+<word>سجلت</word> 
+ <lemma>سَجَّلَ</lemma>
+</res>
+<res>
+<word>رقما</word> 
+ <lemma>رَقْم</lemma>
+</res>
+<res>
+<word>عالميا</word> 
+ <lemma>عَالَمِيّ</lemma>
+</res>
+<res>
+<word>ببيع</word> 
+ <lemma>بَيْع</lemma>
+</res>
+<res>
+<word>زوج</word> 
+ <lemma>زَوَّجَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مَنْ</lemma>
+</res>
+<res>
+<word>الأحذية</word> 
+ <lemma>حِذَاء</lemma>
+</res>
+<res>
+<word>الرياضية</word> 
+ <lemma>رِيَاضِيّ</lemma>
+</res>
+<res>
+<word>المخصصة</word> 
+ <lemma>مُخَصَّص</lemma>
+</res>
+<res>
+<word>للركض</word> 
+ <lemma>رَكْض</lemma>
+</res>
+<res>
+<word>صُنع</word> 
+ <lemma>صَنَعَ</lemma>
+</res>
+<res>
+<word>عام</word> 
+ <lemma>عَام</lemma>
+</res>
+<res>
+<word> 1972، </word> 
+ <lemma> 1972، </lemma>
+</res>
+<res>
+<word>وهو</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>أوائل</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>أحذية</word> 
+ <lemma>حِذَاء</lemma>
+</res>
+<res>
+<word>شركة</word> 
+ <lemma>شَرِكَة</lemma>
+</res>
+<res>
+<word>نايكي</word> 
+ <lemma>نايكي</lemma>
+</res>
+<res>
+<word>ويعرف</word> 
+ <lemma>عَرَفَ</lemma>
+</res>
+<res>
+<word>باسم</word> 
+ <lemma>اسْم</lemma>
+</res>
+<res>
+<word> (</word> 
+ <lemma> (</lemma>
+</res>
+<res>
+<word>مون</word> 
+ <lemma>مَوَّنَ</lemma>
+</res>
+<res>
+<word>شو</word> 
+ <lemma>شُو</lemma>
+</res>
+<res>
+<word>)، </word> 
+ <lemma>)، </lemma>
+</res>
+<res>
+<word>مقابل</word> 
+ <lemma>مُقَابِل</lemma>
+</res>
+<res>
+<word> 437 </word> 
+ <lemma> 437 </lemma>
+</res>
+<res>
+<word>ألفا</word> 
+ <lemma>أَلْف</lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>500 </word> 
+ <lemma>500 </lemma>
+</res>
+<res>
+<word>دولار</word> 
+ <lemma>دُولَار</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>Michael Jordan won Rookie of the Year 35 years ago today</word> 
+ <lemma>Michael Jordan won Rookie of the Year 35 years ago today</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>The legend of Jumpman was born 🐐 pic</word> 
+ <lemma>The legend of Jumpman was born 🐐 pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/HZYAmKr3lg</word> 
+ <lemma>com/HZYAmKr3lg</lemma>
+</res>
+
+<res>
+<word>— ESPN (@espn) May 16, 2020</word> 
+ <lemma>— ESPN (@espn) May 16, 2020</lemma>
+</res>
+
+
+<res>
+<word>وكما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>هو</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>حال</word> 
+ <lemma>حَال</lemma>
+</res>
+<res>
+<word>أغلب</word> 
+ <lemma>أَغْلَب</lemma>
+</res>
+<res>
+<word>أحذية</word> 
+ <lemma>حِذَاء</lemma>
+</res>
+<res>
+<word>جوردان</word> 
+ <lemma>جوردان</lemma>
+</res>
+<res>
+<word>المخصصة</word> 
+ <lemma>مُخَصَّص</lemma>
+</res>
+<res>
+<word>لكرة</word> 
+ <lemma>كُرَة</lemma>
+</res>
+<res>
+<word>السلة</word> 
+ <lemma>سَلَّة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>جاء</word> 
+ <lemma>جَاءَ</lemma>
+</res>
+<res>
+<word>زوج</word> 
+ <lemma>زَوْج</lemma>
+</res>
+<res>
+<word>الأحذية</word> 
+ <lemma>حِذَاء</lemma>
+</res>
+<res>
+<word>بمقاسين</word> 
+ <lemma>مُقَاس</lemma>
+</res>
+<res>
+<word>مختلفين</word> 
+ <lemma>مُخْتَلِف</lemma>
+</res>
+<res>
+<word>هما</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word> 13 </word> 
+ <lemma> 13 </lemma>
+</res>
+<res>
+<word>للقدم</word> 
+ <lemma>قَدَم</lemma>
+</res>
+<res>
+<word>اليسرى</word> 
+ <lemma>أَيْسَر</lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>13</word> 
+ <lemma>13</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>5 </word> 
+ <lemma>5 </lemma>
+</res>
+<res>
+<word>للقدم</word> 
+ <lemma>قَدَم</lemma>
+</res>
+<res>
+<word>اليمنى</word> 
+ <lemma>يُمْنَى</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وتزامن</word> 
+ <lemma>تَزَامَنَ</lemma>
+</res>
+<res>
+<word>هذا</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>المزاد</word> 
+ <lemma>مَزَاد</lemma>
+</res>
+<res>
+<word>مع</word> 
+ <lemma>مَعَ</lemma>
+</res>
+<res>
+<word>الاحتفال</word> 
+ <lemma>احْتِفَال</lemma>
+</res>
+<res>
+<word>بذكرى</word> 
+ <lemma>ذِكْرَى</lemma>
+</res>
+<res>
+<word>مرور</word> 
+ <lemma>مُرُور</lemma>
+</res>
+<res>
+<word> 35 </word> 
+ <lemma> 35 </lemma>
+</res>
+<res>
+<word>عاما</word> 
+ <lemma>عَام</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>العلامة</word> 
+ <lemma>عَلَّامَة</lemma>
+</res>
+<res>
+<word>التجارية</word> 
+ <lemma>تِجَارِيّ</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>إير</word> 
+ <lemma>إِير</lemma>
+</res>
+<res>
+<word>جوردان</word> 
+ <lemma>جوردان</lemma>
+</res>
+<res>
+<word>" </word> 
+ <lemma>" </lemma>
+</res>
+<res>
+<word>وعرض</word> 
+ <lemma>عَرْض</lemma>
+</res>
+<res>
+<word>الفيلم</word> 
+ <lemma>فِيلْم</lemma>
+</res>
+<res>
+<word>الوثائقي</word> 
+ <lemma>وَثَائِقِيّ</lemma>
+</res>
+<res>
+<word>المكون</word> 
+ <lemma>مُكَوَّن</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>عشرة</word> 
+ <lemma>عِشْرَة</lemma>
+</res>
+<res>
+<word>أجزاء</word> 
+ <lemma>جُزْء</lemma>
+</res>
+<res>
+<word> (</word> 
+ <lemma> (</lemma>
+</res>
+<res>
+<word>الرقصة</word> 
+ <lemma>رِقْصَة</lemma>
+</res>
+<res>
+<word>الأخيرة</word> 
+ <lemma>أَخِير</lemma>
+</res>
+<res>
+<word>) </word> 
+ <lemma>) </lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>شيكاغو</word> 
+ <lemma>شِيكَاغُو</lemma>
+</res>
+<res>
+<word>بولز</word> 
+ <lemma>بُولْز</lemma>
+</res>
+<res>
+<word>وجوردان</word> 
+ <lemma>وجوردان</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وبيع</word> 
+ <lemma>بَيْع</lemma>
+</res>
+<res>
+<word>الحذاء</word> 
+ <lemma>حِذَاء</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>المزاد</word> 
+ <lemma>مَزَاد</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>طريق</word> 
+ <lemma>طَرِيق</lemma>
+</res>
+<res>
+<word>محب</word> 
+ <lemma>مُحِبّ</lemma>
+</res>
+<res>
+<word>الاقتناء</word> 
+ <lemma>اقْتِنَاء</lemma>
+</res>
+<res>
+<word>جوردان</word> 
+ <lemma>جوردان</lemma>
+</res>
+<res>
+<word>جيلر</word> 
+ <lemma>جيلر</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وهو</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>مؤسس</word> 
+ <lemma>مُؤَسِّس</lemma>
+</res>
+<res>
+<word>متحف</word> 
+ <lemma>مَتْحَف</lemma>
+</res>
+<res>
+<word>للأحذية</word> 
+ <lemma>حِذَاء</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>لاس</word> 
+ <lemma>لَاسّ</lemma>
+</res>
+<res>
+<word>فيغاس</word> 
+ <lemma>فيغاس</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

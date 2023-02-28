@@ -1,0 +1,2332 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>كانت</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>البيئة</word> 
+ <lemma>بِيئَة</lemma>
+</res>
+<res>
+<word>المثالية</word> 
+ <lemma>مِثَالِيّ</lemma>
+</res>
+<res>
+<word>للعمل</word> 
+ <lemma>عَمَل</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>متهمة</word> 
+ <lemma>مُتَّهَم</lemma>
+</res>
+<res>
+<word>بالتجسس</word> 
+ <lemma>تَجَسُّس</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>موظفيها</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+
+<res>
+<word>قدّم</word> 
+ <lemma>قَدَّمَ</lemma>
+</res>
+<res>
+<word>مجلس</word> 
+ <lemma>مَجْلِس</lemma>
+</res>
+<res>
+<word>علاقات</word> 
+ <lemma>عَلَاقَة</lemma>
+</res>
+<res>
+<word>العمل</word> 
+ <lemma>عَمَل</lemma>
+</res>
+<res>
+<word>الوطني</word> 
+ <lemma>وَطَنِيّ</lemma>
+</res>
+<res>
+<word>الأميركي</word> 
+ <lemma>أَمِيرْكِيّ</lemma>
+</res>
+<res>
+<word>المعروف</word> 
+ <lemma>مَعْرُوف</lemma>
+</res>
+<res>
+<word>اختصارا</word> 
+ <lemma>اخْتِصَار</lemma>
+</res>
+<res>
+<word>ب</word> 
+ <lemma>بِـ</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>إن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>إل</word> 
+ <lemma>إِلّ</lemma>
+</res>
+<res>
+<word>آر</word> 
+ <lemma>آرَ</lemma>
+</res>
+<res>
+<word>بي</word> 
+ <lemma>بِي</lemma>
+</res>
+<res>
+<word>" (NLRB) </word> 
+ <lemma>" (NLRB) </lemma>
+</res>
+<res>
+<word>شكوى</word> 
+ <lemma>شَكْوَى</lemma>
+</res>
+<res>
+<word>ضد</word> 
+ <lemma>ضِدّ</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word> (Google)، </word> 
+ <lemma> (Google)، </lemma>
+</res>
+<res>
+<word>زاعما</word> 
+ <lemma>زَاعِم</lemma>
+</res>
+<res>
+<word>فيها</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنّ</lemma>
+</res>
+<res>
+<word>الشركة</word> 
+ <lemma>شَرِكَة</lemma>
+</res>
+<res>
+<word>أنهت</word> 
+ <lemma>أَنْهَى</lemma>
+</res>
+<res>
+<word>عمل</word> 
+ <lemma>عَمَل</lemma>
+</res>
+<res>
+<word>موظفين</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>بشكل</word> 
+ <lemma>شَكْل</lemma>
+</res>
+<res>
+<word>غير</word> 
+ <lemma>غَيْر</lemma>
+</res>
+<res>
+<word>قانوني</word> 
+ <lemma>قَانُونِيّ</lemma>
+</res>
+<res>
+<word>وقامت</word> 
+ <lemma>قَامَ</lemma>
+</res>
+<res>
+<word>بمراقبتهم</word> 
+ <lemma>مُرَاقِب</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وذكر</word> 
+ <lemma>ذَكَرَ</lemma>
+</res>
+<res>
+<word>تقرير</word> 
+ <lemma>تَقْرِير</lemma>
+</res>
+<res>
+<word>ل</word> 
+ <lemma>لِـ</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>سي</word> 
+ <lemma>وَسَى</lemma>
+</res>
+<res>
+<word>إن</word> 
+ <lemma>إِنَّ</lemma>
+</res>
+<res>
+<word>بي</word> 
+ <lemma>بِي</lemma>
+</res>
+<res>
+<word>سي</word> 
+ <lemma>وَسَى</lemma>
+</res>
+<res>
+<word>الإخبارية</word> 
+ <lemma>إِخْبَارِيّ</lemma>
+</res>
+<res>
+<word>" (cnbc) </word> 
+ <lemma>" (cnbc) </lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>مستندات</word> 
+ <lemma>مُسْتَنَد</lemma>
+</res>
+<res>
+<word>قضية</word> 
+ <lemma>قَضِيَّة</lemma>
+</res>
+<res>
+<word>مجلس</word> 
+ <lemma>مَجْلِس</lemma>
+</res>
+<res>
+<word>العمل</word> 
+ <lemma>عَمَل</lemma>
+</res>
+<res>
+<word>الوطني</word> 
+ <lemma>وَطَنِيّ</lemma>
+</res>
+<res>
+<word>تتهم</word> 
+ <lemma>اتَّهَمَ</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>وجه</word> 
+ <lemma>وَجْه</lemma>
+</res>
+<res>
+<word>التحديد</word> 
+ <lemma>تَحْدِيد</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>بالتجسس</word> 
+ <lemma>تَجَسُّس</lemma>
+</res>
+<res>
+<word>بشكل</word> 
+ <lemma>شَكْل</lemma>
+</res>
+<res>
+<word>غير</word> 
+ <lemma>غَيْر</lemma>
+</res>
+<res>
+<word>قانوني</word> 
+ <lemma>قَانُونِيّ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الموظفين</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وطرد</word> 
+ <lemma>طَرْد</lemma>
+</res>
+<res>
+<word>العديد</word> 
+ <lemma>عَدِيد</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الموظفين</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>انتقاما</word> 
+ <lemma>انْتِقَام</lemma>
+</res>
+<res>
+<word>لمحاولة</word> 
+ <lemma>مُحَاوَلَة</lemma>
+</res>
+<res>
+<word>تكوين</word> 
+ <lemma>تَكْوِين</lemma>
+</res>
+<res>
+<word>نقابات</word> 
+ <lemma>نِقَابَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ومنع</word> 
+ <lemma>مَنْع</lemma>
+</res>
+<res>
+<word>الموظفين</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>بشكل</word> 
+ <lemma>شَكْل</lemma>
+</res>
+<res>
+<word>غير</word> 
+ <lemma>غَيْر</lemma>
+</res>
+<res>
+<word>قانوني</word> 
+ <lemma>قَانُونِيّ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>مشاركة</word> 
+ <lemma>مُشَارَكَة</lemma>
+</res>
+<res>
+<word>شكاوى</word> 
+ <lemma>شَكْوَى</lemma>
+</res>
+<res>
+<word>العمل</word> 
+ <lemma>عَمَل</lemma>
+</res>
+<res>
+<word>والمعلومات</word> 
+ <lemma>مَعْلُومَة</lemma>
+</res>
+<res>
+<word>مع</word> 
+ <lemma>مَعَ</lemma>
+</res>
+<res>
+<word>بعضهم</word> 
+ <lemma>بَعْض</lemma>
+</res>
+<res>
+<word>بعضا</word> 
+ <lemma>بَعْض</lemma>
+</res>
+<res>
+<word>باستخدام</word> 
+ <lemma>اسْتِخْدَام</lemma>
+</res>
+<res>
+<word>أدوات</word> 
+ <lemma>أَدَاة</lemma>
+</res>
+<res>
+<word>عامة</word> 
+ <lemma>عَامّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>مثل</word> 
+ <lemma>مَثَل</lemma>
+</res>
+<res>
+<word>التقويمات</word> 
+ <lemma>تَقْوِيم</lemma>
+</res>
+<res>
+<word>والبريد</word> 
+ <lemma>بَرِيد</lemma>
+</res>
+<res>
+<word>الإلكتروني</word> 
+ <lemma>إِلِكْتُرُون</lemma>
+</res>
+<res>
+<word>وغرف</word> 
+ <lemma>غُرْفَة</lemma>
+</res>
+<res>
+<word>الاجتماعات</word> 
+ <lemma>اجْتِمَاع</lemma>
+</res>
+<res>
+<word>وأداة</word> 
+ <lemma>أَدَاة</lemma>
+</res>
+<res>
+<word>اتصال</word> 
+ <lemma>اتِّصَال</lemma>
+</res>
+<res>
+<word>داخلية</word> 
+ <lemma>دَاخِلِيّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>تسمى</word> 
+ <lemma>سَمَّى</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>ميمي</word> 
+ <lemma>مَيَّمَ</lemma>
+</res>
+<res>
+<word>جين</word> 
+ <lemma>جِين</lemma>
+</res>
+<res>
+<word>" (MemeGen)</word> 
+ <lemma>" (MemeGen)</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ويزعم</word> 
+ <lemma>زَعَمَ</lemma>
+</res>
+<res>
+<word>المجلس</word> 
+ <lemma>مَجْلِس</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>الشركة</word> 
+ <lemma>شَرِكَة</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>تتدخل</word> 
+ <lemma>تَدَخَّلَ</lemma>
+</res>
+<res>
+<word>بتقييد</word> 
+ <lemma>تَقْيِيد</lemma>
+</res>
+<res>
+<word>وإكراه</word> 
+ <lemma>إِكْرَاه</lemma>
+</res>
+<res>
+<word>الموظفين</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>وتحد</word> 
+ <lemma>حَدَّ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>ممارسة</word> 
+ <lemma>مُمَارَسَة</lemma>
+</res>
+<res>
+<word>حقوقهم</word> 
+ <lemma>حَقّ</lemma>
+</res>
+<res>
+<word>المكفولة</word> 
+ <lemma>مَكْفُول</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>المادة</word> 
+ <lemma>مَادَّة</lemma>
+</res>
+<res>
+<word> 7 </word> 
+ <lemma> 7 </lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>القانون</word> 
+ <lemma>قَانُون</lemma>
+</res>
+<res>
+<word>"، </word> 
+ <lemma>"، </lemma>
+</res>
+<res>
+<word>وفقًا</word> 
+ <lemma>وَفْق</lemma>
+</res>
+<res>
+<word>للشكوى</word> 
+ <lemma>شَكْوَى</lemma>
+</res>
+<res>
+<word>المقدمة</word> 
+ <lemma>مُقَدَّم</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وقال</word> 
+ <lemma>قَالَ</lemma>
+</res>
+<res>
+<word>مجلس</word> 
+ <lemma>مَجْلِس</lemma>
+</res>
+<res>
+<word>العمل</word> 
+ <lemma>عَمَل</lemma>
+</res>
+<res>
+<word>الوطني</word> 
+ <lemma>وَطَنِيّ</lemma>
+</res>
+<res>
+<word>الأميركي</word> 
+ <lemma>أَمِيرْكِيّ</lemma>
+</res>
+<res>
+<word>إنه</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>يتوقع</word> 
+ <lemma>تَوَقَّعَ</lemma>
+</res>
+<res>
+<word>إجابة</word> 
+ <lemma>إِجَابَة</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مَنْ</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>بحلول</word> 
+ <lemma>حُلُول</lemma>
+</res>
+<res>
+<word> 16 </word> 
+ <lemma> 16 </lemma>
+</res>
+<res>
+<word>ديسمبر</word> 
+ <lemma>دِيسَمْبِر</lemma>
+</res>
+<res>
+<word>/</word> 
+ <lemma>/</lemma>
+</res>
+<res>
+<word>كانون</word> 
+ <lemma>كَانُون</lemma>
+</res>
+<res>
+<word>الأول</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>الجاري</word> 
+ <lemma>جَارِيّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>وذكر</word> 
+ <lemma>ذَكَرَ</lemma>
+</res>
+<res>
+<word>التقرير</word> 
+ <lemma>تَقْرِير</lemma>
+</res>
+<res>
+<word>أنه</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>سيعقد</word> 
+ <lemma>عَقَدَ</lemma>
+</res>
+<res>
+<word>جلسة</word> 
+ <lemma>جَلْسَة</lemma>
+</res>
+<res>
+<word>استماع</word> 
+ <lemma>اسْتِمَاع</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word> 12 </word> 
+ <lemma> 12 </lemma>
+</res>
+<res>
+<word>أبريل</word> 
+ <lemma>أَبْرِيل</lemma>
+</res>
+<res>
+<word>/</word> 
+ <lemma>/</lemma>
+</res>
+<res>
+<word>نيسان</word> 
+ <lemma>نِيسَان</lemma>
+</res>
+<res>
+<word> 2021 </word> 
+ <lemma> 2021 </lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>سان</word> 
+ <lemma>سَان</lemma>
+</res>
+<res>
+<word>فرانسيسكو</word> 
+ <lemma>فَرَانْسِيسْكُو</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وقال</word> 
+ <lemma>قَالَ</lemma>
+</res>
+<res>
+<word>متحدث</word> 
+ <lemma>مُتَحَدِّث</lemma>
+</res>
+<res>
+<word>باسم</word> 
+ <lemma>اسْم</lemma>
+</res>
+<res>
+<word>الشركة</word> 
+ <lemma>شَرِكَة</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>رد</word> 
+ <lemma>رَدّ</lemma>
+</res>
+<res>
+<word>عبر</word> 
+ <lemma>عَبْر</lemma>
+</res>
+<res>
+<word>البريد</word> 
+ <lemma>بَرِيد</lemma>
+</res>
+<res>
+<word>الإلكتروني</word> 
+ <lemma>إِلِكْتُرُون</lemma>
+</res>
+<res>
+<word>، "</word> 
+ <lemma>، "</lemma>
+</res>
+<res>
+<word>نحن</word> 
+ <lemma>نَحْنُ</lemma>
+</res>
+<res>
+<word>ندعم</word> 
+ <lemma>دَعَمَ</lemma>
+</res>
+<res>
+<word>بشدة</word> 
+ <lemma>شِدَّة</lemma>
+</res>
+<res>
+<word>الحقوق</word> 
+ <lemma>حَقّ</lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>يتمتع</word> 
+ <lemma>تَمَتَّعَ</lemma>
+</res>
+<res>
+<word>بها</word> 
+ <lemma>بِي</lemma>
+</res>
+<res>
+<word>موظفونا</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>مكان</word> 
+ <lemma>مَكَان</lemma>
+</res>
+<res>
+<word>العمل</word> 
+ <lemma>عَمَل</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وكانت</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>المناقشة</word> 
+ <lemma>مُنَاقَشَة</lemma>
+</res>
+<res>
+<word>المفتوحة</word> 
+ <lemma>مَفْتُوح</lemma>
+</res>
+<res>
+<word>والنقاش</word> 
+ <lemma>نِقَاش</lemma>
+</res>
+<res>
+<word>المحترم</word> 
+ <lemma>مُحْتَرَم</lemma>
+</res>
+<res>
+<word>دائمًا</word> 
+ <lemma>دَائِم</lemma>
+</res>
+<res>
+<word>جزءًا</word> 
+ <lemma>جُزْء</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>ثقافة</word> 
+ <lemma>ثَقَافَة</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>"</word> 
+ <lemma>"</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وأضاف</word> 
+ <lemma>أَضَافَ</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>نحن</word> 
+ <lemma>نَحْنُ</lemma>
+</res>
+<res>
+<word>فخورون</word> 
+ <lemma>فَخُور</lemma>
+</res>
+<res>
+<word>بهذه</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>الثقافة</word> 
+ <lemma>ثَقَافَة</lemma>
+</res>
+<res>
+<word>ونلتزم</word> 
+ <lemma>الْتَزَمَ</lemma>
+</res>
+<res>
+<word>بالدفاع</word> 
+ <lemma>دِفَاع</lemma>
+</res>
+<res>
+<word>عنها</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>ضد</word> 
+ <lemma>ضِدّ</lemma>
+</res>
+<res>
+<word>محاولات</word> 
+ <lemma>مُحَاوَلَة</lemma>
+</res>
+<res>
+<word>الأفراد</word> 
+ <lemma>فَرْد</lemma>
+</res>
+<res>
+<word>تقويضها</word> 
+ <lemma>تَقْوِيض</lemma>
+</res>
+<res>
+<word>عمدا</word> 
+ <lemma>عِمَاد</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>بما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>ذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>انتهاك</word> 
+ <lemma>انْتِهَاك</lemma>
+</res>
+<res>
+<word>السياسات</word> 
+ <lemma>سِيَاسَة</lemma>
+</res>
+<res>
+<word>الأمنية</word> 
+ <lemma>أَمْنِيّ</lemma>
+</res>
+<res>
+<word>والأنظمة</word> 
+ <lemma>نِظَام</lemma>
+</res>
+<res>
+<word>الداخلية</word> 
+ <lemma>دَاخِلِيّ</lemma>
+</res>
+<res>
+<word>"</word> 
+ <lemma>"</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وذكر</word> 
+ <lemma>ذَكَرَ</lemma>
+</res>
+<res>
+<word>المتحدث</word> 
+ <lemma>مُتَحَدِّث</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>الشركة</word> 
+ <lemma>شَرِكَة</lemma>
+</res>
+<res>
+<word>ستواصل</word> 
+ <lemma>وَاصَلَ</lemma>
+</res>
+<res>
+<word>تقديم</word> 
+ <lemma>تَقْدِيم</lemma>
+</res>
+<res>
+<word>المعلومات</word> 
+ <lemma>مَعْلُومَة</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>مجلس</word> 
+ <lemma>مَجْلِس</lemma>
+</res>
+<res>
+<word>العمل</word> 
+ <lemma>عَمَل</lemma>
+</res>
+<res>
+<word>الوطني</word> 
+ <lemma>وَطَنِيّ</lemma>
+</res>
+<res>
+<word>الأميركي</word> 
+ <lemma>أَمِيرْكِيّ</lemma>
+</res>
+<res>
+<word>بخصوص</word> 
+ <lemma>خُصُوص</lemma>
+</res>
+<res>
+<word>الحكم</word> 
+ <lemma>حُكْم</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>قرارها</word> 
+ <lemma>قَرَار</lemma>
+</res>
+<res>
+<word>بفصل</word> 
+ <lemma>فَصْل</lemma>
+</res>
+<res>
+<word>أو</word> 
+ <lemma>أَوْ</lemma>
+</res>
+<res>
+<word>تأديب</word> 
+ <lemma>تَأْدِيب</lemma>
+</res>
+<res>
+<word>الموظفين</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وتأتي</word> 
+ <lemma>أَتَى</lemma>
+</res>
+<res>
+<word>خطوة</word> 
+ <lemma>خَطْوَة</lemma>
+</res>
+<res>
+<word>مجلس</word> 
+ <lemma>مَجْلِس</lemma>
+</res>
+<res>
+<word>العمل</word> 
+ <lemma>عَمَل</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>عام</word> 
+ <lemma>عَام</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>إعلان</word> 
+ <lemma>إِعْلَان</lemma>
+</res>
+<res>
+<word>وكالة</word> 
+ <lemma>وِكَالَة</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>سي</word> 
+ <lemma>وَسَى</lemma>
+</res>
+<res>
+<word>إن</word> 
+ <lemma>إِنَّ</lemma>
+</res>
+<res>
+<word>بي</word> 
+ <lemma>بِي</lemma>
+</res>
+<res>
+<word>سي</word> 
+ <lemma>وَسَى</lemma>
+</res>
+<res>
+<word>" </word> 
+ <lemma>" </lemma>
+</res>
+<res>
+<word>لأول</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>مرة</word> 
+ <lemma>مَرَّة</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>المجلس</word> 
+ <lemma>مَجْلِس</lemma>
+</res>
+<res>
+<word>قد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>بدأ</word> 
+ <lemma>بَدَأَ</lemma>
+</res>
+<res>
+<word>تحقيقًا</word> 
+ <lemma>تَحْقِيق</lemma>
+</res>
+<res>
+<word>جديدًا</word> 
+ <lemma>جَدِيد</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>ممارسات</word> 
+ <lemma>مُمَارَسَة</lemma>
+</res>
+<res>
+<word>العمل</word> 
+ <lemma>عَمَل</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>كما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>تأتي</word> 
+ <lemma>أَتَى</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>أعقاب</word> 
+ <lemma>عُقْب</lemma>
+</res>
+<res>
+<word>تسوية</word> 
+ <lemma>تَسْوِيَة</lemma>
+</res>
+<res>
+<word>كبرى</word> 
+ <lemma>كُبْرَى</lemma>
+</res>
+<res>
+<word>لشركة</word> 
+ <lemma>شَرِكَة</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>بقيمة</word> 
+ <lemma>قِيمَة</lemma>
+</res>
+<res>
+<word> 310 </word> 
+ <lemma> 310 </lemma>
+</res>
+<res>
+<word>ملايين</word> 
+ <lemma>مِلْيُون</lemma>
+</res>
+<res>
+<word>دولار</word> 
+ <lemma>دُولَار</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>دعوى</word> 
+ <lemma>دَعْوَى</lemma>
+</res>
+<res>
+<word>قضائية</word> 
+ <lemma>قَضَائِيّ</lemma>
+</res>
+<res>
+<word>لمساهمي</word> 
+ <lemma>مُسَاهِم</lemma>
+</res>
+<res>
+<word>شركة</word> 
+ <lemma>شَرِكَة</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>ألفابت</word> 
+ <lemma>ألفابت</lemma>
+</res>
+<res>
+<word>" (Alphabet) </word> 
+ <lemma>" (Alphabet) </lemma>
+</res>
+<res>
+<word>زعمت</word> 
+ <lemma>زَعَمَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>أساءت</word> 
+ <lemma>أَسَاءَ</lemma>
+</res>
+<res>
+<word>التعامل</word> 
+ <lemma>تَعَامُل</lemma>
+</res>
+<res>
+<word>مع</word> 
+ <lemma>مَعَ</lemma>
+</res>
+<res>
+<word>ادعاءات</word> 
+ <lemma>ادِّعَاء</lemma>
+</res>
+<res>
+<word>سوء</word> 
+ <lemma>سُوء</lemma>
+</res>
+<res>
+<word>السلوك</word> 
+ <lemma>سُلُوك</lemma>
+</res>
+<res>
+<word>الجنسي</word> 
+ <lemma>جِنْسِيّ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>قبل</word> 
+ <lemma>قِبَل</lemma>
+</res>
+<res>
+<word>المديرين</word> 
+ <lemma>مُدِير</lemma>
+</res>
+<res>
+<word>التنفيذيين</word> 
+ <lemma>تَنْفِيذِيّ</lemma>
+</res>
+<res>
+<word>هناك</word> 
+ <lemma>هُنَا</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ويأتي</word> 
+ <lemma>أَتَى</lemma>
+</res>
+<res>
+<word>التحقيق</word> 
+ <lemma>تَحْقِيق</lemma>
+</res>
+<res>
+<word>الأخير</word> 
+ <lemma>أَخِير</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>شكوى</word> 
+ <lemma>شَكْوَى</lemma>
+</res>
+<res>
+<word>الموظفين</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>بشأن</word> 
+ <lemma>شَأْن</lemma>
+</res>
+<res>
+<word>استجواب</word> 
+ <lemma>اسْتِجْوَاب</lemma>
+</res>
+<res>
+<word>زملائهم</word> 
+ <lemma>زَمِيل</lemma>
+</res>
+<res>
+<word>وإقالتهم</word> 
+ <lemma>إِقَالَة</lemma>
+</res>
+<res>
+<word>لاحقًا</word> 
+ <lemma>لَاحِق</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>بما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>ذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>ريبيكا</word> 
+ <lemma>ريبيكا</lemma>
+</res>
+<res>
+<word>ريفرز</word> 
+ <lemma>ريفرز</lemma>
+</res>
+<res>
+<word>ولورانس</word> 
+ <lemma>ولورانس</lemma>
+</res>
+<res>
+<word>بيرلاند</word> 
+ <lemma>بيرلاند</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>اللذان</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>تم</word> 
+ <lemma>تَمَّ</lemma>
+</res>
+<res>
+<word>وضعهما</word> 
+ <lemma>وَضْع</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>إجازة</word> 
+ <lemma>إِجَازَة</lemma>
+</res>
+<res>
+<word>إدارية</word> 
+ <lemma>إِدَارِيّ</lemma>
+</res>
+<res>
+<word>مفاجئة</word> 
+ <lemma>مُفَاجِئ</lemma>
+</res>
+<res>
+<word>وغير</word> 
+ <lemma>غَيْر</lemma>
+</res>
+<res>
+<word>محددة</word> 
+ <lemma>مُحَدَّد</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>نوفمبر</word> 
+ <lemma>نُوفَمْبِر</lemma>
+</res>
+<res>
+<word>/</word> 
+ <lemma>/</lemma>
+</res>
+<res>
+<word>تشرين</word> 
+ <lemma>تِشْرِين</lemma>
+</res>
+<res>
+<word>الثاني</word> 
+ <lemma>ثَانِي</lemma>
+</res>
+<res>
+<word> 2019 </word> 
+ <lemma> 2019 </lemma>
+</res>
+<res>
+<word>بزعم</word> 
+ <lemma>زَعْم</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>توزيع</word> 
+ <lemma>تَوْزِيع</lemma>
+</res>
+<res>
+<word>معلومات</word> 
+ <lemma>مَعْلُومَة</lemma>
+</res>
+<res>
+<word>العمل</word> 
+ <lemma>عَمَل</lemma>
+</res>
+<res>
+<word>خارج</word> 
+ <lemma>خَارِج</lemma>
+</res>
+<res>
+<word>نطاق</word> 
+ <lemma>نِطَاق</lemma>
+</res>
+<res>
+<word>وظائفهم</word> 
+ <lemma>وَظِيفَة</lemma>
+</res>
+<res>
+<word>"</word> 
+ <lemma>"</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وفصلت</word> 
+ <lemma>فَصَلَ</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word> 4 </word> 
+ <lemma> 4 </lemma>
+</res>
+<res>
+<word>موظفين</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word> 2019 -</word> 
+ <lemma> 2019 -</lemma>
+</res>
+<res>
+<word>بما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>ذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>ريبيكا</word> 
+ <lemma>ريبيكا</lemma>
+</res>
+<res>
+<word>ولورانس</word> 
+ <lemma>ولورانس</lemma>
+</res>
+<res>
+<word>- </word> 
+ <lemma>- </lemma>
+</res>
+<res>
+<word>بدعوى</word> 
+ <lemma>دَعْوَى</lemma>
+</res>
+<res>
+<word>مشاركتهم</word> 
+ <lemma>مُشَارَكَة</lemma>
+</res>
+<res>
+<word>مستندات</word> 
+ <lemma>مُسْتَنَد</lemma>
+</res>
+<res>
+<word>سرية</word> 
+ <lemma>سِرِّيّ</lemma>
+</res>
+<res>
+<word>وانتهاك</word> 
+ <lemma>انْتِهَاك</lemma>
+</res>
+<res>
+<word>الأمن</word> 
+ <lemma>أَمْن</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>وقدم</word> 
+ <lemma>قَدَّمَ</lemma>
+</res>
+<res>
+<word>الموظفون</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>شكوى</word> 
+ <lemma>شَكْوَى</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>مجلس</word> 
+ <lemma>مَجْلِس</lemma>
+</res>
+<res>
+<word>العمل</word> 
+ <lemma>عَمَل</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>ذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>بوقت</word> 
+ <lemma>وَقْت</lemma>
+</res>
+<res>
+<word>قصير</word> 
+ <lemma>قَصِير</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>كما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>طردت</word> 
+ <lemma>طَرَدَ</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>مهندسة</word> 
+ <lemma>مُهَنْدِس</lemma>
+</res>
+<res>
+<word>الأمان</word> 
+ <lemma>أَمَان</lemma>
+</res>
+<res>
+<word>كاثرين</word> 
+ <lemma>كَاثِر</lemma>
+</res>
+<res>
+<word>سبايرز</word> 
+ <lemma>سبايرز</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>أرسلت</word> 
+ <lemma>أَرْسَلَ</lemma>
+</res>
+<res>
+<word>إشعارا</word> 
+ <lemma>إِشْعَار</lemma>
+</res>
+<res>
+<word>تحذيريا</word> 
+ <lemma>تَحْذِيرِيّ</lemma>
+</res>
+<res>
+<word>لموظفي</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>الذين</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>يزورون</word> 
+ <lemma>زَارَ</lemma>
+</res>
+<res>
+<word>موقع</word> 
+ <lemma>مَوْقِع</lemma>
+</res>
+<res>
+<word>الويب</word> 
+ <lemma>وِيب</lemma>
+</res>
+<res>
+<word>الخاص</word> 
+ <lemma>خَاصّ</lemma>
+</res>
+<res>
+<word>ب</word> 
+ <lemma>بِـ</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>آي</word> 
+ <lemma>آيَة</lemma>
+</res>
+<res>
+<word>آر</word> 
+ <lemma>آرَ</lemma>
+</res>
+<res>
+<word>آي</word> 
+ <lemma>آيَة</lemma>
+</res>
+<res>
+<word>كونسالتانتس</word> 
+ <lemma>كونسالتانتس</lemma>
+</res>
+<res>
+<word>" (IRI Consultants)، </word> 
+ <lemma>" (IRI Consultants)، </lemma>
+</res>
+<res>
+<word>وهي</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>شركة</word> 
+ <lemma>شَرِكَة</lemma>
+</res>
+<res>
+<word>معروفة</word> 
+ <lemma>مَعْرُوف</lemma>
+</res>
+<res>
+<word>بالعمل</word> 
+ <lemma>عَمَل</lemma>
+</res>
+<res>
+<word>المناهض</word> 
+ <lemma>مُنَاهِض</lemma>
+</res>
+<res>
+<word>للنقابات</word> 
+ <lemma>نِقَابَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>والتي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>وظفتها</word> 
+ <lemma>وَظَّفَ</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>ورفعت</word> 
+ <lemma>رَفَعَ</lemma>
+</res>
+<res>
+<word>سبايرز</word> 
+ <lemma>سبايرز</lemma>
+</res>
+<res>
+<word>دعوى</word> 
+ <lemma>دَعْوَى</lemma>
+</res>
+<res>
+<word>قضائية</word> 
+ <lemma>قَضَائِيّ</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>فترة</word> 
+ <lemma>فَتْرَة</lemma>
+</res>
+<res>
+<word>وجيزة</word> 
+ <lemma>وَجِيز</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>ذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>الوقت</word> 
+ <lemma>وَقْت</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>حصل</word> 
+ <lemma>حَصَلَ</lemma>
+</res>
+<res>
+<word>الموظفون</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>دعم</word> 
+ <lemma>دَعْم</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>المرشحين</word> 
+ <lemma>مُرَشَّح</lemma>
+</res>
+<res>
+<word>الرئاسيين</word> 
+ <lemma>رِئَاسِيّ</lemma>
+</res>
+<res>
+<word>السيناتور</word> 
+ <lemma>السيناتور</lemma>
+</res>
+<res>
+<word>بيرني</word> 
+ <lemma>بَارَ</lemma>
+</res>
+<res>
+<word>ساندرز</word> 
+ <lemma>ساندرز</lemma>
+</res>
+<res>
+<word>وإليزابيث</word> 
+ <lemma>إِلِيزَابِيث</lemma>
+</res>
+<res>
+<word>وارين</word> 
+ <lemma>وَار</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>اللذين</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>هاجما</word> 
+ <lemma>هَاجَمَ</lemma>
+</res>
+<res>
+<word>عبر</word> 
+ <lemma>عَبْر</lemma>
+</res>
+<res>
+<word>تويتر</word> 
+ <lemma>تُوِيتَر</lemma>
+</res>
+<res>
+<word> (Twitter) </word> 
+ <lemma> (Twitter) </lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>بسبب</word> 
+ <lemma>سَبَب</lemma>
+</res>
+<res>
+<word>أفعال</word> 
+ <lemma>فِعْل</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>مناهضة</word> 
+ <lemma>مُنَاهِض</lemma>
+</res>
+<res>
+<word>النقابات</word> 
+ <lemma>نِقَابَة</lemma>
+</res>
+<res>
+<word>" </word> 
+ <lemma>" </lemma>
+</res>
+<res>
+<word>المزعومة</word> 
+ <lemma>مَزْعُوم</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وذكر</word> 
+ <lemma>ذَكَرَ</lemma>
+</res>
+<res>
+<word>مجلس</word> 
+ <lemma>مَجْلِس</lemma>
+</res>
+<res>
+<word>العمل</word> 
+ <lemma>عَمَل</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>قامت</word> 
+ <lemma>قَامَ</lemma>
+</res>
+<res>
+<word>بمراقبة</word> 
+ <lemma>مُرَاقَبَة</lemma>
+</res>
+<res>
+<word>الموظفين</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>بشكل</word> 
+ <lemma>شَكْل</lemma>
+</res>
+<res>
+<word>غير</word> 
+ <lemma>غَيْر</lemma>
+</res>
+<res>
+<word>قانوني</word> 
+ <lemma>قَانُونِيّ</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>مناسبات</word> 
+ <lemma>مُنَاسَبَة</lemma>
+</res>
+<res>
+<word>عديدة</word> 
+ <lemma>عَدِيد</lemma>
+</res>
+<res>
+<word>"، </word> 
+ <lemma>"، </lemma>
+</res>
+<res>
+<word>بما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>ذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>مشاهدة</word> 
+ <lemma>مُشَاهَدَة</lemma>
+</res>
+<res>
+<word>عرض</word> 
+ <lemma>عَرْض</lemma>
+</res>
+<res>
+<word>تقديمي</word> 
+ <lemma>تَقْدِيم</lemma>
+</res>
+<res>
+<word>للموظفين</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>لدعم</word> 
+ <lemma>دَعْم</lemma>
+</res>
+<res>
+<word>جهود</word> 
+ <lemma>جُهْد</lemma>
+</res>
+<res>
+<word>النقابة</word> 
+ <lemma>نِقَابَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وفقًا</word> 
+ <lemma>وَفْق</lemma>
+</res>
+<res>
+<word>لما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>ورد</word> 
+ <lemma>وَرَدَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الملف</word> 
+ <lemma>مِلَفّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وتزعم</word> 
+ <lemma>تَزَعَّمَ</lemma>
+</res>
+<res>
+<word>الشكوى</word> 
+ <lemma>شَكْوَى</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>عقدت</word> 
+ <lemma>عَقَدَ</lemma>
+</res>
+<res>
+<word>اجتماعًا</word> 
+ <lemma>اجْتِمَاع</lemma>
+</res>
+<res>
+<word>للتحقيقات</word> 
+ <lemma>تَحْقِيق</lemma>
+</res>
+<res>
+<word>العالمية</word> 
+ <lemma>عَالَمِيّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>منشأتها</word> 
+ <lemma>مُنَشَّأ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>سان</word> 
+ <lemma>سَان</lemma>
+</res>
+<res>
+<word>فرانسيسكو</word> 
+ <lemma>فَرَانْسِيسْكُو</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>حيث</word> 
+ <lemma>حَيْثُ</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>استجوبت</word> 
+ <lemma>اسْتَجْوَبَ</lemma>
+</res>
+<res>
+<word>موظفيها</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>حول</word> 
+ <lemma>حَوْل</lemma>
+</res>
+<res>
+<word>أنشطتهم</word> 
+ <lemma>نَشَاط</lemma>
+</res>
+<res>
+<word>المنسقة</word> 
+ <lemma>مُنَسِّق</lemma>
+</res>
+<res>
+<word>المحمية</word> 
+ <lemma>مَحْمِيّ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>خلال</word> 
+ <lemma>خِلَال</lemma>
+</res>
+<res>
+<word>سؤالهم</word> 
+ <lemma>سُؤَال</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>وصولهم</word> 
+ <lemma>وُصُول</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>تقاويم</word> 
+ <lemma>تقاويم</lemma>
+</res>
+<res>
+<word>الموظفين</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>"</word> 
+ <lemma>"</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>كما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>ذكرت</word> 
+ <lemma>ذَكَرَ</lemma>
+</res>
+<res>
+<word>الدعوى</word> 
+ <lemma>دَعْوَى</lemma>
+</res>
+<res>
+<word>أيضًا</word> 
+ <lemma>أَيْض</lemma>
+</res>
+<res>
+<word>سياسة</word> 
+ <lemma>سِيَاسَة</lemma>
+</res>
+<res>
+<word>تقويم</word> 
+ <lemma>تَقْوِيم</lemma>
+</res>
+<res>
+<word>غوغل</word> 
+ <lemma>غُوغَل</lemma>
+</res>
+<res>
+<word>الجديدة</word> 
+ <lemma>جَدِيد</lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>منعت</word> 
+ <lemma>مَنَعَ</lemma>
+</res>
+<res>
+<word>الموظفين</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>إنشاء</word> 
+ <lemma>إِنْشَاء</lemma>
+</res>
+<res>
+<word>تجمعات</word> 
+ <lemma>تَجَمُّع</lemma>
+</res>
+<res>
+<word>ونشاطات</word> 
+ <lemma>نَشَاط</lemma>
+</res>
+<res>
+<word>لأكثر</word> 
+ <lemma>أَكْثَر</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word> 100 </word> 
+ <lemma> 100 </lemma>
+</res>
+<res>
+<word>موظف</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>أو</word> 
+ <lemma>أَوْ</lemma>
+</res>
+<res>
+<word>أكثر</word> 
+ <lemma>أَكْثَر</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word> 10 </word> 
+ <lemma> 10 </lemma>
+</res>
+<res>
+<word>غرف</word> 
+ <lemma>غُرْفَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>والتي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>كان</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>المقصود</word> 
+ <lemma>مَقْصُود</lemma>
+</res>
+<res>
+<word>منها</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>ثني</word> 
+ <lemma>وَثَنَ</lemma>
+</res>
+<res>
+<word>الموظفين</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>المشاركة</word> 
+ <lemma>مُشَارِك</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>هذه</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>الأنشطة</word> 
+ <lemma>نَشَاط</lemma>
+</res>
+<res>
+<word>المنسقة</word> 
+ <lemma>مُنَسِّق</lemma>
+</res>
+<res>
+<word>أو</word> 
+ <lemma>أَوْ</lemma>
+</res>
+<res>
+<word>غيرها</word> 
+ <lemma>غَيْر</lemma>
+</res>
+<res>
+<word>"</word> 
+ <lemma>"</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

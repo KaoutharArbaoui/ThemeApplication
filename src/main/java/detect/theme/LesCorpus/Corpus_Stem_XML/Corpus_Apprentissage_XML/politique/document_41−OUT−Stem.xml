@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Stems>
+<res>
+<word>مشادات</word> 
+ <stem>مُشَادَّات</stem>
+</res>
+<res>
+<word>وتبادل</word> 
+ <stem>تَبَادُل</stem>
+</res>
+<res>
+<word>للعنف</word> 
+ <stem>عُنْف</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>البرلمان</word> 
+ <stem>بَرْلَمَان</stem>
+</res>
+<res>
+<word>التونسي</word> 
+ <stem>تُونُسِيّ</stem>
+</res>
+<res>
+<word>والرئيس</word> 
+ <stem>رَئِيس</stem>
+</res>
+<res>
+<word>يحذر</word> 
+ <stem>يُحَذِّر</stem>
+</res>
+
+<res>
+<word>حذر</word> 
+ <stem>حَذَّر</stem>
+</res>
+<res>
+<word>الرئيس</word> 
+ <stem>رَئِيس</stem>
+</res>
+<res>
+<word>التونسي</word> 
+ <stem>تُونُسِيّ</stem>
+</res>
+<res>
+<word>قيس</word> 
+ <stem>قَيْس</stem>
+</res>
+<res>
+<word>سعيد</word> 
+ <stem>سَعِيد</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>وصفهم</word> 
+ <stem>وَصَف</stem>
+</res>
+<res>
+<word>بالمجرمين</word> 
+ <stem>مُجْرِمِين</stem>
+</res>
+<res>
+<word>الذين</word> 
+ <stem>الَّذِين</stem>
+</res>
+<res>
+<word>يستهدفون</word> 
+ <stem>يَسْتَهْدِفُون</stem>
+</res>
+<res>
+<word>الدولة</word> 
+ <stem>دَوْلَة</stem>
+</res>
+<res>
+<word>التونسية</word> 
+ <stem>تُونُسِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>خلال</word> 
+ <stem>خِلَال</stem>
+</res>
+<res>
+<word>استقباله</word> 
+ <stem>اسْتِقْبَال</stem>
+</res>
+<res>
+<word>عددا</word> 
+ <stem>عَدَدًا</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>نواب</word> 
+ <stem>نُوَّاب</stem>
+</res>
+<res>
+<word>الكتلة</word> 
+ <stem>كُتْلَة</stem>
+</res>
+<res>
+<word>الديمقراطية</word> 
+ <stem>دِيمُقْرَاطِيَّة</stem>
+</res>
+<res>
+<word>بمجلس</word> 
+ <stem>مَجْلِس</stem>
+</res>
+<res>
+<word>النواب</word> 
+ <stem>نُوَّاب</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>واستقبل</word> 
+ <stem>اسْتَقْبَل</stem>
+</res>
+<res>
+<word>الرئيس</word> 
+ <stem>رَئِيس</stem>
+</res>
+<res>
+<word>مساء</word> 
+ <stem>مَسَاء</stem>
+</res>
+<res>
+<word>الاثنين</word> 
+ <stem>اِثْنَيْن</stem>
+</res>
+<res>
+<word>وفدًا</word> 
+ <stem>وَفْدًا</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>مجلس</word> 
+ <stem>مَجْلِس</stem>
+</res>
+<res>
+<word>نواب</word> 
+ <stem>نُوَّاب</stem>
+</res>
+<res>
+<word>الشعب</word> 
+ <stem>شَعْب</stem>
+</res>
+<res>
+<word>يتكون</word> 
+ <stem>يَتَكَوَّن</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>النواب</word> 
+ <stem>نُوَّاب</stem>
+</res>
+<res>
+<word>أمل</word> 
+ <stem>أَمَل</stem>
+</res>
+<res>
+<word>السعيدي</word> 
+ <stem>سَعِيدِيّ</stem>
+</res>
+<res>
+<word>وأنور</word> 
+ <stem>أَنْوَر</stem>
+</res>
+<res>
+<word>بن</word> 
+ <stem>بْن</stem>
+</res>
+<res>
+<word>الشاهد</word> 
+ <stem>شَاهِد</stem>
+</res>
+<res>
+<word>وسامية</word> 
+ <stem>سَامِيَّة</stem>
+</res>
+<res>
+<word>عبو</word> 
+ <stem>عَبْو</stem>
+</res>
+<res>
+<word>وعبد</word> 
+ <stem>عَبْد</stem>
+</res>
+<res>
+<word>الرزاق</word> 
+ <stem>رَزَّاق</stem>
+</res>
+<res>
+<word>عويدات</word> 
+ <stem>عويدات</stem>
+</res>
+<res>
+<word>وليلى</word> 
+ <stem>لَيْلَى</stem>
+</res>
+<res>
+<word>الحداد</word> 
+ <stem>حَدَّاد</stem>
+</res>
+<res>
+<word>ومحمد</word> 
+ <stem>مُحَمَّد</stem>
+</res>
+<res>
+<word>عمار</word> 
+ <stem>عَمَّار</stem>
+</res>
+<res>
+<word>ومنيرة</word> 
+ <stem>مُنِيرَة</stem>
+</res>
+<res>
+<word>العياري</word> 
+ <stem>عِيَارِيّ</stem>
+</res>
+<res>
+<word>ونجم</word> 
+ <stem>نَجْم</stem>
+</res>
+<res>
+<word>الدين</word> 
+ <stem>دِين</stem>
+</res>
+<res>
+<word>بن</word> 
+ <stem>بْن</stem>
+</res>
+<res>
+<word>سالم</word> 
+ <stem>سَالِم</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وتأتي</word> 
+ <stem>تَأْتِي</stem>
+</res>
+<res>
+<word>تصريحات</word> 
+ <stem>تَصْرِيحَات</stem>
+</res>
+<res>
+<word>سعيد</word> 
+ <stem>سَعِيد</stem>
+</res>
+<res>
+<word>عقب</word> 
+ <stem>عَقِب</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>شهده</word> 
+ <stem>شَهِد</stem>
+</res>
+<res>
+<word>مجلس</word> 
+ <stem>مَجْلِس</stem>
+</res>
+<res>
+<word>النواب</word> 
+ <stem>نُوَّاب</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>مشادات</word> 
+ <stem>مُشَادَّات</stem>
+</res>
+<res>
+<word>وتبادل</word> 
+ <stem>تَبَادُل</stem>
+</res>
+<res>
+<word>للعنف</word> 
+ <stem>عُنْف</stem>
+</res>
+<res>
+<word>بين</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>نواب</word> 
+ <stem>نُوَّاب</stem>
+</res>
+<res>
+<word>الكتلة</word> 
+ <stem>كُتْلَة</stem>
+</res>
+<res>
+<word>الديمقراطية</word> 
+ <stem>دِيمُقْرَاطِيَّة</stem>
+</res>
+<res>
+<word>وائتلاف</word> 
+ <stem>ائْتِلَاف</stem>
+</res>
+<res>
+<word>الكرامة</word> 
+ <stem>كَرَامَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>اتهمت</word> 
+ <stem>اتَّهَمَت</stem>
+</res>
+<res>
+<word>خلاله</word> 
+ <stem>خِلَال</stem>
+</res>
+<res>
+<word>الكتلة</word> 
+ <stem>كُتْلَة</stem>
+</res>
+<res>
+<word>الديمقراطية</word> 
+ <stem>دِيمُقْرَاطِيَّة</stem>
+</res>
+<res>
+<word>نواب</word> 
+ <stem>نُوَّاب</stem>
+</res>
+<res>
+<word>الكرامة</word> 
+ <stem>كَرَامَة</stem>
+</res>
+<res>
+<word>بالاعتداء</word> 
+ <stem>اعْتِدَاء</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>أحد</word> 
+ <stem>أَحَد</stem>
+</res>
+<res>
+<word>نوابها</word> 
+ <stem>نُوَّاب</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وتعطلت</word> 
+ <stem>تَعَطَّلَت</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>البرلمان</word> 
+ <stem>بَرْلَمَان</stem>
+</res>
+<res>
+<word>أعمال</word> 
+ <stem>أَعْمَال</stem>
+</res>
+<res>
+<word>لجنة</word> 
+ <stem>لَجْنَة</stem>
+</res>
+<res>
+<word>شؤون</word> 
+ <stem>شُؤُون</stem>
+</res>
+<res>
+<word>المرأة</word> 
+ <stem>مَرْأَة</stem>
+</res>
+<res>
+<word>والأسرة</word> 
+ <stem>أُسْرَة</stem>
+</res>
+<res>
+<word>والطفولة</word> 
+ <stem>طُفُولَة</stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>أعمال</word> 
+ <stem>أَعْمَال</stem>
+</res>
+<res>
+<word>عنف</word> 
+ <stem>عُنْف</stem>
+</res>
+<res>
+<word>وتبادل</word> 
+ <stem>تَبَادُل</stem>
+</res>
+<res>
+<word>للاتهامات</word> 
+ <stem>اتِّهَامَات</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بين</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>نواب</word> 
+ <stem>نُوَّاب</stem>
+</res>
+<res>
+<word>الكتلة</word> 
+ <stem>كُتْلَة</stem>
+</res>
+<res>
+<word>الديمقراطية</word> 
+ <stem>دِيمُقْرَاطِيَّة</stem>
+</res>
+<res>
+<word>ونواب</word> 
+ <stem>نُوَّاب</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>كتلة</word> 
+ <stem>كُتْلَة</stem>
+</res>
+<res>
+<word>ائتلاف</word> 
+ <stem>ائْتِلَاف</stem>
+</res>
+<res>
+<word>الكرامة</word> 
+ <stem>كَرَامَة</stem>
+</res>
+<res>
+<word>وكتلة</word> 
+ <stem>كُتْلَة</stem>
+</res>
+<res>
+<word>حركة</word> 
+ <stem>حَرَكَة</stem>
+</res>
+<res>
+<word>النهضة</word> 
+ <stem>نَهْضَة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وقرر</word> 
+ <stem>قَرَّر</stem>
+</res>
+<res>
+<word>رئيس</word> 
+ <stem>رَئِيس</stem>
+</res>
+<res>
+<word>مجلس</word> 
+ <stem>مَجْلِس</stem>
+</res>
+<res>
+<word>النواب</word> 
+ <stem>نُوَّاب</stem>
+</res>
+<res>
+<word>راشد</word> 
+ <stem>رَاشِد</stem>
+</res>
+<res>
+<word>الغنوشي</word> 
+ <stem>الغنوشي</stem>
+</res>
+<res>
+<word>فتح</word> 
+ <stem>فَتْح</stem>
+</res>
+<res>
+<word>تحقيق</word> 
+ <stem>تَحْقِيق</stem>
+</res>
+<res>
+<word>بخصوص</word> 
+ <stem>خُصُوص</stem>
+</res>
+<res>
+<word>تعرض</word> 
+ <stem>تَعْرِض</stem>
+</res>
+<res>
+<word>نائب</word> 
+ <stem>نَائِب</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الكتلة</word> 
+ <stem>كُتْلَة</stem>
+</res>
+<res>
+<word>الديمقراطية</word> 
+ <stem>دِيمُقْرَاطِيَّة</stem>
+</res>
+<res>
+<word>للاعتداء</word> 
+ <stem>اعْتِدَاء</stem>
+</res>
+<res>
+<word>وفقا</word> 
+ <stem>وَفْقًا</stem>
+</res>
+<res>
+<word>لوكالة</word> 
+ <stem>وِكَالَة</stem>
+</res>
+<res>
+<word>الأنباء</word> 
+ <stem>أَنْبَاء</stem>
+</res>
+<res>
+<word>التونسية</word> 
+ <stem>تُونُسِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>معربا</word> 
+ <stem>مُعْرِبًا</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>إدانته</word> 
+ <stem>إِدَانَة</stem>
+</res>
+<res>
+<word>المطلقة</word> 
+ <stem>مُطْلَقَة</stem>
+</res>
+<res>
+<word>للاعتداء</word> 
+ <stem>اعْتِدَاء</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ويشهد</word> 
+ <stem>يَشْهَد</stem>
+</res>
+<res>
+<word>البرلمان</word> 
+ <stem>بَرْلَمَان</stem>
+</res>
+<res>
+<word>توترا</word> 
+ <stem>تَوَتُّرًا</stem>
+</res>
+<res>
+<word>وجدلا</word> 
+ <stem>جَدَلًا</stem>
+</res>
+<res>
+<word>حادا</word> 
+ <stem>حَادًّا</stem>
+</res>
+<res>
+<word>بين</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>الكتل</word> 
+ <stem>كُتَل</stem>
+</res>
+<res>
+<word>البرلمانية</word> 
+ <stem>بَرْلَمَانِيَّة</stem>
+</res>
+<res>
+<word>منذ</word> 
+ <stem>مُنْذ</stem>
+</res>
+<res>
+<word>أيام</word> 
+ <stem>أَيَّام</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>خلفية</word> 
+ <stem>خَلْفِيَّة</stem>
+</res>
+<res>
+<word>تصريح</word> 
+ <stem>تَصْرِيح</stem>
+</res>
+<res>
+<word>للنائب</word> 
+ <stem>نَائِب</stem>
+</res>
+<res>
+<word>محمد</word> 
+ <stem>مُحَمَّد</stem>
+</res>
+<res>
+<word>العفاس</word> 
+ <stem>عَفَّاس</stem>
+</res>
+<res>
+<word> (</word> 
+ <stem> (</stem>
+</res>
+<res>
+<word>ائتلاف</word> 
+ <stem>ائْتِلَاف</stem>
+</res>
+<res>
+<word>الكرامة</word> 
+ <stem>كَرَامَة</stem>
+</res>
+<res>
+<word>) </word> 
+ <stem>) </stem>
+</res>
+<res>
+<word>بشأن</word> 
+ <stem>شَأْن</stem>
+</res>
+<res>
+<word>الأمهات</word> 
+ <stem>أُمَّهَات</stem>
+</res>
+<res>
+<word>العازبات</word> 
+ <stem>عَازِبَات</stem>
+</res>
+<res>
+<word>خلال</word> 
+ <stem>خِلَال</stem>
+</res>
+<res>
+<word>جلسة</word> 
+ <stem>جَلْسَة</stem>
+</res>
+<res>
+<word>عامة</word> 
+ <stem>عَامَّة</stem>
+</res>
+<res>
+<word>لمناقشة</word> 
+ <stem>مُنَاقَشَة</stem>
+</res>
+<res>
+<word>موازنة</word> 
+ <stem>مُوَازَنَة</stem>
+</res>
+<res>
+<word>وزارة</word> 
+ <stem>وِزَارَة</stem>
+</res>
+<res>
+<word>المرأة</word> 
+ <stem>مَرْأَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وقد</word> 
+ <stem>قَد</stem>
+</res>
+<res>
+<word>أثار</word> 
+ <stem>أَثَار</stem>
+</res>
+<res>
+<word>التصريح</word> 
+ <stem>تَصْرِيح</stem>
+</res>
+<res>
+<word>جدلا</word> 
+ <stem>جَدَلًا</stem>
+</res>
+<res>
+<word>واسعا</word> 
+ <stem>وَاسِعًا</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الأوساط</word> 
+ <stem>أَوْسَاط</stem>
+</res>
+<res>
+<word>الحقوقية</word> 
+ <stem>حُقُوقِيَّة</stem>
+</res>
+<res>
+<word>والسياسية</word> 
+ <stem>سِيَاسِيَّة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+</Stems>

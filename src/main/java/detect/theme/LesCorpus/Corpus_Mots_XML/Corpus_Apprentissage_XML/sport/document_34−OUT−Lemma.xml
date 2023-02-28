@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>التشكيلة</word> 
+ <lemma>تَشْكِيلَة</lemma>
+</res>
+<res>
+<word>الأغلى</word> 
+ <lemma>الأغلى</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>العالم</word> 
+ <lemma>عَالِم</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>رونالدو</word> 
+ <lemma>رونالدو</lemma>
+</res>
+<res>
+<word>وميسي</word> 
+ <lemma>مِيس</lemma>
+</res>
+<res>
+<word>وصلاح</word> 
+ <lemma>صَلَاح</lemma>
+</res>
+<res>
+<word>خارجها</word> 
+ <lemma>خَارِج</lemma>
+</res>
+
+<res>
+<word>كشف</word> 
+ <lemma>كَشْف</lemma>
+</res>
+<res>
+<word>موقع</word> 
+ <lemma>مَوْقِع</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>ترانسفير</word> 
+ <lemma>ترانسفير</lemma>
+</res>
+<res>
+<word>ماركت</word> 
+ <lemma>ماركت</lemma>
+</res>
+<res>
+<word>" (Transfermarkt) </word> 
+ <lemma>" (Transfermarkt) </lemma>
+</res>
+<res>
+<word>الألماني</word> 
+ <lemma>أَلْمَانِيّ</lemma>
+</res>
+<res>
+<word> -</word> 
+ <lemma> -</lemma>
+</res>
+<res>
+<word>المتخصص</word> 
+ <lemma>مُتَخَصِّص</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>اقتصاد</word> 
+ <lemma>اقْتِصَاد</lemma>
+</res>
+<res>
+<word>كرة</word> 
+ <lemma>كُرَة</lemma>
+</res>
+<res>
+<word>القدم</word> 
+ <lemma>قَدَم</lemma>
+</res>
+<res>
+<word>والقيمة</word> 
+ <lemma>قِيمَة</lemma>
+</res>
+<res>
+<word>السوقية</word> 
+ <lemma>سُوقِيّ</lemma>
+</res>
+<res>
+<word>للاعبين</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>والفرق</word> 
+ <lemma>فِرْقَة</lemma>
+</res>
+<res>
+<word>- </word> 
+ <lemma>- </lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>قائمة</word> 
+ <lemma>قَائِم</lemma>
+</res>
+<res>
+<word>مكونة</word> 
+ <lemma>مُكَوَّن</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word> 11 </word> 
+ <lemma> 11 </lemma>
+</res>
+<res>
+<word>لاعبا</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>هم</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>الأعلى</word> 
+ <lemma>أَعْلَى</lemma>
+</res>
+<res>
+<word>قيمة</word> 
+ <lemma>قَيِّم</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>العالم</word> 
+ <lemma>عَالِم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وغاب</word> 
+ <lemma>غَابَ</lemma>
+</res>
+<res>
+<word>عنها</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>النجمان</word> 
+ <lemma>نَجْم</lemma>
+</res>
+<res>
+<word>:</word> 
+ <lemma>:</lemma>
+</res>
+<res>
+<word>الأرجنتيني</word> 
+ <lemma>أَرْجُنْتِينِيّ</lemma>
+</res>
+<res>
+<word>ليونيل</word> 
+ <lemma>لِيُونِيل</lemma>
+</res>
+<res>
+<word>ميسي</word> 
+ <lemma>مِيسِي</lemma>
+</res>
+<res>
+<word>والبرتغالي</word> 
+ <lemma>بُرْتُغَالِيّ</lemma>
+</res>
+<res>
+<word>كريستيانو</word> 
+ <lemma>كِرِيسْتِيَانُو</lemma>
+</res>
+<res>
+<word>رونالدو</word> 
+ <lemma>رونالدو</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ونشر</word> 
+ <lemma>نَشَرَ</lemma>
+</res>
+<res>
+<word>الحساب</word> 
+ <lemma>حِسَاب</lemma>
+</res>
+<res>
+<word>الرسمي</word> 
+ <lemma>رَسْمِيّ</lemma>
+</res>
+<res>
+<word>للموقع</word> 
+ <lemma>مَوْقِع</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>تويتر</word> 
+ <lemma>تُوِيتَر</lemma>
+</res>
+<res>
+<word>صورة</word> 
+ <lemma>صُورَة</lemma>
+</res>
+<res>
+<word>يعرض</word> 
+ <lemma>عَرَضَ</lemma>
+</res>
+<res>
+<word>فيها</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الفريق</word> 
+ <lemma>فَرِيق</lemma>
+</res>
+<res>
+<word>الأغلى</word> 
+ <lemma>الأغلى</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>العالم</word> 
+ <lemma>عَالِم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وكان</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>مكونا</word> 
+ <lemma>مُكَوِّن</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word> 11 </word> 
+ <lemma> 11 </lemma>
+</res>
+<res>
+<word>لاعبا</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>مختلف</word> 
+ <lemma>مُخْتَلِف</lemma>
+</res>
+<res>
+<word>الخطوط</word> 
+ <lemma>خَطّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وبقيمتهم</word> 
+ <lemma>قِيمَة</lemma>
+</res>
+<res>
+<word>المقدرة</word> 
+ <lemma>مُقَدَّر</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>السوق</word> 
+ <lemma>سُوق</lemma>
+</res>
+<res>
+<word>حاليا</word> 
+ <lemma>حَالِيّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>Nach den Marktwert-Updates – das ist die neue wertvolltste Elf der Welt</word> 
+ <lemma>Nach den Marktwert-Updates – das ist die neue wertvolltste Elf der Welt</lemma>
+</res>
+<res>
+<word>!</word> 
+ <lemma>!</lemma>
+</res>
+<res>
+<word> Wer fehlt? #TMMarktwerte pic</word> 
+ <lemma> Wer fehlt? #TMMarktwerte pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/AXc7gM3NXg</word> 
+ <lemma>com/AXc7gM3NXg</lemma>
+</res>
+
+<res>
+<word>— Transfermarkt (@Transfermarkt) October 18, 2020</word> 
+ <lemma>— Transfermarkt (@Transfermarkt) October 18, 2020</lemma>
+</res>
+
+
+<res>
+<word>وحافظ</word> 
+ <lemma>حَافَظَ</lemma>
+</res>
+<res>
+<word>النجم</word> 
+ <lemma>نَجْم</lemma>
+</res>
+<res>
+<word>الفرنسي</word> 
+ <lemma>فَرَنْسِيّ</lemma>
+</res>
+<res>
+<word>الشاب</word> 
+ <lemma>شَابّ</lemma>
+</res>
+<res>
+<word>كيليان</word> 
+ <lemma>كَيْلِيّ</lemma>
+</res>
+<res>
+<word>مبابي</word> 
+ <lemma>مَبَاب</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>مكانته</word> 
+ <lemma>مَكَانَة</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>المركز</word> 
+ <lemma>مَرْكَز</lemma>
+</res>
+<res>
+<word>الأول</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>كأغلى</word> 
+ <lemma>كأغلى</lemma>
+</res>
+<res>
+<word>اللاعبين</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>قيمة</word> 
+ <lemma>قَيِّم</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>العالم</word> 
+ <lemma>عَالِم</lemma>
+</res>
+<res>
+<word>ب</word> 
+ <lemma>بِـ</lemma>
+</res>
+<res>
+<word>180 </word> 
+ <lemma>180 </lemma>
+</res>
+<res>
+<word>مليون</word> 
+ <lemma>مِلْيُون</lemma>
+</res>
+<res>
+<word>يورو</word> 
+ <lemma>يُورُو</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>حين</word> 
+ <lemma>حِينَ</lemma>
+</res>
+<res>
+<word>لم</word> 
+ <lemma>لَمْ</lemma>
+</res>
+<res>
+<word>تقل</word> 
+ <lemma>قَالَ</lemma>
+</res>
+<res>
+<word>قيمة</word> 
+ <lemma>قَيِّم</lemma>
+</res>
+<res>
+<word>أغلى</word> 
+ <lemma>أَغْلَى</lemma>
+</res>
+<res>
+<word>اللاعبين</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word> 70 </word> 
+ <lemma> 70 </lemma>
+</res>
+<res>
+<word>مليون</word> 
+ <lemma>مِلْيُون</lemma>
+</res>
+<res>
+<word>يورو</word> 
+ <lemma>يُورُو</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>والتي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>كانت</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>نصيب</word> 
+ <lemma>نَصِيب</lemma>
+</res>
+<res>
+<word>مدافع</word> 
+ <lemma>مُدَافِع</lemma>
+</res>
+<res>
+<word>يوفنتوس</word> 
+ <lemma>يُوفِنْتُوس</lemma>
+</res>
+<res>
+<word>الهولندي</word> 
+ <lemma>هُولَنْدِيّ</lemma>
+</res>
+<res>
+<word>ماتيس</word> 
+ <lemma>ماتيس</lemma>
+</res>
+<res>
+<word>دي</word> 
+ <lemma>يَدَى</lemma>
+</res>
+<res>
+<word>ليخت</word> 
+ <lemma>خَاتَ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وجاء</word> 
+ <lemma>جَاءَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>حراسة</word> 
+ <lemma>حِرَاسَة</lemma>
+</res>
+<res>
+<word>المرمى</word> 
+ <lemma>مَرْمَى</lemma>
+</res>
+<res>
+<word>السلوفاكي</word> 
+ <lemma>سلُوفَاكِيّ</lemma>
+</res>
+<res>
+<word>يان</word> 
+ <lemma>يان</lemma>
+</res>
+<res>
+<word>أوبلاك</word> 
+ <lemma>بَلَّاك</lemma>
+</res>
+<res>
+<word>حارس</word> 
+ <lemma>حَارِس</lemma>
+</res>
+<res>
+<word>أتلتيكو</word> 
+ <lemma>أَتْلِتِيكُو</lemma>
+</res>
+<res>
+<word>مدريد</word> 
+ <lemma>مَدْرِيد</lemma>
+</res>
+<res>
+<word>الإسباني</word> 
+ <lemma>إِسْبَانِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>أما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>خط</word> 
+ <lemma>خَطّ</lemma>
+</res>
+<res>
+<word>الدفاع</word> 
+ <lemma>دِفَاع</lemma>
+</res>
+<res>
+<word>فتواجد</word> 
+ <lemma>تَوَاجَدَ</lemma>
+</res>
+<res>
+<word>فيه</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>المدافعون</word> 
+ <lemma>مُدَافِع</lemma>
+</res>
+<res>
+<word>فيرجيل</word> 
+ <lemma>فيرجيل</lemma>
+</res>
+<res>
+<word>فان</word> 
+ <lemma>فَان</lemma>
+</res>
+<res>
+<word>دايك</word> 
+ <lemma>دايك</lemma>
+</res>
+<res>
+<word>وتريند</word> 
+ <lemma>وتريند</lemma>
+</res>
+<res>
+<word>ألكسندر</word> 
+ <lemma>أَلِكْسَنْدَر</lemma>
+</res>
+<res>
+<word>أرنولد</word> 
+ <lemma>أرنولد</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مَنْ</lemma>
+</res>
+<res>
+<word>ليفربول</word> 
+ <lemma>لِيفِرْبُول</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وماتيس</word> 
+ <lemma>وماتيس</lemma>
+</res>
+<res>
+<word>دي</word> 
+ <lemma>يَدَى</lemma>
+</res>
+<res>
+<word>ليخت</word> 
+ <lemma>خَاتَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مَنْ</lemma>
+</res>
+<res>
+<word>يوفنتوس</word> 
+ <lemma>يُوفِنْتُوس</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>والكندي</word> 
+ <lemma>كَنَدِيّ</lemma>
+</res>
+<res>
+<word>ألفونسو</word> 
+ <lemma>ألفونسو</lemma>
+</res>
+<res>
+<word>ديفيس</word> 
+ <lemma>ديفيس</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مَنْ</lemma>
+</res>
+<res>
+<word>بايرن</word> 
+ <lemma>بَايِرْن</lemma>
+</res>
+<res>
+<word>ميونخ</word> 
+ <lemma>ميونخ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وبالنسبة</word> 
+ <lemma>نِسْبَة</lemma>
+</res>
+<res>
+<word>لخط</word> 
+ <lemma>خَطّ</lemma>
+</res>
+<res>
+<word>الوسط</word> 
+ <lemma>وَسْط</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وضع</word> 
+ <lemma>وَضْع</lemma>
+</res>
+<res>
+<word>فيه</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الموقع</word> 
+ <lemma>مُوَقَّع</lemma>
+</res>
+<res>
+<word>الألماني</word> 
+ <lemma>أَلْمَانِيّ</lemma>
+</res>
+<res>
+<word>جوشوا</word> 
+ <lemma>جَاشَ</lemma>
+</res>
+<res>
+<word>كيميتش</word> 
+ <lemma>كيميتش</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مَنْ</lemma>
+</res>
+<res>
+<word>بايرن</word> 
+ <lemma>بَايِرْن</lemma>
+</res>
+<res>
+<word>ميونخ</word> 
+ <lemma>ميونخ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>والسنغالي</word> 
+ <lemma>سَنِغَالِيّ</lemma>
+</res>
+<res>
+<word>ساديو</word> 
+ <lemma>ساديو</lemma>
+</res>
+<res>
+<word>ماني</word> 
+ <lemma>مَان</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مَنْ</lemma>
+</res>
+<res>
+<word>ليفربول</word> 
+ <lemma>لِيفِرْبُول</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ولاعبي</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>مانشستر</word> 
+ <lemma>مَانْشِسْتِر</lemma>
+</res>
+<res>
+<word>سيتي</word> 
+ <lemma>سِيتِي</lemma>
+</res>
+<res>
+<word>كيفين</word> 
+ <lemma>كَيْف</lemma>
+</res>
+<res>
+<word>دي</word> 
+ <lemma>يَدَى</lemma>
+</res>
+<res>
+<word>بروين</word> 
+ <lemma>بَرْو</lemma>
+</res>
+<res>
+<word>ورحيم</word> 
+ <lemma>رَحِيم</lemma>
+</res>
+<res>
+<word>ستيرلينج</word> 
+ <lemma>ستيرلينج</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>أما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>خط</word> 
+ <lemma>خَطّ</lemma>
+</res>
+<res>
+<word>الهجوم</word> 
+ <lemma>هُجُوم</lemma>
+</res>
+<res>
+<word>فاحتله</word> 
+ <lemma>احْتَلَّ</lemma>
+</res>
+<res>
+<word>مهاجما</word> 
+ <lemma>مُهَاجِم</lemma>
+</res>
+<res>
+<word>باريس</word> 
+ <lemma>بَارِيس</lemma>
+</res>
+<res>
+<word>سان</word> 
+ <lemma>سَان</lemma>
+</res>
+<res>
+<word>جيرمان</word> 
+ <lemma>جيرمان</lemma>
+</res>
+<res>
+<word>كيليان</word> 
+ <lemma>كَيْلِيّ</lemma>
+</res>
+<res>
+<word>مبابي</word> 
+ <lemma>مَبَاب</lemma>
+</res>
+<res>
+<word>والبرازيلي</word> 
+ <lemma>والبرازيلي</lemma>
+</res>
+<res>
+<word>نيمار</word> 
+ <lemma>نيمار</lemma>
+</res>
+<res>
+<word>دا</word> 
+ <lemma>دا</lemma>
+</res>
+<res>
+<word>سيلفا</word> 
+ <lemma>لَفَّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>حين</word> 
+ <lemma>حِينَ</lemma>
+</res>
+<res>
+<word>غاب</word> 
+ <lemma>غَابَ</lemma>
+</res>
+<res>
+<word>النجم</word> 
+ <lemma>نَجْم</lemma>
+</res>
+<res>
+<word>المصري</word> 
+ <lemma>مِصْرِيّ</lemma>
+</res>
+<res>
+<word>صلاح</word> 
+ <lemma>صَلَاح</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>التشكيلة</word> 
+ <lemma>تَشْكِيلَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>رغم</word> 
+ <lemma>رَغْم</lemma>
+</res>
+<res>
+<word>أنه</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>ضمن</word> 
+ <lemma>ضِمْن</lemma>
+</res>
+<res>
+<word>أغلى</word> 
+ <lemma>أَغْلَى</lemma>
+</res>
+<res>
+<word> 5 </word> 
+ <lemma> 5 </lemma>
+</res>
+<res>
+<word>لاعبين</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>العالم</word> 
+ <lemma>عَالِم</lemma>
+</res>
+<res>
+<word>منذ</word> 
+ <lemma>مُنْذُ</lemma>
+</res>
+<res>
+<word>العام</word> 
+ <lemma>عَام</lemma>
+</res>
+<res>
+<word>الماضي</word> 
+ <lemma>مَاضِي</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

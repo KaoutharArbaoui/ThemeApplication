@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Stems>
+<res>
+<word>عودة</word> 
+ <stem>عَوْدَة</stem>
+</res>
+<res>
+<word>لاعبين</word> 
+ <stem>لَاعِبِين</stem>
+</res>
+<res>
+<word>أميركيين</word> 
+ <stem>أَمِيرِكِيَّيْن</stem>
+</res>
+<res>
+<word>تحسبا</word> 
+ <stem>تَحَسُّبًا</stem>
+</res>
+<res>
+<word>لاستئناف</word> 
+ <stem>اسْتِئْنَاف</stem>
+</res>
+<res>
+<word>الدوري</word> 
+ <stem>دَوْرِيّ</stem>
+</res>
+<res>
+<word>الصيني</word> 
+ <stem>صِينِيّ</stem>
+</res>
+<res>
+<word>لكرة</word> 
+ <stem>كُرَة</stem>
+</res>
+<res>
+<word>السلة</word> 
+ <stem>سَلَّة</stem>
+</res>
+
+<res>
+<word>بدأ</word> 
+ <stem>بَدَأ</stem>
+</res>
+<res>
+<word>لاعبون</word> 
+ <stem>لَاعِبُون</stem>
+</res>
+<res>
+<word>أميركيون</word> 
+ <stem>أَمِيرْكِيُّون</stem>
+</res>
+<res>
+<word> -</word> 
+ <stem> -</stem>
+</res>
+<res>
+<word>ومنهم</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>جيريمي</word> 
+ <stem>جيريمي</stem>
+</res>
+<res>
+<word>لين</word> 
+ <stem>لَيِّن</stem>
+</res>
+<res>
+<word>- </word> 
+ <stem>- </stem>
+</res>
+<res>
+<word>العودة</word> 
+ <stem>عَوْدَة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>الصين</word> 
+ <stem>صِين</stem>
+</res>
+<res>
+<word>تحسبا</word> 
+ <stem>تَحَسُّبًا</stem>
+</res>
+<res>
+<word>لاستئناف</word> 
+ <stem>اسْتِئْنَاف</stem>
+</res>
+<res>
+<word>مباريات</word> 
+ <stem>مُبَارَيَات</stem>
+</res>
+<res>
+<word>الدوري</word> 
+ <stem>دَوْرِيّ</stem>
+</res>
+<res>
+<word>الصيني</word> 
+ <stem>صِينِيّ</stem>
+</res>
+<res>
+<word>لكرة</word> 
+ <stem>كُرَة</stem>
+</res>
+<res>
+<word>السلة</word> 
+ <stem>سَلَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>توقفت</word> 
+ <stem>تَوَقَّفَت</stem>
+</res>
+<res>
+<word>منافساته</word> 
+ <stem>مُنَافَسَات</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>بداية</word> 
+ <stem>بِدَايَة</stem>
+</res>
+<res>
+<word>الشهر</word> 
+ <stem>شَهْر</stem>
+</res>
+<res>
+<word>الماضي</word> 
+ <stem>مَاضِي</stem>
+</res>
+<res>
+<word>بسبب</word> 
+ <stem>سَبَب</stem>
+</res>
+<res>
+<word>تفشي</word> 
+ <stem>تَفَشّ</stem>
+</res>
+<res>
+<word>فيروس</word> 
+ <stem>فَيْرُوس</stem>
+</res>
+<res>
+<word>كورونا</word> 
+ <stem>كَوَّرُوا</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وقالت</word> 
+ <stem>قَالَت</stem>
+</res>
+<res>
+<word>وسائل</word> 
+ <stem>وَسَائِل</stem>
+</res>
+<res>
+<word>إعلام</word> 
+ <stem>إِعْلَام</stem>
+</res>
+<res>
+<word>صينية</word> 
+ <stem>صِينِيَّة</stem>
+</res>
+<res>
+<word>إن</word> 
+ <stem>إِنّ</stem>
+</res>
+<res>
+<word>دوري</word> 
+ <stem>دَوْر</stem>
+</res>
+<res>
+<word>السلة</word> 
+ <stem>سَلَّة</stem>
+</res>
+<res>
+<word>المحلي</word> 
+ <stem>مَحَلِّيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>توقفت</word> 
+ <stem>تَوَقَّفَت</stem>
+</res>
+<res>
+<word>مبارياته</word> 
+ <stem>مُبَارَيَات</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الأول</word> 
+ <stem>أَوَّل</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>فبراير</word> 
+ <stem>فِبْرَايِر</stem>
+</res>
+<res>
+<word>/</word> 
+ <stem>/</stem>
+</res>
+<res>
+<word>شباط</word> 
+ <stem>شُبَاط</stem>
+</res>
+<res>
+<word>الماضي</word> 
+ <stem>مَاضِي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>يتطلع</word> 
+ <stem>يَتَطَلَّع</stem>
+</res>
+<res>
+<word>لاستئناف</word> 
+ <stem>اسْتِئْنَاف</stem>
+</res>
+<res>
+<word>نشاطه</word> 
+ <stem>نَشَاط</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word> 15 </word> 
+ <stem> 15 </stem>
+</res>
+<res>
+<word>أبريل</word> 
+ <stem>أَبْرِيل</stem>
+</res>
+<res>
+<word>/</word> 
+ <stem>/</stem>
+</res>
+<res>
+<word>نيسان</word> 
+ <stem>نِيسَان</stem>
+</res>
+<res>
+<word>المقبل</word> 
+ <stem>مُقْبِل</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>رغم</word> 
+ <stem>رَغْم</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>ذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>يستلزم</word> 
+ <stem>يَسْتَلْزِم</stem>
+</res>
+<res>
+<word>الحصول</word> 
+ <stem>حُصُول</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>موافقة</word> 
+ <stem>مُوَافَقَة</stem>
+</res>
+<res>
+<word>الإدارة</word> 
+ <stem>إِدَارَة</stem>
+</res>
+<res>
+<word>العامة</word> 
+ <stem>عَامَّة</stem>
+</res>
+<res>
+<word>للرياضة</word> 
+ <stem>رِيَاضَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الصين</word> 
+ <stem>صِين</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وفي</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>البر</word> 
+ <stem>بَرّ</stem>
+</res>
+<res>
+<word>الصيني</word> 
+ <stem>صِينِيّ</stem>
+</res>
+<res>
+<word>الرئيسي</word> 
+ <stem>رَئِيسِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>حيث</word> 
+ <stem>حَيْث</stem>
+</res>
+<res>
+<word>ظهر</word> 
+ <stem>ظُهْر</stem>
+</res>
+<res>
+<word>فيروس</word> 
+ <stem>فَيْرُوس</stem>
+</res>
+<res>
+<word>كورونا</word> 
+ <stem>كَوَّرُوا</stem>
+</res>
+<res>
+<word>أواخر</word> 
+ <stem>أَوَاخِر</stem>
+</res>
+<res>
+<word>العام</word> 
+ <stem>عَام</stem>
+</res>
+<res>
+<word>الماضي</word> 
+ <stem>مَاضِي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>لم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>يبلغ</word> 
+ <stem>يُبَلِّغ</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>أي</word> 
+ <stem>أَيّ</stem>
+</res>
+<res>
+<word>إصابات</word> 
+ <stem>إِصَابَات</stem>
+</res>
+<res>
+<word>جديدة</word> 
+ <stem>جَدِيدَة</stem>
+</res>
+<res>
+<word>محلية</word> 
+ <stem>مَحَلِّيَّة</stem>
+</res>
+<res>
+<word>المصدر</word> 
+ <stem>مَصْدَر</stem>
+</res>
+<res>
+<word>لليوم</word> 
+ <stem>يَوْم</stem>
+</res>
+<res>
+<word>الثالث</word> 
+ <stem>ثَالِث</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>التوالي</word> 
+ <stem>تَوَالِي</stem>
+</res>
+<res>
+<word>اليوم</word> 
+ <stem>يَوْم</stem>
+</res>
+<res>
+<word>السبت</word> 
+ <stem>سَبْت</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وتسبب</word> 
+ <stem>تَسَبَّب</stem>
+</res>
+<res>
+<word>تفشي</word> 
+ <stem>تَفَشّ</stem>
+</res>
+<res>
+<word>الفيروس</word> 
+ <stem>فَيْرُوس</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>توقف</word> 
+ <stem>تَوَقَّف</stem>
+</res>
+<res>
+<word>النشاط</word> 
+ <stem>نَشَاط</stem>
+</res>
+<res>
+<word>الرياضي</word> 
+ <stem>رِيَاضِيّ</stem>
+</res>
+<res>
+<word>حول</word> 
+ <stem>حَوْل</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>تقريبا</word> 
+ <stem>تَقْرِيبًا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>كما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>توقفت</word> 
+ <stem>تَوَقَّفَت</stem>
+</res>
+<res>
+<word>للسبب</word> 
+ <stem>سَبَب</stem>
+</res>
+<res>
+<word>نفسه</word> 
+ <stem>نَفْس</stem>
+</res>
+<res>
+<word>مباريات</word> 
+ <stem>مُبَارَيَات</stem>
+</res>
+<res>
+<word>دوري</word> 
+ <stem>دَوْرِيّ</stem>
+</res>
+<res>
+<word>السلة</word> 
+ <stem>سَلَّة</stem>
+</res>
+<res>
+<word>الأميركي</word> 
+ <stem>أَمِيرْكِيّ</stem>
+</res>
+<res>
+<word>للمحترفين</word> 
+ <stem>مُحْتَرِفِين</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word> 12 </word> 
+ <stem> 12 </stem>
+</res>
+<res>
+<word>مارس</word> 
+ <stem>مَارِس</stem>
+</res>
+<res>
+<word>/</word> 
+ <stem>/</stem>
+</res>
+<res>
+<word>آذار</word> 
+ <stem>آذَار</stem>
+</res>
+<res>
+<word>الجاري</word> 
+ <stem>جَارِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>إصابة</word> 
+ <stem>إِصَابَة</stem>
+</res>
+<res>
+<word>لاعب</word> 
+ <stem>لَاعِب</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>يوتا</word> 
+ <stem>يوتا</stem>
+</res>
+<res>
+<word>غاز</word> 
+ <stem>غَاز</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>بالعدوى</word> 
+ <stem>عَدْوَى</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ويلعب</word> 
+ <stem>يَلْعَب</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الدوري</word> 
+ <stem>دَوْرِيّ</stem>
+</res>
+<res>
+<word>الصيني</word> 
+ <stem>صِينِيّ</stem>
+</res>
+<res>
+<word>للسلة</word> 
+ <stem>سَلَّة</stem>
+</res>
+<res>
+<word> -</word> 
+ <stem> -</stem>
+</res>
+<res>
+<word>والمكون</word> 
+ <stem>مُكَوَّن</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>عشرين</word> 
+ <stem>عِشْرِين</stem>
+</res>
+<res>
+<word>فريقا</word> 
+ <stem>فَرِيقًا</stem>
+</res>
+<res>
+<word>- </word> 
+ <stem>- </stem>
+</res>
+<res>
+<word>نحو</word> 
+ <stem>نَحْو</stem>
+</res>
+<res>
+<word>أربعين</word> 
+ <stem>أَرْبَعِين</stem>
+</res>
+<res>
+<word>أميركيا</word> 
+ <stem>أَمِيرْكِيَّا</stem>
+</res>
+<res>
+<word>وأجنبيا</word> 
+ <stem>أَجْنَبِيًّا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وسيخضع</word> 
+ <stem>يَخْضَع</stem>
+</res>
+<res>
+<word>كل</word> 
+ <stem>كُلّ</stem>
+</res>
+<res>
+<word>هؤلاء</word> 
+ <stem>هَؤُلَاء</stem>
+</res>
+<res>
+<word>للحجر</word> 
+ <stem>حَجَر</stem>
+</res>
+<res>
+<word>الصحي</word> 
+ <stem>صِحِّيّ</stem>
+</res>
+<res>
+<word>لمدة</word> 
+ <stem>مَدَّة</stem>
+</res>
+<res>
+<word> 14 </word> 
+ <stem> 14 </stem>
+</res>
+<res>
+<word>يوما</word> 
+ <stem>يَوْمًا</stem>
+</res>
+<res>
+<word>لدى</word> 
+ <stem>لَدَى</stem>
+</res>
+<res>
+<word>عودتهم</word> 
+ <stem>عَوْدَة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>الصين</word> 
+ <stem>صِين</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ونشر</word> 
+ <stem>نَشَر</stem>
+</res>
+<res>
+<word>لين</word> 
+ <stem>لَيِّن</stem>
+</res>
+<res>
+<word>صورة</word> 
+ <stem>صُورَة</stem>
+</res>
+<res>
+<word>له</word> 
+ <stem>لَه</stem>
+</res>
+<res>
+<word>بجوار</word> 
+ <stem>جِوَار</stem>
+</res>
+<res>
+<word>سور</word> 
+ <stem>سُوَر</stem>
+</res>
+<res>
+<word>الصين</word> 
+ <stem>صِين</stem>
+</res>
+<res>
+<word>العظيم</word> 
+ <stem>عَظِيم</stem>
+</res>
+<res>
+<word>بالقرب</word> 
+ <stem>قُرْب</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>العاصمة</word> 
+ <stem>عَاصِمَة</stem>
+</res>
+<res>
+<word>بكين</word> 
+ <stem>بِكِين</stem>
+</res>
+<res>
+<word>يوم</word> 
+ <stem>يَوْم</stem>
+</res>
+<res>
+<word>الجمعة</word> 
+ <stem>جُمْعَة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وفي</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>رسالة</word> 
+ <stem>رِسَالَة</stem>
+</res>
+<res>
+<word>مع</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>الصورة</word> 
+ <stem>صُورَة</stem>
+</res>
+<res>
+<word>كتب</word> 
+ <stem>كُتُب</stem>
+</res>
+<res>
+<word>لين</word> 
+ <stem>لِين</stem>
+</res>
+<res>
+<word> -</word> 
+ <stem> -</stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>يلعب</word> 
+ <stem>يَلْعَب</stem>
+</res>
+<res>
+<word>لفريق</word> 
+ <stem>فَرِيق</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>بكين</word> 
+ <stem>بِكِين</stem>
+</res>
+<res>
+<word>دكس</word> 
+ <stem>دَكَس</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>إنستغرام</word> 
+ <stem>إنستغرام</stem>
+</res>
+<res>
+<word>- "</word> 
+ <stem>- "</stem>
+</res>
+<res>
+<word>عدت</word> 
+ <stem>عُدْت</stem>
+</res>
+<res>
+<word>بسلام</word> 
+ <stem>سَلَام</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>بكين</word> 
+ <stem>بِكِين</stem>
+</res>
+<res>
+<word>لإكمال</word> 
+ <stem>إِكْمَال</stem>
+</res>
+<res>
+<word>موسم</word> 
+ <stem>مَوْسِم</stem>
+</res>
+<res>
+<word>دوري</word> 
+ <stem>دَوْرِيّ</stem>
+</res>
+<res>
+<word>السلة</word> 
+ <stem>سَلَّة</stem>
+</res>
+<res>
+<word>الصيني</word> 
+ <stem>صِينِيّ</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>Safely landed back in Beijing to finish out the CBA season</word> 
+ <stem>Safely landed back in Beijing to finish out the CBA season</stem>
+</res>
+<res>
+<word>!</word> 
+ <stem>!</stem>
+</res>
+<res>
+<word> Excited to hoop again, but leaving the bay worried and with a heavy heart for the sick, the jobless and all those fighting fear, anxiety and stress over the unknown future</word> 
+ <stem> Excited to hoop again, but leaving the bay worried and with a heavy heart for the sick, the jobless and all those fighting fear, anxiety and stress over the unknown future</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word> Shoutout to our medical staff in the 50 states for working tirelessly and everyone keep doing your part in slowing the virus</word> 
+ <stem> Shoutout to our medical staff in the 50 states for working tirelessly and everyone keep doing your part in slowing the virus</stem>
+</res>
+<res>
+<word>!</word> 
+ <stem>!</stem>
+</res>
+<res>
+<word> It’s been an awesome 2 months camped out in the gym…basketball has never been more meaningful</word> 
+ <stem> It’s been an awesome 2 months camped out in the gym…basketball has never been more meaningful</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word> The world needs basketball now more than ever</word> 
+ <stem> The world needs basketball now more than ever</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word> I still remember when I went through my toughest moments and worst injuries, you guys were there for me</word> 
+ <stem> I still remember when I went through my toughest moments and worst injuries, you guys were there for me</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word> I hope to return the favor</word> 
+ <stem> I hope to return the favor</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word> As all you beloved fans told me the day after my knee injury, keep fighting bc we’re #NeverDone ❤️ #14dayquarantine #airportcouchesarenttoobad</word> 
+ <stem> As all you beloved fans told me the day after my knee injury, keep fighting bc we’re #NeverDone ❤️ #14dayquarantine #airportcouchesarenttoobad</stem>
+</res>
+
+<res>
+<word>A post shared by Jeremy Lin 林書豪 (@jlin7) onMar 19, 2020 at 7</word> 
+ <stem>A post shared by Jeremy Lin 林書豪 (@jlin7) onMar 19, 2020 at 7</stem>
+</res>
+<res>
+<word>:</word> 
+ <stem>:</stem>
+</res>
+<res>
+<word>34am PDT</word> 
+ <stem>34am PDT</stem>
+</res>
+
+
+<res>
+<word>وأضاف</word> 
+ <stem>أَضَاف</stem>
+</res>
+<res>
+<word>اللاعب</word> 
+ <stem>لَاعِب</stem>
+</res>
+<res>
+<word>الأميركي</word> 
+ <stem>أَمِيرْكِيّ</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>لم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>يسبق</word> 
+ <stem>يَسْبِق</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>وصلت</word> 
+ <stem>وَصَّلْت</stem>
+</res>
+<res>
+<word>كرة</word> 
+ <stem>كُرَة</stem>
+</res>
+<res>
+<word>السلة</word> 
+ <stem>سَلَّة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>الدرجة</word> 
+ <stem>دَرَجَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الأهمية</word> 
+ <stem>أَهَمِّيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>يحتاج</word> 
+ <stem>يَحْتَاج</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>كرة</word> 
+ <stem>كُرَة</stem>
+</res>
+<res>
+<word>السلة</word> 
+ <stem>سَلَّة</stem>
+</res>
+<res>
+<word>الآن</word> 
+ <stem>آن</stem>
+</res>
+<res>
+<word>أكثر</word> 
+ <stem>أَكْثَر</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>أي</word> 
+ <stem>أَيّ</stem>
+</res>
+<res>
+<word>وقت</word> 
+ <stem>وَقْت</stem>
+</res>
+<res>
+<word>مضى</word> 
+ <stem>مَضَى</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ويخضع</word> 
+ <stem>يَخْضَع</stem>
+</res>
+<res>
+<word>لاعب</word> 
+ <stem>لَاعِب</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>سكرامنتو</word> 
+ <stem>سكرامنتو</stem>
+</res>
+<res>
+<word>كينجز</word> 
+ <stem>كينجز</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>السابق</word> 
+ <stem>سَابِق</stem>
+</res>
+<res>
+<word>بوه</word> 
+ <stem>بُو</stem>
+</res>
+<res>
+<word>جيتر</word> 
+ <stem>جيتر</stem>
+</res>
+<res>
+<word> -</word> 
+ <stem> -</stem>
+</res>
+<res>
+<word>وهو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>أميركي</word> 
+ <stem>أَمِيرْكِيّ</stem>
+</res>
+<res>
+<word>أيضا</word> 
+ <stem>أَيْضًا</stem>
+</res>
+<res>
+<word>- </word> 
+ <stem>- </stem>
+</res>
+<res>
+<word>للحجر</word> 
+ <stem>حَجَر</stem>
+</res>
+<res>
+<word>الصحي</word> 
+ <stem>صِحِّيّ</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الصين</word> 
+ <stem>صِين</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>عودته</word> 
+ <stem>عَوْدَة</stem>
+</res>
+<res>
+<word>للانضمام</word> 
+ <stem>انْضِمَام</stem>
+</res>
+<res>
+<word>لصفوف</word> 
+ <stem>صُفُوف</stem>
+</res>
+<res>
+<word>فريقه</word> 
+ <stem>فَرِيق</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>فوجيان</word> 
+ <stem>وَجْيَان</stem>
+</res>
+<res>
+<word>ستيرجونز</word> 
+ <stem>ستيرجونز</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ويقول</word> 
+ <stem>يَقُول</stem>
+</res>
+<res>
+<word>الليتواني</word> 
+ <stem>الليتواني</stem>
+</res>
+<res>
+<word>دوناتاس</word> 
+ <stem>دوناتاس</stem>
+</res>
+<res>
+<word>ماتيوناس</word> 
+ <stem>ماتيوناس</stem>
+</res>
+<res>
+<word>لاعب</word> 
+ <stem>لَاعِب</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>شنغهاي</word> 
+ <stem>شَنْغْهَاي</stem>
+</res>
+<res>
+<word>شاركس</word> 
+ <stem>شاركس</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>إنه</word> 
+ <stem>إِنّ</stem>
+</res>
+<res>
+<word>يتوقع</word> 
+ <stem>يُتَوَقَّع</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>يعود</word> 
+ <stem>يَعُود</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>الصين</word> 
+ <stem>صِين</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>منتصف</word> 
+ <stem>مُنْتَصَف</stem>
+</res>
+<res>
+<word>أبريل</word> 
+ <stem>أَبْرِيل</stem>
+</res>
+<res>
+<word>/</word> 
+ <stem>/</stem>
+</res>
+<res>
+<word>نيسان</word> 
+ <stem>نِيسَان</stem>
+</res>
+<res>
+<word>القادم</word> 
+ <stem>قَادِم</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وقال</word> 
+ <stem>قَال</stem>
+</res>
+<res>
+<word>لاعب</word> 
+ <stem>لَاعِب</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>هيوستون</word> 
+ <stem>هيوستون</stem>
+</res>
+<res>
+<word>روكتس</word> 
+ <stem>روكتس</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>السابق</word> 
+ <stem>سَابِق</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>تصريحات</word> 
+ <stem>تَصْرِيحَات</stem>
+</res>
+<res>
+<word>تلفزيونية</word> 
+ <stem>تلفزيونية</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>يبدو</word> 
+ <stem>يَبْدُو</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>القيود</word> 
+ <stem>قُيُود</stem>
+</res>
+<res>
+<word>ستنتهي</word> 
+ <stem>تَنْتَهِي</stem>
+</res>
+<res>
+<word>آخر</word> 
+ <stem>آخِر</stem>
+</res>
+<res>
+<word>الشهر</word> 
+ <stem>شَهْر</stem>
+</res>
+<res>
+<word>الجاري</word> 
+ <stem>جَارِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وستعود</word> 
+ <stem>تَعُود</stem>
+</res>
+<res>
+<word>الحياة</word> 
+ <stem>حَيَاة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>طبيعتها</word> 
+ <stem>طَبِيعَة</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+</Stems>

@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>أبو</word> 
+ <lemma>أَب</lemma>
+</res>
+
+<res>
+<word>أحد</word> 
+ <lemma>حَدَّى</lemma>
+</res>
+
+<res>
+<word>إذ</word> 
+ <lemma>إِذْ</lemma>
+</res>
+
+<res>
+<word>وإذا</word> 
+ <lemma>إِذَا</lemma>
+</res>
+
+<res>
+<word>إذا</word> 
+ <lemma>إِذَا</lemma>
+</res>
+
+<res>
+<word>اذا</word> 
+ <lemma>اذا</lemma>
+</res>
+
+<res>
+<word>أصبح</word> 
+ <lemma>صَبُحَ</lemma>
+</res>
+
+<res>
+<word>اصبح</word> 
+ <lemma>صَبُحَ</lemma>
+</res>
+
+<res>
+<word>أضحى</word> 
+ <lemma>ضُحَى</lemma>
+</res>
+
+<res>
+<word>اضحى</word> 
+ <lemma>اضحى</lemma>
+</res>
+
+<res>
+<word>آل</word> 
+ <lemma>آل</lemma>
+</res>
+
+<res>
+<word>الا</word> 
+ <lemma>الا</lemma>
+</res>
+
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+
+<res>
+<word>الحالي</word> 
+ <lemma>حَالِيّ</lemma>
+</res>
+
+<res>
+<word>الذي</word> 
+ <lemma>ذُو</lemma>
+</res>
+
+<res>
+<word>الذي</word> 
+ <lemma>ذُو</lemma>
+</res>
+
+<res>
+<word>الذي</word> 
+ <lemma>ذُو</lemma>
+</res>
+
+<res>
+<word>الذى</word> 
+ <lemma>الذى</lemma>
+</res>
+
+<res>
+<word>الذين</word> 
+ <lemma>لَذِيَ</lemma>
+</res>
+
+<res>
+<word>اللذين</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+
+<res>
+<word>إلي</word> 
+ <lemma>وَأَلَ</lemma>
+</res>
+
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+
+<res>
+<word>الي</word> 
+ <lemma>الي</lemma>
+</res>
+
+<res>
+<word>الى</word> 
+ <lemma>الى</lemma>
+</res>
+
+<res>
+<word>اليه</word> 
+ <lemma>اليه</lemma>
+</res>
+
+<res>
+<word>اليها</word> 
+ <lemma>اليها</lemma>
+</res>
+
+<res>
+<word>اليوم</word> 
+ <lemma>يَوْم</lemma>
+</res>
+
+<res>
+<word>أما</word> 
+ <lemma>أَمَا</lemma>
+</res>
+
+<res>
+<word>أمام</word> 
+ <lemma>أَمَامَ</lemma>
+</res>
+
+<res>
+<word>أمسى</word> 
+ <lemma>مَسَّى</lemma>
+</res>
+
+<res>
+<word>امسى</word> 
+ <lemma>امسى</lemma>
+</res>
+
+<res>
+<word>أن</word> 
+ <lemma>وَأَى</lemma>
+</res>
+
+<res>
+<word>إن</word> 
+ <lemma>وَأَى</lemma>
+</res>
+
+<res>
+<word>إن</word> 
+ <lemma>وَأَى</lemma>
+</res>
+
+<res>
+<word>﻿</word> 
+ <lemma>﻿</lemma>
+</res>
+<res>
+<word>ان</word> 
+ <lemma>ان</lemma>
+</res>
+
+<res>
+<word>أنه</word> 
+ <lemma>أَنْه</lemma>
+</res>
+
+<res>
+<word>انه</word> 
+ <lemma>نَهِيَ</lemma>
+</res>
+
+<res>
+<word>أو</word> 
+ <lemma>أَوْ</lemma>
+</res>
+
+<res>
+<word>او</word> 
+ <lemma>او</lemma>
+</res>
+
+<res>
+<word>اول</word> 
+ <lemma>اول</lemma>
+</res>
+
+<res>
+<word>أي</word> 
+ <lemma>أَيّ</lemma>
+</res>
+
+<res>
+<word>اي</word> 
+ <lemma>اي</lemma>
+</res>
+
+<res>
+<word>بات</word> 
+ <lemma>بَاتَ</lemma>
+</res>
+
+<res>
+<word>بإن</word> 
+ <lemma>إِنَّ</lemma>
+</res>
+
+<res>
+<word>بد</word> 
+ <lemma>بَدَّ</lemma>
+</res>
+
+<res>
+<word>بدلا</word> 
+ <lemma>بَدِلَ</lemma>
+</res>
+
+<res>
+<word>بعد</word> 
+ <lemma>بَعُدَ</lemma>
+</res>
+
+<res>
+<word>بل</word> 
+ <lemma>بَلْ</lemma>
+</res>
+
+<res>
+<word>به</word> 
+ <lemma>بَهّ</lemma>
+</res>
+
+<res>
+<word>بها</word> 
+ <lemma>بَهّ</lemma>
+</res>
+
+<res>
+<word>بهذا</word> 
+ <lemma>ذَا</lemma>
+</res>
+
+<res>
+<word>بين</word> 
+ <lemma>بَيِّن</lemma>
+</res>
+
+<res>
+<word>تحت</word> 
+ <lemma>تَحْتَ</lemma>
+</res>
+
+<res>
+<word>تكون</word> 
+ <lemma>وَكَى</lemma>
+</res>
+
+<res>
+<word>تلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+
+<res>
+<word>ثم</word> 
+ <lemma>ثَمَّ</lemma>
+</res>
+
+<res>
+<word>جدا</word> 
+ <lemma>جِدّ</lemma>
+</res>
+
+<res>
+<word>حتى</word> 
+ <lemma>حَتَّى</lemma>
+</res>
+
+<res>
+<word>حول</word> 
+ <lemma>حَوَل</lemma>
+</res>
+
+<res>
+<word>حيث</word> 
+ <lemma>حَيْثُ</lemma>
+</res>
+
+<res>
+<word>حين</word> 
+ <lemma>حَيْن</lemma>
+</res>
+
+<res>
+<word>دون</word> 
+ <lemma>دَوَّى</lemma>
+</res>
+
+<res>
+<word>ذات</word> 
+ <lemma>ذُو</lemma>
+</res>
+
+<res>
+<word>ذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+
+<res>
+<word>ستكون</word> 
+ <lemma>وَكَى</lemma>
+</res>
+
+<res>
+<word>صار</word> 
+ <lemma>صَارَّ</lemma>
+</res>
+
+<res>
+<word>ضد</word> 
+ <lemma>ضَدّ</lemma>
+</res>
+
+<res>
+<word>ضمن</word> 
+ <lemma>ضَمَّنَ</lemma>
+</res>
+
+<res>
+<word>ظل</word> 
+ <lemma>ظَلَّ</lemma>
+</res>
+
+<res>
+<word>علي</word> 
+ <lemma>وَعَلَ</lemma>
+</res>
+
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+
+<res>
+<word>عليه</word> 
+ <lemma>عَلْي</lemma>
+</res>
+
+<res>
+<word>عليها</word> 
+ <lemma>عَلْي</lemma>
+</res>
+
+<res>
+<word>عن</word> 
+ <lemma>وَعَى</lemma>
+</res>
+
+<res>
+<word>عند</word> 
+ <lemma>عَنَد</lemma>
+</res>
+
+<res>
+<word>عنه</word> 
+ <lemma>وَعَى</lemma>
+</res>
+
+<res>
+<word>عنها</word> 
+ <lemma>وَعَى</lemma>
+</res>
+
+<res>
+<word>فإن</word> 
+ <lemma>وَأَى</lemma>
+</res>
+
+<res>
+<word>فانه</word> 
+ <lemma>فَانّ</lemma>
+</res>
+
+<res>
+<word>فقد</word> 
+ <lemma>قَدَّ</lemma>
+</res>
+
+<res>
+<word>فقط</word> 
+ <lemma>وَقَطَ</lemma>
+</res>
+
+<res>
+<word>فكان</word> 
+ <lemma>كَانّ</lemma>
+</res>
+
+<res>
+<word>فهو</word> 
+ <lemma>فَهْو</lemma>
+</res>
+
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+
+<res>
+<word>فيه</word> 
+ <lemma>فِي</lemma>
+</res>
+
+<res>
+<word>فيها</word> 
+ <lemma>فِي</lemma>
+</res>
+
+<res>
+<word>قبل</word> 
+ <lemma>قَبْلَ</lemma>
+</res>
+
+<res>
+<word>قد</word> 
+ <lemma>قَدَّ</lemma>
+</res>
+
+<res>
+<word>كأن</word> 
+ <lemma>أَنّ</lemma>
+</res>
+
+<res>
+<word>كان</word> 
+ <lemma>كَانّ</lemma>
+</res>
+
+<res>
+<word>كانت</word> 
+ <lemma>كَانِت</lemma>
+</res>
+
+<res>
+<word>كذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+
+<res>
+<word>كل</word> 
+ <lemma>كَلَّى</lemma>
+</res>
+
+<res>
+<word>كما</word> 
+ <lemma>وَكَمَ</lemma>
+</res>
+
+<res>
+<word>كيف</word> 
+ <lemma>كَيَّفَ</lemma>
+</res>
+
+<res>
+<word>لا</word> 
+ <lemma>لَا</lemma>
+</res>
+
+<res>
+<word>لا</word> 
+ <lemma>لَا</lemma>
+</res>
+
+<res>
+<word>لازال</word> 
+ <lemma>لازال</lemma>
+</res>
+
+<res>
+<word>لاسيما</word> 
+ <lemma>لاسيما</lemma>
+</res>
+
+<res>
+<word>لأن</word> 
+ <lemma>وَأَى</lemma>
+</res>
+
+<res>
+<word>لايزال</word> 
+ <lemma>لايزال</lemma>
+</res>
+
+<res>
+<word>لدي</word> 
+ <lemma>لَدَى</lemma>
+</res>
+
+<res>
+<word>لدى</word> 
+ <lemma>لَدَى</lemma>
+</res>
+
+<res>
+<word>لذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+
+<res>
+<word>لعل</word> 
+ <lemma>وَعَلَ</lemma>
+</res>
+
+<res>
+<word>لكن</word> 
+ <lemma>وَكَنَ</lemma>
+</res>
+
+<res>
+<word>لكنه</word> 
+ <lemma>وَكَنَ</lemma>
+</res>
+
+<res>
+<word>لم</word> 
+ <lemma>لَمْ</lemma>
+</res>
+
+<res>
+<word>لن</word> 
+ <lemma>وَلَى</lemma>
+</res>
+
+<res>
+<word>له</word> 
+ <lemma>وَلَى</lemma>
+</res>
+
+<res>
+<word>لها</word> 
+ <lemma>وَلَى</lemma>
+</res>
+
+<res>
+<word>لهذا</word> 
+ <lemma>ذَا</lemma>
+</res>
+
+<res>
+<word>لهم</word> 
+ <lemma>وَلَى</lemma>
+</res>
+
+<res>
+<word>لو</word> 
+ <lemma>لَوْ</lemma>
+</res>
+
+<res>
+<word>ليت</word> 
+ <lemma>لاتَ</lemma>
+</res>
+
+<res>
+<word>ليس</word> 
+ <lemma>وَسَى</lemma>
+</res>
+
+<res>
+<word>ليس</word> 
+ <lemma>وَسَى</lemma>
+</res>
+
+<res>
+<word>ليسب</word> 
+ <lemma>سَابَ</lemma>
+</res>
+
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+
+<res>
+<word>ماانفك</word> 
+ <lemma>ماانفك</lemma>
+</res>
+
+<res>
+<word>مابرح</word> 
+ <lemma>مابرح</lemma>
+</res>
+
+<res>
+<word>مازال</word> 
+ <lemma>مازال</lemma>
+</res>
+
+<res>
+<word>مافتئ</word> 
+ <lemma>مافتئ</lemma>
+</res>
+
+<res>
+<word>مايزال</word> 
+ <lemma>مايزال</lemma>
+</res>
+
+<res>
+<word>مساء</word> 
+ <lemma>مِسَاء</lemma>
+</res>
+
+<res>
+<word>مع</word> 
+ <lemma>مَعَّ</lemma>
+</res>
+
+<res>
+<word>معه</word> 
+ <lemma>مَعّ</lemma>
+</res>
+
+<res>
+<word>مما</word> 
+ <lemma>مِنْ</lemma>
+</res>
+
+<res>
+<word>من</word> 
+ <lemma>مَنَّى</lemma>
+</res>
+
+<res>
+<word>منذ</word> 
+ <lemma>مَنَذّ</lemma>
+</res>
+
+<res>
+<word>منه</word> 
+ <lemma>مَنَّى</lemma>
+</res>
+
+<res>
+<word>منها</word> 
+ <lemma>مَنَّى</lemma>
+</res>
+
+<res>
+<word>نحو</word> 
+ <lemma>حَوِيَ</lemma>
+</res>
+
+<res>
+<word>هذا</word> 
+ <lemma>ذَا</lemma>
+</res>
+
+<res>
+<word>هذه</word> 
+ <lemma>ذَا</lemma>
+</res>
+
+<res>
+<word>هل</word> 
+ <lemma>هَالَ</lemma>
+</res>
+
+<res>
+<word>هن</word> 
+ <lemma>هَنّ</lemma>
+</res>
+
+<res>
+<word>هنا</word> 
+ <lemma>هَنّ</lemma>
+</res>
+
+<res>
+<word>هناك</word> 
+ <lemma>هَنّ</lemma>
+</res>
+
+<res>
+<word>هو</word> 
+ <lemma>هُو</lemma>
+</res>
+
+<res>
+<word>هؤلاء</word> 
+ <lemma>أُولَاءِ</lemma>
+</res>
+
+<res>
+<word>هي</word> 
+ <lemma>وَهَى</lemma>
+</res>
+
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+
+<res>
+<word>وأبو</word> 
+ <lemma>أَب</lemma>
+</res>
+
+<res>
+<word>والتي</word> 
+ <lemma>وَالِت</lemma>
+</res>
+
+<res>
+<word>والذي</word> 
+ <lemma>ذُو</lemma>
+</res>
+
+<res>
+<word>وأن</word> 
+ <lemma>وَأَى</lemma>
+</res>
+
+<res>
+<word>وان</word> 
+ <lemma>وَان</lemma>
+</res>
+
+<res>
+<word>وبين</word> 
+ <lemma>بَيِّن</lemma>
+</res>
+
+<res>
+<word>وثي</word> 
+ <lemma>وثي</lemma>
+</res>
+
+<res>
+<word>وعلى</word> 
+ <lemma>عَلَى</lemma>
+</res>
+
+<res>
+<word>وفي</word> 
+ <lemma>فِي</lemma>
+</res>
+
+<res>
+<word>وقد</word> 
+ <lemma>وَقْد</lemma>
+</res>
+
+<res>
+<word>وكان</word> 
+ <lemma>كَانّ</lemma>
+</res>
+
+<res>
+<word>وكانت</word> 
+ <lemma>كَانِت</lemma>
+</res>
+
+<res>
+<word>ولايزال</word> 
+ <lemma>ولايزال</lemma>
+</res>
+
+<res>
+<word>ولكن</word> 
+ <lemma>وَلَى</lemma>
+</res>
+
+<res>
+<word>وله</word> 
+ <lemma>وَلَى</lemma>
+</res>
+
+<res>
+<word>وليس</word> 
+ <lemma>وَسَى</lemma>
+</res>
+
+<res>
+<word>ومع</word> 
+ <lemma>مَعَّ</lemma>
+</res>
+
+<res>
+<word>ومن</word> 
+ <lemma>مَنَّى</lemma>
+</res>
+
+<res>
+<word>وهذا</word> 
+ <lemma>ذَا</lemma>
+</res>
+
+<res>
+<word>وهو</word> 
+ <lemma>هُو</lemma>
+</res>
+
+<res>
+<word>وهي</word> 
+ <lemma>وَهْي</lemma>
+</res>
+
+<res>
+<word>يكون</word> 
+ <lemma>وَكَى</lemma>
+</res>
+
+<res>
+<word>يلي</word> 
+ <lemma>وَلَى</lemma>
+</res>
+
+<res>
+<word>يمكن</word> 
+ <lemma>يَمّ</lemma>
+</res>
+
+<res>
+<word>يوم</word> 
+ <lemma>يَوْم</lemma>
+</res>
+
+</Lemmas>

@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Stems>
+<res>
+<word>التشكيلة</word> 
+ <stem>تَشْكِيلَة</stem>
+</res>
+<res>
+<word>الأغلى</word> 
+ <stem>الأغلى</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالِم</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>رونالدو</word> 
+ <stem>رونالدو</stem>
+</res>
+<res>
+<word>وميسي</word> 
+ <stem>مِيس</stem>
+</res>
+<res>
+<word>وصلاح</word> 
+ <stem>صَلَاح</stem>
+</res>
+<res>
+<word>خارجها</word> 
+ <stem>خَارِج</stem>
+</res>
+
+<res>
+<word>كشف</word> 
+ <stem>كَشْف</stem>
+</res>
+<res>
+<word>موقع</word> 
+ <stem>مَوْقِع</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>ترانسفير</word> 
+ <stem>ترانسفير</stem>
+</res>
+<res>
+<word>ماركت</word> 
+ <stem>ماركت</stem>
+</res>
+<res>
+<word>" (Transfermarkt) </word> 
+ <stem>" (Transfermarkt) </stem>
+</res>
+<res>
+<word>الألماني</word> 
+ <stem>أَلْمَانِيّ</stem>
+</res>
+<res>
+<word> -</word> 
+ <stem> -</stem>
+</res>
+<res>
+<word>المتخصص</word> 
+ <stem>مُتَخَصِّص</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>اقتصاد</word> 
+ <stem>اقْتِصَاد</stem>
+</res>
+<res>
+<word>كرة</word> 
+ <stem>كُرَة</stem>
+</res>
+<res>
+<word>القدم</word> 
+ <stem>قَدَم</stem>
+</res>
+<res>
+<word>والقيمة</word> 
+ <stem>قِيمَة</stem>
+</res>
+<res>
+<word>السوقية</word> 
+ <stem>سُوقِيَّة</stem>
+</res>
+<res>
+<word>للاعبين</word> 
+ <stem>لَاعِبِين</stem>
+</res>
+<res>
+<word>والفرق</word> 
+ <stem>فِرَق</stem>
+</res>
+<res>
+<word>- </word> 
+ <stem>- </stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>قائمة</word> 
+ <stem>قَائِمَة</stem>
+</res>
+<res>
+<word>مكونة</word> 
+ <stem>مُكَوَّنَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word> 11 </word> 
+ <stem> 11 </stem>
+</res>
+<res>
+<word>لاعبا</word> 
+ <stem>لَاعِبًا</stem>
+</res>
+<res>
+<word>هم</word> 
+ <stem>هُم</stem>
+</res>
+<res>
+<word>الأعلى</word> 
+ <stem>أَعْلَى</stem>
+</res>
+<res>
+<word>قيمة</word> 
+ <stem>قَيِّمَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالِم</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وغاب</word> 
+ <stem>غَاب</stem>
+</res>
+<res>
+<word>عنها</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>النجمان</word> 
+ <stem>نَجْمَان</stem>
+</res>
+<res>
+<word>:</word> 
+ <stem>:</stem>
+</res>
+<res>
+<word>الأرجنتيني</word> 
+ <stem>أَرْجُنْتِينِيّ</stem>
+</res>
+<res>
+<word>ليونيل</word> 
+ <stem>لِيُونِيل</stem>
+</res>
+<res>
+<word>ميسي</word> 
+ <stem>مِيسِي</stem>
+</res>
+<res>
+<word>والبرتغالي</word> 
+ <stem>بُرْتُغَالِيّ</stem>
+</res>
+<res>
+<word>كريستيانو</word> 
+ <stem>كِرِيسْتِيَانُو</stem>
+</res>
+<res>
+<word>رونالدو</word> 
+ <stem>رونالدو</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ونشر</word> 
+ <stem>نَشَر</stem>
+</res>
+<res>
+<word>الحساب</word> 
+ <stem>حِسَاب</stem>
+</res>
+<res>
+<word>الرسمي</word> 
+ <stem>رَسْمِيّ</stem>
+</res>
+<res>
+<word>للموقع</word> 
+ <stem>مَوْقِع</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>تويتر</word> 
+ <stem>تُوِيتَر</stem>
+</res>
+<res>
+<word>صورة</word> 
+ <stem>صُورَة</stem>
+</res>
+<res>
+<word>يعرض</word> 
+ <stem>يَعْرِض</stem>
+</res>
+<res>
+<word>فيها</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الفريق</word> 
+ <stem>فَرِيق</stem>
+</res>
+<res>
+<word>الأغلى</word> 
+ <stem>الأغلى</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالِم</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وكان</word> 
+ <stem>كَان</stem>
+</res>
+<res>
+<word>مكونا</word> 
+ <stem>مُكَوِّنًا</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word> 11 </word> 
+ <stem> 11 </stem>
+</res>
+<res>
+<word>لاعبا</word> 
+ <stem>لَاعِبًا</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>مختلف</word> 
+ <stem>مُخْتَلِف</stem>
+</res>
+<res>
+<word>الخطوط</word> 
+ <stem>خُطُوط</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وبقيمتهم</word> 
+ <stem>قِيمَة</stem>
+</res>
+<res>
+<word>المقدرة</word> 
+ <stem>مُقَدَّرَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>السوق</word> 
+ <stem>سُوَق</stem>
+</res>
+<res>
+<word>حاليا</word> 
+ <stem>حَالِيًّا</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>Nach den Marktwert-Updates – das ist die neue wertvolltste Elf der Welt</word> 
+ <stem>Nach den Marktwert-Updates – das ist die neue wertvolltste Elf der Welt</stem>
+</res>
+<res>
+<word>!</word> 
+ <stem>!</stem>
+</res>
+<res>
+<word> Wer fehlt? #TMMarktwerte pic</word> 
+ <stem> Wer fehlt? #TMMarktwerte pic</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>twitter</word> 
+ <stem>twitter</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>com/AXc7gM3NXg</word> 
+ <stem>com/AXc7gM3NXg</stem>
+</res>
+
+<res>
+<word>— Transfermarkt (@Transfermarkt) October 18, 2020</word> 
+ <stem>— Transfermarkt (@Transfermarkt) October 18, 2020</stem>
+</res>
+
+
+<res>
+<word>وحافظ</word> 
+ <stem>حَافِظ</stem>
+</res>
+<res>
+<word>النجم</word> 
+ <stem>نَجْم</stem>
+</res>
+<res>
+<word>الفرنسي</word> 
+ <stem>فَرَنْسِيّ</stem>
+</res>
+<res>
+<word>الشاب</word> 
+ <stem>شَابّ</stem>
+</res>
+<res>
+<word>كيليان</word> 
+ <stem>كَيْلِيَّان</stem>
+</res>
+<res>
+<word>مبابي</word> 
+ <stem>مَبَاب</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>مكانته</word> 
+ <stem>مَكَانَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>المركز</word> 
+ <stem>مَرْكَز</stem>
+</res>
+<res>
+<word>الأول</word> 
+ <stem>أَوَّل</stem>
+</res>
+<res>
+<word>كأغلى</word> 
+ <stem>كأغلى</stem>
+</res>
+<res>
+<word>اللاعبين</word> 
+ <stem>لَاعِبِين</stem>
+</res>
+<res>
+<word>قيمة</word> 
+ <stem>قَيِّمَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالِم</stem>
+</res>
+<res>
+<word>ب</word> 
+ <stem>ب</stem>
+</res>
+<res>
+<word>180 </word> 
+ <stem>180 </stem>
+</res>
+<res>
+<word>مليون</word> 
+ <stem>مِلْيُون</stem>
+</res>
+<res>
+<word>يورو</word> 
+ <stem>يُورُو</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>حين</word> 
+ <stem>حِين</stem>
+</res>
+<res>
+<word>لم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>تقل</word> 
+ <stem>تَقُل</stem>
+</res>
+<res>
+<word>قيمة</word> 
+ <stem>قَيِّمَة</stem>
+</res>
+<res>
+<word>أغلى</word> 
+ <stem>أَغْلَى</stem>
+</res>
+<res>
+<word>اللاعبين</word> 
+ <stem>لَاعِبِين</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word> 70 </word> 
+ <stem> 70 </stem>
+</res>
+<res>
+<word>مليون</word> 
+ <stem>مِلْيُون</stem>
+</res>
+<res>
+<word>يورو</word> 
+ <stem>يُورُو</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>والتي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>كانت</word> 
+ <stem>كَانَت</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>نصيب</word> 
+ <stem>نَصِيب</stem>
+</res>
+<res>
+<word>مدافع</word> 
+ <stem>مُدَافِع</stem>
+</res>
+<res>
+<word>يوفنتوس</word> 
+ <stem>يُوفِنْتُوس</stem>
+</res>
+<res>
+<word>الهولندي</word> 
+ <stem>هُولَنْدِيّ</stem>
+</res>
+<res>
+<word>ماتيس</word> 
+ <stem>ماتيس</stem>
+</res>
+<res>
+<word>دي</word> 
+ <stem>دِي</stem>
+</res>
+<res>
+<word>ليخت</word> 
+ <stem>يَخِت</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وجاء</word> 
+ <stem>جَاء</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>حراسة</word> 
+ <stem>حِرَاسَة</stem>
+</res>
+<res>
+<word>المرمى</word> 
+ <stem>مَرْمَى</stem>
+</res>
+<res>
+<word>السلوفاكي</word> 
+ <stem>سلُوفَاكِيّ</stem>
+</res>
+<res>
+<word>يان</word> 
+ <stem>يان</stem>
+</res>
+<res>
+<word>أوبلاك</word> 
+ <stem>بَلَّى</stem>
+</res>
+<res>
+<word>حارس</word> 
+ <stem>حَارِس</stem>
+</res>
+<res>
+<word>أتلتيكو</word> 
+ <stem>أَتْلِتِيكُو</stem>
+</res>
+<res>
+<word>مدريد</word> 
+ <stem>مَدْرِيد</stem>
+</res>
+<res>
+<word>الإسباني</word> 
+ <stem>إِسْبَانِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>أما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>خط</word> 
+ <stem>خَطّ</stem>
+</res>
+<res>
+<word>الدفاع</word> 
+ <stem>دِفَاع</stem>
+</res>
+<res>
+<word>فتواجد</word> 
+ <stem>تَوَاجَد</stem>
+</res>
+<res>
+<word>فيه</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>المدافعون</word> 
+ <stem>مُدَافِعُون</stem>
+</res>
+<res>
+<word>فيرجيل</word> 
+ <stem>فيرجيل</stem>
+</res>
+<res>
+<word>فان</word> 
+ <stem>فَان</stem>
+</res>
+<res>
+<word>دايك</word> 
+ <stem>دايك</stem>
+</res>
+<res>
+<word>وتريند</word> 
+ <stem>وتريند</stem>
+</res>
+<res>
+<word>ألكسندر</word> 
+ <stem>أَلِكْسَنْدَر</stem>
+</res>
+<res>
+<word>أرنولد</word> 
+ <stem>أرنولد</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مَن</stem>
+</res>
+<res>
+<word>ليفربول</word> 
+ <stem>لِيفِرْبُول</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وماتيس</word> 
+ <stem>وماتيس</stem>
+</res>
+<res>
+<word>دي</word> 
+ <stem>دِي</stem>
+</res>
+<res>
+<word>ليخت</word> 
+ <stem>يَخِت</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مَن</stem>
+</res>
+<res>
+<word>يوفنتوس</word> 
+ <stem>يُوفِنْتُوس</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>والكندي</word> 
+ <stem>كَنَدِيّ</stem>
+</res>
+<res>
+<word>ألفونسو</word> 
+ <stem>ألفونسو</stem>
+</res>
+<res>
+<word>ديفيس</word> 
+ <stem>ديفيس</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مَن</stem>
+</res>
+<res>
+<word>بايرن</word> 
+ <stem>بَايِرْن</stem>
+</res>
+<res>
+<word>ميونخ</word> 
+ <stem>ميونخ</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وبالنسبة</word> 
+ <stem>نِسْبَة</stem>
+</res>
+<res>
+<word>لخط</word> 
+ <stem>خَطّ</stem>
+</res>
+<res>
+<word>الوسط</word> 
+ <stem>وَسْط</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وضع</word> 
+ <stem>وَضْع</stem>
+</res>
+<res>
+<word>فيه</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الموقع</word> 
+ <stem>مُوَقَّع</stem>
+</res>
+<res>
+<word>الألماني</word> 
+ <stem>أَلْمَانِيّ</stem>
+</res>
+<res>
+<word>جوشوا</word> 
+ <stem>جُوشُوا</stem>
+</res>
+<res>
+<word>كيميتش</word> 
+ <stem>كيميتش</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مَن</stem>
+</res>
+<res>
+<word>بايرن</word> 
+ <stem>بَايِرْن</stem>
+</res>
+<res>
+<word>ميونخ</word> 
+ <stem>ميونخ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>والسنغالي</word> 
+ <stem>سَنِغَالِيّ</stem>
+</res>
+<res>
+<word>ساديو</word> 
+ <stem>ساديو</stem>
+</res>
+<res>
+<word>ماني</word> 
+ <stem>مَان</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مَن</stem>
+</res>
+<res>
+<word>ليفربول</word> 
+ <stem>لِيفِرْبُول</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ولاعبي</word> 
+ <stem>لَاعِب</stem>
+</res>
+<res>
+<word>مانشستر</word> 
+ <stem>مَانْشِسْتِر</stem>
+</res>
+<res>
+<word>سيتي</word> 
+ <stem>سِيتِي</stem>
+</res>
+<res>
+<word>كيفين</word> 
+ <stem>كَيْفَيْن</stem>
+</res>
+<res>
+<word>دي</word> 
+ <stem>دِي</stem>
+</res>
+<res>
+<word>بروين</word> 
+ <stem>بَرْوَيْن</stem>
+</res>
+<res>
+<word>ورحيم</word> 
+ <stem>رَحِيم</stem>
+</res>
+<res>
+<word>ستيرلينج</word> 
+ <stem>ستيرلينج</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>أما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>خط</word> 
+ <stem>خَطّ</stem>
+</res>
+<res>
+<word>الهجوم</word> 
+ <stem>هُجُوم</stem>
+</res>
+<res>
+<word>فاحتله</word> 
+ <stem>احْتَلّ</stem>
+</res>
+<res>
+<word>مهاجما</word> 
+ <stem>مُهَاجِمًا</stem>
+</res>
+<res>
+<word>باريس</word> 
+ <stem>بَارِيس</stem>
+</res>
+<res>
+<word>سان</word> 
+ <stem>سَان</stem>
+</res>
+<res>
+<word>جيرمان</word> 
+ <stem>جيرمان</stem>
+</res>
+<res>
+<word>كيليان</word> 
+ <stem>كَيْلِيَّان</stem>
+</res>
+<res>
+<word>مبابي</word> 
+ <stem>مَبَاب</stem>
+</res>
+<res>
+<word>والبرازيلي</word> 
+ <stem>والبرازيلي</stem>
+</res>
+<res>
+<word>نيمار</word> 
+ <stem>نيمار</stem>
+</res>
+<res>
+<word>دا</word> 
+ <stem>دا</stem>
+</res>
+<res>
+<word>سيلفا</word> 
+ <stem>يَلُفَّا</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>حين</word> 
+ <stem>حِين</stem>
+</res>
+<res>
+<word>غاب</word> 
+ <stem>غَاب</stem>
+</res>
+<res>
+<word>النجم</word> 
+ <stem>نَجْم</stem>
+</res>
+<res>
+<word>المصري</word> 
+ <stem>مِصْرِيّ</stem>
+</res>
+<res>
+<word>صلاح</word> 
+ <stem>صَلَاح</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>التشكيلة</word> 
+ <stem>تَشْكِيلَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>رغم</word> 
+ <stem>رَغْم</stem>
+</res>
+<res>
+<word>أنه</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>ضمن</word> 
+ <stem>ضِمْن</stem>
+</res>
+<res>
+<word>أغلى</word> 
+ <stem>أَغْلَى</stem>
+</res>
+<res>
+<word> 5 </word> 
+ <stem> 5 </stem>
+</res>
+<res>
+<word>لاعبين</word> 
+ <stem>لَاعِبِين</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالِم</stem>
+</res>
+<res>
+<word>منذ</word> 
+ <stem>مُنْذ</stem>
+</res>
+<res>
+<word>العام</word> 
+ <stem>عَام</stem>
+</res>
+<res>
+<word>الماضي</word> 
+ <stem>مَاضِي</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+</Stems>

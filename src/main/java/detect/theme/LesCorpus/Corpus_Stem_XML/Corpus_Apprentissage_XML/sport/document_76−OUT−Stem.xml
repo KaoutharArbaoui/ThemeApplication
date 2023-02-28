@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Stems>
+<res>
+<word>كورونا</word> 
+ <stem>كَوَّرُوا</stem>
+</res>
+<res>
+<word>يضرب</word> 
+ <stem>يَضْرِب</stem>
+</res>
+<res>
+<word>سباق</word> 
+ <stem>سِبَاق</stem>
+</res>
+<res>
+<word>البحرين</word> 
+ <stem>بَحْرَيْن</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الفورمولا</word> 
+ <stem>الفورمولا</stem>
+</res>
+<res>
+<word> 1</word> 
+ <stem> 1</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>مشاركون</word> 
+ <stem>مُشَارِكُون</stem>
+</res>
+<res>
+<word>دون</word> 
+ <stem>دُون</stem>
+</res>
+<res>
+<word>جمهور</word> 
+ <stem>جُمْهُور</stem>
+</res>
+
+<res>
+<word>قررت</word> 
+ <stem>قَرَّرْت</stem>
+</res>
+<res>
+<word>البحرين</word> 
+ <stem>بَحْرَيْن</stem>
+</res>
+<res>
+<word>اليوم</word> 
+ <stem>يَوْم</stem>
+</res>
+<res>
+<word>الأحد</word> 
+ <stem>أَحَد</stem>
+</res>
+<res>
+<word>إقامة</word> 
+ <stem>إِقَامَة</stem>
+</res>
+<res>
+<word>سباق</word> 
+ <stem>سِبَاق</stem>
+</res>
+<res>
+<word>جائزة</word> 
+ <stem>جَائِزَة</stem>
+</res>
+<res>
+<word>البحرين</word> 
+ <stem>بَحْرَيْن</stem>
+</res>
+<res>
+<word>الكبرى</word> 
+ <stem>كُبْرَى</stem>
+</res>
+<res>
+<word>ضمن</word> 
+ <stem>ضِمْن</stem>
+</res>
+<res>
+<word>بطولة</word> 
+ <stem>بُطُولَة</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>لسباقات</word> 
+ <stem>سِبَاقَات</stem>
+</res>
+<res>
+<word>سيارات</word> 
+ <stem>سَيَّارَات</stem>
+</res>
+<res>
+<word>فورمولا</word> 
+ <stem>فورمولا</stem>
+</res>
+<res>
+<word> 1 </word> 
+ <stem> 1 </stem>
+</res>
+<res>
+<word>دون</word> 
+ <stem>دُون</stem>
+</res>
+<res>
+<word>حضور</word> 
+ <stem>حُضُور</stem>
+</res>
+<res>
+<word>جماهيري</word> 
+ <stem>جَمَاهِيرِيّ</stem>
+</res>
+<res>
+<word>بسبب</word> 
+ <stem>سَبَب</stem>
+</res>
+<res>
+<word>تفشي</word> 
+ <stem>تَفَشّ</stem>
+</res>
+<res>
+<word>فيروس</word> 
+ <stem>فَيْرُوس</stem>
+</res>
+<res>
+<word>كورونا</word> 
+ <stem>كَوَّرُوا</stem>
+</res>
+<res>
+<word>المستجد</word> 
+ <stem>مُسْتَجِدّ</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>واستقرت</word> 
+ <stem>اسْتَقَرَّت</stem>
+</res>
+<res>
+<word>البحرين</word> 
+ <stem>بَحْرَيْن</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>السماح</word> 
+ <stem>سَمَاح</stem>
+</res>
+<res>
+<word>فقط</word> 
+ <stem>فَقَط</stem>
+</res>
+<res>
+<word>بحضور</word> 
+ <stem>حُضُور</stem>
+</res>
+<res>
+<word>المشاركين</word> 
+ <stem>مُشَارِكِين</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>السباق</word> 
+ <stem>سِبَاق</stem>
+</res>
+<res>
+<word>دون</word> 
+ <stem>دُون</stem>
+</res>
+<res>
+<word>حضور</word> 
+ <stem>حُضُور</stem>
+</res>
+<res>
+<word>الجماهير</word> 
+ <stem>جَمَاهِير</stem>
+</res>
+<res>
+<word>، "</word> 
+ <stem>، "</stem>
+</res>
+<res>
+<word>حفاظا</word> 
+ <stem>حِفَاظًا</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>سلامة</word> 
+ <stem>سَلَامَة</stem>
+</res>
+<res>
+<word>المواطنين</word> 
+ <stem>مُوَاطِنِين</stem>
+</res>
+<res>
+<word>والمقيمين</word> 
+ <stem>مُقِيمِين</stem>
+</res>
+<res>
+<word>ومحبي</word> 
+ <stem>مُحِبّ</stem>
+</res>
+<res>
+<word>رياضة</word> 
+ <stem>رِيَاضَة</stem>
+</res>
+<res>
+<word>سباقات</word> 
+ <stem>سِبَاقَات</stem>
+</res>
+<res>
+<word>فورمولا</word> 
+ <stem>فورمولا</stem>
+</res>
+<res>
+<word> 1"</word> 
+ <stem> 1"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ووفقا</word> 
+ <stem>وِفْقًا</stem>
+</res>
+<res>
+<word>لما</word> 
+ <stem>لَمَّا</stem>
+</res>
+<res>
+<word>نقلته</word> 
+ <stem>نَقَلْت</stem>
+</res>
+<res>
+<word>وكالة</word> 
+ <stem>وَكَالَة</stem>
+</res>
+<res>
+<word>أنباء</word> 
+ <stem>أَنْبَاء</stem>
+</res>
+<res>
+<word>البحرين</word> 
+ <stem>بَحْرَيْن</stem>
+</res>
+<res>
+<word> (</word> 
+ <stem> (</stem>
+</res>
+<res>
+<word>بنا</word> 
+ <stem>بِنَا</stem>
+</res>
+<res>
+<word>)، </word> 
+ <stem>)، </stem>
+</res>
+<res>
+<word>فقد</word> 
+ <stem>قَد</stem>
+</res>
+<res>
+<word>أعلن</word> 
+ <stem>أَعْلَن</stem>
+</res>
+<res>
+<word>مضمار</word> 
+ <stem>مِضْمَار</stem>
+</res>
+<res>
+<word>البحرين</word> 
+ <stem>بَحْرَيْن</stem>
+</res>
+<res>
+<word>الدولي</word> 
+ <stem>دَوْلِيّ</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>السباق</word> 
+ <stem>سَبَّاق</stem>
+</res>
+<res>
+<word>سيقتصر</word> 
+ <stem>يَقْتَصِر</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>المشاركين</word> 
+ <stem>مُشَارِكِين</stem>
+</res>
+<res>
+<word>فقط</word> 
+ <stem>فَقَط</stem>
+</res>
+<res>
+<word>وسيتم</word> 
+ <stem>يَتِمّ</stem>
+</res>
+<res>
+<word>نقله</word> 
+ <stem>نَقْل</stem>
+</res>
+<res>
+<word>متلفزا</word> 
+ <stem>متلفزا</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وذكر</word> 
+ <stem>ذَكَر</stem>
+</res>
+<res>
+<word>مضمار</word> 
+ <stem>مِضْمَار</stem>
+</res>
+<res>
+<word>البحرين</word> 
+ <stem>بَحْرَيْن</stem>
+</res>
+<res>
+<word>الدولي</word> 
+ <stem>دَوْلِيّ</stem>
+</res>
+<res>
+<word> -</word> 
+ <stem> -</stem>
+</res>
+<res>
+<word>عبر</word> 
+ <stem>عَبْر</stem>
+</res>
+<res>
+<word>حسابه</word> 
+ <stem>حِسَاب</stem>
+</res>
+<res>
+<word>الرسمي</word> 
+ <stem>رَسْمِيّ</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>فيسبوك</word> 
+ <stem>فَيْسْبُوك</stem>
+</res>
+<res>
+<word>اليوم</word> 
+ <stem>يَوْم</stem>
+</res>
+<res>
+<word>الأحد</word> 
+ <stem>أَحَد</stem>
+</res>
+<res>
+<word>- "</word> 
+ <stem>- "</stem>
+</res>
+<res>
+<word>بالتواصل</word> 
+ <stem>تَوَاصُل</stem>
+</res>
+<res>
+<word>مع</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>شركائنا</word> 
+ <stem>شُرَكَاء</stem>
+</res>
+<res>
+<word>الدوليين</word> 
+ <stem>دَوْلِيَّيْن</stem>
+</res>
+<res>
+<word>وقوات</word> 
+ <stem>قُوَّات</stem>
+</res>
+<res>
+<word>الصحة</word> 
+ <stem>صِحَّة</stem>
+</res>
+<res>
+<word>الوطنية</word> 
+ <stem>وَطَنِيَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>المملكة</word> 
+ <stem>مَمْلَكَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>اتخذت</word> 
+ <stem>اتَّخَذْت</stem>
+</res>
+<res>
+<word>البحرين</word> 
+ <stem>بَحْرَيْن</stem>
+</res>
+<res>
+<word>قرار</word> 
+ <stem>قَرَار</stem>
+</res>
+<res>
+<word>إقامة</word> 
+ <stem>إِقَامَة</stem>
+</res>
+<res>
+<word>جائزة</word> 
+ <stem>جَائِزَة</stem>
+</res>
+<res>
+<word>البحرين</word> 
+ <stem>بَحْرَيْن</stem>
+</res>
+<res>
+<word>الكبرى</word> 
+ <stem>كُبْرَى</stem>
+</res>
+<res>
+<word>لهذا</word> 
+ <stem>هَذَا</stem>
+</res>
+<res>
+<word>العام</word> 
+ <stem>عَام</stem>
+</res>
+<res>
+<word>كحدث</word> 
+ <stem>حَدَث</stem>
+</res>
+<res>
+<word>يقتصر</word> 
+ <stem>يَقْتَصِر</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>المشاركين</word> 
+ <stem>مُشَارِكِين</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وأضاف</word> 
+ <stem>أَضَاف</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>كبلد</word> 
+ <stem>بَلَد</stem>
+</res>
+<res>
+<word>يستضيف</word> 
+ <stem>يَسْتَضِيف</stem>
+</res>
+<res>
+<word>فورمولا</word> 
+ <stem>فورمولا</stem>
+</res>
+<res>
+<word> 1، </word> 
+ <stem> 1، </stem>
+</res>
+<res>
+<word>فإن</word> 
+ <stem>إِن</stem>
+</res>
+<res>
+<word>الموازنة</word> 
+ <stem>مُوَازَنَة</stem>
+</res>
+<res>
+<word>بين</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>صحة</word> 
+ <stem>صِحَّة</stem>
+</res>
+<res>
+<word>وسلامة</word> 
+ <stem>سَلَامَة</stem>
+</res>
+<res>
+<word>المشجعين</word> 
+ <stem>مُشَجِّعِين</stem>
+</res>
+<res>
+<word>والمتوجهين</word> 
+ <stem>مُتَوَجِّهِين</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>السباق</word> 
+ <stem>سَبَّاق</stem>
+</res>
+<res>
+<word>تُمثّل</word> 
+ <stem>تُمَثِّل</stem>
+</res>
+<res>
+<word>مسؤولية</word> 
+ <stem>مَسْؤُولِيَّة</stem>
+</res>
+<res>
+<word>ضخمة</word> 
+ <stem>ضَخْمَة</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+</Stems>

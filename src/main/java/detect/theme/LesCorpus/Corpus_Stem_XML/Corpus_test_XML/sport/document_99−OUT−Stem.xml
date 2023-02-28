@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Stems>
+<res>
+<word>ليفاندوفسكي</word> 
+ <stem>ليفاندوفسكي</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>رأس</word> 
+ <stem>رَأَس</stem>
+</res>
+<res>
+<word>قائمة</word> 
+ <stem>قَائِمَة</stem>
+</res>
+<res>
+<word>مرشحي</word> 
+ <stem>مُرَشَّح</stem>
+</res>
+<res>
+<word>الفيفا</word> 
+ <stem>فِيفَا</stem>
+</res>
+<res>
+<word>لجائزة</word> 
+ <stem>جَائِزَة</stem>
+</res>
+<res>
+<word>أفضل</word> 
+ <stem>أَفْضَل</stem>
+</res>
+<res>
+<word>لاعب</word> 
+ <stem>لَاعِب</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>العام</word> 
+ <stem>عَام</stem>
+</res>
+
+<res>
+<word>أعلن</word> 
+ <stem>أَعْلَن</stem>
+</res>
+<res>
+<word>الاتحاد</word> 
+ <stem>اتِّحَاد</stem>
+</res>
+<res>
+<word>الدولي</word> 
+ <stem>دُوَلِيّ</stem>
+</res>
+<res>
+<word>لكرة</word> 
+ <stem>كُرَة</stem>
+</res>
+<res>
+<word>القدم</word> 
+ <stem>قَدَم</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>فيفا</word> 
+ <stem>فِيفَا</stem>
+</res>
+<res>
+<word>" (FIFA) </word> 
+ <stem>" (FIFA) </stem>
+</res>
+<res>
+<word>قائمة</word> 
+ <stem>قَائِمَة</stem>
+</res>
+<res>
+<word>المرشحين</word> 
+ <stem>مُرَشَّحِين</stem>
+</res>
+<res>
+<word>لجائزة</word> 
+ <stem>جَائِزَة</stem>
+</res>
+<res>
+<word>أفضل</word> 
+ <stem>أَفْضَل</stem>
+</res>
+<res>
+<word>لاعب</word> 
+ <stem>لَاعِب</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالِم</stem>
+</res>
+<res>
+<word>عام</word> 
+ <stem>عَامّ</stem>
+</res>
+<res>
+<word> 2020، </word> 
+ <stem> 2020، </stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>تضم</word> 
+ <stem>تُضَمّ</stem>
+</res>
+<res>
+<word> 11 </word> 
+ <stem> 11 </stem>
+</res>
+<res>
+<word>لاعبا</word> 
+ <stem>لَاعِبًا</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>رأسهم</word> 
+ <stem>رَأْس</stem>
+</res>
+<res>
+<word>روبرت</word> 
+ <stem>روبرت</stem>
+</res>
+<res>
+<word>ليفاندوفسكي</word> 
+ <stem>ليفاندوفسكي</stem>
+</res>
+<res>
+<word>هداف</word> 
+ <stem>هَدَّاف</stem>
+</res>
+<res>
+<word>بايرن</word> 
+ <stem>بَايِرْن</stem>
+</res>
+<res>
+<word>ميونخ</word> 
+ <stem>ميونخ</stem>
+</res>
+<res>
+<word>الألماني</word> 
+ <stem>أَلْمَانِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ومن</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>بينهم</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>النجم</word> 
+ <stem>نَجْم</stem>
+</res>
+<res>
+<word>المصري</word> 
+ <stem>مِصْرِيّ</stem>
+</res>
+<res>
+<word>محمد</word> 
+ <stem>مُحَمَّد</stem>
+</res>
+<res>
+<word>صلاح</word> 
+ <stem>صَلَاح</stem>
+</res>
+<res>
+<word>لاعب</word> 
+ <stem>لَاعِب</stem>
+</res>
+<res>
+<word>ليفربول</word> 
+ <stem>لِيفِرْبُول</stem>
+</res>
+<res>
+<word>الإنجليزي</word> 
+ <stem>إِنْجِلِيزِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>العربي</word> 
+ <stem>عَرَبِيّ</stem>
+</res>
+<res>
+<word>الوحيد</word> 
+ <stem>وَحِيد</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>القائمة</word> 
+ <stem>قَائِمَة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وتضمنت</word> 
+ <stem>تَضَمَّنَت</stem>
+</res>
+<res>
+<word>القائمة</word> 
+ <stem>قَائِمَة</stem>
+</res>
+<res>
+<word> 11 </word> 
+ <stem> 11 </stem>
+</res>
+<res>
+<word>لاعبا</word> 
+ <stem>لَاعِبًا</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الدوريات</word> 
+ <stem>دَوْرِيَّات</stem>
+</res>
+<res>
+<word>الأوروبية</word> 
+ <stem>أُورُوبِّيَّة</stem>
+</res>
+<res>
+<word>الكبرى</word> 
+ <stem>كُبْرَى</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>سيطر</word> 
+ <stem>سَيْطَر</stem>
+</res>
+<res>
+<word>عليها</word> 
+ <stem>عَلَي</stem>
+</res>
+<res>
+<word>نجوم</word> 
+ <stem>نُجُوم</stem>
+</res>
+<res>
+<word>الدوري</word> 
+ <stem>دَوْرِيّ</stem>
+</res>
+<res>
+<word>الإنجليزي</word> 
+ <stem>إِنْجِلِيزِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>يتقدمهم</word> 
+ <stem>يَتَقَدَّم</stem>
+</res>
+<res>
+<word>صلاح</word> 
+ <stem>صَلَاح</stem>
+</res>
+<res>
+<word>وزملاؤه</word> 
+ <stem>زُمَلَاء</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>ليفربول</word> 
+ <stem>لِيفِرْبُول</stem>
+</res>
+<res>
+<word>:</word> 
+ <stem>:</stem>
+</res>
+<res>
+<word>ساديو</word> 
+ <stem>ساديو</stem>
+</res>
+<res>
+<word>ماني</word> 
+ <stem>مَان</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وفيرجيل</word> 
+ <stem>وفيرجيل</stem>
+</res>
+<res>
+<word>فان</word> 
+ <stem>فَان</stem>
+</res>
+<res>
+<word>دايك</word> 
+ <stem>دايك</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وتياغو</word> 
+ <stem>وتياغو</stem>
+</res>
+<res>
+<word>ألكانتارا</word> 
+ <stem>ألكانتارا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بالإضافة</word> 
+ <stem>إِضَافَة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>كيفين</word> 
+ <stem>كَيْفَيْن</stem>
+</res>
+<res>
+<word>دي</word> 
+ <stem>دِي</stem>
+</res>
+<res>
+<word>بروين</word> 
+ <stem>بَرْوَيْن</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مَن</stem>
+</res>
+<res>
+<word>مانشستر</word> 
+ <stem>مَانْشِسْتِر</stem>
+</res>
+<res>
+<word>سيتي</word> 
+ <stem>سِيتِي</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>جوائز</word> 
+ <stem>جَوَائِز</stem>
+</res>
+<res>
+<word> #TheBest </word> 
+ <stem> #TheBest </stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word> FIFA 👑 </word> 
+ <stem> FIFA 👑 </stem>
+</res>
+<res>
+<word>المرشحون</word> 
+ <stem>مُرَشَّحُون</stem>
+</res>
+<res>
+<word>لجائزة</word> 
+ <stem>جَائِزَة</stem>
+</res>
+<res>
+<word>أفضل</word> 
+ <stem>أَفْضَل</stem>
+</res>
+<res>
+<word>لاعب</word> 
+ <stem>لَاعِب</stem>
+</res>
+<res>
+<word>:</word> 
+ <stem>:</stem>
+</res>
+<res>
+<word> 🇪🇸 </word> 
+ <stem> 🇪🇸 </stem>
+</res>
+<res>
+<word>تياجو</word> 
+ <stem>تياجو</stem>
+</res>
+<res>
+<word>ألكانتارا</word> 
+ <stem>ألكانتارا</stem>
+</res>
+<res>
+<word> 🇵🇹 </word> 
+ <stem> 🇵🇹 </stem>
+</res>
+<res>
+<word>كريستيانو</word> 
+ <stem>كِرِيسْتِيَانُو</stem>
+</res>
+<res>
+<word>رونالدو</word> 
+ <stem>رونالدو</stem>
+</res>
+<res>
+<word> 🇧🇪 </word> 
+ <stem> 🇧🇪 </stem>
+</res>
+<res>
+<word>كيفين</word> 
+ <stem>كَيْفَيْن</stem>
+</res>
+<res>
+<word>دي</word> 
+ <stem>دِي</stem>
+</res>
+<res>
+<word>بروين</word> 
+ <stem>بَرْوَيْن</stem>
+</res>
+<res>
+<word> 🇵🇱 </word> 
+ <stem> 🇵🇱 </stem>
+</res>
+<res>
+<word>روبرت</word> 
+ <stem>روبرت</stem>
+</res>
+<res>
+<word>ليفاندوفسكي</word> 
+ <stem>ليفاندوفسكي</stem>
+</res>
+<res>
+<word> 🇸🇳 </word> 
+ <stem> 🇸🇳 </stem>
+</res>
+<res>
+<word>ساديو</word> 
+ <stem>ساديو</stem>
+</res>
+<res>
+<word>ماني</word> 
+ <stem>مَان</stem>
+</res>
+<res>
+<word> 🇫🇷 </word> 
+ <stem> 🇫🇷 </stem>
+</res>
+<res>
+<word>كيليان</word> 
+ <stem>كَيْلِيَّان</stem>
+</res>
+<res>
+<word>مبابي</word> 
+ <stem>مَبَاب</stem>
+</res>
+<res>
+<word> 🇦🇷 </word> 
+ <stem> 🇦🇷 </stem>
+</res>
+<res>
+<word>ليونيل</word> 
+ <stem>لِيُونِيل</stem>
+</res>
+<res>
+<word>ميسي</word> 
+ <stem>مِيسِي</stem>
+</res>
+<res>
+<word> 🇧🇷 </word> 
+ <stem> 🇧🇷 </stem>
+</res>
+<res>
+<word>نيمار</word> 
+ <stem>نيمار</stem>
+</res>
+<res>
+<word> 🇪🇸 </word> 
+ <stem> 🇪🇸 </stem>
+</res>
+<res>
+<word>سيرجيو</word> 
+ <stem>سيرجيو</stem>
+</res>
+<res>
+<word>راموس</word> 
+ <stem>راموس</stem>
+</res>
+<res>
+<word> 🇪🇬 </word> 
+ <stem> 🇪🇬 </stem>
+</res>
+<res>
+<word>محمد</word> 
+ <stem>مُحَمَّد</stem>
+</res>
+<res>
+<word>صلاح</word> 
+ <stem>صَلَاح</stem>
+</res>
+<res>
+<word> 🇳🇱 </word> 
+ <stem> 🇳🇱 </stem>
+</res>
+<res>
+<word>فيرجيل</word> 
+ <stem>فيرجيل</stem>
+</res>
+<res>
+<word>فان</word> 
+ <stem>فَان</stem>
+</res>
+<res>
+<word>ديك</word> 
+ <stem>دِيك</stem>
+</res>
+<res>
+<word>للتصويت</word> 
+ <stem>تَصْوِيت</stem>
+</res>
+<res>
+<word> 👈 https</word> 
+ <stem> 👈 https</stem>
+</res>
+<res>
+<word>:</word> 
+ <stem>:</stem>
+</res>
+<res>
+<word>//t</word> 
+ <stem>//t</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>co/bajNm9Anjt pic</word> 
+ <stem>co/bajNm9Anjt pic</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>twitter</word> 
+ <stem>twitter</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>com/ZcWhydsir9</word> 
+ <stem>com/ZcWhydsir9</stem>
+</res>
+
+<res>
+<word>— FIFA</word> 
+ <stem>— FIFA</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>com – </word> 
+ <stem>com – </stem>
+</res>
+<res>
+<word>عربي</word> 
+ <stem>عَرَب</stem>
+</res>
+<res>
+<word> (@fifacom_ar) November 25, 2020</word> 
+ <stem> (@fifacom_ar) November 25, 2020</stem>
+</res>
+
+
+<res>
+<word>ولم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>يغب</word> 
+ <stem>يَغِب</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>القائمة</word> 
+ <stem>قَائِمَة</stem>
+</res>
+<res>
+<word>النجمان</word> 
+ <stem>نَجْمَان</stem>
+</res>
+<res>
+<word>الحاضران</word> 
+ <stem>حَاضِرَان</stem>
+</res>
+<res>
+<word>دائما</word> 
+ <stem>دَائِمًا</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>قوائم</word> 
+ <stem>قَوَائِم</stem>
+</res>
+<res>
+<word>الأفضل</word> 
+ <stem>أَفْضَل</stem>
+</res>
+<res>
+<word>:</word> 
+ <stem>:</stem>
+</res>
+<res>
+<word>البرتغالي</word> 
+ <stem>بُرْتُغَالِيّ</stem>
+</res>
+<res>
+<word>كريستيانو</word> 
+ <stem>كِرِيسْتِيَانُو</stem>
+</res>
+<res>
+<word>رونالدو</word> 
+ <stem>رونالدو</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>والأرجنتيني</word> 
+ <stem>أَرْجُنْتِينِيّ</stem>
+</res>
+<res>
+<word>ليونيل</word> 
+ <stem>لِيُونِيل</stem>
+</res>
+<res>
+<word>ميسي</word> 
+ <stem>مِيسِي</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ويوجد</word> 
+ <stem>يُوْجَد</stem>
+</res>
+<res>
+<word>أيضا</word> 
+ <stem>أَيْضًا</stem>
+</res>
+<res>
+<word>ليفاندوفسكي</word> 
+ <stem>ليفاندوفسكي</stem>
+</res>
+<res>
+<word>مهاجم</word> 
+ <stem>مُهَاجِم</stem>
+</res>
+<res>
+<word>بايرن</word> 
+ <stem>بَايِرْن</stem>
+</res>
+<res>
+<word>ميونخ</word> 
+ <stem>ميونخ</stem>
+</res>
+<res>
+<word>المتوج</word> 
+ <stem>مُتَوَّج</stem>
+</res>
+<res>
+<word>معه</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>بدوري</word> 
+ <stem>دَوْرِيّ</stem>
+</res>
+<res>
+<word>أبطال</word> 
+ <stem>أَبْطَال</stem>
+</res>
+<res>
+<word>أوروبا</word> 
+ <stem>أُورُوبَّا</stem>
+</res>
+<res>
+<word>العام</word> 
+ <stem>عَام</stem>
+</res>
+<res>
+<word>الماضي</word> 
+ <stem>مَاضِي</stem>
+</res>
+<res>
+<word>والمرشح</word> 
+ <stem>مُرَشَّح</stem>
+</res>
+<res>
+<word>الأقرب</word> 
+ <stem>أَقْرَب</stem>
+</res>
+<res>
+<word>للتتويج</word> 
+ <stem>تَتْوِيج</stem>
+</res>
+<res>
+<word>بالجائزة</word> 
+ <stem>جَائِزَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ونجما</word> 
+ <stem>نَجْمًا</stem>
+</res>
+<res>
+<word>باريس</word> 
+ <stem>بَارِيس</stem>
+</res>
+<res>
+<word>سان</word> 
+ <stem>سَان</stem>
+</res>
+<res>
+<word>جيرمان</word> 
+ <stem>جيرمان</stem>
+</res>
+<res>
+<word>:</word> 
+ <stem>:</stem>
+</res>
+<res>
+<word>نيمار</word> 
+ <stem>نيمار</stem>
+</res>
+<res>
+<word>وكيليان</word> 
+ <stem>وَكِيلِيَّان</stem>
+</res>
+<res>
+<word>مبابي</word> 
+ <stem>مَبَاب</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بالإضافة</word> 
+ <stem>إِضَافَة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>مدافع</word> 
+ <stem>مُدَافِع</stem>
+</res>
+<res>
+<word>ريال</word> 
+ <stem>رِيَال</stem>
+</res>
+<res>
+<word>مدريد</word> 
+ <stem>مَدْرِيد</stem>
+</res>
+<res>
+<word>الإسباني</word> 
+ <stem>إِسْبَانِيّ</stem>
+</res>
+<res>
+<word>سيرجيو</word> 
+ <stem>سيرجيو</stem>
+</res>
+<res>
+<word>راموس</word> 
+ <stem>راموس</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ومن</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>المقرر</word> 
+ <stem>مُقَرِّر</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>يتم</word> 
+ <stem>يَتِمّ</stem>
+</res>
+<res>
+<word>الإعلان</word> 
+ <stem>إِعْلَان</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>الفائز</word> 
+ <stem>فَائِز</stem>
+</res>
+<res>
+<word>بالجائزة</word> 
+ <stem>جَائِزَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>ديسمبر</word> 
+ <stem>دِيسَمْبِر</stem>
+</res>
+<res>
+<word>/</word> 
+ <stem>/</stem>
+</res>
+<res>
+<word>كانون</word> 
+ <stem>كَانُون</stem>
+</res>
+<res>
+<word>الأول</word> 
+ <stem>أَوَّل</stem>
+</res>
+<res>
+<word>المقبل</word> 
+ <stem>مُقْبِل</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>احتفال</word> 
+ <stem>احْتِفَال</stem>
+</res>
+<res>
+<word>سينظمه</word> 
+ <stem>يُنَظِّم</stem>
+</res>
+<res>
+<word>الفيفا</word> 
+ <stem>فِيفَا</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بُعْد</stem>
+</res>
+<res>
+<word>بسبب</word> 
+ <stem>سَبَب</stem>
+</res>
+<res>
+<word>جائحة</word> 
+ <stem>جَائِحَة</stem>
+</res>
+<res>
+<word>كورونا</word> 
+ <stem>كَوَّرُوا</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+</Stems>

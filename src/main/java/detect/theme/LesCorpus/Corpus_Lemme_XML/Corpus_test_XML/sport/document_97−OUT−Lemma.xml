@@ -1,0 +1,2356 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>حزن</word> 
+ <lemma>حُزْن</lemma>
+</res>
+<res>
+<word>عالمي</word> 
+ <lemma>عَالَمِيّ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>وفاة</word> 
+ <lemma>وَفَاة</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>الفتى</word> 
+ <lemma>فَتَى</lemma>
+</res>
+<res>
+<word>الذهبي</word> 
+ <lemma>ذَهَبِيّ</lemma>
+</res>
+<res>
+<word>"</word> 
+ <lemma>"</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>كرة</word> 
+ <lemma>كُرَة</lemma>
+</res>
+<res>
+<word>القدم</word> 
+ <lemma>قَدَم</lemma>
+</res>
+<res>
+<word>تبكي</word> 
+ <lemma>بَكَى</lemma>
+</res>
+<res>
+<word>مارادونا</word> 
+ <lemma>مارادونا</lemma>
+</res>
+
+<res>
+<word>عمّ</word> 
+ <lemma>عَمّ</lemma>
+</res>
+<res>
+<word>الحزن</word> 
+ <lemma>حُزْن</lemma>
+</res>
+<res>
+<word>أوساط</word> 
+ <lemma>وَسَط</lemma>
+</res>
+<res>
+<word>جماهير</word> 
+ <lemma>جُمْهُور</lemma>
+</res>
+<res>
+<word>وعشاق</word> 
+ <lemma>عَاشِق</lemma>
+</res>
+<res>
+<word>كرة</word> 
+ <lemma>كُرَة</lemma>
+</res>
+<res>
+<word>القدم</word> 
+ <lemma>قَدَم</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>العالم</word> 
+ <lemma>عَالِم</lemma>
+</res>
+<res>
+<word>أجمع</word> 
+ <lemma>أَجْمَعَ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>الإعلان</word> 
+ <lemma>إِعْلَان</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>وفاة</word> 
+ <lemma>وَفَاة</lemma>
+</res>
+<res>
+<word>أسطورة</word> 
+ <lemma>أُسْطُورَة</lemma>
+</res>
+<res>
+<word>كرة</word> 
+ <lemma>كُرَة</lemma>
+</res>
+<res>
+<word>القدم</word> 
+ <lemma>قَدَم</lemma>
+</res>
+<res>
+<word>الأرجنتيني</word> 
+ <lemma>أَرْجُنْتِينِيّ</lemma>
+</res>
+<res>
+<word>دييغو</word> 
+ <lemma>دييغو</lemma>
+</res>
+<res>
+<word>أرماندو</word> 
+ <lemma>أرماندو</lemma>
+</res>
+<res>
+<word>مارادونا</word> 
+ <lemma>مارادونا</lemma>
+</res>
+<res>
+<word>بسكتة</word> 
+ <lemma>سَكْتَة</lemma>
+</res>
+<res>
+<word>قلبية</word> 
+ <lemma>قَلْبِيّ</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>عمر</word> 
+ <lemma>عُمْر</lemma>
+</res>
+<res>
+<word>يناهز</word> 
+ <lemma>نَاهَزَ</lemma>
+</res>
+<res>
+<word> 60 </word> 
+ <lemma> 60 </lemma>
+</res>
+<res>
+<word>عاما</word> 
+ <lemma>عَام</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ونعى</word> 
+ <lemma>نَعَى</lemma>
+</res>
+<res>
+<word>رئيس</word> 
+ <lemma>رَئِيس</lemma>
+</res>
+<res>
+<word>الأرجنتين</word> 
+ <lemma>أَرْجَنْتِين</lemma>
+</res>
+<res>
+<word>ألبيرتو</word> 
+ <lemma>ألبيرتو</lemma>
+</res>
+<res>
+<word>فيرنانديز</word> 
+ <lemma>فيرنانديز</lemma>
+</res>
+<res>
+<word>أسطورة</word> 
+ <lemma>أُسْطُورَة</lemma>
+</res>
+<res>
+<word>بلاده</word> 
+ <lemma>بِلَاد</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>تغريدة</word> 
+ <lemma>تَغْرِيدَة</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>موقع</word> 
+ <lemma>مَوْقِع</lemma>
+</res>
+<res>
+<word>تويتر</word> 
+ <lemma>تُوِيتَر</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>قائلا</word> 
+ <lemma>قَائِل</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>لقد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>أخذتنا</word> 
+ <lemma>أَخَذَ</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>قمة</word> 
+ <lemma>قِمَّة</lemma>
+</res>
+<res>
+<word>العالم</word> 
+ <lemma>عَالَم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>نحن</word> 
+ <lemma>نَحْنُ</lemma>
+</res>
+<res>
+<word>سعداء</word> 
+ <lemma>سَعِيد</lemma>
+</res>
+<res>
+<word>للغاية</word> 
+ <lemma>غَايَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>كنت</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>أعظم</word> 
+ <lemma>أَعْظَم</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الجميع</word> 
+ <lemma>جَمِيع</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>شكرا</word> 
+ <lemma>شُكْر</lemma>
+</res>
+<res>
+<word>لوجودك</word> 
+ <lemma>وُجُود</lemma>
+</res>
+<res>
+<word>يا</word> 
+ <lemma>يَا</lemma>
+</res>
+<res>
+<word>دييغو</word> 
+ <lemma>دييغو</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>سوف</word> 
+ <lemma>سَوْفَ</lemma>
+</res>
+<res>
+<word>نتذكرك</word> 
+ <lemma>تَذَكَّرَ</lemma>
+</res>
+<res>
+<word>طوال</word> 
+ <lemma>طَوَال</lemma>
+</res>
+<res>
+<word>الحياة</word> 
+ <lemma>حَيَاة</lemma>
+</res>
+<res>
+<word>"</word> 
+ <lemma>"</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وغيّر</word> 
+ <lemma>غَيَّرَ</lemma>
+</res>
+<res>
+<word>الحساب</word> 
+ <lemma>حِسَاب</lemma>
+</res>
+<res>
+<word>الرسمي</word> 
+ <lemma>رَسْمِيّ</lemma>
+</res>
+<res>
+<word>لمنتخب</word> 
+ <lemma>مُنْتَخَب</lemma>
+</res>
+<res>
+<word>الأرجنتين</word> 
+ <lemma>أَرْجَنْتِين</lemma>
+</res>
+<res>
+<word>صورته</word> 
+ <lemma>صُورَة</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>موقع</word> 
+ <lemma>مَوْقِع</lemma>
+</res>
+<res>
+<word>التواصل</word> 
+ <lemma>تَوَاصُل</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>علامة</word> 
+ <lemma>عَلَامَة</lemma>
+</res>
+<res>
+<word>حداد</word> 
+ <lemma>حَدَّاد</lemma>
+</res>
+<res>
+<word>سوداء</word> 
+ <lemma>أَسْوَد</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>وفاة</word> 
+ <lemma>وَفَاة</lemma>
+</res>
+<res>
+<word>مارادونا</word> 
+ <lemma>مارادونا</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>مودعا</word> 
+ <lemma>مُودَع</lemma>
+</res>
+<res>
+<word>نجمه</word> 
+ <lemma>نَجْم</lemma>
+</res>
+<res>
+<word>الأشهر</word> 
+ <lemma>شَهْر</lemma>
+</res>
+<res>
+<word>بعبارات</word> 
+ <lemma>عِبَارَة</lemma>
+</res>
+<res>
+<word>مؤثرة</word> 
+ <lemma>مُؤَثِّر</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وتفاعلت</word> 
+ <lemma>تَفَاعَلَ</lemma>
+</res>
+<res>
+<word>أندية</word> 
+ <lemma>نَادٍ</lemma>
+</res>
+<res>
+<word>عالمية</word> 
+ <lemma>عَالَمِيّ</lemma>
+</res>
+<res>
+<word>كبيرة</word> 
+ <lemma>كَبِير</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>مواقع</word> 
+ <lemma>مَوْقَع</lemma>
+</res>
+<res>
+<word>التواصل</word> 
+ <lemma>تَوَاصُل</lemma>
+</res>
+<res>
+<word>الاجتماعي</word> 
+ <lemma>اجْتِمَاعِيّ</lemma>
+</res>
+<res>
+<word>مع</word> 
+ <lemma>مَعَ</lemma>
+</res>
+<res>
+<word>وفاة</word> 
+ <lemma>وَفَاة</lemma>
+</res>
+<res>
+<word>مارادونا</word> 
+ <lemma>مارادونا</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وعبرّت</word> 
+ <lemma>وعبرّت</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>حزنها</word> 
+ <lemma>حُزْن</lemma>
+</res>
+<res>
+<word>الشديد</word> 
+ <lemma>شَدِيد</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>فقدان</word> 
+ <lemma>فِقْدَان</lemma>
+</res>
+<res>
+<word>كرة</word> 
+ <lemma>كُرَة</lemma>
+</res>
+<res>
+<word>القدم</word> 
+ <lemma>قَدَم</lemma>
+</res>
+<res>
+<word>واحدا</word> 
+ <lemma>وَاحِد</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>أفضل</word> 
+ <lemma>أَفْضَل</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>لمسها</word> 
+ <lemma>لَمَسَ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>مدى</word> 
+ <lemma>مَدَى</lemma>
+</res>
+<res>
+<word>التاريخ</word> 
+ <lemma>تَارِيخ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وجاء</word> 
+ <lemma>جَاءَ</lemma>
+</res>
+<res>
+<word>نادي</word> 
+ <lemma>نَادِي</lemma>
+</res>
+<res>
+<word>برشلونة</word> 
+ <lemma>بَرْشَلُونَة</lemma>
+</res>
+<res>
+<word>الإسباني</word> 
+ <lemma>إِسْبَانِيّ</lemma>
+</res>
+<res>
+<word> -</word> 
+ <lemma> -</lemma>
+</res>
+<res>
+<word>أول</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>ناد</word> 
+ <lemma>نَادَى</lemma>
+</res>
+<res>
+<word>أوروبي</word> 
+ <lemma>رَوْبِيّ</lemma>
+</res>
+<res>
+<word>لعب</word> 
+ <lemma>لَعِبَ</lemma>
+</res>
+<res>
+<word>له</word> 
+ <lemma>لِي</lemma>
+</res>
+<res>
+<word>مارادونا</word> 
+ <lemma>مارادونا</lemma>
+</res>
+<res>
+<word>- </word> 
+ <lemma>- </lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>مقدمة</word> 
+ <lemma>مُقَدَّم</lemma>
+</res>
+<res>
+<word>الأندية</word> 
+ <lemma>نَادٍ</lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>نعت</word> 
+ <lemma>نَعَى</lemma>
+</res>
+<res>
+<word>أسطورة</word> 
+ <lemma>أُسْطُورَة</lemma>
+</res>
+<res>
+<word>الأرجنتين</word> 
+ <lemma>أَرْجَنْتِين</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>مقدما</word> 
+ <lemma>مُقَدَّم</lemma>
+</res>
+<res>
+<word>له</word> 
+ <lemma>لِي</lemma>
+</res>
+<res>
+<word>الشكر</word> 
+ <lemma>شُكْر</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>كل</word> 
+ <lemma>كَلَّ</lemma>
+</res>
+<res>
+<word>شيء</word> 
+ <lemma>شَيْء</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وشاركت</word> 
+ <lemma>شَارَكَ</lemma>
+</res>
+<res>
+<word>أندية</word> 
+ <lemma>نَادٍ</lemma>
+</res>
+<res>
+<word>إنجليزية</word> 
+ <lemma>إِنْجِلِيزِيّ</lemma>
+</res>
+<res>
+<word>عديدة</word> 
+ <lemma>عَدِيد</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>نعي</word> 
+ <lemma>وَعَى</lemma>
+</res>
+<res>
+<word>مارادونا</word> 
+ <lemma>مارادونا</lemma>
+</res>
+<res>
+<word>بعبارات</word> 
+ <lemma>عِبَارَة</lemma>
+</res>
+<res>
+<word>مديح</word> 
+ <lemma>مَدِيح</lemma>
+</res>
+<res>
+<word>كبيرة</word> 
+ <lemma>كَبِير</lemma>
+</res>
+<res>
+<word>لما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>قدمه</word> 
+ <lemma>قَدَّمَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>إضافة</word> 
+ <lemma>إِضَافَة</lemma>
+</res>
+<res>
+<word>للساحرة</word> 
+ <lemma>سَاحِر</lemma>
+</res>
+<res>
+<word>المستديرة</word> 
+ <lemma>مُسْتَدِير</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ناشرين</word> 
+ <lemma>نَاشِر</lemma>
+</res>
+<res>
+<word>صورا</word> 
+ <lemma>صُورَة</lemma>
+</res>
+<res>
+<word>تذكارية</word> 
+ <lemma>تِذْكَارِيّ</lemma>
+</res>
+<res>
+<word>تجمع</word> 
+ <lemma>تَجَمُّع</lemma>
+</res>
+<res>
+<word>الراحل</word> 
+ <lemma>رَاحِل</lemma>
+</res>
+<res>
+<word>بلاعبيهم</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>أو</word> 
+ <lemma>أَوْ</lemma>
+</res>
+<res>
+<word>بتواجده</word> 
+ <lemma>تَوَاجُد</lemma>
+</res>
+<res>
+<word>بين</word> 
+ <lemma>بَيْنَ</lemma>
+</res>
+<res>
+<word>جدران</word> 
+ <lemma>حِدَار</lemma>
+</res>
+<res>
+<word>تلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>الأندية</word> 
+ <lemma>نَادٍ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>مثل</word> 
+ <lemma>مَثَّلَ</lemma>
+</res>
+<res>
+<word>نادي</word> 
+ <lemma>نَادِي</lemma>
+</res>
+<res>
+<word>توتنهام</word> 
+ <lemma>توتنهام</lemma>
+</res>
+<res>
+<word>ومانشستر</word> 
+ <lemma>مَانْشِسْتِر</lemma>
+</res>
+<res>
+<word>سيتي</word> 
+ <lemma>سِيتِي</lemma>
+</res>
+<res>
+<word>وتشلسي</word> 
+ <lemma>وتشلسي</lemma>
+</res>
+<res>
+<word>وغيرها</word> 
+ <lemma>غَيْر</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الفرق</word> 
+ <lemma>فِرْقَة</lemma>
+</res>
+<res>
+<word>الإنجليزية</word> 
+ <lemma>إِنْجِلِيزِيّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وبلغت</word> 
+ <lemma>بَلَغَ</lemma>
+</res>
+<res>
+<word>التفاعلات</word> 
+ <lemma>تَفَاعُل</lemma>
+</res>
+<res>
+<word>العربية</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>مدى</word> 
+ <lemma>مَدَى</lemma>
+</res>
+<res>
+<word>واسعا</word> 
+ <lemma>وَاسِع</lemma>
+</res>
+<res>
+<word>حتى</word> 
+ <lemma>حَتَّى</lemma>
+</res>
+<res>
+<word>وصل</word> 
+ <lemma>وَصَلَ</lemma>
+</res>
+<res>
+<word>وسم</word> 
+ <lemma>سَمّ</lemma>
+</res>
+<res>
+<word> (#</word> 
+ <lemma> (#</lemma>
+</res>
+<res>
+<word>مارادونا</word> 
+ <lemma>مارادونا</lemma>
+</res>
+<res>
+<word>) </word> 
+ <lemma>) </lemma>
+</res>
+<res>
+<word>باللغة</word> 
+ <lemma>لُغَة</lemma>
+</res>
+<res>
+<word>العربية</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>المركز</word> 
+ <lemma>مَرْكَز</lemma>
+</res>
+<res>
+<word>الثالث</word> 
+ <lemma>ثَالِث</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>قائمة</word> 
+ <lemma>قَائِم</lemma>
+</res>
+<res>
+<word>الأكثر</word> 
+ <lemma>أَكْثَر</lemma>
+</res>
+<res>
+<word>صدارة</word> 
+ <lemma>صَدَارَة</lemma>
+</res>
+<res>
+<word>عبر</word> 
+ <lemma>عَبْر</lemma>
+</res>
+<res>
+<word>موقع</word> 
+ <lemma>مَوْقِع</lemma>
+</res>
+<res>
+<word>التواصل</word> 
+ <lemma>تَوَاصُل</lemma>
+</res>
+<res>
+<word>تويتر</word> 
+ <lemma>تُوِيتَر</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>بمشاركة</word> 
+ <lemma>مُشَارَكَة</lemma>
+</res>
+<res>
+<word>نشطاء</word> 
+ <lemma>نَاشِط</lemma>
+</res>
+<res>
+<word>وإعلاميين</word> 
+ <lemma>إِعْلَامِيّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>المجال</word> 
+ <lemma>مَجَال</lemma>
+</res>
+<res>
+<word>الرياضي</word> 
+ <lemma>رِيَاضِيّ</lemma>
+</res>
+<res>
+<word>أيضا</word> 
+ <lemma>أيْضًا</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>𝐋𝐄𝐘𝐄𝐍𝐃𝐀 𝐃𝐄 𝐋𝐚𝐋𝐢𝐠𝐚</word> 
+ <lemma>𝐋𝐄𝐘𝐄𝐍𝐃𝐀 𝐃𝐄 𝐋𝐚𝐋𝐢𝐠𝐚</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>Descansa en paz, Diego Armando Maradona</word> 
+ <lemma>Descansa en paz, Diego Armando Maradona</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> 🙏 pic</word> 
+ <lemma> 🙏 pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/8iC7AcOA66</word> 
+ <lemma>com/8iC7AcOA66</lemma>
+</res>
+
+<res>
+<word>— LaLiga (@LaLiga) November 25, 2020</word> 
+ <lemma>— LaLiga (@LaLiga) November 25, 2020</lemma>
+</res>
+
+
+<res>
+<word>Nos llevaste a lo más alto del mundo</word> 
+ <lemma>Nos llevaste a lo más alto del mundo</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> Nos hiciste inmensamente felices</word> 
+ <lemma> Nos hiciste inmensamente felices</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> Fuiste el más grande de todos</word> 
+ <lemma> Fuiste el más grande de todos</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>Gracias por haber existido, Diego</word> 
+ <lemma>Gracias por haber existido, Diego</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> Te vamos a extrañar toda la vida</word> 
+ <lemma> Te vamos a extrañar toda la vida</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> pic</word> 
+ <lemma> pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/pAf38sRlGC</word> 
+ <lemma>com/pAf38sRlGC</lemma>
+</res>
+
+<res>
+<word>— Alberto Fernández (@alferdez) November 25, 2020</word> 
+ <lemma>— Alberto Fernández (@alferdez) November 25, 2020</lemma>
+</res>
+
+
+<res>
+<word>Hasta siempre, Diego</word> 
+ <lemma>Hasta siempre, Diego</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>Serás #Eterno en cada corazón del planeta fútbol</word> 
+ <lemma>Serás #Eterno en cada corazón del planeta fútbol</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> pic</word> 
+ <lemma> pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/jcsGP3GlNI</word> 
+ <lemma>com/jcsGP3GlNI</lemma>
+</res>
+
+<res>
+<word>— Selección Argentina 🇦🇷 (@Argentina) November 25, 2020</word> 
+ <lemma>— Selección Argentina 🇦🇷 (@Argentina) November 25, 2020</lemma>
+</res>
+
+
+
+<res>
+<word>Thank you for everything, Diego pic</word> 
+ <lemma>Thank you for everything, Diego pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/bJ9l3ixY7A</word> 
+ <lemma>com/bJ9l3ixY7A</lemma>
+</res>
+
+<res>
+<word>— FC Barcelona (@FCBarcelona) November 25, 2020</word> 
+ <lemma>— FC Barcelona (@FCBarcelona) November 25, 2020</lemma>
+</res>
+
+
+<res>
+<word>A genius of his art</word> 
+ <lemma>A genius of his art</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> A master of our game</word> 
+ <lemma> A master of our game</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> One of the all-time greats</word> 
+ <lemma> One of the all-time greats</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>Rest in peace, Diego Maradona</word> 
+ <lemma>Rest in peace, Diego Maradona</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> 💙 pic</word> 
+ <lemma> 💙 pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/SRsFhnGrlX</word> 
+ <lemma>com/SRsFhnGrlX</lemma>
+</res>
+
+<res>
+<word>— Chelsea FC (@ChelseaFC) November 25, 2020</word> 
+ <lemma>— Chelsea FC (@ChelseaFC) November 25, 2020</lemma>
+</res>
+
+
+<res>
+<word>One of the greatest to ever grace our beautiful game</word> 
+ <lemma>One of the greatest to ever grace our beautiful game</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>Farewell, Diego 💙 pic</word> 
+ <lemma>Farewell, Diego 💙 pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/GrowTxX0Xp</word> 
+ <lemma>com/GrowTxX0Xp</lemma>
+</res>
+
+<res>
+<word>— Tottenham Hotspur (@SpursOfficial) November 25, 2020</word> 
+ <lemma>— Tottenham Hotspur (@SpursOfficial) November 25, 2020</lemma>
+</res>
+
+
+<res>
+<word>ننضم</word> 
+ <lemma>انْضَمَّ</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>جماهير</word> 
+ <lemma>جُمْهُور</lemma>
+</res>
+<res>
+<word>كرة</word> 
+ <lemma>كُرَة</lemma>
+</res>
+<res>
+<word>القدم</word> 
+ <lemma>قَدَم</lemma>
+</res>
+<res>
+<word>حول</word> 
+ <lemma>حَوْل</lemma>
+</res>
+<res>
+<word>العالم</word> 
+ <lemma>عَالَم</lemma>
+</res>
+<res>
+<word>لنقول</word> 
+ <lemma>قَالَ</lemma>
+</res>
+<res>
+<word>وداعا</word> 
+ <lemma>وَدَاع</lemma>
+</res>
+<res>
+<word>لأحد</word> 
+ <lemma>أَحَد</lemma>
+</res>
+<res>
+<word>عظماء</word> 
+ <lemma>عَظِيم</lemma>
+</res>
+<res>
+<word>اللعبة</word> 
+ <lemma>لُعْبَة</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الإطلاق</word> 
+ <lemma>إِطْلَاق</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ارقد</word> 
+ <lemma>رَقَدَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>سلام</word> 
+ <lemma>سَلَّام</lemma>
+</res>
+<res>
+<word>دييجو</word> 
+ <lemma>دييجو</lemma>
+</res>
+<res>
+<word>مارادونا</word> 
+ <lemma>مارادونا</lemma>
+</res>
+<res>
+<word> 💙 pic</word> 
+ <lemma> 💙 pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/fjQhzFstpr</word> 
+ <lemma>com/fjQhzFstpr</lemma>
+</res>
+
+<res>
+<word>— </word> 
+ <lemma>— </lemma>
+</res>
+<res>
+<word>مانشستر</word> 
+ <lemma>مَانْشِسْتِر</lemma>
+</res>
+<res>
+<word>سيتي</word> 
+ <lemma>سِيتِي</lemma>
+</res>
+<res>
+<word> (@Cityarabia) November 25, 2020</word> 
+ <lemma> (@Cityarabia) November 25, 2020</lemma>
+</res>
+
+
+<res>
+<word>Rest in peace, Diego</word> 
+ <lemma>Rest in peace, Diego</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> An icon of our game ❤️ pic</word> 
+ <lemma> An icon of our game ❤️ pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/AsZ5K2cjnI</word> 
+ <lemma>com/AsZ5K2cjnI</lemma>
+</res>
+
+<res>
+<word>— West Ham United (@WestHam) November 25, 2020</word> 
+ <lemma>— West Ham United (@WestHam) November 25, 2020</lemma>
+</res>
+
+
+<res>
+<word>A true great of the game</word> 
+ <lemma>A true great of the game</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>Rest in peace, Diego Maradona</word> 
+ <lemma>Rest in peace, Diego Maradona</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> pic</word> 
+ <lemma> pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/jImGjnjhUl</word> 
+ <lemma>com/jImGjnjhUl</lemma>
+</res>
+
+<res>
+<word>— Liverpool FC (@LFC) November 25, 2020</word> 
+ <lemma>— Liverpool FC (@LFC) November 25, 2020</lemma>
+</res>
+
+
+<res>
+<word>Rest in peace, Legend</word> 
+ <lemma>Rest in peace, Legend</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> 🙏</word> 
+ <lemma> 🙏</lemma>
+</res>
+
+<res>
+<word>Diego Maradona</word> 
+ <lemma>Diego Maradona</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> 🖤 pic</word> 
+ <lemma> 🖤 pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/ipRvFHkIIY</word> 
+ <lemma>com/ipRvFHkIIY</lemma>
+</res>
+
+<res>
+<word>— Paris Saint-Germain (@PSG_English) November 25, 2020</word> 
+ <lemma>— Paris Saint-Germain (@PSG_English) November 25, 2020</lemma>
+</res>
+
+
+<res>
+<word>وفي</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>السياق</word> 
+ <lemma>سِيَاق</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>عبّر</word> 
+ <lemma>عَبَّرَ</lemma>
+</res>
+<res>
+<word>عدد</word> 
+ <lemma>عَدَد</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>نجوم</word> 
+ <lemma>نَجْم</lemma>
+</res>
+<res>
+<word>كرة</word> 
+ <lemma>كُرَة</lemma>
+</res>
+<res>
+<word>القدم</word> 
+ <lemma>قَدَم</lemma>
+</res>
+<res>
+<word>الحاليين</word> 
+ <lemma>حَالِيّ</lemma>
+</res>
+<res>
+<word>والمعتزلين</word> 
+ <lemma>مُعْتَزِل</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>حزنهم</word> 
+ <lemma>حُزْن</lemma>
+</res>
+<res>
+<word>الشديد</word> 
+ <lemma>شَدِيد</lemma>
+</res>
+<res>
+<word>لفقدان</word> 
+ <lemma>فِقْدَان</lemma>
+</res>
+<res>
+<word>مارادونا</word> 
+ <lemma>مارادونا</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>يتقدمهم</word> 
+ <lemma>تَقَدَّمَ</lemma>
+</res>
+<res>
+<word>الأسطورة</word> 
+ <lemma>أُسْطُورَة</lemma>
+</res>
+<res>
+<word>البرازيلية</word> 
+ <lemma>البرازيلية</lemma>
+</res>
+<res>
+<word>بيليه</word> 
+ <lemma>يَلّ</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>نشر</word> 
+ <lemma>نَشَرَ</lemma>
+</res>
+<res>
+<word>تغريدة</word> 
+ <lemma>تَغْرِيدَة</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>موقع</word> 
+ <lemma>مَوْقِع</lemma>
+</res>
+<res>
+<word>تويتر</word> 
+ <lemma>تُوِيتَر</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>قال</word> 
+ <lemma>قَالَ</lemma>
+</res>
+<res>
+<word>فيها</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>يا</word> 
+ <lemma>يَا</lemma>
+</res>
+<res>
+<word>لها</word> 
+ <lemma>لِي</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>أخبار</word> 
+ <lemma>خَبَر</lemma>
+</res>
+<res>
+<word>محزنة</word> 
+ <lemma>مُحْزِن</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>لقد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>فقدت</word> 
+ <lemma>فَقَدَ</lemma>
+</res>
+<res>
+<word>صديقا</word> 
+ <lemma>صَدِيق</lemma>
+</res>
+<res>
+<word>عظيما</word> 
+ <lemma>عَظِيم</lemma>
+</res>
+<res>
+<word>وخسر</word> 
+ <lemma>خَسِرَ</lemma>
+</res>
+<res>
+<word>العالم</word> 
+ <lemma>عَالَم</lemma>
+</res>
+<res>
+<word>أسطورة</word> 
+ <lemma>أُسْطُورَة</lemma>
+</res>
+<res>
+<word>"</word> 
+ <lemma>"</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وأبدى</word> 
+ <lemma>أَبْدَى</lemma>
+</res>
+<res>
+<word>الأسطورة</word> 
+ <lemma>أُسْطُورَة</lemma>
+</res>
+<res>
+<word>المصرية</word> 
+ <lemma>مِصْرِيّ</lemma>
+</res>
+<res>
+<word>المعتزل</word> 
+ <lemma>مُعْتَزِل</lemma>
+</res>
+<res>
+<word>محمد</word> 
+ <lemma>مُحَمَّد</lemma>
+</res>
+<res>
+<word>أبو</word> 
+ <lemma>أَب</lemma>
+</res>
+<res>
+<word>تريكة</word> 
+ <lemma>تَرِيكَة</lemma>
+</res>
+<res>
+<word>حزنه</word> 
+ <lemma>حُزْن</lemma>
+</res>
+<res>
+<word>لوفاة</word> 
+ <lemma>وَفَاة</lemma>
+</res>
+<res>
+<word>النجم</word> 
+ <lemma>نَجْم</lemma>
+</res>
+<res>
+<word>الأرجنتيني</word> 
+ <lemma>أَرْجُنْتِينِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>قائلا</word> 
+ <lemma>قَائِل</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>توفي</word> 
+ <lemma>تَوَفَّى</lemma>
+</res>
+<res>
+<word>دييغو</word> 
+ <lemma>دييغو</lemma>
+</res>
+<res>
+<word>أرماندو</word> 
+ <lemma>أرماندو</lemma>
+</res>
+<res>
+<word>مارادونا</word> 
+ <lemma>مارادونا</lemma>
+</res>
+<res>
+<word>… </word> 
+ <lemma>… </lemma>
+</res>
+<res>
+<word>كرة</word> 
+ <lemma>كُرَة</lemma>
+</res>
+<res>
+<word>القدم</word> 
+ <lemma>قَدَم</lemma>
+</res>
+<res>
+<word>حزينة</word> 
+ <lemma>حَزِين</lemma>
+</res>
+<res>
+<word>والعالم</word> 
+ <lemma>عَالَم</lemma>
+</res>
+<res>
+<word>حزين</word> 
+ <lemma>حَزِين</lemma>
+</res>
+<res>
+<word>لرحيل</word> 
+ <lemma>رَحِيل</lemma>
+</res>
+<res>
+<word>أفضل</word> 
+ <lemma>أَفْضَل</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>لمسها</word> 
+ <lemma>لَمَسَ</lemma>
+</res>
+<res>
+<word>وأمتع</word> 
+ <lemma>امْتَاعَ</lemma>
+</res>
+<res>
+<word>عشاقها</word> 
+ <lemma>عَاشِق</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>يوم</word> 
+ <lemma>يَوْم</lemma>
+</res>
+<res>
+<word>حزين</word> 
+ <lemma>حَزِين</lemma>
+</res>
+<res>
+<word>"</word> 
+ <lemma>"</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>كما</word> 
+ <lemma>كَمّ</lemma>
+</res>
+<res>
+<word>شارك</word> 
+ <lemma>شَارَكَ</lemma>
+</res>
+<res>
+<word>نجوم</word> 
+ <lemma>نَجْم</lemma>
+</res>
+<res>
+<word>كبار</word> 
+ <lemma>بَارّ</lemma>
+</res>
+<res>
+<word>أمثال</word> 
+ <lemma>مَثَل</lemma>
+</res>
+<res>
+<word>البرتغالي</word> 
+ <lemma>بُرْتُغَالِيّ</lemma>
+</res>
+<res>
+<word>كريستيانو</word> 
+ <lemma>كِرِيسْتِيَانُو</lemma>
+</res>
+<res>
+<word>رونالدو</word> 
+ <lemma>رونالدو</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>والفرنسي</word> 
+ <lemma>فَرَنْسِيّ</lemma>
+</res>
+<res>
+<word>كيليان</word> 
+ <lemma>كَيْلِيّ</lemma>
+</res>
+<res>
+<word>مبابي</word> 
+ <lemma>مَبَاب</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وحارس</word> 
+ <lemma>حَارِس</lemma>
+</res>
+<res>
+<word>إسبانيا</word> 
+ <lemma>إِسْبَانِيَا</lemma>
+</res>
+<res>
+<word>المعتزل</word> 
+ <lemma>مُعْتَزِل</lemma>
+</res>
+<res>
+<word>إيكر</word> 
+ <lemma>إيكر</lemma>
+</res>
+<res>
+<word>كاسياس</word> 
+ <lemma>كاسياس</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>توديع</word> 
+ <lemma>تَوْدِيع</lemma>
+</res>
+<res>
+<word>مارادونا</word> 
+ <lemma>مارادونا</lemma>
+</res>
+<res>
+<word>والتذكير</word> 
+ <lemma>تَذْكِير</lemma>
+</res>
+<res>
+<word>بإبداعه</word> 
+ <lemma>إِبْدَاع</lemma>
+</res>
+<res>
+<word>وإرثه</word> 
+ <lemma>إِرْث</lemma>
+</res>
+<res>
+<word>الكروي</word> 
+ <lemma>كُرَوِيّ</lemma>
+</res>
+<res>
+<word>الكبير</word> 
+ <lemma>كَبِير</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>تركه</word> 
+ <lemma>تَرْك</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>Que notícia triste</word> 
+ <lemma>Que notícia triste</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> Eu perdi um grande amigo e o mundo perdeu uma lenda</word> 
+ <lemma> Eu perdi um grande amigo e o mundo perdeu uma lenda</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> Ainda há muito a ser dito, mas por agora, que Deus dê força para os familiares</word> 
+ <lemma> Ainda há muito a ser dito, mas por agora, que Deus dê força para os familiares</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> Um dia, eu espero que possamos jogar bola juntos no céu</word> 
+ <lemma> Um dia, eu espero que possamos jogar bola juntos no céu</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> pic</word> 
+ <lemma> pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/6Li76HTikA</word> 
+ <lemma>com/6Li76HTikA</lemma>
+</res>
+
+<res>
+<word>— Pelé (@Pele) November 25, 2020</word> 
+ <lemma>— Pelé (@Pele) November 25, 2020</lemma>
+</res>
+
+
+<res>
+<word>توفي</word> 
+ <lemma>تَوَفَّى</lemma>
+</res>
+<res>
+<word>دييغو</word> 
+ <lemma>دييغو</lemma>
+</res>
+<res>
+<word>أرماندو</word> 
+ <lemma>أرماندو</lemma>
+</res>
+<res>
+<word>مارادونا</word> 
+ <lemma>مارادونا</lemma>
+</res>
+<res>
+<word> …</word> 
+ <lemma> …</lemma>
+</res>
+<res>
+<word>كرة</word> 
+ <lemma>كُرَة</lemma>
+</res>
+<res>
+<word>القدم</word> 
+ <lemma>قَدَم</lemma>
+</res>
+<res>
+<word>حزينة</word> 
+ <lemma>حَزِين</lemma>
+</res>
+<res>
+<word>والعالم</word> 
+ <lemma>عَالَم</lemma>
+</res>
+<res>
+<word>حزين</word> 
+ <lemma>حَزِين</lemma>
+</res>
+<res>
+<word>لرحيل</word> 
+ <lemma>رَحِيل</lemma>
+</res>
+<res>
+<word>افضل</word> 
+ <lemma>فَضِلَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مَنْ</lemma>
+</res>
+<res>
+<word>لمسها</word> 
+ <lemma>لَمَسَ</lemma>
+</res>
+<res>
+<word>وامتع</word> 
+ <lemma>امْتَاعَ</lemma>
+</res>
+<res>
+<word>عشاقها</word> 
+ <lemma>عَاشِق</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>يوم</word> 
+ <lemma>يَوْم</lemma>
+</res>
+<res>
+<word>حزين</word> 
+ <lemma>حَزِين</lemma>
+</res>
+
+<res>
+<word>— </word> 
+ <lemma>— </lemma>
+</res>
+<res>
+<word>محمد</word> 
+ <lemma>مُحَمَّد</lemma>
+</res>
+<res>
+<word>أبوتريكة</word> 
+ <lemma>أبوتريكة</lemma>
+</res>
+<res>
+<word> (@trikaofficial) November 25, 2020</word> 
+ <lemma> (@trikaofficial) November 25, 2020</lemma>
+</res>
+
+
+
+<res>
+<word>Hoje despeço-me de um amigo e o Mundo despede-se de um génio eterno</word> 
+ <lemma>Hoje despeço-me de um amigo e o Mundo despede-se de um génio eterno</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> Um dos melhores de todos os tempos</word> 
+ <lemma> Um dos melhores de todos os tempos</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> Um mágico inigualável</word> 
+ <lemma> Um mágico inigualável</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> Parte demasiado cedo, mas deixa um legado sem limites e um vazio que jamais será preenchido</word> 
+ <lemma> Parte demasiado cedo, mas deixa um legado sem limites e um vazio que jamais será preenchido</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> Descansa em paz, craque</word> 
+ <lemma> Descansa em paz, craque</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> Nunca serás esquecido</word> 
+ <lemma> Nunca serás esquecido</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>🙏🏽 pic</word> 
+ <lemma>🙏🏽 pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/WTS21uxmdL</word> 
+ <lemma>com/WTS21uxmdL</lemma>
+</res>
+
+<res>
+<word>— Cristiano Ronaldo (@Cristiano) November 25, 2020</word> 
+ <lemma>— Cristiano Ronaldo (@Cristiano) November 25, 2020</lemma>
+</res>
+
+
+<res>
+<word>RIP Legend</word> 
+ <lemma>RIP Legend</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> You will stay in the history of football forever</word> 
+ <lemma> You will stay in the history of football forever</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> Thanks you for all the pleasure you gave to the whole world 🙌🏽🙏🏽❤️</word> 
+ <lemma> Thanks you for all the pleasure you gave to the whole world 🙌🏽🙏🏽❤️</lemma>
+</res>
+
+<res>
+<word>AÏE AÏE AÏE F*CKING 2020 😭😭😭 pic</word> 
+ <lemma>AÏE AÏE AÏE F*CKING 2020 😭😭😭 pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/8xc1CDKDg2</word> 
+ <lemma>com/8xc1CDKDg2</lemma>
+</res>
+
+<res>
+<word>— Kylian Mbappé (@KMbappe) November 25, 2020</word> 
+ <lemma>— Kylian Mbappé (@KMbappe) November 25, 2020</lemma>
+</res>
+
+
+<res>
+<word>Privileged to have met him</word> 
+ <lemma>Privileged to have met him</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> Very sad news</word> 
+ <lemma> Very sad news</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> RIP Diego Maradona</word> 
+ <lemma> RIP Diego Maradona</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> pic</word> 
+ <lemma> pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/x2LcIeQPqr</word> 
+ <lemma>com/x2LcIeQPqr</lemma>
+</res>
+
+<res>
+<word>— Harry Kane (@HKane) November 25, 2020</word> 
+ <lemma>— Harry Kane (@HKane) November 25, 2020</lemma>
+</res>
+
+
+<res>
+<word>Rest in peace Legend 😢💔🖤 #Maradona pic</word> 
+ <lemma>Rest in peace Legend 😢💔🖤 #Maradona pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/garrxEVsF2</word> 
+ <lemma>com/garrxEVsF2</lemma>
+</res>
+
+<res>
+<word>— Mohamed ELNeny (@ElNennY) November 25, 2020</word> 
+ <lemma>— Mohamed ELNeny (@ElNennY) November 25, 2020</lemma>
+</res>
+
+
+<res>
+<word>Día triste para el fútbol</word> 
+ <lemma>Día triste para el fútbol</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> Ha fallecido Maradona</word> 
+ <lemma> Ha fallecido Maradona</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> DEP genio de este deporte</word> 
+ <lemma> DEP genio de este deporte</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word> #maradios 😭 pic</word> 
+ <lemma> #maradios 😭 pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/o1oXUFmFPG</word> 
+ <lemma>com/o1oXUFmFPG</lemma>
+</res>
+
+<res>
+<word>— Iker Casillas (@IkerCasillas) November 25, 2020</word> 
+ <lemma>— Iker Casillas (@IkerCasillas) November 25, 2020</lemma>
+</res>
+
+
+</Lemmas>

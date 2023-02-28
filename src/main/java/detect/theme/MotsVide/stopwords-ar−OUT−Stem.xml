@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Stems>
+<res>
+<word>أبو</word> 
+ <stem>أَبُو</stem>
+</res>
+
+<res>
+<word>أحد</word> 
+ <stem>أُحَدّ</stem>
+</res>
+
+<res>
+<word>إذ</word> 
+ <stem>إِذ</stem>
+</res>
+
+<res>
+<word>وإذا</word> 
+ <stem>إِذَا</stem>
+</res>
+
+<res>
+<word>إذا</word> 
+ <stem>إِذَا</stem>
+</res>
+
+<res>
+<word>اذا</word> 
+ <stem>اذا</stem>
+</res>
+
+<res>
+<word>أصبح</word> 
+ <stem>أُصْبَح</stem>
+</res>
+
+<res>
+<word>اصبح</word> 
+ <stem>اصْبُح</stem>
+</res>
+
+<res>
+<word>أضحى</word> 
+ <stem>ضُحَى</stem>
+</res>
+
+<res>
+<word>اضحى</word> 
+ <stem>اضحى</stem>
+</res>
+
+<res>
+<word>آل</word> 
+ <stem>آل</stem>
+</res>
+
+<res>
+<word>الا</word> 
+ <stem>الا</stem>
+</res>
+
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+
+<res>
+<word>الحالي</word> 
+ <stem>حَالِيّ</stem>
+</res>
+
+<res>
+<word>الذي</word> 
+ <stem>ذِي</stem>
+</res>
+
+<res>
+<word>الذي</word> 
+ <stem>ذِي</stem>
+</res>
+
+<res>
+<word>الذي</word> 
+ <stem>ذِي</stem>
+</res>
+
+<res>
+<word>الذى</word> 
+ <stem>الذى</stem>
+</res>
+
+<res>
+<word>الذين</word> 
+ <stem>الْذَيْن</stem>
+</res>
+
+<res>
+<word>اللذين</word> 
+ <stem>لَذَّيْن</stem>
+</res>
+
+<res>
+<word>إلي</word> 
+ <stem>إِلِي</stem>
+</res>
+
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+
+<res>
+<word>الي</word> 
+ <stem>الي</stem>
+</res>
+
+<res>
+<word>الى</word> 
+ <stem>الى</stem>
+</res>
+
+<res>
+<word>اليه</word> 
+ <stem>اليه</stem>
+</res>
+
+<res>
+<word>اليها</word> 
+ <stem>اليها</stem>
+</res>
+
+<res>
+<word>اليوم</word> 
+ <stem>يَوْم</stem>
+</res>
+
+<res>
+<word>أما</word> 
+ <stem>أَمَا</stem>
+</res>
+
+<res>
+<word>أمام</word> 
+ <stem>أَمَام</stem>
+</res>
+
+<res>
+<word>أمسى</word> 
+ <stem>مَسَّى</stem>
+</res>
+
+<res>
+<word>امسى</word> 
+ <stem>امسى</stem>
+</res>
+
+<res>
+<word>أن</word> 
+ <stem>أُنّ</stem>
+</res>
+
+<res>
+<word>إن</word> 
+ <stem>إِنّ</stem>
+</res>
+
+<res>
+<word>إن</word> 
+ <stem>إِنّ</stem>
+</res>
+
+<res>
+<word>﻿</word> 
+ <stem>﻿</stem>
+</res>
+<res>
+<word>ان</word> 
+ <stem>ان</stem>
+</res>
+
+<res>
+<word>أنه</word> 
+ <stem>أَنْه</stem>
+</res>
+
+<res>
+<word>انه</word> 
+ <stem>انْه</stem>
+</res>
+
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+
+<res>
+<word>او</word> 
+ <stem>او</stem>
+</res>
+
+<res>
+<word>اول</word> 
+ <stem>اول</stem>
+</res>
+
+<res>
+<word>أي</word> 
+ <stem>أَيّ</stem>
+</res>
+
+<res>
+<word>اي</word> 
+ <stem>اي</stem>
+</res>
+
+<res>
+<word>بات</word> 
+ <stem>بَات</stem>
+</res>
+
+<res>
+<word>بإن</word> 
+ <stem>إِنّ</stem>
+</res>
+
+<res>
+<word>بد</word> 
+ <stem>بُدّ</stem>
+</res>
+
+<res>
+<word>بدلا</word> 
+ <stem>بُدِلَا</stem>
+</res>
+
+<res>
+<word>بعد</word> 
+ <stem>بَعُد</stem>
+</res>
+
+<res>
+<word>بل</word> 
+ <stem>بَل</stem>
+</res>
+
+<res>
+<word>به</word> 
+ <stem>بَهّ</stem>
+</res>
+
+<res>
+<word>بها</word> 
+ <stem>بَهًّا</stem>
+</res>
+
+<res>
+<word>بهذا</word> 
+ <stem>هَذَا</stem>
+</res>
+
+<res>
+<word>بين</word> 
+ <stem>بَيِّن</stem>
+</res>
+
+<res>
+<word>تحت</word> 
+ <stem>تَحْت</stem>
+</res>
+
+<res>
+<word>تكون</word> 
+ <stem>تَكُون</stem>
+</res>
+
+<res>
+<word>تلك</word> 
+ <stem>تِلْك</stem>
+</res>
+
+<res>
+<word>ثم</word> 
+ <stem>ثَمَّ</stem>
+</res>
+
+<res>
+<word>جدا</word> 
+ <stem>جِدًّا</stem>
+</res>
+
+<res>
+<word>حتى</word> 
+ <stem>حَتَّى</stem>
+</res>
+
+<res>
+<word>حول</word> 
+ <stem>حَوَل</stem>
+</res>
+
+<res>
+<word>حيث</word> 
+ <stem>حَيْث</stem>
+</res>
+
+<res>
+<word>حين</word> 
+ <stem>حَيْن</stem>
+</res>
+
+<res>
+<word>دون</word> 
+ <stem>دَوُّنّ</stem>
+</res>
+
+<res>
+<word>ذات</word> 
+ <stem>ذَات</stem>
+</res>
+
+<res>
+<word>ذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+
+<res>
+<word>ستكون</word> 
+ <stem>تَكُون</stem>
+</res>
+
+<res>
+<word>صار</word> 
+ <stem>صَارّ</stem>
+</res>
+
+<res>
+<word>ضد</word> 
+ <stem>ضَدّ</stem>
+</res>
+
+<res>
+<word>ضمن</word> 
+ <stem>ضَمَّن</stem>
+</res>
+
+<res>
+<word>ظل</word> 
+ <stem>ظِلّ</stem>
+</res>
+
+<res>
+<word>علي</word> 
+ <stem>عِلِي</stem>
+</res>
+
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+
+<res>
+<word>عليه</word> 
+ <stem>عَلْي</stem>
+</res>
+
+<res>
+<word>عليها</word> 
+ <stem>عَلْي</stem>
+</res>
+
+<res>
+<word>عن</word> 
+ <stem>عُنّ</stem>
+</res>
+
+<res>
+<word>عند</word> 
+ <stem>عَنَد</stem>
+</res>
+
+<res>
+<word>عنه</word> 
+ <stem>عُنّ</stem>
+</res>
+
+<res>
+<word>عنها</word> 
+ <stem>عُنّ</stem>
+</res>
+
+<res>
+<word>فإن</word> 
+ <stem>إِنّ</stem>
+</res>
+
+<res>
+<word>فانه</word> 
+ <stem>فَانّ</stem>
+</res>
+
+<res>
+<word>فقد</word> 
+ <stem>قَدّ</stem>
+</res>
+
+<res>
+<word>فقط</word> 
+ <stem>قِط</stem>
+</res>
+
+<res>
+<word>فكان</word> 
+ <stem>كَانّ</stem>
+</res>
+
+<res>
+<word>فهو</word> 
+ <stem>فَهْو</stem>
+</res>
+
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+
+<res>
+<word>فيه</word> 
+ <stem>فِي</stem>
+</res>
+
+<res>
+<word>فيها</word> 
+ <stem>فِي</stem>
+</res>
+
+<res>
+<word>قبل</word> 
+ <stem>قَبْل</stem>
+</res>
+
+<res>
+<word>قد</word> 
+ <stem>قَدّ</stem>
+</res>
+
+<res>
+<word>كأن</word> 
+ <stem>أَنّ</stem>
+</res>
+
+<res>
+<word>كان</word> 
+ <stem>كَانّ</stem>
+</res>
+
+<res>
+<word>كانت</word> 
+ <stem>كَانِت</stem>
+</res>
+
+<res>
+<word>كذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+
+<res>
+<word>كل</word> 
+ <stem>كَلّ</stem>
+</res>
+
+<res>
+<word>كما</word> 
+ <stem>كِمَا</stem>
+</res>
+
+<res>
+<word>كيف</word> 
+ <stem>كَيَّف</stem>
+</res>
+
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+
+<res>
+<word>لازال</word> 
+ <stem>لازال</stem>
+</res>
+
+<res>
+<word>لاسيما</word> 
+ <stem>لاسيما</stem>
+</res>
+
+<res>
+<word>لأن</word> 
+ <stem>أُنّ</stem>
+</res>
+
+<res>
+<word>لايزال</word> 
+ <stem>لايزال</stem>
+</res>
+
+<res>
+<word>لدي</word> 
+ <stem>لَدَيّ</stem>
+</res>
+
+<res>
+<word>لدى</word> 
+ <stem>لَدَى</stem>
+</res>
+
+<res>
+<word>لذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+
+<res>
+<word>لعل</word> 
+ <stem>عِل</stem>
+</res>
+
+<res>
+<word>لكن</word> 
+ <stem>ل</stem>
+</res>
+
+<res>
+<word>لكنه</word> 
+ <stem>كِن</stem>
+</res>
+
+<res>
+<word>لم</word> 
+ <stem>لَم</stem>
+</res>
+
+<res>
+<word>لن</word> 
+ <stem>لُنّ</stem>
+</res>
+
+<res>
+<word>له</word> 
+ <stem>ل</stem>
+</res>
+
+<res>
+<word>لها</word> 
+ <stem>ل</stem>
+</res>
+
+<res>
+<word>لهذا</word> 
+ <stem>هَذَا</stem>
+</res>
+
+<res>
+<word>لهم</word> 
+ <stem>ل</stem>
+</res>
+
+<res>
+<word>لو</word> 
+ <stem>لَو</stem>
+</res>
+
+<res>
+<word>ليت</word> 
+ <stem>لِيت</stem>
+</res>
+
+<res>
+<word>ليس</word> 
+ <stem>يَس</stem>
+</res>
+
+<res>
+<word>ليس</word> 
+ <stem>يَس</stem>
+</res>
+
+<res>
+<word>ليسب</word> 
+ <stem>يُسَب</stem>
+</res>
+
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+
+<res>
+<word>ماانفك</word> 
+ <stem>ماانفك</stem>
+</res>
+
+<res>
+<word>مابرح</word> 
+ <stem>مابرح</stem>
+</res>
+
+<res>
+<word>مازال</word> 
+ <stem>مازال</stem>
+</res>
+
+<res>
+<word>مافتئ</word> 
+ <stem>مافتئ</stem>
+</res>
+
+<res>
+<word>مايزال</word> 
+ <stem>مايزال</stem>
+</res>
+
+<res>
+<word>مساء</word> 
+ <stem>مِسَاء</stem>
+</res>
+
+<res>
+<word>مع</word> 
+ <stem>مَعّ</stem>
+</res>
+
+<res>
+<word>معه</word> 
+ <stem>مَعّ</stem>
+</res>
+
+<res>
+<word>مما</word> 
+ <stem>مِمَّا</stem>
+</res>
+
+<res>
+<word>من</word> 
+ <stem>مَنّ</stem>
+</res>
+
+<res>
+<word>منذ</word> 
+ <stem>مَنَذّ</stem>
+</res>
+
+<res>
+<word>منه</word> 
+ <stem>مَنّ</stem>
+</res>
+
+<res>
+<word>منها</word> 
+ <stem>مَنّ</stem>
+</res>
+
+<res>
+<word>نحو</word> 
+ <stem>نَحْو</stem>
+</res>
+
+<res>
+<word>هذا</word> 
+ <stem>هَذَا</stem>
+</res>
+
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+
+<res>
+<word>هل</word> 
+ <stem>هُل</stem>
+</res>
+
+<res>
+<word>هن</word> 
+ <stem>هَنّ</stem>
+</res>
+
+<res>
+<word>هنا</word> 
+ <stem>هَنَّا</stem>
+</res>
+
+<res>
+<word>هناك</word> 
+ <stem>هَنَّا</stem>
+</res>
+
+<res>
+<word>هو</word> 
+ <stem>هُو</stem>
+</res>
+
+<res>
+<word>هؤلاء</word> 
+ <stem>هَؤُلَاء</stem>
+</res>
+
+<res>
+<word>هي</word> 
+ <stem>هِي</stem>
+</res>
+
+<res>
+<word>و</word> 
+ <stem>و</stem>
+</res>
+
+<res>
+<word>وأبو</word> 
+ <stem>أَبُو</stem>
+</res>
+
+<res>
+<word>والتي</word> 
+ <stem>وَالِتِي</stem>
+</res>
+
+<res>
+<word>والذي</word> 
+ <stem>ذِي</stem>
+</res>
+
+<res>
+<word>وأن</word> 
+ <stem>أُنّ</stem>
+</res>
+
+<res>
+<word>وان</word> 
+ <stem>وَان</stem>
+</res>
+
+<res>
+<word>وبين</word> 
+ <stem>بَيِّن</stem>
+</res>
+
+<res>
+<word>وثي</word> 
+ <stem>وثي</stem>
+</res>
+
+<res>
+<word>وعلى</word> 
+ <stem>عَلَى</stem>
+</res>
+
+<res>
+<word>وفي</word> 
+ <stem>فِي</stem>
+</res>
+
+<res>
+<word>وقد</word> 
+ <stem>وَقْد</stem>
+</res>
+
+<res>
+<word>وكان</word> 
+ <stem>كَانّ</stem>
+</res>
+
+<res>
+<word>وكانت</word> 
+ <stem>كَانِت</stem>
+</res>
+
+<res>
+<word>ولايزال</word> 
+ <stem>ولايزال</stem>
+</res>
+
+<res>
+<word>ولكن</word> 
+ <stem>كِن</stem>
+</res>
+
+<res>
+<word>وله</word> 
+ <stem>ل</stem>
+</res>
+
+<res>
+<word>وليس</word> 
+ <stem>يَس</stem>
+</res>
+
+<res>
+<word>ومع</word> 
+ <stem>مَعّ</stem>
+</res>
+
+<res>
+<word>ومن</word> 
+ <stem>مَنّ</stem>
+</res>
+
+<res>
+<word>وهذا</word> 
+ <stem>هَذَا</stem>
+</res>
+
+<res>
+<word>وهو</word> 
+ <stem>هُو</stem>
+</res>
+
+<res>
+<word>وهي</word> 
+ <stem>وَهْي</stem>
+</res>
+
+<res>
+<word>يكون</word> 
+ <stem>يَكُون</stem>
+</res>
+
+<res>
+<word>يلي</word> 
+ <stem>يَلِي</stem>
+</res>
+
+<res>
+<word>يمكن</word> 
+ <stem>يَمّ</stem>
+</res>
+
+<res>
+<word>يوم</word> 
+ <stem>يَوْم</stem>
+</res>
+
+</Stems>

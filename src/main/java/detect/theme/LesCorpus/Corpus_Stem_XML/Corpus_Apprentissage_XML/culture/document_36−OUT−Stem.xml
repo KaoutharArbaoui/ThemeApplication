@@ -1,0 +1,6440 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Stems>
+<res>
+<word>أبناء</word> 
+ <stem>أَبْنَاء</stem>
+</res>
+<res>
+<word>نوح</word> 
+ <stem>نُوح</stem>
+</res>
+<res>
+<word>وأجراس</word> 
+ <stem>أَجْرَاس</stem>
+</res>
+<res>
+<word>طوفان</word> 
+ <stem>طُوفَان</stem>
+</res>
+<res>
+<word>الوباء</word> 
+ <stem>وَبَاء</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>أسئلة</word> 
+ <stem>أَسْئِلَة</stem>
+</res>
+<res>
+<word>كورونا</word> 
+ <stem>كَوَّرُوا</stem>
+</res>
+<res>
+<word>الفكرية</word> 
+ <stem>فِكْرِيَّة</stem>
+</res>
+<res>
+<word>وإجاباتها</word> 
+ <stem>إِجَابَات</stem>
+</res>
+<res>
+<word>العربية</word> 
+ <stem>عَرَبِيَّة</stem>
+</res>
+
+<res>
+<word>لم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>يكن</word> 
+ <stem>يَكُن</stem>
+</res>
+<res>
+<word>كورونا</word> 
+ <stem>كَوَّرُوا</stem>
+</res>
+<res>
+<word>مجرد</word> 
+ <stem>مُجَرَّد</stem>
+</res>
+<res>
+<word>فيروس</word> 
+ <stem>فَيْرُوس</stem>
+</res>
+<res>
+<word>ليحسم</word> 
+ <stem>يَحْسِم</stem>
+</res>
+<res>
+<word>أمره</word> 
+ <stem>أَمْر</stem>
+</res>
+<res>
+<word>علميا</word> 
+ <stem>عِلْمِيًّا</stem>
+</res>
+<res>
+<word>فقط</word> 
+ <stem>فَقَط</stem>
+</res>
+<res>
+<word>بل</word> 
+ <stem>بَل</stem>
+</res>
+<res>
+<word>كان</word> 
+ <stem>كَان</stem>
+</res>
+<res>
+<word>أمرا</word> 
+ <stem>أَمَرَا</stem>
+</res>
+<res>
+<word>جللا</word> 
+ <stem>جَلَّلَا</stem>
+</res>
+<res>
+<word>أصاب</word> 
+ <stem>أَصَاب</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>بالهلع</word> 
+ <stem>هُلَع</stem>
+</res>
+<res>
+<word>والفوبيا</word> 
+ <stem>والفوبيا</stem>
+</res>
+<res>
+<word>وأحدث</word> 
+ <stem>أَحْدَث</stem>
+</res>
+<res>
+<word>شللا</word> 
+ <stem>شَلَلًا</stem>
+</res>
+<res>
+<word>تاما</word> 
+ <stem>تَامًّا</stem>
+</res>
+<res>
+<word>للحركة</word> 
+ <stem>حَرَكَة</stem>
+</res>
+<res>
+<word>وأضر</word> 
+ <stem>أَضَرّ</stem>
+</res>
+<res>
+<word>بالاقتصاد</word> 
+ <stem>اقْتِصَاد</stem>
+</res>
+<res>
+<word>وطال</word> 
+ <stem>طَال</stem>
+</res>
+<res>
+<word>أثره</word> 
+ <stem>أَثَر</stem>
+</res>
+<res>
+<word>الحياة</word> 
+ <stem>حَيَاة</stem>
+</res>
+<res>
+<word>العامة</word> 
+ <stem>عَامَّة</stem>
+</res>
+<res>
+<word>والخاصة</word> 
+ <stem>خَاصَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>لذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>تدخل</word> 
+ <stem>تَدَخُّل</stem>
+</res>
+<res>
+<word>المفكرون</word> 
+ <stem>مُفَكِّرُون</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>كل</word> 
+ <stem>كُل</stem>
+</res>
+<res>
+<word>أنحاء</word> 
+ <stem>أَنْحَاء</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>للحديث</word> 
+ <stem>حَدِيث</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الموضوع</word> 
+ <stem>مَوْضُوع</stem>
+</res>
+<res>
+<word>وآثاره</word> 
+ <stem>آثَار</stem>
+</res>
+<res>
+<word>ومحاولة</word> 
+ <stem>مُحَاوَلَة</stem>
+</res>
+<res>
+<word>أرضنة</word> 
+ <stem>رَضْنَة</stem>
+</res>
+<res>
+<word>هذا</word> 
+ <stem>هَذَا</stem>
+</res>
+<res>
+<word>الوباء</word> 
+ <stem>وَبَاء</stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>ذهبت</word> 
+ <stem>ذَهَبَت</stem>
+</res>
+<res>
+<word>به</word> 
+ <stem>بِه</stem>
+</res>
+<res>
+<word>جماعات</word> 
+ <stem>جَمَاعَات</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>الخرافات</word> 
+ <stem>خِرَافَات</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>قرأ</word> 
+ <stem>قَرَأ</stem>
+</res>
+<res>
+<word>كثيرون</word> 
+ <stem>كَثِيرُون</stem>
+</res>
+<res>
+<word>مقالات</word> 
+ <stem>مُقَالَات</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>مراجعات</word> 
+ <stem>مُرَاجَعَات</stem>
+</res>
+<res>
+<word>الجائحة</word> 
+ <stem>جَائِحَة</stem>
+</res>
+<res>
+<word>لكثيرين</word> 
+ <stem>كَثِيرِين</stem>
+</res>
+<res>
+<word>بينهم</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>المفكر</word> 
+ <stem>مُفَكِّر</stem>
+</res>
+<res>
+<word>الأميركي</word> 
+ <stem>أَمِيرْكِيّ</stem>
+</res>
+<res>
+<word>نعوم</word> 
+ <stem>نَعُوم</stem>
+</res>
+<res>
+<word>تشومسكي</word> 
+ <stem>تشومسكي</stem>
+</res>
+<res>
+<word>والمنظر</word> 
+ <stem>مَنْظَر</stem>
+</res>
+<res>
+<word>الفرنسي</word> 
+ <stem>فَرَنْسِيّ</stem>
+</res>
+<res>
+<word>جاك</word> 
+ <stem>جَاك</stem>
+</res>
+<res>
+<word>أتالي</word> 
+ <stem>تَالِي</stem>
+</res>
+<res>
+<word>والفيلسوف</word> 
+ <stem>فَيْلَسُوف</stem>
+</res>
+<res>
+<word>السلوفيني</word> 
+ <stem>السلوفيني</stem>
+</res>
+<res>
+<word>سلافوي</word> 
+ <stem>سلافوي</stem>
+</res>
+<res>
+<word>جيجيك</word> 
+ <stem>جيجيك</stem>
+</res>
+<res>
+<word>والفرنسيان</word> 
+ <stem>فَرَنْسِيَّان</stem>
+</res>
+<res>
+<word>إدغار</word> 
+ <stem>إدغار</stem>
+</res>
+<res>
+<word>موران</word> 
+ <stem>مَوْرَان</stem>
+</res>
+<res>
+<word>وميشال</word> 
+ <stem>وميشال</stem>
+</res>
+<res>
+<word>أونفري</word> 
+ <stem>نَفْر</stem>
+</res>
+<res>
+<word>وغيرهم</word> 
+ <stem>غَيْر</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وتحدث</word> 
+ <stem>تَحَدَّث</stem>
+</res>
+<res>
+<word>الفيلسوف</word> 
+ <stem>فَيْلَسُوف</stem>
+</res>
+<res>
+<word>الألماني</word> 
+ <stem>أَلْمَانِيّ</stem>
+</res>
+<res>
+<word>يروغن</word> 
+ <stem>يُرَوِّغُنّ</stem>
+</res>
+<res>
+<word>هابرماس</word> 
+ <stem>هابرماس</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>ضرورة</word> 
+ <stem>ضَرُورَة</stem>
+</res>
+<res>
+<word>تدبرها</word> 
+ <stem>تُدْبَر</stem>
+</res>
+<res>
+<word>فكريا</word> 
+ <stem>فِكْرِيًّا</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وضمن</word> 
+ <stem>ضِمْن</stem>
+</res>
+<res>
+<word>هذا</word> 
+ <stem>هَذَا</stem>
+</res>
+<res>
+<word>الاهتمام</word> 
+ <stem>اهْتِمَام</stem>
+</res>
+<res>
+<word>بالجائحة</word> 
+ <stem>جَائِحَة</stem>
+</res>
+<res>
+<word>فكريا</word> 
+ <stem>فِكْرِيًّا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ظهر</word> 
+ <stem>ظُهْر</stem>
+</res>
+<res>
+<word>كتاب</word> 
+ <stem>كِتَاب</stem>
+</res>
+<res>
+<word>جديد</word> 
+ <stem>جَدِيد</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>منشورات</word> 
+ <stem>مَنْشُورَات</stem>
+</res>
+<res>
+<word>المتوسط</word> 
+ <stem>مُتَوَسِّط</stem>
+</res>
+<res>
+<word>بميلانو</word> 
+ <stem>بميلانو</stem>
+</res>
+<res>
+<word>بعنوان</word> 
+ <stem>عُنْوَان</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>أجراس</word> 
+ <stem>جَرَّاس</stem>
+</res>
+<res>
+<word>الوباء</word> 
+ <stem>وَبَاء</stem>
+</res>
+<res>
+<word> – </word> 
+ <stem> – </stem>
+</res>
+<res>
+<word>الأناركية</word> 
+ <stem>الأناركية</stem>
+</res>
+<res>
+<word>الاصطناعية</word> 
+ <stem>اصْطِنَاعِيَّة</stem>
+</res>
+<res>
+<word>وإعادة</word> 
+ <stem>إِعَادَة</stem>
+</res>
+<res>
+<word>تكوين</word> 
+ <stem>تَكْوِين</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>جمع</word> 
+ <stem>جَمْع</stem>
+</res>
+<res>
+<word>عددا</word> 
+ <stem>عَدَدًا</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>المفكرين</word> 
+ <stem>مُفَكِّرِين</stem>
+</res>
+<res>
+<word>والمبدعين</word> 
+ <stem>مُبْدِعِين</stem>
+</res>
+<res>
+<word>العرب</word> 
+ <stem>عَرَب</stem>
+</res>
+<res>
+<word>وغير</word> 
+ <stem>غَيْر</stem>
+</res>
+<res>
+<word>العرب</word> 
+ <stem>عَرَب</stem>
+</res>
+<res>
+<word>لمناقشة</word> 
+ <stem>مُنَاقَشَة</stem>
+</res>
+<res>
+<word>ظاهرة</word> 
+ <stem>ظَاهِرَة</stem>
+</res>
+<res>
+<word>الوباء</word> 
+ <stem>وَبَاء</stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>اكتسح</word> 
+ <stem>اكْتَسَح</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وتكفل</word> 
+ <stem>تَكْفُل</stem>
+</res>
+<res>
+<word>بتحرير</word> 
+ <stem>تَحْرِير</stem>
+</res>
+<res>
+<word>هذا</word> 
+ <stem>هَذَا</stem>
+</res>
+<res>
+<word>الكتاب</word> 
+ <stem>كُتَّاب</stem>
+</res>
+<res>
+<word>الباحث</word> 
+ <stem>بَاحِث</stem>
+</res>
+<res>
+<word>والشاعر</word> 
+ <stem>شَاعِر</stem>
+</res>
+<res>
+<word>السوري</word> 
+ <stem>سُورِيّ</stem>
+</res>
+<res>
+<word>نوري</word> 
+ <stem>نُورِي</stem>
+</res>
+<res>
+<word>الجراح</word> 
+ <stem>جِرَاح</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ويقدم</word> 
+ <stem>يُقَدَّم</stem>
+</res>
+<res>
+<word>الجراح</word> 
+ <stem>جِرَاح</stem>
+</res>
+<res>
+<word>الكتاب</word> 
+ <stem>كِتَاب</stem>
+</res>
+<res>
+<word>بصفته</word> 
+ <stem>صِفَة</stem>
+</res>
+<res>
+<word>مشروعا</word> 
+ <stem>مَشْرُوعًا</stem>
+</res>
+<res>
+<word>مهد</word> 
+ <stem>مَهَّد</stem>
+</res>
+<res>
+<word>له</word> 
+ <stem>لَه</stem>
+</res>
+<res>
+<word>بمقال</word> 
+ <stem>مَقَال</stem>
+</res>
+<res>
+<word>تحريضي</word> 
+ <stem>تَحْرِيض</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>أبناء</word> 
+ <stem>أَبْنَاء</stem>
+</res>
+<res>
+<word>نوح</word> 
+ <stem>نُوح</stem>
+</res>
+<res>
+<word>وطوفان</word> 
+ <stem>طَوَفَان</stem>
+</res>
+<res>
+<word>الوباء</word> 
+ <stem>وَبَاء</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>قائلا</word> 
+ <stem>قَائِلًا</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>كتب</word> 
+ <stem>كَتَب</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>أمل</word> 
+ <stem>أَمَل</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>يفتح</word> 
+ <stem>يَفْتَح</stem>
+</res>
+<res>
+<word>الباب</word> 
+ <stem>بَاب</stem>
+</res>
+<res>
+<word>لمحاولة</word> 
+ <stem>مُحَاوَلَة</stem>
+</res>
+<res>
+<word>تفاعل</word> 
+ <stem>تَفَاعُل</stem>
+</res>
+<res>
+<word>فكري</word> 
+ <stem>فِكْرِيّ</stem>
+</res>
+<res>
+<word> -</word> 
+ <stem> -</stem>
+</res>
+<res>
+<word>عربية</word> 
+ <stem>عَرَبِيَّة</stem>
+</res>
+<res>
+<word>وأوروبية</word> 
+ <stem>أُورُوبِّيَّة</stem>
+</res>
+<res>
+<word>جادة</word> 
+ <stem>جَادَّة</stem>
+</res>
+<res>
+<word>- </word> 
+ <stem>- </stem>
+</res>
+<res>
+<word>تهدف</word> 
+ <stem>تَهْدِف</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>خلق</word> 
+ <stem>خَلْق</stem>
+</res>
+<res>
+<word>نوع</word> 
+ <stem>نَوْع</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>التواصل</word> 
+ <stem>تَوَاصُل</stem>
+</res>
+<res>
+<word>بين</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>مفكرين</word> 
+ <stem>مُفَكِّرِين</stem>
+</res>
+<res>
+<word>ومبدعين</word> 
+ <stem>مُبْدِعِين</stem>
+</res>
+<res>
+<word>عرب</word> 
+ <stem>عَرَب</stem>
+</res>
+<res>
+<word>ونظراء</word> 
+ <stem>نُظَرَاء</stem>
+</res>
+<res>
+<word>لهم</word> 
+ <stem>لَهُم</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>أوروبا</word> 
+ <stem>أُورُوبَّا</stem>
+</res>
+<res>
+<word>أولا</word> 
+ <stem>أَوَّلًا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وفي</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>أطراف</word> 
+ <stem>أَطْرَاف</stem>
+</res>
+<res>
+<word>أخرى</word> 
+ <stem>أُخْرَى</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>انطلاقا</word> 
+ <stem>انْطِلَاقًا</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>وعي</word> 
+ <stem>وَعْي</stem>
+</res>
+<res>
+<word>يرى</word> 
+ <stem>يَرَى</stem>
+</res>
+<res>
+<word>وجود</word> 
+ <stem>وُجُود</stem>
+</res>
+<res>
+<word>أهمية</word> 
+ <stem>أَهَمِّيَّة</stem>
+</res>
+<res>
+<word>استثنائية</word> 
+ <stem>اسْتِثْنَائِيَّة</stem>
+</res>
+<res>
+<word>لفتح</word> 
+ <stem>فَتْح</stem>
+</res>
+<res>
+<word>مجال</word> 
+ <stem>مَجَال</stem>
+</res>
+<res>
+<word>فكري</word> 
+ <stem>فِكْرِيّ</stem>
+</res>
+<res>
+<word>آخر</word> 
+ <stem>آخَر</stem>
+</res>
+<res>
+<word>بين</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>العرب</word> 
+ <stem>عَرَب</stem>
+</res>
+<res>
+<word>والأوروبيين</word> 
+ <stem>أُورُوبِّيِّين</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>ظلال</word> 
+ <stem>ظِلَال</stem>
+</res>
+<res>
+<word>اللحظة</word> 
+ <stem>لَحْظَة</stem>
+</res>
+<res>
+<word>الحاضرة</word> 
+ <stem>حَاضِرَة</stem>
+</res>
+<res>
+<word>الكئيبة</word> 
+ <stem>كَئِيبَة</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>أخذ</word> 
+ <stem>أَخَذ</stem>
+</res>
+<res>
+<word>يمليها</word> 
+ <stem>يُمْلِي</stem>
+</res>
+<res>
+<word>علينا</word> 
+ <stem>عَلَي</stem>
+</res>
+<res>
+<word>انتشار</word> 
+ <stem>انْتِشَار</stem>
+</res>
+<res>
+<word>وباء</word> 
+ <stem>وَبَاء</stem>
+</res>
+<res>
+<word>مهول</word> 
+ <stem>مُهَوِّل</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>تزال</word> 
+ <stem>تُزَال</stem>
+</res>
+<res>
+<word>تداعياته</word> 
+ <stem>تَدَاعِيَات</stem>
+</res>
+<res>
+<word>الكارثية</word> 
+ <stem>كَارِثِيَّة</stem>
+</res>
+<res>
+<word>وأثره</word> 
+ <stem>أَثَر</stem>
+</res>
+<res>
+<word>الدماري</word> 
+ <stem>الدماري</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>مستقبل</word> 
+ <stem>مُسْتَقْبَل</stem>
+</res>
+<res>
+<word>البشر</word> 
+ <stem>بَشَر</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الطالع</word> 
+ <stem>طَالِع</stem>
+</res>
+<res>
+<word>والمواجهة</word> 
+ <stem>مُوَاجَهَة</stem>
+</res>
+<res>
+<word>معه</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>مفتوحة</word> 
+ <stem>مَفْتُوحَة</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>احتمالات</word> 
+ <stem>احْتِمَالَات</stem>
+</res>
+<res>
+<word>كارثية</word> 
+ <stem>كَارِثِيَّة</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>هكذا</word> 
+ <stem>هَكَذَا</stem>
+</res>
+<res>
+<word>يأخذنا</word> 
+ <stem>يَأْخُذ</stem>
+</res>
+<res>
+<word>نوري</word> 
+ <stem>نُورِي</stem>
+</res>
+<res>
+<word>الجراح</word> 
+ <stem>جِرَاح</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>سؤال</word> 
+ <stem>سُؤَال</stem>
+</res>
+<res>
+<word>مزمن</word> 
+ <stem>مُزْمِن</stem>
+</res>
+<res>
+<word>حول</word> 
+ <stem>حَوَّل</stem>
+</res>
+<res>
+<word>دور</word> 
+ <stem>دَوْر</stem>
+</res>
+<res>
+<word>المثقف</word> 
+ <stem>مُثَقَّف</stem>
+</res>
+<res>
+<word>ولكن</word> 
+ <stem>لَكِنّ</stem>
+</res>
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>المرة</word> 
+ <stem>مَرَّة</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>دور</word> 
+ <stem>دُور</stem>
+</res>
+<res>
+<word>مختلف</word> 
+ <stem>مُخْتَلِف</stem>
+</res>
+<res>
+<word>لم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>يسبق</word> 
+ <stem>يَسْبِق</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>طولب</word> 
+ <stem>طُولِب</stem>
+</res>
+<res>
+<word>به</word> 
+ <stem>بِه</stem>
+</res>
+<res>
+<word>المثقف</word> 
+ <stem>مُثَقَّف</stem>
+</res>
+<res>
+<word>العربي</word> 
+ <stem>عَرَبِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وهو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>المساهمة</word> 
+ <stem>مُسَاهِمَة</stem>
+</res>
+<res>
+<word>الفكرية</word> 
+ <stem>فِكْرِيَّة</stem>
+</res>
+<res>
+<word>مع</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>غيره</word> 
+ <stem>غَيْر</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>مفكري</word> 
+ <stem>مُفَكِّر</stem>
+</res>
+<res>
+<word>الكون</word> 
+ <stem>كَوْن</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>تدبر</word> 
+ <stem>تَدَبُّر</stem>
+</res>
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>الكارثة</word> 
+ <stem>كَارِثَة</stem>
+</res>
+<res>
+<word>ومحاولة</word> 
+ <stem>مُحَاوَلَة</stem>
+</res>
+<res>
+<word>إنقاذ</word> 
+ <stem>إِنْقَاذ</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>هذا</word> 
+ <stem>هَذَا</stem>
+</res>
+<res>
+<word>الوباء</word> 
+ <stem>وَبَاء</stem>
+</res>
+<res>
+<word>والتصدي</word> 
+ <stem>تَصَدِّي</stem>
+</res>
+<res>
+<word>للسياسات</word> 
+ <stem>سِيَاسَات</stem>
+</res>
+<res>
+<word>الارتجالية</word> 
+ <stem>ارْتِجَالِيَّة</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>ينتهجها</word> 
+ <stem>يَنْتَهِج</stem>
+</res>
+<res>
+<word>أصحاب</word> 
+ <stem>أَصْحَاب</stem>
+</res>
+<res>
+<word>القرار</word> 
+ <stem>قَرَار</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>يقول</word> 
+ <stem>يَقُول</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>سبب</word> 
+ <stem>سَبَّب</stem>
+</res>
+<res>
+<word>أساسي</word> 
+ <stem>أَسَاسِيّ</stem>
+</res>
+<res>
+<word>يقف</word> 
+ <stem>يَقِف</stem>
+</res>
+<res>
+<word>وراء</word> 
+ <stem>وَرَاء</stem>
+</res>
+<res>
+<word>مثل</word> 
+ <stem>مِثْل</stem>
+</res>
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>الدعوة</word> 
+ <stem>دَعْوَة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>التواصل</word> 
+ <stem>تَوَاصُل</stem>
+</res>
+<res>
+<word>والحوار</word> 
+ <stem>حِوَار</stem>
+</res>
+<res>
+<word>مع</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>المثقفين</word> 
+ <stem>مُثَقَّفِين</stem>
+</res>
+<res>
+<word>الأوروبيين</word> 
+ <stem>أُورُوبِّيِّين</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>هو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>ذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>الشعور</word> 
+ <stem>شُعُور</stem>
+</res>
+<res>
+<word>المتجدد</word> 
+ <stem>مُتَجَدِّد</stem>
+</res>
+<res>
+<word>بالحاجة</word> 
+ <stem>حَاجَة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>خلق</word> 
+ <stem>خَلَق</stem>
+</res>
+<res>
+<word>جدار</word> 
+ <stem>جِدَار</stem>
+</res>
+<res>
+<word>أخلاقي</word> 
+ <stem>أَخْلَاقِيّ</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>نوع</word> 
+ <stem>نَوْع</stem>
+</res>
+<res>
+<word>فكري</word> 
+ <stem>فِكْرِيّ</stem>
+</res>
+<res>
+<word>وأدبي</word> 
+ <stem>أَدَبِيّ</stem>
+</res>
+<res>
+<word>ضميري</word> 
+ <stem>ضَمِير</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>يقف</word> 
+ <stem>يَقِف</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>مواجهة</word> 
+ <stem>مُوَاجَهَة</stem>
+</res>
+<res>
+<word>هرطقات</word> 
+ <stem>هرطقات</stem>
+</res>
+<res>
+<word>السياسيين</word> 
+ <stem>سِيَاسِيِّين</stem>
+</res>
+<res>
+<word>المغامرين</word> 
+ <stem>مُغَامِرَيْن</stem>
+</res>
+<res>
+<word>عبر</word> 
+ <stem>عَبْر</stem>
+</res>
+<res>
+<word>قراراتهم</word> 
+ <stem>قَرَارَات</stem>
+</res>
+<res>
+<word>المتخبطة</word> 
+ <stem>مُتَخَبِّطَة</stem>
+</res>
+<res>
+<word>بمصير</word> 
+ <stem>مَصِير</stem>
+</res>
+<res>
+<word>البشر</word> 
+ <stem>بَشَر</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ونتساءل</word> 
+ <stem>نَتَسَاءَل</stem>
+</res>
+<res>
+<word>ونحن</word> 
+ <stem>نَحْن</stem>
+</res>
+<res>
+<word>نقرأ</word> 
+ <stem>نَقْرَأ</stem>
+</res>
+<res>
+<word>الكتاب</word> 
+ <stem>كِتَاب</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>هل</word> 
+ <stem>هَل</stem>
+</res>
+<res>
+<word>إقدام</word> 
+ <stem>إِقْدَام</stem>
+</res>
+<res>
+<word>الكاتب</word> 
+ <stem>كَاتِب</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>جمع</word> 
+ <stem>جَمَع</stem>
+</res>
+<res>
+<word>المثقف</word> 
+ <stem>مُثَقَّف</stem>
+</res>
+<res>
+<word>العربي</word> 
+ <stem>عَرَبِيّ</stem>
+</res>
+<res>
+<word>بالأوروبي</word> 
+ <stem>أُورُوبِّيّ</stem>
+</res>
+<res>
+<word>الغربي</word> 
+ <stem>غَرْبِيّ</stem>
+</res>
+<res>
+<word>ناجم</word> 
+ <stem>نَاجِم</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>لحظة</word> 
+ <stem>لَحْظَة</stem>
+</res>
+<res>
+<word>العجز</word> 
+ <stem>عَجْز</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>يعيشها</word> 
+ <stem>يَعِيش</stem>
+</res>
+<res>
+<word>الفكر</word> 
+ <stem>فِكْر</stem>
+</res>
+<res>
+<word>الغربي</word> 
+ <stem>غَرْبِيّ</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>مواجهة</word> 
+ <stem>مُوَاجَهَة</stem>
+</res>
+<res>
+<word>الوباء</word> 
+ <stem>وَبَاء</stem>
+</res>
+<res>
+<word>فتساوى</word> 
+ <stem>تُسَاوَى</stem>
+</res>
+<res>
+<word>الفكران</word> 
+ <stem>فِكْرَان</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>الكاتب</word> 
+ <stem>كَاتِب</stem>
+</res>
+<res>
+<word>والمحرر</word> 
+ <stem>مُحَرِّر</stem>
+</res>
+<res>
+<word>يؤمنان</word> 
+ <stem>يُؤْمِنَان</stem>
+</res>
+<res>
+<word>بأن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>المثقف</word> 
+ <stem>مُثَقَّف</stem>
+</res>
+<res>
+<word>العربي</word> 
+ <stem>عَرَبِيّ</stem>
+</res>
+<res>
+<word>بإمكانه</word> 
+ <stem>إِمْكَان</stem>
+</res>
+<res>
+<word>استعادة</word> 
+ <stem>اسْتِعَادَة</stem>
+</res>
+<res>
+<word>مكانته</word> 
+ <stem>مَكَانَة</stem>
+</res>
+<res>
+<word>باعتباره</word> 
+ <stem>اعْتِبَار</stem>
+</res>
+<res>
+<word>منتجا</word> 
+ <stem>مُنْتِجًا</stem>
+</res>
+<res>
+<word>للمعرفة</word> 
+ <stem>مَعْرِفَة</stem>
+</res>
+<res>
+<word>وللمعنى</word> 
+ <stem>مَعْنَى</stem>
+</res>
+<res>
+<word>وبإمكانه</word> 
+ <stem>إِمْكَان</stem>
+</res>
+<res>
+<word>أيضا</word> 
+ <stem>أيْضًا</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>يقف</word> 
+ <stem>يَقِف</stem>
+</res>
+<res>
+<word>بندية</word> 
+ <stem>نَدِيَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>حفلة</word> 
+ <stem>حَفْلَة</stem>
+</res>
+<res>
+<word>العصف</word> 
+ <stem>عَصْف</stem>
+</res>
+<res>
+<word>الذهني</word> 
+ <stem>ذِهْنِيّ</stem>
+</res>
+<res>
+<word>لتدبر</word> 
+ <stem>تَدْبَر</stem>
+</res>
+<res>
+<word>مصير</word> 
+ <stem>مَصِير</stem>
+</res>
+<res>
+<word>البشر</word> 
+ <stem>بَشَر</stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>صار</word> 
+ <stem>صَار</stem>
+</res>
+<res>
+<word>واحدا</word> 
+ <stem>وَاحِدًا</stem>
+</res>
+<res>
+<word>؟</word> 
+ <stem>؟</stem>
+</res>
+
+<res>
+<word>توقفت</word> 
+ <stem>تَوَقَّفَت</stem>
+</res>
+<res>
+<word>معظم</word> 
+ <stem>مُعْظَم</stem>
+</res>
+<res>
+<word>المشاركات</word> 
+ <stem>مُشَارَكَات</stem>
+</res>
+<res>
+<word>عند</word> 
+ <stem>عِنْد</stem>
+</res>
+<res>
+<word>الانعكاسات</word> 
+ <stem>انْعِكَاسَات</stem>
+</res>
+<res>
+<word>السياسية</word> 
+ <stem>سِيَاسِيَّة</stem>
+</res>
+<res>
+<word>لجائحة</word> 
+ <stem>جَائِحَة</stem>
+</res>
+<res>
+<word>كورونا</word> 
+ <stem>كَوَّرُوا</stem>
+</res>
+<res>
+<word>والأداء</word> 
+ <stem>أَدَاء</stem>
+</res>
+<res>
+<word>السياسي</word> 
+ <stem>سِيَاسِيّ</stem>
+</res>
+<res>
+<word>للدول</word> 
+ <stem>دُوَل</stem>
+</res>
+<res>
+<word>وعلاقتها</word> 
+ <stem>عَلَاقَة</stem>
+</res>
+<res>
+<word>بشعوبها</word> 
+ <stem>شُعُوب</stem>
+</res>
+<res>
+<word>أثناء</word> 
+ <stem>أَثْنَاء</stem>
+</res>
+<res>
+<word>الجائحة</word> 
+ <stem>جَائِحَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>فيقول</word> 
+ <stem>يَقُول</stem>
+</res>
+<res>
+<word>التونسي</word> 
+ <stem>تُونُسِيّ</stem>
+</res>
+<res>
+<word>أبو</word> 
+ <stem>أَبُو</stem>
+</res>
+<res>
+<word>بكر</word> 
+ <stem>بَكْر</stem>
+</res>
+<res>
+<word>العيادي</word> 
+ <stem>عِيَادِيّ</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>قراءته</word> 
+ <stem>قِرَاءَة</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>نحو</word> 
+ <stem>نَحْو</stem>
+</res>
+<res>
+<word>أممية</word> 
+ <stem>أُمَمِيَّة</stem>
+</res>
+<res>
+<word>فكرية</word> 
+ <stem>فِكْرِيَّة</stem>
+</res>
+<res>
+<word>أخلاقية</word> 
+ <stem>أَخْلَاقِيَّة</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>إن</word> 
+ <stem>إِن</stem>
+</res>
+<res>
+<word>الحكام</word> 
+ <stem>حُكَّام</stem>
+</res>
+<res>
+<word>أظهروا</word> 
+ <stem>أَظْهَرُوا</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>قدرة</word> 
+ <stem>قُدْرَة</stem>
+</res>
+<res>
+<word>غير</word> 
+ <stem>غَيْر</stem>
+</res>
+<res>
+<word>مسبوقة</word> 
+ <stem>مَسْبُوقَة</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>فرض</word> 
+ <stem>فَرْض</stem>
+</res>
+<res>
+<word>قراراتهم</word> 
+ <stem>قَرَارَات</stem>
+</res>
+<res>
+<word>ضد</word> 
+ <stem>ضِدّ</stem>
+</res>
+<res>
+<word>منطق</word> 
+ <stem>مَنْطِق</stem>
+</res>
+<res>
+<word>الأسواق</word> 
+ <stem>أَسْوَاق</stem>
+</res>
+<res>
+<word>المالية</word> 
+ <stem>مَالِيَّة</stem>
+</res>
+<res>
+<word>والمجموعات</word> 
+ <stem>مَجْمُوعَات</stem>
+</res>
+<res>
+<word>الكبرى</word> 
+ <stem>كُبْرَى</stem>
+</res>
+<res>
+<word>ومصالح</word> 
+ <stem>مَصَالِح</stem>
+</res>
+<res>
+<word>المؤسسات</word> 
+ <stem>مُؤَسَّسَات</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وحتى</word> 
+ <stem>حَتَّى</stem>
+</res>
+<res>
+<word>ضد</word> 
+ <stem>ضِدّ</stem>
+</res>
+<res>
+<word>حقوق</word> 
+ <stem>حُقُوق</stem>
+</res>
+<res>
+<word>المواطنين</word> 
+ <stem>مُوَاطِنِين</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ويضيف</word> 
+ <stem>يُضِيف</stem>
+</res>
+<res>
+<word>أنها</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>مفارقة</word> 
+ <stem>مُفَارَقَة</stem>
+</res>
+<res>
+<word>إذا</word> 
+ <stem>إِذَا</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>قورنت</word> 
+ <stem>قُورِنَت</stem>
+</res>
+<res>
+<word>بما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>كان</word> 
+ <stem>كَان</stem>
+</res>
+<res>
+<word>سائدا</word> 
+ <stem>سَائِدًا</stem>
+</res>
+<res>
+<word>حتى</word> 
+ <stem>حَتَّى</stem>
+</res>
+<res>
+<word>تلك</word> 
+ <stem>تِلْك</stem>
+</res>
+<res>
+<word>اللحظة</word> 
+ <stem>لَحْظَة</stem>
+</res>
+<res>
+<word>الفارقة</word> 
+ <stem>فَارِقَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ونعني</word> 
+ <stem>نَعْنِي</stem>
+</res>
+<res>
+<word>به</word> 
+ <stem>بِه</stem>
+</res>
+<res>
+<word>عجز</word> 
+ <stem>عُجِز</stem>
+</res>
+<res>
+<word>الدول</word> 
+ <stem>دُوَل</stem>
+</res>
+<res>
+<word>أمام</word> 
+ <stem>أَمَام</stem>
+</res>
+<res>
+<word>الأزمة</word> 
+ <stem>أَزْمَة</stem>
+</res>
+<res>
+<word>المناخية</word> 
+ <stem>مُنَاخِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وعجزها</word> 
+ <stem>عَجَز</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>كبح</word> 
+ <stem>كَبْح</stem>
+</res>
+<res>
+<word>جماح</word> 
+ <stem>جِمَاح</stem>
+</res>
+<res>
+<word>النيوليبرالية</word> 
+ <stem>النيوليبرالية</stem>
+</res>
+<res>
+<word>والقضاء</word> 
+ <stem>قَضَاء</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>التفاوت</word> 
+ <stem>تَفَاوُت</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>توزيع</word> 
+ <stem>تَوْزِيع</stem>
+</res>
+<res>
+<word>الثروات</word> 
+ <stem>ثَرَوَات</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>أي</word> 
+ <stem>أَي</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>الفرضية</word> 
+ <stem>فَرْضِيَّة</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>تقول</word> 
+ <stem>تَقُول</stem>
+</res>
+<res>
+<word>إن</word> 
+ <stem>إِنّ</stem>
+</res>
+<res>
+<word>السياسة</word> 
+ <stem>سِيَاسَة</stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>تستطيع</word> 
+ <stem>تَسْتَطِيع</stem>
+</res>
+<res>
+<word>شيئا</word> 
+ <stem>شَيْئًا</stem>
+</res>
+<res>
+<word>أمام</word> 
+ <stem>أَمَام</stem>
+</res>
+<res>
+<word>منطق</word> 
+ <stem>مَنْطِق</stem>
+</res>
+<res>
+<word>الفصل</word> 
+ <stem>فَصْل</stem>
+</res>
+<res>
+<word>بين</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>التمايز</word> 
+ <stem>تَمَايُز</stem>
+</res>
+<res>
+<word>الوظيفي</word> 
+ <stem>وَظِيفِيّ</stem>
+</res>
+<res>
+<word>اتضح</word> 
+ <stem>اتَّضَح</stem>
+</res>
+<res>
+<word>أنها</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>خاطئة</word> 
+ <stem>خَاطِئَة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وبعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>محاولة</word> 
+ <stem>مُحَاوَلَة</stem>
+</res>
+<res>
+<word>رصد</word> 
+ <stem>رَصْد</stem>
+</res>
+<res>
+<word>وتحليل</word> 
+ <stem>تَحْلِيل</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>يحصل</word> 
+ <stem>يَحْصُل</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالِم</stem>
+</res>
+<res>
+<word>ينتهي</word> 
+ <stem>يَنْتَهِي</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>أنه</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>أحد</word> 
+ <stem>أَحَد</stem>
+</res>
+<res>
+<word>يستطيع</word> 
+ <stem>يَسْتَطِيع</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>يتنبأ</word> 
+ <stem>يَتَنَبَّأ</stem>
+</res>
+<res>
+<word>بما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>سيكون</word> 
+ <stem>يَكُون</stem>
+</res>
+<res>
+<word>عليه</word> 
+ <stem>عَلَي</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>زوال</word> 
+ <stem>زَوَال</stem>
+</res>
+<res>
+<word>الوباء</word> 
+ <stem>وَبَاء</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>ولكنه</word> 
+ <stem>كِنّ</stem>
+</res>
+<res>
+<word>يثق</word> 
+ <stem>يَثِق</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الفعل</word> 
+ <stem>فِعْل</stem>
+</res>
+<res>
+<word>أكثر</word> 
+ <stem>أَكْثَر</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>العلم</word> 
+ <stem>عِلْم</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>أي</word> 
+ <stem>أَيّ</stem>
+</res>
+<res>
+<word>الفعل</word> 
+ <stem>فِعْل</stem>
+</res>
+<res>
+<word>السياسي</word> 
+ <stem>سِيَاسِيّ</stem>
+</res>
+<res>
+<word>الإستراتيجي</word> 
+ <stem>إِسْترَاتِيجِيّ</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>خلال</word> 
+ <stem>خِلَال</stem>
+</res>
+<res>
+<word>إصلاح</word> 
+ <stem>إِصْلَاح</stem>
+</res>
+<res>
+<word>عميق</word> 
+ <stem>عَمِيق</stem>
+</res>
+<res>
+<word>للمؤسسات</word> 
+ <stem>مُؤَسَّسَات</stem>
+</res>
+<res>
+<word>وأساليب</word> 
+ <stem>أَسَالِيب</stem>
+</res>
+<res>
+<word>العمل</word> 
+ <stem>عَمَل</stem>
+</res>
+<res>
+<word>الاقتصادي</word> 
+ <stem>اقْتِصَادِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وبناء</word> 
+ <stem>بِنَاء</stem>
+</res>
+<res>
+<word>نظام</word> 
+ <stem>نِظَام</stem>
+</res>
+<res>
+<word>اجتماعي</word> 
+ <stem>اجْتِمَاعِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>يكون</word> 
+ <stem>يَكُون</stem>
+</res>
+<res>
+<word>قانونه</word> 
+ <stem>قَانُون</stem>
+</res>
+<res>
+<word>الأوحد</word> 
+ <stem>الأوحد</stem>
+</res>
+<res>
+<word>البحث</word> 
+ <stem>بَحْث</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>المصلحة</word> 
+ <stem>مَصْلَحَة</stem>
+</res>
+<res>
+<word>الأنانية</word> 
+ <stem>أَنَانِيَّة</stem>
+</res>
+<res>
+<word>والشغف</word> 
+ <stem>شَغْف</stem>
+</res>
+<res>
+<word>الذاتي</word> 
+ <stem>ذَاتِيّ</stem>
+</res>
+<res>
+<word>بالربح</word> 
+ <stem>رِبْح</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ليس</word> 
+ <stem>لَيْس</stem>
+</res>
+<res>
+<word>بعيدا</word> 
+ <stem>بَعِيدًا</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>تفاؤل</word> 
+ <stem>تَفَاؤُل</stem>
+</res>
+<res>
+<word>العيادي</word> 
+ <stem>عِيَادِيّ</stem>
+</res>
+<res>
+<word>نجد</word> 
+ <stem>نَجِد</stem>
+</res>
+<res>
+<word>أطروحة</word> 
+ <stem>أُطْرُوحَة</stem>
+</res>
+<res>
+<word>المفكر</word> 
+ <stem>مُفَكِّر</stem>
+</res>
+<res>
+<word>أحمد</word> 
+ <stem>أَحْمَد</stem>
+</res>
+<res>
+<word>بقاوي</word> 
+ <stem>قَاوِي</stem>
+</res>
+<res>
+<word>أكثر</word> 
+ <stem>أَكْثَر</stem>
+</res>
+<res>
+<word>تفصيلا</word> 
+ <stem>تَفْصِيلًا</stem>
+</res>
+<res>
+<word>ووضوحا</word> 
+ <stem>وُضُوحًا</stem>
+</res>
+<res>
+<word>والتي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>وردت</word> 
+ <stem>وَرَدَت</stem>
+</res>
+<res>
+<word>تحت</word> 
+ <stem>تَحْت</stem>
+</res>
+<res>
+<word>عنوان</word> 
+ <stem>عُنْوَان</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>يقظة</word> 
+ <stem>يَقِظَة</stem>
+</res>
+<res>
+<word>الضمير</word> 
+ <stem>ضَمِير</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>حيث</word> 
+ <stem>حَيْث</stem>
+</res>
+<res>
+<word>فكك</word> 
+ <stem>فَكّ</stem>
+</res>
+<res>
+<word>فيها</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الظاهرة</word> 
+ <stem>ظَاهِرَة</stem>
+</res>
+<res>
+<word>فكريا</word> 
+ <stem>فِكْرِيًّا</stem>
+</res>
+<res>
+<word>وبيّن</word> 
+ <stem>بَيَّن</stem>
+</res>
+<res>
+<word>كيف</word> 
+ <stem>كَيْف</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>كورونا</word> 
+ <stem>كَوَّرُوا</stem>
+</res>
+<res>
+<word>كان</word> 
+ <stem>كَان</stem>
+</res>
+<res>
+<word>فضيحة</word> 
+ <stem>فَضِيحَة</stem>
+</res>
+<res>
+<word>للأنظمة</word> 
+ <stem>أَنْظِمَة</stem>
+</res>
+<res>
+<word>الرأسمالية</word> 
+ <stem>رَأْسْمَالِيَّة</stem>
+</res>
+<res>
+<word>وأثبت</word> 
+ <stem>أَثْبَت</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>دول</word> 
+ <stem>دُوَل</stem>
+</res>
+<res>
+<word>العولمة</word> 
+ <stem>عَوْلَمَة</stem>
+</res>
+<res>
+<word>اليوم</word> 
+ <stem>يَوْم</stem>
+</res>
+<res>
+<word>صارت</word> 
+ <stem>صَارَت</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>عاجزة</word> 
+ <stem>عَاجِزَة</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>الحفاظ</word> 
+ <stem>حِفَاظ</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>حياة</word> 
+ <stem>حَيَاة</stem>
+</res>
+<res>
+<word>الإنسان</word> 
+ <stem>إِنْسَان</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>خطر</word> 
+ <stem>خَطَر</stem>
+</res>
+<res>
+<word>فيروس</word> 
+ <stem>فَيْرُوس</stem>
+</res>
+<res>
+<word>قاتل</word> 
+ <stem>قَاتِل</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>عجزا</word> 
+ <stem>عَجْزًا</stem>
+</res>
+<res>
+<word>عبر</word> 
+ <stem>عَبَّر</stem>
+</res>
+<res>
+<word>عنه</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>واقع</word> 
+ <stem>وَاقِع</stem>
+</res>
+<res>
+<word>المستشفيات</word> 
+ <stem>مُسْتَشْفَيَات</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>يؤكد</word> 
+ <stem>يُؤَكِّد</stem>
+</res>
+<res>
+<word>بأن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>مكانة</word> 
+ <stem>مَكَانَة</stem>
+</res>
+<res>
+<word>الإنسان</word> 
+ <stem>إِنْسَان</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>عالم</word> 
+ <stem>عَالِم</stem>
+</res>
+<res>
+<word>العولمة</word> 
+ <stem>عَوْلَمَة</stem>
+</res>
+<res>
+<word>لم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>تعد</word> 
+ <stem>تَعُد</stem>
+</res>
+<res>
+<word>تعني</word> 
+ <stem>تَعْنِي</stem>
+</res>
+<res>
+<word>شيئا</word> 
+ <stem>شَيْئًا</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وحاول</word> 
+ <stem>حَاوَل</stem>
+</res>
+<res>
+<word>بقاوي</word> 
+ <stem>قَاوِي</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>يعطي</word> 
+ <stem>يُعْطِي</stem>
+</res>
+<res>
+<word>مفهوما</word> 
+ <stem>مَفْهُومًا</stem>
+</res>
+<res>
+<word>جديدا</word> 
+ <stem>جَدِيدًا</stem>
+</res>
+<res>
+<word>للعالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>تحول</word> 
+ <stem>تَحَوُّل</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>نظره</word> 
+ <stem>نَظَر</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>عالم</word> 
+ <stem>عَالِم</stem>
+</res>
+<res>
+<word>سلطة</word> 
+ <stem>سُلْطَة</stem>
+</res>
+<res>
+<word>أخطبوطية</word> 
+ <stem>أخطبوطية</stem>
+</res>
+<res>
+<word>ذات</word> 
+ <stem>ذَات</stem>
+</res>
+<res>
+<word>عدة</word> 
+ <stem>عِدَّة</stem>
+</res>
+<res>
+<word>رؤوس</word> 
+ <stem>رُؤُوس</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ورأسها</word> 
+ <stem>رَأْس</stem>
+</res>
+<res>
+<word>الأساسي</word> 
+ <stem>أَسَاسِيّ</stem>
+</res>
+<res>
+<word>هو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>الرأسمال</word> 
+ <stem>الرأسمال</stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>يتحكم</word> 
+ <stem>يَتَحَكَّم</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>البشرية</word> 
+ <stem>بَشَرِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>وراء</word> 
+ <stem>وَرَاء</stem>
+</res>
+<res>
+<word>كوة</word> 
+ <stem>كُوَّة</stem>
+</res>
+<res>
+<word>البنك</word> 
+ <stem>بَنْك</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>لم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>يعد</word> 
+ <stem>يَعُد</stem>
+</res>
+<res>
+<word>له</word> 
+ <stem>لَه</stem>
+</res>
+<res>
+<word>وطن</word> 
+ <stem>وَطَن</stem>
+</res>
+<res>
+<word>محدد</word> 
+ <stem>مُحَدَّد</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ولا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>مجال</word> 
+ <stem>مَجَال</stem>
+</res>
+<res>
+<word>حيوي</word> 
+ <stem>حَيَوِيّ</stem>
+</res>
+<res>
+<word>واحد</word> 
+ <stem>وَاحِد</stem>
+</res>
+<res>
+<word>لممارسة</word> 
+ <stem>مُمَارَسَة</stem>
+</res>
+<res>
+<word>سلطته</word> 
+ <stem>سُلْطَة</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وناقش</word> 
+ <stem>نَاقَش</stem>
+</res>
+<res>
+<word>بقاوي</word> 
+ <stem>قَاوِي</stem>
+</res>
+<res>
+<word>سيناريوهات</word> 
+ <stem>سِينَارْيُوهَات</stem>
+</res>
+<res>
+<word>محتملة</word> 
+ <stem>مُحْتَمَلَة</stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>كورونا</word> 
+ <stem>كَوَّرُوا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بينها</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>ظهور</word> 
+ <stem>ظُهُور</stem>
+</res>
+<res>
+<word>مد</word> 
+ <stem>مَدّ</stem>
+</res>
+<res>
+<word>يساري</word> 
+ <stem>يَسَار</stem>
+</res>
+<res>
+<word>ضد</word> 
+ <stem>ضِدّ</stem>
+</res>
+<res>
+<word>الرأسمالية</word> 
+ <stem>رَأْسْمَالِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بعيدا</word> 
+ <stem>بَعِيدًا</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>التجربة</word> 
+ <stem>تَجْرِبَة</stem>
+</res>
+<res>
+<word>الشيوعية</word> 
+ <stem>شُيُوعِيَّة</stem>
+</res>
+<res>
+<word>السابقة</word> 
+ <stem>سَابِقَة</stem>
+</res>
+<res>
+<word>وتأكيد</word> 
+ <stem>تَأْكِيد</stem>
+</res>
+<res>
+<word>الوعي</word> 
+ <stem>وَعْي</stem>
+</res>
+<res>
+<word>المناهض</word> 
+ <stem>مُنَاهِض</stem>
+</res>
+<res>
+<word>لبقايا</word> 
+ <stem>بَقَايَا</stem>
+</res>
+<res>
+<word>الدكتاتوريات</word> 
+ <stem>دِكْتَاتُورِيَّات</stem>
+</res>
+<res>
+<word>الأيديولجية</word> 
+ <stem>الأيديولجية</stem>
+</res>
+<res>
+<word>كالصين</word> 
+ <stem>صِين</stem>
+</res>
+<res>
+<word>وسوريا</word> 
+ <stem>سُورِيَا</stem>
+</res>
+<res>
+<word>وكوريا</word> 
+ <stem>كُورِيًّا</stem>
+</res>
+<res>
+<word>الشمالية</word> 
+ <stem>شَمَالِيَّة</stem>
+</res>
+<res>
+<word>وإيران</word> 
+ <stem>إِيرَان</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وثانيا</word> 
+ <stem>ثَانِيًا</stem>
+</res>
+<res>
+<word>العودة</word> 
+ <stem>عَوْدَة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>الدين</word> 
+ <stem>دِين</stem>
+</res>
+<res>
+<word>الشعبي</word> 
+ <stem>شَعْبِيّ</stem>
+</res>
+<res>
+<word>ذي</word> 
+ <stem>ذِي</stem>
+</res>
+<res>
+<word>الماهية</word> 
+ <stem>مَاهِيَة</stem>
+</res>
+<res>
+<word>الأخلاقية</word> 
+ <stem>أَخْلَاقِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وأخيرا</word> 
+ <stem>أَخِيرًا</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>تأكيد</word> 
+ <stem>تَأْكِيد</stem>
+</res>
+<res>
+<word>سلطة</word> 
+ <stem>سُلْطَة</stem>
+</res>
+<res>
+<word>العلم</word> 
+ <stem>عِلْم</stem>
+</res>
+<res>
+<word>باتحاده</word> 
+ <stem>اتِّحَاد</stem>
+</res>
+<res>
+<word>مع</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>الطبيعة</word> 
+ <stem>طَبِيعَة</stem>
+</res>
+<res>
+<word>الأخلاقية</word> 
+ <stem>أَخْلَاقِيَّة</stem>
+</res>
+<res>
+<word>الإنسانية</word> 
+ <stem>إِنْسَانِيَّة</stem>
+</res>
+<res>
+<word>له</word> 
+ <stem>لَه</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ففصل</word> 
+ <stem>فَصْل</stem>
+</res>
+<res>
+<word>العلم</word> 
+ <stem>عِلْم</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>سعادة</word> 
+ <stem>سَعَادَة</stem>
+</res>
+<res>
+<word>الإنسان</word> 
+ <stem>إِنْسَان</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>حسب</word> 
+ <stem>حَسَب</stem>
+</res>
+<res>
+<word>رأيه</word> 
+ <stem>رَأْي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>أكبر</word> 
+ <stem>أَكْبَر</stem>
+</res>
+<res>
+<word>الجرائم</word> 
+ <stem>جَرَائِم</stem>
+</res>
+<res>
+<word>ضد</word> 
+ <stem>ضِدّ</stem>
+</res>
+<res>
+<word>الإنسانية</word> 
+ <stem>إِنْسَانِيَّة</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>هذا</word> 
+ <stem>هَذَا</stem>
+</res>
+<res>
+<word>الميل</word> 
+ <stem>مَيْل</stem>
+</res>
+<res>
+<word>نحو</word> 
+ <stem>نَحْو</stem>
+</res>
+<res>
+<word>رسم</word> 
+ <stem>رَسْم</stem>
+</res>
+<res>
+<word>مستقبل</word> 
+ <stem>مُسْتَقْبَل</stem>
+</res>
+<res>
+<word>يساري</word> 
+ <stem>يَسَار</stem>
+</res>
+<res>
+<word>جديد</word> 
+ <stem>جَدِيد</stem>
+</res>
+<res>
+<word>للبشرية</word> 
+ <stem>بَشَرِيَّة</stem>
+</res>
+<res>
+<word>يمكن</word> 
+ <stem>يُمْكِن</stem>
+</res>
+<res>
+<word>لمسه</word> 
+ <stem>لَمَس</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>مساهمة</word> 
+ <stem>مُسَاهِمَة</stem>
+</res>
+<res>
+<word>الناقدة</word> 
+ <stem>نَاقِدَة</stem>
+</res>
+<res>
+<word>والروائية</word> 
+ <stem>رِوَائِيَّة</stem>
+</res>
+<res>
+<word>العراقية</word> 
+ <stem>عِرَاقِيَّة</stem>
+</res>
+<res>
+<word>لطفية</word> 
+ <stem>لُطْفِيَّة</stem>
+</res>
+<res>
+<word>الدليمي</word> 
+ <stem>دُلَيْمِيّ</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>إعادة</word> 
+ <stem>إِعَادَة</stem>
+</res>
+<res>
+<word>تشكيل</word> 
+ <stem>تَشْكِيل</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>فالكاتبة</word> 
+ <stem>كَاتِبَة</stem>
+</res>
+<res>
+<word>تستعيد</word> 
+ <stem>تَسْتَعِيد</stem>
+</res>
+<res>
+<word>مصطلح</word> 
+ <stem>مُصْطَلَح</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>موت</word> 
+ <stem>مَوْت</stem>
+</res>
+<res>
+<word>الرأسمالية</word> 
+ <stem>رَأْسْمَالِيَّة</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>لترسم</word> 
+ <stem>تُرْسَم</stem>
+</res>
+<res>
+<word>توقعاتها</word> 
+ <stem>تَوَقُّعَات</stem>
+</res>
+<res>
+<word>للمستقبل</word> 
+ <stem>مُسْتَقْبَل</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ورغم</word> 
+ <stem>رَغْم</stem>
+</res>
+<res>
+<word>إيمانها</word> 
+ <stem>إِيمَان</stem>
+</res>
+<res>
+<word>بأننا</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>نعيش</word> 
+ <stem>نَعِيش</stem>
+</res>
+<res>
+<word>حالة</word> 
+ <stem>حَالَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الخيال</word> 
+ <stem>خَيَال</stem>
+</res>
+<res>
+<word>العلمي</word> 
+ <stem>عِلْمِيّ</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>ستتعاظم</word> 
+ <stem>تَتَعَاظَم</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>المستقبل</word> 
+ <stem>مُسْتَقْبِل</stem>
+</res>
+<res>
+<word>نحو</word> 
+ <stem>نَحْو</stem>
+</res>
+<res>
+<word>تكريس</word> 
+ <stem>تَكْرِيس</stem>
+</res>
+<res>
+<word>الفردانية</word> 
+ <stem>الفردانية</stem>
+</res>
+<res>
+<word>فإنها</word> 
+ <stem>إِنّ</stem>
+</res>
+<res>
+<word>ترى</word> 
+ <stem>تَرَى</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>تنامي</word> 
+ <stem>تَنَام</stem>
+</res>
+<res>
+<word>الشعبوية</word> 
+ <stem>الشعبوية</stem>
+</res>
+<res>
+<word>السياسية</word> 
+ <stem>سِيَاسِيَّة</stem>
+</res>
+<res>
+<word>مبشرا</word> 
+ <stem>مُبَشِّرًا</stem>
+</res>
+<res>
+<word>بنهاية</word> 
+ <stem>نِهَايَة</stem>
+</res>
+<res>
+<word>الرأسمالية</word> 
+ <stem>رَأْسْمَالِيَّة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>تقول</word> 
+ <stem>تَقُول</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>ثمة</word> 
+ <stem>ثَمَّة</stem>
+</res>
+<res>
+<word>شعبوية</word> 
+ <stem>شعبوية</stem>
+</res>
+<res>
+<word>سائدة</word> 
+ <stem>سَائِدَة</stem>
+</res>
+<res>
+<word>اليوم</word> 
+ <stem>يَوْم</stem>
+</res>
+<res>
+<word>أعلى</word> 
+ <stem>أَعْلَى</stem>
+</res>
+<res>
+<word>شأنها</word> 
+ <stem>شَأْن</stem>
+</res>
+<res>
+<word>صوت</word> 
+ <stem>صَوْت</stem>
+</res>
+<res>
+<word>الراديكالية</word> 
+ <stem>رَادِيكَالِيَّة</stem>
+</res>
+<res>
+<word>اليسارية</word> 
+ <stem>يَسَارِيَّة</stem>
+</res>
+<res>
+<word>ومنظرو</word> 
+ <stem>مُنَظِّرُو</stem>
+</res>
+<res>
+<word>أحزاب</word> 
+ <stem>أَحْزَاب</stem>
+</res>
+<res>
+<word>اليسار</word> 
+ <stem>يَسَار</stem>
+</res>
+<res>
+<word>الجديد</word> 
+ <stem>جَدِيد</stem>
+</res>
+<res>
+<word>الذين</word> 
+ <stem>الَّذِين</stem>
+</res>
+<res>
+<word>اندفعوا</word> 
+ <stem>انْدَفَعُوا</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>ترجيح</word> 
+ <stem>تَرْجِيح</stem>
+</res>
+<res>
+<word>كفة</word> 
+ <stem>كِفَّة</stem>
+</res>
+<res>
+<word>الخطاب</word> 
+ <stem>خِطَاب</stem>
+</res>
+<res>
+<word>الأيديولوجي</word> 
+ <stem>أَيْديُولُوجِيّ</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>حساب</word> 
+ <stem>حِسَاب</stem>
+</res>
+<res>
+<word>الحقائق</word> 
+ <stem>حَقَائِق</stem>
+</res>
+<res>
+<word>الراسخة</word> 
+ <stem>رَاسِخَة</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>أرض</word> 
+ <stem>أَرْض</stem>
+</res>
+<res>
+<word>الواقع</word> 
+ <stem>وَاقِع</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>متخذين</word> 
+ <stem>مُتَّخَذَيْن</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الأزمات</word> 
+ <stem>أَزَمَات</stem>
+</res>
+<res>
+<word>الدورية</word> 
+ <stem>دَوْرِيَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الرأسمالية</word> 
+ <stem>رَأْسْمَالِيَّة</stem>
+</res>
+<res>
+<word>شاهدة</word> 
+ <stem>شَاهِدَة</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>مصداقيتهم</word> 
+ <stem>مِصْدَاقِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>مع</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>الأزمات</word> 
+ <stem>أَزَمَات</stem>
+</res>
+<res>
+<word>ليست</word> 
+ <stem>لَيْسَت</stem>
+</res>
+<res>
+<word>أعراضا</word> 
+ <stem>أَعْرَاضًا</stem>
+</res>
+<res>
+<word>سريرية</word> 
+ <stem>سَرِيرِيَّة</stem>
+</res>
+<res>
+<word>منذرة</word> 
+ <stem>مُنْذِرَة</stem>
+</res>
+<res>
+<word>باقتراب</word> 
+ <stem>اقْتِرَاب</stem>
+</res>
+<res>
+<word>الموت</word> 
+ <stem>مَوْت</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بقدر</word> 
+ <stem>قَدْر</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>هي</word> 
+ <stem>هِي</stem>
+</res>
+<res>
+<word>ملامح</word> 
+ <stem>مُلَامِح</stem>
+</res>
+<res>
+<word>ملازمة</word> 
+ <stem>مُلَازِمَة</stem>
+</res>
+<res>
+<word>لطبيعة</word> 
+ <stem>طَبِيعَة</stem>
+</res>
+<res>
+<word>آليات</word> 
+ <stem>آلِيَّات</stem>
+</res>
+<res>
+<word>عمل</word> 
+ <stem>عَمَل</stem>
+</res>
+<res>
+<word>الرأسمالية</word> 
+ <stem>رَأْسْمَالِيَّة</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وتنتهي</word> 
+ <stem>تَنْتَهِي</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>تحليلها</word> 
+ <stem>تَحْلِيل</stem>
+</res>
+<res>
+<word>لحال</word> 
+ <stem>حَال</stem>
+</res>
+<res>
+<word>الأزمة</word> 
+ <stem>أَزْمَة</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>النيوليبرالية</word> 
+ <stem>النيوليبرالية</stem>
+</res>
+<res>
+<word>ستنتهي</word> 
+ <stem>تَنْتَهِي</stem>
+</res>
+<res>
+<word>لكن</word> 
+ <stem>لَكِنّ</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>السياسات</word> 
+ <stem>سِيَاسَات</stem>
+</res>
+<res>
+<word>الرأسمالية</word> 
+ <stem>رَأْسْمَالِيَّة</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>سيعاد</word> 
+ <stem>يُعَاد</stem>
+</res>
+<res>
+<word>تكييفها</word> 
+ <stem>تَكْيِيف</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>حد</word> 
+ <stem>حَدّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>تبلغ</word> 
+ <stem>تَبْلُغ</stem>
+</res>
+<res>
+<word>معه</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>مرتبة</word> 
+ <stem>مَرْتَبَة</stem>
+</res>
+<res>
+<word>الرأسمالية</word> 
+ <stem>رَأْسْمَالِيَّة</stem>
+</res>
+<res>
+<word>التشاركية</word> 
+ <stem>تَشَارُكِيَّة</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وتؤكد</word> 
+ <stem>تُؤَكِّد</stem>
+</res>
+<res>
+<word>الناقدة</word> 
+ <stem>نَاقِدَة</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>الجائحة</word> 
+ <stem>جَائِحَة</stem>
+</res>
+<res>
+<word>سترسخ</word> 
+ <stem>تُرْسَخ</stem>
+</res>
+<res>
+<word>قيمة</word> 
+ <stem>قِيمَة</stem>
+</res>
+<res>
+<word>العلم</word> 
+ <stem>عِلْم</stem>
+</res>
+<res>
+<word>وتعلي</word> 
+ <stem>تُعْلِي</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>شأنه</word> 
+ <stem>شَأْن</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>باعتباره</word> 
+ <stem>اعْتِبَار</stem>
+</res>
+<res>
+<word>ممارسة</word> 
+ <stem>مُمَارَسَة</stem>
+</res>
+<res>
+<word>بشرية</word> 
+ <stem>بَشَرِيَّة</stem>
+</res>
+<res>
+<word>أبرز</word> 
+ <stem>أَبْرَز</stem>
+</res>
+<res>
+<word>وجوهها</word> 
+ <stem>وُجُوه</stem>
+</res>
+<res>
+<word>الوجه</word> 
+ <stem>وَجْه</stem>
+</res>
+<res>
+<word>البراغماتي</word> 
+ <stem>بَرَاغْمَاتِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>الساعي</word> 
+ <stem>سَاعِي</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>تحسين</word> 
+ <stem>تَحْسِين</stem>
+</res>
+<res>
+<word>حياة</word> 
+ <stem>حَيَاة</stem>
+</res>
+<res>
+<word>الإنسان</word> 
+ <stem>إِنْسَان</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>الأرض</word> 
+ <stem>أَرْض</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ولكنها</word> 
+ <stem>لَكِنّ</stem>
+</res>
+<res>
+<word>تزيد</word> 
+ <stem>تَزِيد</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>التوقعات</word> 
+ <stem>تَوَقُّعَات</stem>
+</res>
+<res>
+<word>السياسية</word> 
+ <stem>سِيَاسِيَّة</stem>
+</res>
+<res>
+<word>توقعات</word> 
+ <stem>تَوَقُّعَات</stem>
+</res>
+<res>
+<word>ثورية</word> 
+ <stem>ثَوْرِيَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>عالم</word> 
+ <stem>عَالِم</stem>
+</res>
+<res>
+<word>التعليم</word> 
+ <stem>تَعْلِيم</stem>
+</res>
+<res>
+<word>والبيئة</word> 
+ <stem>بِيئَة</stem>
+</res>
+<res>
+<word>كرقمنة</word> 
+ <stem>كرقمنة</stem>
+</res>
+<res>
+<word>البرامج</word> 
+ <stem>بَرَامِج</stem>
+</res>
+<res>
+<word>التعليمية</word> 
+ <stem>تَعْلِيمِيَّة</stem>
+</res>
+<res>
+<word>وتحويل</word> 
+ <stem>تَحْوِيل</stem>
+</res>
+<res>
+<word>الاهتمام</word> 
+ <stem>اهْتِمَام</stem>
+</res>
+<res>
+<word>بالبرامج</word> 
+ <stem>بَرَامِج</stem>
+</res>
+<res>
+<word>البيئية</word> 
+ <stem>بِيئِيَّة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>خطاب</word> 
+ <stem>خِطَاب</stem>
+</res>
+<res>
+<word>الترف</word> 
+ <stem>تُرَف</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>أسئلة</word> 
+ <stem>أَسْئِلَة</stem>
+</res>
+<res>
+<word>الضرورة</word> 
+ <stem>ضَرُورَة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>وتشير</word> 
+ <stem>تُشِير</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>الأدب</word> 
+ <stem>أَدَب</stem>
+</res>
+<res>
+<word>يتأثر</word> 
+ <stem>يَتَأَثَّر</stem>
+</res>
+<res>
+<word>أيضا</word> 
+ <stem>أَيْضًا</stem>
+</res>
+<res>
+<word>وهو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>أنتج</word> 
+ <stem>نَتَج</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>يسمى</word> 
+ <stem>يُسَمَّى</stem>
+</res>
+<res>
+<word>بالرواية</word> 
+ <stem>رِوَايَة</stem>
+</res>
+<res>
+<word>البيئية</word> 
+ <stem>بِيئِيَّة</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>تحظى</word> 
+ <stem>تَحْظَى</stem>
+</res>
+<res>
+<word>باهتمام</word> 
+ <stem>اهْتِمَام</stem>
+</res>
+<res>
+<word>كبير</word> 
+ <stem>كَبِير</stem>
+</res>
+<res>
+<word>الآن</word> 
+ <stem>آن</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالِم</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>أما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>الكاتب</word> 
+ <stem>كَاتِب</stem>
+</res>
+<res>
+<word>إبراهيم</word> 
+ <stem>إِبْرَاهِيم</stem>
+</res>
+<res>
+<word>الجبين</word> 
+ <stem>جَبِين</stem>
+</res>
+<res>
+<word>فقد</word> 
+ <stem>قَد</stem>
+</res>
+<res>
+<word>أكد</word> 
+ <stem>أَكَّد</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>مساهمته</word> 
+ <stem>مُسَاهَمَة</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>جاءت</word> 
+ <stem>جَاءَت</stem>
+</res>
+<res>
+<word>تحت</word> 
+ <stem>تَحْت</stem>
+</res>
+<res>
+<word>عنوان</word> 
+ <stem>عُنْوَان</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>البيت</word> 
+ <stem>بَيْت</stem>
+</res>
+<res>
+<word>/</word> 
+ <stem>/</stem>
+</res>
+<res>
+<word>الكهف</word> 
+ <stem>كَهْف</stem>
+</res>
+<res>
+<word>نهاية</word> 
+ <stem>نِهَايَة</stem>
+</res>
+<res>
+<word>خلاص</word> 
+ <stem>خَلَاص</stem>
+</res>
+<res>
+<word>الفرد</word> 
+ <stem>فَرْد</stem>
+</res>
+<res>
+<word>وانتصار</word> 
+ <stem>انْتِصَار</stem>
+</res>
+<res>
+<word>مناعة</word> 
+ <stem>مَنَاعَة</stem>
+</res>
+<res>
+<word>القطيع</word> 
+ <stem>قَطِيع</stem>
+</res>
+<res>
+<word>وقلق</word> 
+ <stem>قَلَق</stem>
+</res>
+<res>
+<word>الفكر</word> 
+ <stem>فِكْر</stem>
+</res>
+<res>
+<word>"، </word> 
+ <stem>"، </stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>قد</word> 
+ <stem>قَد</stem>
+</res>
+<res>
+<word>تغير</word> 
+ <stem>تَغَيُّر</stem>
+</res>
+<res>
+<word>ولا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>ينتظره</word> 
+ <stem>يَنْتَظِر</stem>
+</res>
+<res>
+<word>تغيير</word> 
+ <stem>تَغْيِير</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>يقول</word> 
+ <stem>يَقُول</stem>
+</res>
+<res>
+<word>الجبين</word> 
+ <stem>جَبِين</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>لقد</word> 
+ <stem>قَد</stem>
+</res>
+<res>
+<word>تغير</word> 
+ <stem>تَغَيَّر</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>غيّره</word> 
+ <stem>غَيَّر</stem>
+</res>
+<res>
+<word>الخطر</word> 
+ <stem>خَطَر</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وغيّره</word> 
+ <stem>غَيَّر</stem>
+</res>
+<res>
+<word>أنه</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>أصبح</word> 
+ <stem>أَصْبَح</stem>
+</res>
+<res>
+<word>يعرف</word> 
+ <stem>يَعْرِف</stem>
+</res>
+<res>
+<word>الجدوى</word> 
+ <stem>جَدْوَى</stem>
+</res>
+<res>
+<word>الحقيقية</word> 
+ <stem>حَقِيقِيَّة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الأسوار</word> 
+ <stem>أَسْوَار</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>بناها</word> 
+ <stem>بِنَى</stem>
+</res>
+<res>
+<word>حول</word> 
+ <stem>حَوْل</stem>
+</res>
+<res>
+<word>نطاقاته</word> 
+ <stem>نَطَّاقَات</stem>
+</res>
+<res>
+<word>الضيقة</word> 
+ <stem>ضِيقَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وأنها</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>لن</word> 
+ <stem>لَن</stem>
+</res>
+<res>
+<word>تقدم</word> 
+ <stem>تُقَدَّم</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>تؤخر</word> 
+ <stem>تُؤُخِّر</stem>
+</res>
+<res>
+<word>حين</word> 
+ <stem>حِين</stem>
+</res>
+<res>
+<word>يدنو</word> 
+ <stem>يَدْنُو</stem>
+</res>
+<res>
+<word>الفناء</word> 
+ <stem>فَنَاء</stem>
+</res>
+<res>
+<word>التالي</word> 
+ <stem>تَالِي</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>واعتبر</word> 
+ <stem>اعْتُبِر</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>الطبيعة</word> 
+ <stem>طَبِيعَة</stem>
+</res>
+<res>
+<word>تصوب</word> 
+ <stem>تَصَوُّب</stem>
+</res>
+<res>
+<word>كل</word> 
+ <stem>كُلّ</stem>
+</res>
+<res>
+<word>شيء</word> 
+ <stem>شَيْء</stem>
+</res>
+<res>
+<word>وهي</word> 
+ <stem>هِي</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>أعادت</word> 
+ <stem>أَعَادَت</stem>
+</res>
+<res>
+<word>الكرة</word> 
+ <stem>كُرَة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>ملعب</word> 
+ <stem>مَلْعَب</stem>
+</res>
+<res>
+<word>الفكر</word> 
+ <stem>فِكْر</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>لتدفع</word> 
+ <stem>تَدْفَع</stem>
+</res>
+<res>
+<word>الإنسان</word> 
+ <stem>إِنْسَان</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>إعادة</word> 
+ <stem>إِعَادَة</stem>
+</res>
+<res>
+<word>إنتاج</word> 
+ <stem>إِنْتَاج</stem>
+</res>
+<res>
+<word>خطابه</word> 
+ <stem>خِطَاب</stem>
+</res>
+<res>
+<word>وتصوراته</word> 
+ <stem>تَصَوُّرَات</stem>
+</res>
+<res>
+<word>وابتكار</word> 
+ <stem>ابْتِكَار</stem>
+</res>
+<res>
+<word>فلسفات</word> 
+ <stem>فَلْسَفَات</stem>
+</res>
+<res>
+<word>كونية</word> 
+ <stem>كَوْنِيَّة</stem>
+</res>
+<res>
+<word>جديدة</word> 
+ <stem>جَدِيدَة</stem>
+</res>
+<res>
+<word>قادرة</word> 
+ <stem>قَادِرَة</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>تعيش</word> 
+ <stem>تَعِيش</stem>
+</res>
+<res>
+<word>بين</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>جميع</word> 
+ <stem>جَمِيع</stem>
+</res>
+<res>
+<word>البشر</word> 
+ <stem>بَشَر</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وتوحيد</word> 
+ <stem>تَوْحِيد</stem>
+</res>
+<res>
+<word>جهود</word> 
+ <stem>جُهُود</stem>
+</res>
+<res>
+<word>البشرية</word> 
+ <stem>بَشَرِيَّة</stem>
+</res>
+<res>
+<word>نحو</word> 
+ <stem>نَحْو</stem>
+</res>
+<res>
+<word>النجاة</word> 
+ <stem>نَجَاة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وكأغلب</word> 
+ <stem>أَغْلَب</stem>
+</res>
+<res>
+<word>المتدخلين</word> 
+ <stem>مُتَدَخَّلَيْن</stem>
+</res>
+<res>
+<word>يرى</word> 
+ <stem>يَرَى</stem>
+</res>
+<res>
+<word>خلدون</word> 
+ <stem>خَلْدُون</stem>
+</res>
+<res>
+<word>الشمعة</word> 
+ <stem>شَمْعَة</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>العولمة</word> 
+ <stem>عَوْلَمَة</stem>
+</res>
+<res>
+<word>تحتضر</word> 
+ <stem>تُحْتَضَر</stem>
+</res>
+<res>
+<word>ويربط</word> 
+ <stem>يَرْبِط</stem>
+</res>
+<res>
+<word>ذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>بواقع</word> 
+ <stem>وَاقِع</stem>
+</res>
+<res>
+<word>النظام</word> 
+ <stem>نِظَام</stem>
+</res>
+<res>
+<word>السوري</word> 
+ <stem>سُورِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>يقول</word> 
+ <stem>يَقُول</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>توضح</word> 
+ <stem>تُوَضِّح</stem>
+</res>
+<res>
+<word>لنا</word> 
+ <stem>لَنَا</stem>
+</res>
+<res>
+<word>المقتلة</word> 
+ <stem>مَقْتَلَة</stem>
+</res>
+<res>
+<word>السورية</word> 
+ <stem>سُورِيَّة</stem>
+</res>
+<res>
+<word>المنسية</word> 
+ <stem>مَنْسِيَّة</stem>
+</res>
+<res>
+<word>عولميا</word> 
+ <stem>عَوْلَمِيَّا</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>صدامها</word> 
+ <stem>صَدّام</stem>
+</res>
+<res>
+<word>مع</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>النظام</word> 
+ <stem>نِظَام</stem>
+</res>
+<res>
+<word>السائد</word> 
+ <stem>سَائِد</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>النزاع</word> 
+ <stem>نِزَاع</stem>
+</res>
+<res>
+<word>ليس</word> 
+ <stem>لَيْس</stem>
+</res>
+<res>
+<word>مع</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>الرأسمال</word> 
+ <stem>الرأسمال</stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>تحتاج</word> 
+ <stem>تَحْتَاج</stem>
+</res>
+<res>
+<word>إليه</word> 
+ <stem>إِلَي</stem>
+</res>
+<res>
+<word>البلاد</word> 
+ <stem>بِلَاد</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بل</word> 
+ <stem>بَل</stem>
+</res>
+<res>
+<word>مع</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>الجائحة</word> 
+ <stem>جَائِحَة</stem>
+</res>
+<res>
+<word>الإنسانية</word> 
+ <stem>إِنْسَانِيَّة</stem>
+</res>
+<res>
+<word>السابقة</word> 
+ <stem>سَابِقَة</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>الجائحة</word> 
+ <stem>جَائِحَة</stem>
+</res>
+<res>
+<word>المرضية</word> 
+ <stem>مَرَضِيَّة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>الجائحة</word> 
+ <stem>جَائِحَة</stem>
+</res>
+<res>
+<word>المدمرة</word> 
+ <stem>مُدَمِّرَة</stem>
+</res>
+<res>
+<word>للبشر</word> 
+ <stem>بَشَر</stem>
+</res>
+<res>
+<word>والحجر</word> 
+ <stem>حَجَر</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>تمثل</word> 
+ <stem>تُمَثِّل</stem>
+</res>
+<res>
+<word>أكبر</word> 
+ <stem>أَكْبَر</stem>
+</res>
+<res>
+<word>ظاهرة</word> 
+ <stem>ظَاهِرَة</stem>
+</res>
+<res>
+<word>إنسانية</word> 
+ <stem>إِنْسَانِيَّة</stem>
+</res>
+<res>
+<word>وسياسية</word> 
+ <stem>سِيَاسِيَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>القرن</word> 
+ <stem>قَرْن</stem>
+</res>
+<res>
+<word>الواحد</word> 
+ <stem>وَاحِد</stem>
+</res>
+<res>
+<word>والعشرين</word> 
+ <stem>عِشْرِين</stem>
+</res>
+<res>
+<word>تثير</word> 
+ <stem>تُثِير</stem>
+</res>
+<res>
+<word>قدرا</word> 
+ <stem>قَدْرًا</stem>
+</res>
+<res>
+<word>غير</word> 
+ <stem>غَيْر</stem>
+</res>
+<res>
+<word>قليل</word> 
+ <stem>قَلِيل</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الاستغراب</word> 
+ <stem>اسْتِغْرَاب</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ويتساءل</word> 
+ <stem>يَتَسَاءَل</stem>
+</res>
+<res>
+<word>لماذا</word> 
+ <stem>مَاذَا</stem>
+</res>
+<res>
+<word>يتجاهل</word> 
+ <stem>يَتَجَاهَل</stem>
+</res>
+<res>
+<word>بعض</word> 
+ <stem>بَعْض</stem>
+</res>
+<res>
+<word>مناهضي</word> 
+ <stem>مُنَاهِض</stem>
+</res>
+<res>
+<word>العولمة</word> 
+ <stem>عَوْلَمَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بمحمولها</word> 
+ <stem>مَحْمُول</stem>
+</res>
+<res>
+<word>المعرفي</word> 
+ <stem>مَعْرِفِيّ</stem>
+</res>
+<res>
+<word>الديمقراطي</word> 
+ <stem>دِيمُقْرَاطِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>مقتلة</word> 
+ <stem>مَقْتَلَة</stem>
+</res>
+<res>
+<word>راح</word> 
+ <stem>رَاح</stem>
+</res>
+<res>
+<word>ضحيتها</word> 
+ <stem>ضَحِيَّة</stem>
+</res>
+<res>
+<word>ملايين</word> 
+ <stem>مَلَايِين</stem>
+</res>
+<res>
+<word>السوريين</word> 
+ <stem>سُورِيِّين</stem>
+</res>
+<res>
+<word>؟</word> 
+ <stem>؟</stem>
+</res>
+<res>
+<word>فالجائحة</word> 
+ <stem>جَائِحَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الحالة</word> 
+ <stem>حَالَة</stem>
+</res>
+<res>
+<word>السورية</word> 
+ <stem>سُورِيَّة</stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>تعني</word> 
+ <stem>تَعْنِي</stem>
+</res>
+<res>
+<word>شيئا</word> 
+ <stem>شَيْئًا</stem>
+</res>
+<res>
+<word>مقارنة</word> 
+ <stem>مُقَارَنَة</stem>
+</res>
+<res>
+<word>بمهرجان</word> 
+ <stem>مَهْرَجَان</stem>
+</res>
+<res>
+<word>القتل</word> 
+ <stem>قَتْل</stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>يمارس</word> 
+ <stem>يُمَارِس</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>الشعب</word> 
+ <stem>شُعَب</stem>
+</res>
+<res>
+<word>السوري</word> 
+ <stem>سُورِيّ</stem>
+</res>
+<res>
+<word>منذ</word> 
+ <stem>مُنْذ</stem>
+</res>
+<res>
+<word>سنة</word> 
+ <stem>سَنَة</stem>
+</res>
+<res>
+<word> 2011</word> 
+ <stem> 2011</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>إن</word> 
+ <stem>إِن</stem>
+</res>
+<res>
+<word>النزعة</word> 
+ <stem>نَزْعَة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>البحث</word> 
+ <stem>بَحْث</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>موقع</word> 
+ <stem>مَوْقِع</stem>
+</res>
+<res>
+<word>لليسار</word> 
+ <stem>يَسَار</stem>
+</res>
+<res>
+<word>عند</word> 
+ <stem>عِنْد</stem>
+</res>
+<res>
+<word>المتدخلين</word> 
+ <stem>مُتَدَخَّلَيْن</stem>
+</res>
+<res>
+<word>جعلت</word> 
+ <stem>جَعَلْت</stem>
+</res>
+<res>
+<word>الكاتب</word> 
+ <stem>كَاتِب</stem>
+</res>
+<res>
+<word>ممدوح</word> 
+ <stem>مَمْدُوح</stem>
+</res>
+<res>
+<word>فراج</word> 
+ <stem>فَرَّاج</stem>
+</res>
+<res>
+<word>النابي</word> 
+ <stem>نَابِيّ</stem>
+</res>
+<res>
+<word>يتحدث</word> 
+ <stem>يَتَحَدَّث</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>اشتراكية</word> 
+ <stem>اشْتِرَاكِيَّة</stem>
+</res>
+<res>
+<word>المرض</word> 
+ <stem>مَرَض</stem>
+</res>
+<res>
+<word>فالكورونا</word> 
+ <stem>فالكورونا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>حسب</word> 
+ <stem>حَسَب</stem>
+</res>
+<res>
+<word>رأيه</word> 
+ <stem>رَأْي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>قد</word> 
+ <stem>قَد</stem>
+</res>
+<res>
+<word>حققت</word> 
+ <stem>حَقَّقْت</stem>
+</res>
+<res>
+<word>العدالة</word> 
+ <stem>عَدَالَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>توزعها</word> 
+ <stem>تُوَزَّع</stem>
+</res>
+<res>
+<word>بين</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>الناس</word> 
+ <stem>نَاس</stem>
+</res>
+<res>
+<word>ولم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>تميز</word> 
+ <stem>تُمَيِّز</stem>
+</res>
+<res>
+<word>بين</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word>فقير</word> 
+ <stem>فَقِير</stem>
+</res>
+<res>
+<word>وغني</word> 
+ <stem>غَنِيّ</stem>
+</res>
+<res>
+<word>والمواطن</word> 
+ <stem>مُوَاطِن</stem>
+</res>
+<res>
+<word>والمسؤول</word> 
+ <stem>مَسْؤُول</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>واستشهد</word> 
+ <stem>اسْتُشْهِد</stem>
+</res>
+<res>
+<word>بدخول</word> 
+ <stem>دُخُول</stem>
+</res>
+<res>
+<word>بوريس</word> 
+ <stem>بُورِيس</stem>
+</res>
+<res>
+<word>جونسون</word> 
+ <stem>جُونسُون</stem>
+</res>
+<res>
+<word>وأنجيلا</word> 
+ <stem>أَنْجِيلَا</stem>
+</res>
+<res>
+<word>ميركل</word> 
+ <stem>مِيرْكِل</stem>
+</res>
+<res>
+<word>الحجر</word> 
+ <stem>حُجَر</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>يجمع</word> 
+ <stem>يُجْمَع</stem>
+</res>
+<res>
+<word>كل</word> 
+ <stem>كُلّ</stem>
+</res>
+<res>
+<word>المتدخلين</word> 
+ <stem>مُتَدَخَّلَيْن</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>الكورونا</word> 
+ <stem>الكورونا</stem>
+</res>
+<res>
+<word>ستكون</word> 
+ <stem>تَكُون</stem>
+</res>
+<res>
+<word>قطيعة</word> 
+ <stem>قَطِيعَة</stem>
+</res>
+<res>
+<word>تاريخية</word> 
+ <stem>تَارِيخِيَّة</stem>
+</res>
+<res>
+<word>ولكن</word> 
+ <stem>لَكِنّ</stem>
+</res>
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>القطيعة</word> 
+ <stem>قَطِيعَة</stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>تبدو</word> 
+ <stem>تَبْدُو</stem>
+</res>
+<res>
+<word>ملامحها</word> 
+ <stem>مُلَامَح</stem>
+</res>
+<res>
+<word>واضحة</word> 
+ <stem>وَاضِحَة</stem>
+</res>
+<res>
+<word>لأحد</word> 
+ <stem>أَحَد</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وسيتغير</word> 
+ <stem>يَتَغَيَّر</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>لكن</word> 
+ <stem>لَكِن</stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>أحد</word> 
+ <stem>أَحَد</stem>
+</res>
+<res>
+<word>يعلم</word> 
+ <stem>يُعَلِّم</stem>
+</res>
+<res>
+<word>كيف</word> 
+ <stem>كَيْف</stem>
+</res>
+<res>
+<word>سيتغير</word> 
+ <stem>يَتَغَيَّر</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وستموت</word> 
+ <stem>تَمُوت</stem>
+</res>
+<res>
+<word>العولمة</word> 
+ <stem>عَوْلَمَة</stem>
+</res>
+<res>
+<word>كما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>ردد</word> 
+ <stem>رَدَّد</stem>
+</res>
+<res>
+<word>الجميع</word> 
+ <stem>جَمِيع</stem>
+</res>
+<res>
+<word>لكن</word> 
+ <stem>كِن</stem>
+</res>
+<res>
+<word>كيف</word> 
+ <stem>كَيْف</stem>
+</res>
+<res>
+<word>ستموت</word> 
+ <stem>تَمُوت</stem>
+</res>
+<res>
+<word>وما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>البديل</word> 
+ <stem>بَدِيل</stem>
+</res>
+<res>
+<word>؟</word> 
+ <stem>؟</stem>
+</res>
+
+<res>
+<word>الكاتب</word> 
+ <stem>كَاتِب</stem>
+</res>
+<res>
+<word>ممدوح</word> 
+ <stem>مَمْدُوح</stem>
+</res>
+<res>
+<word>فراج</word> 
+ <stem>فَرَّاج</stem>
+</res>
+<res>
+<word>النابي</word> 
+ <stem>نَابِيّ</stem>
+</res>
+<res>
+<word>يقترح</word> 
+ <stem>يَقْتَرِح</stem>
+</res>
+<res>
+<word>الفردية</word> 
+ <stem>فَرْدِيَّة</stem>
+</res>
+<res>
+<word>بديلا</word> 
+ <stem>بَدِيلًا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وتمثلت</word> 
+ <stem>تَمَثَّلَت</stem>
+</res>
+<res>
+<word>أساسا</word> 
+ <stem>أَسَاسًا</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>جشع</word> 
+ <stem>جَشَع</stem>
+</res>
+<res>
+<word>رجال</word> 
+ <stem>رِجَال</stem>
+</res>
+<res>
+<word>الأعمال</word> 
+ <stem>أَعْمَال</stem>
+</res>
+<res>
+<word>والبحث</word> 
+ <stem>بَحْث</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>تجميع</word> 
+ <stem>تَجْمِيع</stem>
+</res>
+<res>
+<word>المال</word> 
+ <stem>مَال</stem>
+</res>
+<res>
+<word>بشكل</word> 
+ <stem>شَكْل</stem>
+</res>
+<res>
+<word>مخزٍ</word> 
+ <stem>مُخْز</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مَن</stem>
+</res>
+<res>
+<word>البشر</word> 
+ <stem>بَشَر</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>والشيء</word> 
+ <stem>شَيْء</stem>
+</res>
+<res>
+<word>نفسه</word> 
+ <stem>نَفْس</stem>
+</res>
+<res>
+<word>مع</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>الأنظمة</word> 
+ <stem>أَنْظِمَة</stem>
+</res>
+<res>
+<word>حيث</word> 
+ <stem>حَيْث</stem>
+</res>
+<res>
+<word>أبانت</word> 
+ <stem>بَانَت</stem>
+</res>
+<res>
+<word>الجائحة</word> 
+ <stem>جَائِحَة</stem>
+</res>
+<res>
+<word>قصور</word> 
+ <stem>قُصُور</stem>
+</res>
+<res>
+<word>الاتحادات</word> 
+ <stem>اتِّحَادَات</stem>
+</res>
+<res>
+<word>الاقتصادية</word> 
+ <stem>اقْتِصَادِيَّة</stem>
+</res>
+<res>
+<word>والسياسية</word> 
+ <stem>سِيَاسِيَّة</stem>
+</res>
+<res>
+<word>كالاتحاد</word> 
+ <stem>اتِّحَاد</stem>
+</res>
+<res>
+<word>الأوروبي</word> 
+ <stem>أُورُوبِّيّ</stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>ترك</word> 
+ <stem>تَرَك</stem>
+</res>
+<res>
+<word>إيطاليا</word> 
+ <stem>إِيطَالِيَا</stem>
+</res>
+<res>
+<word>مثلا</word> 
+ <stem>مِثْلًا</stem>
+</res>
+<res>
+<word>تتخبط</word> 
+ <stem>تَتَخَبَّط</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>أزمتها</word> 
+ <stem>أَزْمَة</stem>
+</res>
+<res>
+<word>وحيدة</word> 
+ <stem>وَحِيدَة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>يقول</word> 
+ <stem>يَقُول</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>مثلما</word> 
+ <stem>مِثْلَمَا</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>الفيروس</word> 
+ <stem>فَيْرُوس</stem>
+</res>
+<res>
+<word>غير</word> 
+ <stem>غَيْر</stem>
+</res>
+<res>
+<word>مرئي</word> 
+ <stem>مَرْئِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>فإن</word> 
+ <stem>إِن</stem>
+</res>
+<res>
+<word>ترتيبات</word> 
+ <stem>تَرْتِيبَات</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>الجائحة</word> 
+ <stem>جَائِحَة</stem>
+</res>
+<res>
+<word>أيضا</word> 
+ <stem>أَيْضًا</stem>
+</res>
+<res>
+<word>غير</word> 
+ <stem>غَيْر</stem>
+</res>
+<res>
+<word>مرئية</word> 
+ <stem>مَرْئِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>خاصة</word> 
+ <stem>خَاصَّة</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>الأزمة</word> 
+ <stem>أَزْمَة</stem>
+</res>
+<res>
+<word>كما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>وصفها</word> 
+ <stem>وَصَف</stem>
+</res>
+<res>
+<word>الأمين</word> 
+ <stem>أَمِين</stem>
+</res>
+<res>
+<word>العام</word> 
+ <stem>عَامّ</stem>
+</res>
+<res>
+<word>للأمم</word> 
+ <stem>أُمَم</stem>
+</res>
+<res>
+<word>المتحدة</word> 
+ <stem>مُتَّحِدَة</stem>
+</res>
+<res>
+<word>بقوله</word> 
+ <stem>قَوْل</stem>
+</res>
+<res>
+<word>إن</word> 
+ <stem>إِنّ</stem>
+</res>
+<res>
+<word>كورونا</word> 
+ <stem>كَوَّرُوا</stem>
+</res>
+<res>
+<word>هو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>أعظم</word> 
+ <stem>أَعْظَم</stem>
+</res>
+<res>
+<word>اختبار</word> 
+ <stem>اخْتِبَار</stem>
+</res>
+<res>
+<word>واجهناه</word> 
+ <stem>وَاجَه</stem>
+</res>
+<res>
+<word>معا</word> 
+ <stem>مَعًا</stem>
+</res>
+<res>
+<word>منذ</word> 
+ <stem>مُنْذ</stem>
+</res>
+<res>
+<word>تشكيل</word> 
+ <stem>تَشْكِيل</stem>
+</res>
+<res>
+<word>الأمم</word> 
+ <stem>أُمَم</stem>
+</res>
+<res>
+<word>المتحدة</word> 
+ <stem>مُتَّحِدَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وهو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>دفعه</word> 
+ <stem>دَفَع</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>تقديم</word> 
+ <stem>تَقْدِيم</stem>
+</res>
+<res>
+<word>خطة</word> 
+ <stem>خُطَّة</stem>
+</res>
+<res>
+<word>لمعالجة</word> 
+ <stem>مُعَالَجَة</stem>
+</res>
+<res>
+<word>الآثار</word> 
+ <stem>آثَار</stem>
+</res>
+<res>
+<word>الاجتماعية</word> 
+ <stem>اجْتِمَاعِيَّة</stem>
+</res>
+<res>
+<word>والاقتصادية</word> 
+ <stem>اقْتِصَادِيَّة</stem>
+</res>
+<res>
+<word>المدمرة</word> 
+ <stem>مُدَمِّرَة</stem>
+</res>
+<res>
+<word>لكوفيد</word> 
+ <stem>لكوفيد</stem>
+</res>
+<res>
+<word>-19"</word> 
+ <stem>-19"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>بدا</word> 
+ <stem>بَدًا</stem>
+</res>
+<res>
+<word>البعض</word> 
+ <stem>بَعْض</stem>
+</res>
+<res>
+<word>متشائما</word> 
+ <stem>مُتَشَائِمًا</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>دور</word> 
+ <stem>دُور</stem>
+</res>
+<res>
+<word>المفكر</word> 
+ <stem>مُفَكِّر</stem>
+</res>
+<res>
+<word>والفيلسوف</word> 
+ <stem>فَيْلَسُوف</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ويتساءل</word> 
+ <stem>يَتَسَاءَل</stem>
+</res>
+<res>
+<word>حميد</word> 
+ <stem>حَمِيد</stem>
+</res>
+<res>
+<word>زناز</word> 
+ <stem>زناز</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>ماذا</word> 
+ <stem>مَاذَا</stem>
+</res>
+<res>
+<word>عسى</word> 
+ <stem>عَسَى</stem>
+</res>
+<res>
+<word>الفيلسوف</word> 
+ <stem>فَيْلَسُوف</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>يقول</word> 
+ <stem>يَقُول</stem>
+</res>
+<res>
+<word>ونحن</word> 
+ <stem>نَحْن</stem>
+</res>
+<res>
+<word>نعيش</word> 
+ <stem>نَعِيش</stem>
+</res>
+<res>
+<word>أزمة</word> 
+ <stem>أَزْمَة</stem>
+</res>
+<res>
+<word>وبائية</word> 
+ <stem>وَبَائِيَّة</stem>
+</res>
+<res>
+<word>تجبرنا</word> 
+ <stem>تُجْبَر</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>المكوث</word> 
+ <stem>مُكُوث</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>بيوتنا</word> 
+ <stem>بُيُوت</stem>
+</res>
+<res>
+<word>وتجنب</word> 
+ <stem>تَجَنُّب</stem>
+</res>
+<res>
+<word>أبناء</word> 
+ <stem>أَبْنَاء</stem>
+</res>
+<res>
+<word>جلدتنا</word> 
+ <stem>جَلْدَة</stem>
+</res>
+<res>
+<word>؟</word> 
+ <stem>؟</stem>
+</res>
+<res>
+<word>!</word> 
+ <stem>!</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ويستشهد</word> 
+ <stem>يُسْتَشْهَد</stem>
+</res>
+<res>
+<word>زنار</word> 
+ <stem>زَنَّار</stem>
+</res>
+<res>
+<word>بآراء</word> 
+ <stem>آرَاء</stem>
+</res>
+<res>
+<word>الفلاسفة</word> 
+ <stem>فَلَاسِفَة</stem>
+</res>
+<res>
+<word>والمفكرين</word> 
+ <stem>مُفَكِّرِين</stem>
+</res>
+<res>
+<word>الغربيين</word> 
+ <stem>غَرْبِيِّين</stem>
+</res>
+<res>
+<word>أمثال</word> 
+ <stem>أَمْثَال</stem>
+</res>
+<res>
+<word>أندري</word> 
+ <stem>نَدْرِي</stem>
+</res>
+<res>
+<word>كومت</word> 
+ <stem>كَوِمَت</stem>
+</res>
+<res>
+<word>سبونفيل</word> 
+ <stem>سبونفيل</stem>
+</res>
+<res>
+<word>وناعوم</word> 
+ <stem>وناعوم</stem>
+</res>
+<res>
+<word>تشومسكي</word> 
+ <stem>تشومسكي</stem>
+</res>
+<res>
+<word>وجورجو</word> 
+ <stem>وجورجو</stem>
+</res>
+<res>
+<word>أغامبين</word> 
+ <stem>أغامبين</stem>
+</res>
+<res>
+<word>وبيار</word> 
+ <stem>بِيَار</stem>
+</res>
+<res>
+<word>زاوي</word> 
+ <stem>زَاوِي</stem>
+</res>
+<res>
+<word>وألان</word> 
+ <stem>وَأْلَان</stem>
+</res>
+<res>
+<word>باديو</word> 
+ <stem>بَادِيُّو</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>معلنا</word> 
+ <stem>مُعْلَنًا</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>أسماه</word> 
+ <stem>أَسْمَى</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>استقالة</word> 
+ <stem>اسْتِقَالَة</stem>
+</res>
+<res>
+<word>الفيلسوف</word> 
+ <stem>فَيْلَسُوف</stem>
+</res>
+<res>
+<word>واستحالة</word> 
+ <stem>اسْتِحَالَة</stem>
+</res>
+<res>
+<word>الفلسفة</word> 
+ <stem>فَلْسَفَة</stem>
+</res>
+<res>
+<word>أمام</word> 
+ <stem>أَمَام</stem>
+</res>
+<res>
+<word>الجائحة</word> 
+ <stem>جَائِحَة</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وبينما</word> 
+ <stem>بَيْنَمَا</stem>
+</res>
+<res>
+<word>رأى</word> 
+ <stem>رَأَى</stem>
+</res>
+<res>
+<word>البعض</word> 
+ <stem>بَعْض</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>الجائحة</word> 
+ <stem>جَائِحَة</stem>
+</res>
+<res>
+<word>تعلن</word> 
+ <stem>تُعْلِن</stem>
+</res>
+<res>
+<word>نهاية</word> 
+ <stem>نِهَايَة</stem>
+</res>
+<res>
+<word>الماورائيات</word> 
+ <stem>الماورائيات</stem>
+</res>
+<res>
+<word>والفكر</word> 
+ <stem>فِكْر</stem>
+</res>
+<res>
+<word>الديني</word> 
+ <stem>دِينِيّ</stem>
+</res>
+<res>
+<word>والميتافيزيقي</word> 
+ <stem>والميتافيزيقي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>يرى</word> 
+ <stem>يَرَى</stem>
+</res>
+<res>
+<word>آخرون</word> 
+ <stem>آخَرُون</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>الخوف</word> 
+ <stem>خَوْف</stem>
+</res>
+<res>
+<word>وفوبيا</word> 
+ <stem>وفوبيا</stem>
+</res>
+<res>
+<word>الموت</word> 
+ <stem>مَوْت</stem>
+</res>
+<res>
+<word>أعادت</word> 
+ <stem>أَعَادَت</stem>
+</res>
+<res>
+<word>مركزية</word> 
+ <stem>مَرْكَزِيَّة</stem>
+</res>
+<res>
+<word>الدين</word> 
+ <stem>دِين</stem>
+</res>
+<res>
+<word>كملاذ</word> 
+ <stem>مَلَاذ</stem>
+</res>
+<res>
+<word>أخير</word> 
+ <stem>أَخِير</stem>
+</res>
+<res>
+<word>يستجير</word> 
+ <stem>يَسْتَجِير</stem>
+</res>
+<res>
+<word>به</word> 
+ <stem>بِه</stem>
+</res>
+<res>
+<word>الإنسان</word> 
+ <stem>إِنْسَان</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>خوفه</word> 
+ <stem>خَوَّف</stem>
+</res>
+<res>
+<word>ومن</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>الديستوبي</word> 
+ <stem>الديستوبي</stem>
+</res>
+<res>
+<word> (</word> 
+ <stem> (</stem>
+</res>
+<res>
+<word>الخيالي</word> 
+ <stem>خَيَالِيّ</stem>
+</res>
+<res>
+<word>الفاسد</word> 
+ <stem>فَاسِد</stem>
+</res>
+<res>
+<word>المخيف</word> 
+ <stem>مُخِيف</stem>
+</res>
+<res>
+<word>) </word> 
+ <stem>) </stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>وجد</word> 
+ <stem>وَجَد</stem>
+</res>
+<res>
+<word>نفسه</word> 
+ <stem>نَفَس</stem>
+</res>
+<res>
+<word>فيه</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>تتدافع</word> 
+ <stem>تَتَدَافَع</stem>
+</res>
+<res>
+<word>أفكار</word> 
+ <stem>أَفْكَار</stem>
+</res>
+<res>
+<word>المتدخلين</word> 
+ <stem>مُتَدَخَّلَيْن</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>هذا</word> 
+ <stem>هَذَا</stem>
+</res>
+<res>
+<word>الكتاب</word> 
+ <stem>كُتَّاب</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>نقاد</word> 
+ <stem>نُقَاد</stem>
+</res>
+<res>
+<word>وأدباء</word> 
+ <stem>أُدَبَاء</stem>
+</res>
+<res>
+<word>ومفكرين</word> 
+ <stem>مُفَكِّرِين</stem>
+</res>
+<res>
+<word>لتقول</word> 
+ <stem>تَقَوُّل</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الغالب</word> 
+ <stem>غَالِب</stem>
+</res>
+<res>
+<word>ذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>الشك</word> 
+ <stem>شَكّ</stem>
+</res>
+<res>
+<word>وذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>الغموض</word> 
+ <stem>غُمُوض</stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>أسس</word> 
+ <stem>أُسُس</stem>
+</res>
+<res>
+<word>له</word> 
+ <stem>لَه</stem>
+</res>
+<res>
+<word>الخوف</word> 
+ <stem>خَوْف</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بينما</word> 
+ <stem>بَيْنَمَا</stem>
+</res>
+<res>
+<word>تجنح</word> 
+ <stem>تَجَنُّح</stem>
+</res>
+<res>
+<word>بعض</word> 
+ <stem>بَعْض</stem>
+</res>
+<res>
+<word>الأفكار</word> 
+ <stem>أَفْكَار</stem>
+</res>
+<res>
+<word>نحو</word> 
+ <stem>نَحْو</stem>
+</res>
+<res>
+<word>العدمية</word> 
+ <stem>عُدْمِيَّة</stem>
+</res>
+<res>
+<word>واللامبالاة</word> 
+ <stem>واللامبالاة</stem>
+</res>
+<res>
+<word>الناجمة</word> 
+ <stem>نَاجِمَة</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>احتياطي</word> 
+ <stem>احْتِيَاطِيّ</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الشعور</word> 
+ <stem>شُعُور</stem>
+</res>
+<res>
+<word>باليأس</word> 
+ <stem>يَأْس</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>كما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>ترجع</word> 
+ <stem>تُرْجَع</stem>
+</res>
+<res>
+<word>بعض</word> 
+ <stem>بَعْض</stem>
+</res>
+<res>
+<word>الآراء</word> 
+ <stem>آرَاء</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>يحدث</word> 
+ <stem>يَحْدُث</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>محيطها</word> 
+ <stem>مُحِيط</stem>
+</res>
+<res>
+<word>وكأن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>الكورونا</word> 
+ <stem>الكورونا</stem>
+</res>
+<res>
+<word>كانت</word> 
+ <stem>كَانَت</stem>
+</res>
+<res>
+<word>ذريعة</word> 
+ <stem>ذَرِيعَة</stem>
+</res>
+<res>
+<word>للحديث</word> 
+ <stem>حَدِيث</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>أسئلة</word> 
+ <stem>أَسْئِلَة</stem>
+</res>
+<res>
+<word>الهويات</word> 
+ <stem>هُوِيَّات</stem>
+</res>
+<res>
+<word>الصغرى</word> 
+ <stem>صُغْرَى</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>ظل</word> 
+ <stem>ظِلّ</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>يعتقد</word> 
+ <stem>يَعْتَقِد</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>تصدع</word> 
+ <stem>تَصَدُّع</stem>
+</res>
+<res>
+<word>للعولمة</word> 
+ <stem>عَوْلَمَة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>كما</word> 
+ <stem>كَمًّا</stem>
+</res>
+<res>
+<word>كانت</word> 
+ <stem>كَانَت</stem>
+</res>
+<res>
+<word>الكورونا</word> 
+ <stem>الكورونا</stem>
+</res>
+<res>
+<word>ذريعة</word> 
+ <stem>ذَرِيعَة</stem>
+</res>
+<res>
+<word>لفتح</word> 
+ <stem>فَتْح</stem>
+</res>
+<res>
+<word>مواضيع</word> 
+ <stem>مَوَاضِيع</stem>
+</res>
+<res>
+<word>متعلقة</word> 
+ <stem>مُتَعَلِّقَة</stem>
+</res>
+<res>
+<word>بالفساد</word> 
+ <stem>فَسَاد</stem>
+</res>
+<res>
+<word>والاستبداد</word> 
+ <stem>اسْتِبْدَاد</stem>
+</res>
+<res>
+<word>والهيمنة</word> 
+ <stem>هَيْمَنَة</stem>
+</res>
+<res>
+<word>والرأسمالية</word> 
+ <stem>رَأْسْمَالِيَّة</stem>
+</res>
+<res>
+<word>المتوحشة</word> 
+ <stem>مُتَوَحِّشَة</stem>
+</res>
+<res>
+<word>ومكانة</word> 
+ <stem>مَكَانَة</stem>
+</res>
+<res>
+<word>العلم</word> 
+ <stem>عَلَم</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>مجتمعات</word> 
+ <stem>مُجْتَمَعَات</stem>
+</res>
+<res>
+<word>دينية</word> 
+ <stem>دِينِيَّة</stem>
+</res>
+<res>
+<word>وأخرى</word> 
+ <stem>أُخْرَى</stem>
+</res>
+<res>
+<word>خرافية</word> 
+ <stem>خِرَافِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بدا</word> 
+ <stem>بَدًا</stem>
+</res>
+<res>
+<word>الكتاب</word> 
+ <stem>كِتَاب</stem>
+</res>
+<res>
+<word>لبنة</word> 
+ <stem>لِبْنَة</stem>
+</res>
+<res>
+<word>أولى</word> 
+ <stem>أُولَى</stem>
+</res>
+<res>
+<word>مهمة</word> 
+ <stem>مُهِمَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>انتظار</word> 
+ <stem>انْتِظَار</stem>
+</res>
+<res>
+<word>عصف</word> 
+ <stem>عَصْف</stem>
+</res>
+<res>
+<word>ذهني</word> 
+ <stem>ذِهْنِيّ</stem>
+</res>
+<res>
+<word>أكبر</word> 
+ <stem>أَكْبَر</stem>
+</res>
+<res>
+<word>وأعمق</word> 
+ <stem>أَعْمَق</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>طارحا</word> 
+ <stem>طَارَحَا</stem>
+</res>
+<res>
+<word>أسئلة</word> 
+ <stem>أَسْئِلَة</stem>
+</res>
+<res>
+<word>جديدة</word> 
+ <stem>جَدِيدَة</stem>
+</res>
+<res>
+<word>باحثة</word> 
+ <stem>بَاحِثَة</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>أجوبة</word> 
+ <stem>أَجْوِبَة</stem>
+</res>
+<res>
+<word>خارج</word> 
+ <stem>خَارِج</stem>
+</res>
+<res>
+<word>المتداول</word> 
+ <stem>مُتَدَاوَل</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>لأن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>يجري</word> 
+ <stem>يَجْرِي</stem>
+</res>
+<res>
+<word>ليس</word> 
+ <stem>لَيْس</stem>
+</res>
+<res>
+<word>متداولا</word> 
+ <stem>مُتَدَاوَلًا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>لكي</word> 
+ <stem>كَي</stem>
+</res>
+<res>
+<word>ننتج</word> 
+ <stem>نَنْتُج</stem>
+</res>
+<res>
+<word>فكرا</word> 
+ <stem>فِكْرًا</stem>
+</res>
+<res>
+<word>جديدا</word> 
+ <stem>جَدِيدًا</stem>
+</res>
+<res>
+<word>لعالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word>جديد</word> 
+ <stem>جَدِيد</stem>
+</res>
+<res>
+<word>ظل</word> 
+ <stem>ظِلّ</stem>
+</res>
+<res>
+<word>مجهولا</word> 
+ <stem>مَجْهُولًا</stem>
+</res>
+<res>
+<word>حتى</word> 
+ <stem>حَتَّى</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>المفكرين</word> 
+ <stem>مُفَكِّرِين</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+</Stems>

@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Stems>
+<res>
+<word>بيع</word> 
+ <stem>بَيْع</stem>
+</res>
+<res>
+<word>أول</word> 
+ <stem>أَوَّل</stem>
+</res>
+<res>
+<word>حذاء</word> 
+ <stem>حِذَاء</stem>
+</res>
+<res>
+<word>لأسطورة</word> 
+ <stem>أُسْطُورَة</stem>
+</res>
+<res>
+<word>السلة</word> 
+ <stem>سَلَّة</stem>
+</res>
+<res>
+<word>الأميركية</word> 
+ <stem>أَمِيرْكِيَّة</stem>
+</res>
+<res>
+<word>بمبلغ</word> 
+ <stem>مَبْلَغ</stem>
+</res>
+<res>
+<word>قياسي</word> 
+ <stem>قِيَاسِيّ</stem>
+</res>
+
+<res>
+<word>أعلنت</word> 
+ <stem>أَعْلَنَت</stem>
+</res>
+<res>
+<word>دار</word> 
+ <stem>دَار</stem>
+</res>
+<res>
+<word>سوذبي</word> 
+ <stem>سوذبي</stem>
+</res>
+<res>
+<word>للمزادات</word> 
+ <stem>مَزَادَات</stem>
+</res>
+<res>
+<word>بيع</word> 
+ <stem>بَيْع</stem>
+</res>
+<res>
+<word>حذاء</word> 
+ <stem>حِذَاء</stem>
+</res>
+<res>
+<word>ارتداه</word> 
+ <stem>ارْتَدَى</stem>
+</res>
+<res>
+<word>أسطورة</word> 
+ <stem>أُسْطُورَة</stem>
+</res>
+<res>
+<word>كرة</word> 
+ <stem>كُرَة</stem>
+</res>
+<res>
+<word>السلة</word> 
+ <stem>سَلَّة</stem>
+</res>
+<res>
+<word>الأميركية</word> 
+ <stem>أَمِيرْكِيَّة</stem>
+</res>
+<res>
+<word>مايكل</word> 
+ <stem>مايكل</stem>
+</res>
+<res>
+<word>جوردان</word> 
+ <stem>جوردان</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>المباريات</word> 
+ <stem>مُبَارَيَات</stem>
+</res>
+<res>
+<word>خلال</word> 
+ <stem>خِلَال</stem>
+</res>
+<res>
+<word>موسمه</word> 
+ <stem>مَوْسِم</stem>
+</res>
+<res>
+<word>الأول</word> 
+ <stem>أَوَّل</stem>
+</res>
+<res>
+<word>مقابل</word> 
+ <stem>مُقَابِل</stem>
+</res>
+<res>
+<word>مبلغ</word> 
+ <stem>مَبْلَغ</stem>
+</res>
+<res>
+<word>قياسي</word> 
+ <stem>قِيَاسِيّ</stem>
+</res>
+<res>
+<word>بلغ</word> 
+ <stem>بَلَغ</stem>
+</res>
+<res>
+<word> 560 </word> 
+ <stem> 560 </stem>
+</res>
+<res>
+<word>ألف</word> 
+ <stem>أَلْف</stem>
+</res>
+<res>
+<word>دولار</word> 
+ <stem>دُولَار</stem>
+</res>
+<res>
+<word>خلال</word> 
+ <stem>خِلَال</stem>
+</res>
+<res>
+<word>مزاد</word> 
+ <stem>مَزَاد</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>الإنترنت</word> 
+ <stem>إِنْتِرْنِت</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وكان</word> 
+ <stem>كَان</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>المتوقع</word> 
+ <stem>مُتَوَقَّع</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>تصل</word> 
+ <stem>تَصِل</stem>
+</res>
+<res>
+<word>قيمة</word> 
+ <stem>قِيمَة</stem>
+</res>
+<res>
+<word>أول</word> 
+ <stem>أَوَّل</stem>
+</res>
+<res>
+<word>نسخة</word> 
+ <stem>نُسْخَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>حذاء</word> 
+ <stem>حِذَاء</stem>
+</res>
+<res>
+<word>جوردان</word> 
+ <stem>جوردان</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>صمم</word> 
+ <stem>صَمَّم</stem>
+</res>
+<res>
+<word>خصيصا</word> 
+ <stem>خصيصا</stem>
+</res>
+<res>
+<word>للاعب</word> 
+ <stem>لَاعِب</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word> 1985 </word> 
+ <stem> 1985 </stem>
+</res>
+<res>
+<word>وهو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>أول</word> 
+ <stem>أَوَّل</stem>
+</res>
+<res>
+<word>حذاء</word> 
+ <stem>حِذَاء</stem>
+</res>
+<res>
+<word>يحمل</word> 
+ <stem>يُحْمَل</stem>
+</res>
+<res>
+<word>توقيعه</word> 
+ <stem>تَوْقِيع</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>مبلغ</word> 
+ <stem>مَبْلَغ</stem>
+</res>
+<res>
+<word>يتراوح</word> 
+ <stem>يَتَرَاوَح</stem>
+</res>
+<res>
+<word>بين</word> 
+ <stem>بَيْن</stem>
+</res>
+<res>
+<word> 100 </word> 
+ <stem> 100 </stem>
+</res>
+<res>
+<word>و</word> 
+ <stem>و</stem>
+</res>
+<res>
+<word>150 </word> 
+ <stem>150 </stem>
+</res>
+<res>
+<word>ألف</word> 
+ <stem>أَلْف</stem>
+</res>
+<res>
+<word>دولار</word> 
+ <stem>دُولَار</stem>
+</res>
+<res>
+<word>قبل</word> 
+ <stem>قِبَل</stem>
+</res>
+<res>
+<word>انتهاء</word> 
+ <stem>انْتِهَاء</stem>
+</res>
+<res>
+<word>المزاد</word> 
+ <stem>مَزَاد</stem>
+</res>
+<res>
+<word>الأحد</word> 
+ <stem>أَحَد</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وتشتهر</word> 
+ <stem>تَشْتَهِر</stem>
+</res>
+<res>
+<word>سوذبي</word> 
+ <stem>سوذبي</stem>
+</res>
+<res>
+<word>ببيع</word> 
+ <stem>بَيْع</stem>
+</res>
+<res>
+<word>لوحات</word> 
+ <stem>لَوْحَات</stem>
+</res>
+<res>
+<word>فنية</word> 
+ <stem>فَنِّيَّة</stem>
+</res>
+<res>
+<word>بمئات</word> 
+ <stem>مِئَات</stem>
+</res>
+<res>
+<word>الملايين</word> 
+ <stem>مَلَايِين</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الدولارات</word> 
+ <stem>دُولَارَات</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>لكنها</word> 
+ <stem>لَكِنّ</stem>
+</res>
+<res>
+<word>أقامت</word> 
+ <stem>أَقَامَت</stem>
+</res>
+<res>
+<word>أول</word> 
+ <stem>أَوَّل</stem>
+</res>
+<res>
+<word>مزاد</word> 
+ <stem>مَزَاد</stem>
+</res>
+<res>
+<word>للأحذية</word> 
+ <stem>أَحْذِيَة</stem>
+</res>
+<res>
+<word>العام</word> 
+ <stem>عَام</stem>
+</res>
+<res>
+<word>الماضي</word> 
+ <stem>مَاضِي</stem>
+</res>
+<res>
+<word>ثم</word> 
+ <stem>ثُمّ</stem>
+</res>
+<res>
+<word>سجلت</word> 
+ <stem>سَجَّلَت</stem>
+</res>
+<res>
+<word>رقما</word> 
+ <stem>رَقْمًا</stem>
+</res>
+<res>
+<word>عالميا</word> 
+ <stem>عَالَمِيًّا</stem>
+</res>
+<res>
+<word>ببيع</word> 
+ <stem>بَيْع</stem>
+</res>
+<res>
+<word>زوج</word> 
+ <stem>زَوَّج</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مَن</stem>
+</res>
+<res>
+<word>الأحذية</word> 
+ <stem>أَحْذِيَة</stem>
+</res>
+<res>
+<word>الرياضية</word> 
+ <stem>رِيَاضِيَّة</stem>
+</res>
+<res>
+<word>المخصصة</word> 
+ <stem>مُخَصَّصَة</stem>
+</res>
+<res>
+<word>للركض</word> 
+ <stem>رَكْض</stem>
+</res>
+<res>
+<word>صُنع</word> 
+ <stem>صُنِع</stem>
+</res>
+<res>
+<word>عام</word> 
+ <stem>عَام</stem>
+</res>
+<res>
+<word> 1972، </word> 
+ <stem> 1972، </stem>
+</res>
+<res>
+<word>وهو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>أوائل</word> 
+ <stem>أَوَائِل</stem>
+</res>
+<res>
+<word>أحذية</word> 
+ <stem>أَحْذِيَة</stem>
+</res>
+<res>
+<word>شركة</word> 
+ <stem>شَرِكَة</stem>
+</res>
+<res>
+<word>نايكي</word> 
+ <stem>نايكي</stem>
+</res>
+<res>
+<word>ويعرف</word> 
+ <stem>يَعْرِف</stem>
+</res>
+<res>
+<word>باسم</word> 
+ <stem>اسْم</stem>
+</res>
+<res>
+<word> (</word> 
+ <stem> (</stem>
+</res>
+<res>
+<word>مون</word> 
+ <stem>مَوَّن</stem>
+</res>
+<res>
+<word>شو</word> 
+ <stem>شُو</stem>
+</res>
+<res>
+<word>)، </word> 
+ <stem>)، </stem>
+</res>
+<res>
+<word>مقابل</word> 
+ <stem>مُقَابِل</stem>
+</res>
+<res>
+<word> 437 </word> 
+ <stem> 437 </stem>
+</res>
+<res>
+<word>ألفا</word> 
+ <stem>أَلْفًا</stem>
+</res>
+<res>
+<word>و</word> 
+ <stem>و</stem>
+</res>
+<res>
+<word>500 </word> 
+ <stem>500 </stem>
+</res>
+<res>
+<word>دولار</word> 
+ <stem>دُولَار</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>Michael Jordan won Rookie of the Year 35 years ago today</word> 
+ <stem>Michael Jordan won Rookie of the Year 35 years ago today</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>The legend of Jumpman was born 🐐 pic</word> 
+ <stem>The legend of Jumpman was born 🐐 pic</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>twitter</word> 
+ <stem>twitter</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>com/HZYAmKr3lg</word> 
+ <stem>com/HZYAmKr3lg</stem>
+</res>
+
+<res>
+<word>— ESPN (@espn) May 16, 2020</word> 
+ <stem>— ESPN (@espn) May 16, 2020</stem>
+</res>
+
+
+<res>
+<word>وكما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>هو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>حال</word> 
+ <stem>حَال</stem>
+</res>
+<res>
+<word>أغلب</word> 
+ <stem>أَغْلَب</stem>
+</res>
+<res>
+<word>أحذية</word> 
+ <stem>أَحْذِيَة</stem>
+</res>
+<res>
+<word>جوردان</word> 
+ <stem>جوردان</stem>
+</res>
+<res>
+<word>المخصصة</word> 
+ <stem>مُخَصَّصَة</stem>
+</res>
+<res>
+<word>لكرة</word> 
+ <stem>كُرَة</stem>
+</res>
+<res>
+<word>السلة</word> 
+ <stem>سَلَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>جاء</word> 
+ <stem>جَاء</stem>
+</res>
+<res>
+<word>زوج</word> 
+ <stem>زَوْج</stem>
+</res>
+<res>
+<word>الأحذية</word> 
+ <stem>أَحْذِيَة</stem>
+</res>
+<res>
+<word>بمقاسين</word> 
+ <stem>مُقَاسِين</stem>
+</res>
+<res>
+<word>مختلفين</word> 
+ <stem>مُخْتَلِفَيْن</stem>
+</res>
+<res>
+<word>هما</word> 
+ <stem>هُمَا</stem>
+</res>
+<res>
+<word> 13 </word> 
+ <stem> 13 </stem>
+</res>
+<res>
+<word>للقدم</word> 
+ <stem>قَدَم</stem>
+</res>
+<res>
+<word>اليسرى</word> 
+ <stem>يُسْرَى</stem>
+</res>
+<res>
+<word>و</word> 
+ <stem>و</stem>
+</res>
+<res>
+<word>13</word> 
+ <stem>13</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>5 </word> 
+ <stem>5 </stem>
+</res>
+<res>
+<word>للقدم</word> 
+ <stem>قَدَم</stem>
+</res>
+<res>
+<word>اليمنى</word> 
+ <stem>يُمْنَى</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وتزامن</word> 
+ <stem>تَزَامَن</stem>
+</res>
+<res>
+<word>هذا</word> 
+ <stem>هَذَا</stem>
+</res>
+<res>
+<word>المزاد</word> 
+ <stem>مَزَاد</stem>
+</res>
+<res>
+<word>مع</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>الاحتفال</word> 
+ <stem>احْتِفَال</stem>
+</res>
+<res>
+<word>بذكرى</word> 
+ <stem>ذِكْرَى</stem>
+</res>
+<res>
+<word>مرور</word> 
+ <stem>مُرُور</stem>
+</res>
+<res>
+<word> 35 </word> 
+ <stem> 35 </stem>
+</res>
+<res>
+<word>عاما</word> 
+ <stem>عَامًا</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>العلامة</word> 
+ <stem>عَلَّامَة</stem>
+</res>
+<res>
+<word>التجارية</word> 
+ <stem>تِجَارِيَّة</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>إير</word> 
+ <stem>إِير</stem>
+</res>
+<res>
+<word>جوردان</word> 
+ <stem>جوردان</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>وعرض</word> 
+ <stem>عَرْض</stem>
+</res>
+<res>
+<word>الفيلم</word> 
+ <stem>فِيلْم</stem>
+</res>
+<res>
+<word>الوثائقي</word> 
+ <stem>وَثَائِقِيّ</stem>
+</res>
+<res>
+<word>المكون</word> 
+ <stem>مُكَوَّن</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>عشرة</word> 
+ <stem>عِشْرَة</stem>
+</res>
+<res>
+<word>أجزاء</word> 
+ <stem>أَجْزَاء</stem>
+</res>
+<res>
+<word> (</word> 
+ <stem> (</stem>
+</res>
+<res>
+<word>الرقصة</word> 
+ <stem>رِقْصَة</stem>
+</res>
+<res>
+<word>الأخيرة</word> 
+ <stem>أَخِيرَة</stem>
+</res>
+<res>
+<word>) </word> 
+ <stem>) </stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>شيكاغو</word> 
+ <stem>شِيكَاغُو</stem>
+</res>
+<res>
+<word>بولز</word> 
+ <stem>بُولْز</stem>
+</res>
+<res>
+<word>وجوردان</word> 
+ <stem>وجوردان</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وبيع</word> 
+ <stem>بَيْع</stem>
+</res>
+<res>
+<word>الحذاء</word> 
+ <stem>حِذَاء</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>المزاد</word> 
+ <stem>مَزَاد</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>طريق</word> 
+ <stem>طَرِيق</stem>
+</res>
+<res>
+<word>محب</word> 
+ <stem>مُحِبّ</stem>
+</res>
+<res>
+<word>الاقتناء</word> 
+ <stem>اقْتِنَاء</stem>
+</res>
+<res>
+<word>جوردان</word> 
+ <stem>جوردان</stem>
+</res>
+<res>
+<word>جيلر</word> 
+ <stem>جيلر</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وهو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>مؤسس</word> 
+ <stem>مُؤَسِّس</stem>
+</res>
+<res>
+<word>متحف</word> 
+ <stem>مَتْحَف</stem>
+</res>
+<res>
+<word>للأحذية</word> 
+ <stem>أَحْذِيَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>لاس</word> 
+ <stem>لَاسّ</stem>
+</res>
+<res>
+<word>فيغاس</word> 
+ <stem>فيغاس</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+</Stems>

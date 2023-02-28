@@ -1,0 +1,3416 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>افتتاح</word> 
+ <lemma>افْتِتَاح</lemma>
+</res>
+<res>
+<word>ملعب</word> 
+ <lemma>مَلْعَب</lemma>
+</res>
+<res>
+<word>الريان</word> 
+ <lemma>رَيّ</lemma>
+</res>
+<res>
+<word>المونديالي</word> 
+ <lemma>المونديالي</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>طموح</word> 
+ <lemma>طُمُوح</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>مواجهة</word> 
+ <lemma>مُوَاجَهَة</lemma>
+</res>
+<res>
+<word>قوة</word> 
+ <lemma>قُوَّة</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>نهائي</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>كأس</word> 
+ <lemma>كَأْس</lemma>
+</res>
+<res>
+<word>أمير</word> 
+ <lemma>أَمِير</lemma>
+</res>
+<res>
+<word>قطر</word> 
+ <lemma>قَطَر</lemma>
+</res>
+
+<res>
+<word>نهائي</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>جماهيري</word> 
+ <lemma>جَمَاهِيرِيّ</lemma>
+</res>
+<res>
+<word>منتظر</word> 
+ <lemma>مُنْتَظَر</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>مسابقة</word> 
+ <lemma>مُسَابَقَة</lemma>
+</res>
+<res>
+<word>كأس</word> 
+ <lemma>كَأْس</lemma>
+</res>
+<res>
+<word>أمير</word> 
+ <lemma>أَمِير</lemma>
+</res>
+<res>
+<word>قطر</word> 
+ <lemma>قَطَر</lemma>
+</res>
+<res>
+<word>لكرة</word> 
+ <lemma>كُرَة</lemma>
+</res>
+<res>
+<word>القدم</word> 
+ <lemma>قَدَم</lemma>
+</res>
+<res>
+<word>غدا</word> 
+ <lemma>غَد</lemma>
+</res>
+<res>
+<word>الجمعة</word> 
+ <lemma>جُمْعَة</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>افتتاح</word> 
+ <lemma>افْتِتَاح</lemma>
+</res>
+<res>
+<word>ملعب</word> 
+ <lemma>مَلْعَب</lemma>
+</res>
+<res>
+<word>الريان</word> 
+ <lemma>رَيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>رابع</word> 
+ <lemma>رَابِع</lemma>
+</res>
+<res>
+<word>ملاعب</word> 
+ <lemma>مَلْعَب</lemma>
+</res>
+<res>
+<word>مونديال</word> 
+ <lemma>مُونديَال</lemma>
+</res>
+<res>
+<word>قطر</word> 
+ <lemma>قَطَر</lemma>
+</res>
+<res>
+<word> 2022</word> 
+ <lemma> 2022</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وفي</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>هذا</word> 
+ <lemma>هَذَا</lemma>
+</res>
+<res>
+<word>النهائي</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>يواجه</word> 
+ <lemma>وَاجَهَ</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>الطامح</word> 
+ <lemma>طَامِح</lemma>
+</res>
+<res>
+<word>لاستعادة</word> 
+ <lemma>اسْتِعَادَة</lemma>
+</res>
+<res>
+<word>ذاكرة</word> 
+ <lemma>ذَاكِرَة</lemma>
+</res>
+<res>
+<word>الألقاب</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>وإحراز</word> 
+ <lemma>إِحْرَاز</lemma>
+</res>
+<res>
+<word>لقبه</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>الأول</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>هذه</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>المسابقة</word> 
+ <lemma>مُسَابَقَة</lemma>
+</res>
+<res>
+<word>منذ</word> 
+ <lemma>مُنْذُ</lemma>
+</res>
+<res>
+<word> 27 </word> 
+ <lemma> 27 </lemma>
+</res>
+<res>
+<word>عاما</word> 
+ <lemma>عَام</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فريق</word> 
+ <lemma>فَرِيق</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>يحمل</word> 
+ <lemma>حَمَلَ</lemma>
+</res>
+<res>
+<word>الرقم</word> 
+ <lemma>رَقْم</lemma>
+</res>
+<res>
+<word>القياسي</word> 
+ <lemma>قِيَاسِيّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>عدد</word> 
+ <lemma>عَدَد</lemma>
+</res>
+<res>
+<word>مرات</word> 
+ <lemma>مَرَّة</lemma>
+</res>
+<res>
+<word>الفوز</word> 
+ <lemma>فَوْز</lemma>
+</res>
+<res>
+<word>ب</word> 
+ <lemma>بِـ</lemma>
+</res>
+<res>
+<word>16 </word> 
+ <lemma>16 </lemma>
+</res>
+<res>
+<word>لقبا</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ويتطلع</word> 
+ <lemma>تَطَلَّعَ</lemma>
+</res>
+<res>
+<word>الفريقان</word> 
+ <lemma>فَرِيق</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>تحقيق</word> 
+ <lemma>تَحْقِيق</lemma>
+</res>
+<res>
+<word>اللقب</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>الساعي</word> 
+ <lemma>سَاعِي</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>مواصلة</word> 
+ <lemma>مُوَاصَلَة</lemma>
+</res>
+<res>
+<word>سيطرته</word> 
+ <lemma>سَيْطَرَة</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>هذه</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>البطولة</word> 
+ <lemma>بُطُولَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>حين</word> 
+ <lemma>حِينَ</lemma>
+</res>
+<res>
+<word>بدأ</word> 
+ <lemma>بَدَأَ</lemma>
+</res>
+<res>
+<word>حلم</word> 
+ <lemma>حُلْم</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>يكبر</word> 
+ <lemma>أَكْبَرَ</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>ضم</word> 
+ <lemma>ضَمَّ</lemma>
+</res>
+<res>
+<word>أكثر</word> 
+ <lemma>أَكْثَر</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>لاعب</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>مميز</word> 
+ <lemma>مُمَيِّز</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وبعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>التأهل</word> 
+ <lemma>تَأَهُّل</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>النهائي</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>جدارة</word> 
+ <lemma>جَدَارَة</lemma>
+</res>
+<res>
+<word>واستحقاق</word> 
+ <lemma>اسْتِحْقَاق</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>والاقتراب</word> 
+ <lemma>اقْتِرَاب</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>اللقب</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>تمنع</word> 
+ <lemma>مَنَعَ</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>الفريق</word> 
+ <lemma>فَرِيق</lemma>
+</res>
+<res>
+<word>قرابة</word> 
+ <lemma>قُرَابَة</lemma>
+</res>
+<res>
+<word> 3 </word> 
+ <lemma> 3 </lemma>
+</res>
+<res>
+<word>عقود</word> 
+ <lemma>عَقْد</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وتحمل</word> 
+ <lemma>حَمَلَ</lemma>
+</res>
+<res>
+<word>المباراة</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>طياتها</word> 
+ <lemma>طَيَّة</lemma>
+</res>
+<res>
+<word>العديد</word> 
+ <lemma>عَدِيد</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>المواجهات</word> 
+ <lemma>مُوَاجَهَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>أبرزها</word> 
+ <lemma>أَبْرَز</lemma>
+</res>
+<res>
+<word>بين</word> 
+ <lemma>بَيْنَ</lemma>
+</res>
+<res>
+<word>الجزائري</word> 
+ <lemma>جَزَائِرِيّ</lemma>
+</res>
+<res>
+<word>بغداد</word> 
+ <lemma>بَغْدَاد</lemma>
+</res>
+<res>
+<word>بو</word> 
+ <lemma>بُو</lemma>
+</res>
+<res>
+<word>نجاح</word> 
+ <lemma>نَجَاح</lemma>
+</res>
+<res>
+<word>لاعب</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word> -</word> 
+ <lemma> -</lemma>
+</res>
+<res>
+<word>أحد</word> 
+ <lemma>أَحَد</lemma>
+</res>
+<res>
+<word>أنجح</word> 
+ <lemma>أَنْجَح</lemma>
+</res>
+<res>
+<word>المهاجمين</word> 
+ <lemma>مُهَاجِم</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الدوري</word> 
+ <lemma>دَوْرِيّ</lemma>
+</res>
+<res>
+<word>القطري</word> 
+ <lemma>قَطَرِيّ</lemma>
+</res>
+<res>
+<word>- </word> 
+ <lemma>- </lemma>
+</res>
+<res>
+<word>والألماني</word> 
+ <lemma>أَلْمَانِيّ</lemma>
+</res>
+<res>
+<word>بيير</word> 
+ <lemma>بيير</lemma>
+</res>
+<res>
+<word>لاسوغا</word> 
+ <lemma>لاسوغا</lemma>
+</res>
+<res>
+<word>مهاجم</word> 
+ <lemma>مُهَاجِم</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>الوافد</word> 
+ <lemma>وَافِد</lemma>
+</res>
+<res>
+<word>حديثا</word> 
+ <lemma>حَدِيث</lemma>
+</res>
+<res>
+<word>وهداف</word> 
+ <lemma>هَدَّاف</lemma>
+</res>
+<res>
+<word>المسابقة</word> 
+ <lemma>مُسَابَقَة</lemma>
+</res>
+<res>
+<word>ب</word> 
+ <lemma>بِـ</lemma>
+</res>
+<res>
+<word>3 </word> 
+ <lemma>3 </lemma>
+</res>
+<res>
+<word>أهداف</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>كما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>تبرز</word> 
+ <lemma>أَبْرَزَ</lemma>
+</res>
+<res>
+<word>المواجهة</word> 
+ <lemma>مُوَاجَهَة</lemma>
+</res>
+<res>
+<word>بين</word> 
+ <lemma>بَيْنَ</lemma>
+</res>
+<res>
+<word>الآيسلندي</word> 
+ <lemma>الآيسلندي</lemma>
+</res>
+<res>
+<word>الدولي</word> 
+ <lemma>دُوَلِيّ</lemma>
+</res>
+<res>
+<word>أرون</word> 
+ <lemma>أَرَا</lemma>
+</res>
+<res>
+<word>غونارسون</word> 
+ <lemma>غونارسون</lemma>
+</res>
+<res>
+<word>لاعب</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>وسط</word> 
+ <lemma>وَسْط</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>المتألق</word> 
+ <lemma>مُتَأَلِّق</lemma>
+</res>
+<res>
+<word>ضمن</word> 
+ <lemma>ضِمْن</lemma>
+</res>
+<res>
+<word>صفوف</word> 
+ <lemma>صَفّ</lemma>
+</res>
+<res>
+<word>منتخب</word> 
+ <lemma>مُنْتَخَب</lemma>
+</res>
+<res>
+<word>بلاده</word> 
+ <lemma>بِلَاد</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>لعب</word> 
+ <lemma>لَعِبَ</lemma>
+</res>
+<res>
+<word>لنادي</word> 
+ <lemma>نَادِي</lemma>
+</res>
+<res>
+<word>كارديف</word> 
+ <lemma>كارديف</lemma>
+</res>
+<res>
+<word>سيتي</word> 
+ <lemma>سِيتِي</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الدوري</word> 
+ <lemma>دَوْرِيّ</lemma>
+</res>
+<res>
+<word>الإنجليزي</word> 
+ <lemma>إِنْجِلِيزِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>والإسباني</word> 
+ <lemma>إِسْبَانِيّ</lemma>
+</res>
+<res>
+<word>سانتي</word> 
+ <lemma>سَانّ</lemma>
+</res>
+<res>
+<word>كازورلا</word> 
+ <lemma>كازورلا</lemma>
+</res>
+<res>
+<word>صانع</word> 
+ <lemma>صَانِع</lemma>
+</res>
+<res>
+<word>ألعاب</word> 
+ <lemma>لُعْبَة</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>والنجم</word> 
+ <lemma>نَجْم</lemma>
+</res>
+<res>
+<word>السابق</word> 
+ <lemma>سَابِق</lemma>
+</res>
+<res>
+<word>لأرسنال</word> 
+ <lemma>أَرْسِنَال</lemma>
+</res>
+<res>
+<word>والذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>لعب</word> 
+ <lemma>لَعِبَ</lemma>
+</res>
+<res>
+<word>لأندية</word> 
+ <lemma>نَادٍ</lemma>
+</res>
+<res>
+<word>فياريال</word> 
+ <lemma>فياريال</lemma>
+</res>
+<res>
+<word>وريكرياتيفو</word> 
+ <lemma>وريكرياتيفو</lemma>
+</res>
+<res>
+<word>وملقا</word> 
+ <lemma>مَلَق</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الدوري</word> 
+ <lemma>دَوْرِيّ</lemma>
+</res>
+<res>
+<word>الإسباني</word> 
+ <lemma>إِسْبَانِيّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>هذا</word> 
+ <lemma>هَذَا</lemma>
+</res>
+<res>
+<word>بالإضافة</word> 
+ <lemma>إِضَافَة</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>المواجهة</word> 
+ <lemma>مُوَاجَهَة</lemma>
+</res>
+<res>
+<word>التكتيكية</word> 
+ <lemma>تَكْتِيكِيّ</lemma>
+</res>
+<res>
+<word>والخططية</word> 
+ <lemma>والخططية</lemma>
+</res>
+<res>
+<word>بين</word> 
+ <lemma>بَيْنَ</lemma>
+</res>
+<res>
+<word>المدربين</word> 
+ <lemma>مُدَرِّب</lemma>
+</res>
+<res>
+<word>الإسباني</word> 
+ <lemma>إِسْبَانِيّ</lemma>
+</res>
+<res>
+<word>تشافي</word> 
+ <lemma>شَافَ</lemma>
+</res>
+<res>
+<word>هيرنانديز</word> 
+ <lemma>هيرنانديز</lemma>
+</res>
+<res>
+<word> (</word> 
+ <lemma> (</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>) </word> 
+ <lemma>) </lemma>
+</res>
+<res>
+<word>والآيسلندي</word> 
+ <lemma>والآيسلندي</lemma>
+</res>
+<res>
+<word>هايمير</word> 
+ <lemma>هايمير</lemma>
+</res>
+<res>
+<word>هالغيرسون</word> 
+ <lemma>هالغيرسون</lemma>
+</res>
+<res>
+<word> (</word> 
+ <lemma> (</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>)، </word> 
+ <lemma>)، </lemma>
+</res>
+<res>
+<word>وكلاهما</word> 
+ <lemma>كُلّ</lemma>
+</res>
+<res>
+<word>كال</word> 
+ <lemma>كَال</lemma>
+</res>
+<res>
+<word>المديح</word> 
+ <lemma>مُدِيح</lemma>
+</res>
+<res>
+<word>للآخر</word> 
+ <lemma>آخَر</lemma>
+</res>
+<res>
+<word>قبل</word> 
+ <lemma>قَبْل</lemma>
+</res>
+<res>
+<word>المواجهة</word> 
+ <lemma>مُوَاجَهَة</lemma>
+</res>
+<res>
+<word>المرتقبة</word> 
+ <lemma>مُرْتَقَب</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>لكن</word> 
+ <lemma>لَكِنْ</lemma>
+</res>
+<res>
+<word>الحذر</word> 
+ <lemma>حِذْر</lemma>
+</res>
+<res>
+<word>ظهر</word> 
+ <lemma>ظَهَرَ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>تصريحاتهما</word> 
+ <lemma>تَصْرِيحَة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وإذا</word> 
+ <lemma>إِذَا</lemma>
+</res>
+<res>
+<word>كانت</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>جماهير</word> 
+ <lemma>جُمْهُور</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>لم</word> 
+ <lemma>لَمْ</lemma>
+</res>
+<res>
+<word>تحتفل</word> 
+ <lemma>احْتَفَلَ</lemma>
+</res>
+<res>
+<word>بتأهل</word> 
+ <lemma>تَأَهُّل</lemma>
+</res>
+<res>
+<word>فريقها</word> 
+ <lemma>فَرِيق</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>المباراة</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>النهائية</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>للمرة</word> 
+ <lemma>مَرَّة</lemma>
+</res>
+<res>
+<word>ال</word> 
+ <lemma>ال</lemma>
+</res>
+<res>
+<word>26 </word> 
+ <lemma>26 </lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>تاريخه</word> 
+ <lemma>تَارِيخ</lemma>
+</res>
+<res>
+<word>خلافا</word> 
+ <lemma>خِلَاف</lemma>
+</res>
+<res>
+<word>لما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>حصل</word> 
+ <lemma>حَصَلَ</lemma>
+</res>
+<res>
+<word>لدى</word> 
+ <lemma>لَدَى</lemma>
+</res>
+<res>
+<word>جماهير</word> 
+ <lemma>جُمْهُور</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>لأن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>دأب</word> 
+ <lemma>دَأَبَ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>بلوغ</word> 
+ <lemma>بُلُوغ</lemma>
+</res>
+<res>
+<word>المباراة</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>النهائية</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>العقد</word> 
+ <lemma>عِقْد</lemma>
+</res>
+<res>
+<word>الأخير</word> 
+ <lemma>أَخِير</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>فمنذ</word> 
+ <lemma>مُنْذُ</lemma>
+</res>
+<res>
+<word>انطلاق</word> 
+ <lemma>انْطِلَاق</lemma>
+</res>
+<res>
+<word>المسابقة</word> 
+ <lemma>مُسَابَقَة</lemma>
+</res>
+<res>
+<word>موسم</word> 
+ <lemma>مَوْسِم</lemma>
+</res>
+<res>
+<word> 1972-1973، </word> 
+ <lemma> 1972-1973، </lemma>
+</res>
+<res>
+<word>خاض</word> 
+ <lemma>خَاضَ</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word> -</word> 
+ <lemma> -</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>تأسس</word> 
+ <lemma>تَأَسَّسَ</lemma>
+</res>
+<res>
+<word>عام</word> 
+ <lemma>عَام</lemma>
+</res>
+<res>
+<word> 1969- 25 </word> 
+ <lemma> 1969- 25 </lemma>
+</res>
+<res>
+<word>مباراة</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>نهائية</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وإذا</word> 
+ <lemma>إِذَا</lemma>
+</res>
+<res>
+<word>نجح</word> 
+ <lemma>نَجَحَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>التتويج</word> 
+ <lemma>تَتْوِيج</lemma>
+</res>
+<res>
+<word>بلقبه</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>ال</word> 
+ <lemma>ال</lemma>
+</res>
+<res>
+<word>17، </word> 
+ <lemma>17، </lemma>
+</res>
+<res>
+<word>سيعزز</word> 
+ <lemma>عَزَّزَ</lemma>
+</res>
+<res>
+<word>رقمه</word> 
+ <lemma>رَقْم</lemma>
+</res>
+<res>
+<word>القياسي</word> 
+ <lemma>قِيَاسِيّ</lemma>
+</res>
+<res>
+<word>بفارق</word> 
+ <lemma>فَارِق</lemma>
+</res>
+<res>
+<word> 9 </word> 
+ <lemma> 9 </lemma>
+</res>
+<res>
+<word>ألقاب</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>أقرب</word> 
+ <lemma>أَقْرَب</lemma>
+</res>
+<res>
+<word>منافسيه</word> 
+ <lemma>مُنَافِس</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>أما</word> 
+ <lemma>أُمّ</lemma>
+</res>
+<res>
+<word>جماهير</word> 
+ <lemma>جُمْهُور</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>فقد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>احتفلت</word> 
+ <lemma>احْتَفَلَ</lemma>
+</res>
+<res>
+<word>بتأهل</word> 
+ <lemma>تَأَهُّل</lemma>
+</res>
+<res>
+<word>فريقها</word> 
+ <lemma>فَرِيق</lemma>
+</res>
+<res>
+<word>للمباراة</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>النهائية</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>المسابقة</word> 
+ <lemma>مُسَابَقَة</lemma>
+</res>
+<res>
+<word>للمرة</word> 
+ <lemma>مَرَّة</lemma>
+</res>
+<res>
+<word>الأولى</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>منذ</word> 
+ <lemma>مُنْذُ</lemma>
+</res>
+<res>
+<word> 26 </word> 
+ <lemma> 26 </lemma>
+</res>
+<res>
+<word>عاما</word> 
+ <lemma>عَام</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وهي</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>تحلم</word> 
+ <lemma>حَلَمَ</lemma>
+</res>
+<res>
+<word>باستعادة</word> 
+ <lemma>اسْتِعَادَة</lemma>
+</res>
+<res>
+<word>أمجاد</word> 
+ <lemma>مَجِيد</lemma>
+</res>
+<res>
+<word>الماضي</word> 
+ <lemma>مَاضِي</lemma>
+</res>
+<res>
+<word>وتحقيق</word> 
+ <lemma>تَحْقِيق</lemma>
+</res>
+<res>
+<word>اللقب</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>ال</word> 
+ <lemma>ال</lemma>
+</res>
+<res>
+<word>9 </word> 
+ <lemma>9 </lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>المسابقة</word> 
+ <lemma>مُسَابَقَة</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>اللقب</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>الأخير</word> 
+ <lemma>أَخِير</lemma>
+</res>
+<res>
+<word>موسم</word> 
+ <lemma>مَوْسِم</lemma>
+</res>
+<res>
+<word> 1992-1993 </word> 
+ <lemma> 1992-1993 </lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>حساب</word> 
+ <lemma>حِسَاب</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>بالذات</word> 
+ <lemma>ذَات</lemma>
+</res>
+<res>
+<word> (3-</word> 
+ <lemma> (3-</lemma>
+</res>
+<res>
+<word>صفر</word> 
+ <lemma>صِفْر</lemma>
+</res>
+<res>
+<word>)</word> 
+ <lemma>)</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>والنهائي</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>هو</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>الخامس</word> 
+ <lemma>خَامِس</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>يجمع</word> 
+ <lemma>جَمَعَ</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>والسد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>نهائي</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>كأس</word> 
+ <lemma>كَأْس</lemma>
+</res>
+<res>
+<word>الأمير</word> 
+ <lemma>أَمِير</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>إذ</word> 
+ <lemma>إِذْ</lemma>
+</res>
+<res>
+<word>التقيا</word> 
+ <lemma>الْتَقَى</lemma>
+</res>
+<res>
+<word>سابقا</word> 
+ <lemma>سَابِق</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word> 4 </word> 
+ <lemma> 4 </lemma>
+</res>
+<res>
+<word>مناسبات</word> 
+ <lemma>مُنَاسَبَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فاز</word> 
+ <lemma>فَازَ</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>مرتين</word> 
+ <lemma>مَرَّة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>أول</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>نهائي</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>جمعهما</word> 
+ <lemma>جَمَعَ</lemma>
+</res>
+<res>
+<word>موسم</word> 
+ <lemma>مَوْسِم</lemma>
+</res>
+<res>
+<word> 19982-1983 (1-</word> 
+ <lemma> 19982-1983 (1-</lemma>
+</res>
+<res>
+<word>صفر</word> 
+ <lemma>صِفْر</lemma>
+</res>
+<res>
+<word>) </word> 
+ <lemma>) </lemma>
+</res>
+<res>
+<word>وموسم</word> 
+ <lemma>مَوْسِم</lemma>
+</res>
+<res>
+<word> 1992-1993 (3-</word> 
+ <lemma> 1992-1993 (3-</lemma>
+</res>
+<res>
+<word>صفر</word> 
+ <lemma>صِفْر</lemma>
+</res>
+<res>
+<word>)، </word> 
+ <lemma>)، </lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>حين</word> 
+ <lemma>حِينَ</lemma>
+</res>
+<res>
+<word>فاز</word> 
+ <lemma>فَازَ</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>مرتين</word> 
+ <lemma>مَرَّة</lemma>
+</res>
+<res>
+<word>أيضا</word> 
+ <lemma>أَيْض</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>موسم</word> 
+ <lemma>مَوْسِم</lemma>
+</res>
+<res>
+<word> 1985-1986 (2-</word> 
+ <lemma> 1985-1986 (2-</lemma>
+</res>
+<res>
+<word>صفر</word> 
+ <lemma>صِفْر</lemma>
+</res>
+<res>
+<word>) </word> 
+ <lemma>) </lemma>
+</res>
+<res>
+<word>وموسم</word> 
+ <lemma>مَوْسِم</lemma>
+</res>
+<res>
+<word> 1993-1994 (3-2)، </word> 
+ <lemma> 1993-1994 (3-2)، </lemma>
+</res>
+<res>
+<word>وهو</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>النهائي</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>الأخير</word> 
+ <lemma>أَخِير</lemma>
+</res>
+<res>
+<word>بينهما</word> 
+ <lemma>بَيْنَ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>كما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>يُعد</word> 
+ <lemma>عَدَا</lemma>
+</res>
+<res>
+<word>هذا</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>النهائي</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>هو</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>الثاني</word> 
+ <lemma>ثَان</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>يجمع</word> 
+ <lemma>جَمَعَ</lemma>
+</res>
+<res>
+<word>بين</word> 
+ <lemma>بَيْنَ</lemma>
+</res>
+<res>
+<word>الفريقين</word> 
+ <lemma>فَرِيق</lemma>
+</res>
+<res>
+<word>هذا</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>الموسم</word> 
+ <lemma>مَوْسِم</lemma>
+</res>
+<res>
+<word>بعدما</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>التقيا</word> 
+ <lemma>الْتَقَى</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>المباراة</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>النهائية</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>بطولة</word> 
+ <lemma>بُطُولَة</lemma>
+</res>
+<res>
+<word>كأس</word> 
+ <lemma>كَأْس</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>أوريدو</word> 
+ <lemma>أوريدو</lemma>
+</res>
+<res>
+<word>" </word> 
+ <lemma>" </lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>انتهت</word> 
+ <lemma>انْتَهَى</lemma>
+</res>
+<res>
+<word>لمصلحة</word> 
+ <lemma>مَصْلَحَة</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>برباعية</word> 
+ <lemma>رُبَاعِيّ</lemma>
+</res>
+<res>
+<word>نظيفة</word> 
+ <lemma>نَظِيف</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ورغم</word> 
+ <lemma>رَغْم</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>الترشيحات</word> 
+ <lemma>تَرْشِيح</lemma>
+</res>
+<res>
+<word>تصب</word> 
+ <lemma>صَبَّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>مصلحة</word> 
+ <lemma>مَصْلَحَة</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>لا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>سيما</word> 
+ <lemma>سِي</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْد</lemma>
+</res>
+<res>
+<word>تفوقه</word> 
+ <lemma>تَفَوُّق</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>العقد</word> 
+ <lemma>عِقْد</lemma>
+</res>
+<res>
+<word>الأخير</word> 
+ <lemma>أَخِير</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فإن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>أظهر</word> 
+ <lemma>أَظْهَرَ</lemma>
+</res>
+<res>
+<word>بعض</word> 
+ <lemma>بَعْض</lemma>
+</res>
+<res>
+<word>الخلل</word> 
+ <lemma>خَلَل</lemma>
+</res>
+<res>
+<word>الدفاعي</word> 
+ <lemma>دِفَاعِيّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>عدد</word> 
+ <lemma>عَدَد</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>المباريات</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>دون</word> 
+ <lemma>دُونَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>تتمكن</word> 
+ <lemma>تَمَكَّنَ</lemma>
+</res>
+<res>
+<word>الفرق</word> 
+ <lemma>فِرْقَة</lemma>
+</res>
+<res>
+<word>المنافسة</word> 
+ <lemma>مُنَافِس</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>استغلاله</word> 
+ <lemma>اسْتِغْلَال</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>الأمر</word> 
+ <lemma>أَمْر</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>قد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>يكون</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>فرصة</word> 
+ <lemma>فُرْصَة</lemma>
+</res>
+<res>
+<word>سانحة</word> 
+ <lemma>سَانِح</lemma>
+</res>
+<res>
+<word>أمام</word> 
+ <lemma>أَمَامَ</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>إذا</word> 
+ <lemma>إِذَا</lemma>
+</res>
+<res>
+<word>عرف</word> 
+ <lemma>عَرَفَ</lemma>
+</res>
+<res>
+<word>كيف</word> 
+ <lemma>كَيْفَ</lemma>
+</res>
+<res>
+<word>يوقف</word> 
+ <lemma>أَوْقَفَ</lemma>
+</res>
+<res>
+<word>خطورة</word> 
+ <lemma>خُطُور</lemma>
+</res>
+<res>
+<word>مهاجمي</word> 
+ <lemma>مُهَاجِم</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ويعتقد</word> 
+ <lemma>اعْتَقَدَ</lemma>
+</res>
+<res>
+<word>مراقبون</word> 
+ <lemma>مُرَاقِب</lemma>
+</res>
+<res>
+<word>أنه</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>إذا</word> 
+ <lemma>إِذَا</lemma>
+</res>
+<res>
+<word>لم</word> 
+ <lemma>لَمْ</lemma>
+</res>
+<res>
+<word>يبادر</word> 
+ <lemma>بَادَرَ</lemma>
+</res>
+<res>
+<word>تشافي</word> 
+ <lemma>شَافَ</lemma>
+</res>
+<res>
+<word>لتدارك</word> 
+ <lemma>دَارَكَ</lemma>
+</res>
+<res>
+<word>الأمور</word> 
+ <lemma>أَمْر</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>خط</word> 
+ <lemma>خَطّ</lemma>
+</res>
+<res>
+<word>فريقه</word> 
+ <lemma>فَرِيق</lemma>
+</res>
+<res>
+<word>الخلفي</word> 
+ <lemma>خَلْفِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فقد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>يعاني</word> 
+ <lemma>عَانَى</lemma>
+</res>
+<res>
+<word>كثيرا</word> 
+ <lemma>كَثِير</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>مواجهة</word> 
+ <lemma>مُوَاجَهَة</lemma>
+</res>
+<res>
+<word>سرعة</word> 
+ <lemma>سُرْعَة</lemma>
+</res>
+<res>
+<word>الألماني</word> 
+ <lemma>أَلْمَانِيّ</lemma>
+</res>
+<res>
+<word>لاغوسا</word> 
+ <lemma>لاغوسا</lemma>
+</res>
+<res>
+<word>والهجمات</word> 
+ <lemma>هَجْمَة</lemma>
+</res>
+<res>
+<word>المرتدة</word> 
+ <lemma>مُرْتَدّ</lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>سيعتمد</word> 
+ <lemma>اعْتَمَدَ</lemma>
+</res>
+<res>
+<word>عليها</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>مع</word> 
+ <lemma>مَعَ</lemma>
+</res>
+<res>
+<word>إغلاق</word> 
+ <lemma>إِغْلَاق</lemma>
+</res>
+<res>
+<word>وسط</word> 
+ <lemma>وَسْط</lemma>
+</res>
+<res>
+<word>ملعبه</word> 
+ <lemma>مَلْعَب</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ويسعى</word> 
+ <lemma>سَعَى</lemma>
+</res>
+<res>
+<word>هالغيرسون</word> 
+ <lemma>هالغيرسون</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>كتابة</word> 
+ <lemma>كِتَابَة</lemma>
+</res>
+<res>
+<word>تاريخ</word> 
+ <lemma>تَارِيخ</lemma>
+</res>
+<res>
+<word>لنفسه</word> 
+ <lemma>نَفْس</lemma>
+</res>
+<res>
+<word>وقيادة</word> 
+ <lemma>قِيَادَة</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>للتتويج</word> 
+ <lemma>تَتْوِيج</lemma>
+</res>
+<res>
+<word>باللقب</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>يمثل</word> 
+ <lemma>مَثَّلَ</lemma>
+</res>
+<res>
+<word>الجائزة</word> 
+ <lemma>جَائِزَة</lemma>
+</res>
+<res>
+<word>الكبرى</word> 
+ <lemma>كُبْرَى</lemma>
+</res>
+<res>
+<word>والهدف</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>الأسمى</word> 
+ <lemma>أَسْمَى</lemma>
+</res>
+<res>
+<word>للفريق</word> 
+ <lemma>فَرِيق</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>علما</word> 
+ <lemma>عِلْم</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>حصد</word> 
+ <lemma>حَصْد</lemma>
+</res>
+<res>
+<word> 22 </word> 
+ <lemma> 22 </lemma>
+</res>
+<res>
+<word>بطولة</word> 
+ <lemma>بُطُولَة</lemma>
+</res>
+<res>
+<word>محلية</word> 
+ <lemma>مَحَلِّيّ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>مدار</word> 
+ <lemma>مَدَار</lemma>
+</res>
+<res>
+<word>تاريخه</word> 
+ <lemma>تَارِيخ</lemma>
+</res>
+<res>
+<word> (8 </word> 
+ <lemma> (8 </lemma>
+</res>
+<res>
+<word>كأس</word> 
+ <lemma>كَأْس</lemma>
+</res>
+<res>
+<word>الأمير</word> 
+ <lemma>أَمِير</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>7 </word> 
+ <lemma>7 </lemma>
+</res>
+<res>
+<word>الدوري</word> 
+ <lemma>دَوْرِيّ</lemma>
+</res>
+<res>
+<word>العام</word> 
+ <lemma>عَامّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>6 </word> 
+ <lemma>6 </lemma>
+</res>
+<res>
+<word>كأس</word> 
+ <lemma>كَأْس</lemma>
+</res>
+<res>
+<word>الشيخ</word> 
+ <lemma>شَيْخ</lemma>
+</res>
+<res>
+<word>جاسم</word> 
+ <lemma>جَاسِم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ولقب</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>واحد</word> 
+ <lemma>وَاحِد</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>كأس</word> 
+ <lemma>كَأْس</lemma>
+</res>
+<res>
+<word>ولي</word> 
+ <lemma>وَلِيّ</lemma>
+</res>
+<res>
+<word>العهد</word> 
+ <lemma>عَهْد</lemma>
+</res>
+<res>
+<word>)</word> 
+ <lemma>)</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ويرى</word> 
+ <lemma>رَأَى</lemma>
+</res>
+<res>
+<word>إبراهيم</word> 
+ <lemma>إِبْرَاهِيم</lemma>
+</res>
+<res>
+<word>خلفان</word> 
+ <lemma>خِلْف</lemma>
+</res>
+<res>
+<word>النجم</word> 
+ <lemma>نَجْم</lemma>
+</res>
+<res>
+<word>السابق</word> 
+ <lemma>سَابِق</lemma>
+</res>
+<res>
+<word>للعربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>والمنتخب</word> 
+ <lemma>مُنْتَخَب</lemma>
+</res>
+<res>
+<word>القطري</word> 
+ <lemma>قَطَرِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>حلم</word> 
+ <lemma>حُلْم</lemma>
+</res>
+<res>
+<word>استعادة</word> 
+ <lemma>اسْتِعَادَة</lemma>
+</res>
+<res>
+<word>الألقاب</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>هو</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>أكبر</word> 
+ <lemma>أَكْبَر</lemma>
+</res>
+<res>
+<word>حافز</word> 
+ <lemma>حَافِز</lemma>
+</res>
+<res>
+<word>لدى</word> 
+ <lemma>لَدَى</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>قبل</word> 
+ <lemma>قَبْل</lemma>
+</res>
+<res>
+<word>مواجهة</word> 
+ <lemma>مُوَاجَهَة</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>النهائي</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>مشيرا</word> 
+ <lemma>مُشِير</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>كل</word> 
+ <lemma>كَلَّ</lemma>
+</res>
+<res>
+<word>التوقعات</word> 
+ <lemma>تَوَقُّع</lemma>
+</res>
+<res>
+<word>تصب</word> 
+ <lemma>صَبَّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>صالح</word> 
+ <lemma>صَالِح</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>لكن</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>كرة</word> 
+ <lemma>كُرَة</lemma>
+</res>
+<res>
+<word>القدم</word> 
+ <lemma>قَدَم</lemma>
+</res>
+<res>
+<word>لا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>تؤمن</word> 
+ <lemma>أَمَّنَ</lemma>
+</res>
+<res>
+<word>بالمنطق</word> 
+ <lemma>مَنْطِق</lemma>
+</res>
+<res>
+<word>ولا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>تعرف</word> 
+ <lemma>عَرَفَ</lemma>
+</res>
+<res>
+<word>المستحيل</word> 
+ <lemma>مُسْتَحِيل</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ويقول</word> 
+ <lemma>قَالَ</lemma>
+</res>
+<res>
+<word>للجزيرة</word> 
+ <lemma>جَزِيرَة</lemma>
+</res>
+<res>
+<word>نت</word> 
+ <lemma>نِت</lemma>
+</res>
+<res>
+<word>إن</word> 
+ <lemma>إِنَّ</lemma>
+</res>
+<res>
+<word>المباراة</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>ستكون</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>صعبة</word> 
+ <lemma>صَعْب</lemma>
+</res>
+<res>
+<word>جدا</word> 
+ <lemma>جِدّ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>نظرا</word> 
+ <lemma>نَظَر</lemma>
+</res>
+<res>
+<word>للفوارق</word> 
+ <lemma>فَارِق</lemma>
+</res>
+<res>
+<word>الفنية</word> 
+ <lemma>فَنِّيّ</lemma>
+</res>
+<res>
+<word>الكبيرة</word> 
+ <lemma>كَبِير</lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>تصب</word> 
+ <lemma>صَبَّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>صالح</word> 
+ <lemma>صَالِح</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>إلا</word> 
+ <lemma>إِلَّا</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>المفاجآت</word> 
+ <lemma>مُفَاجَأَة</lemma>
+</res>
+<res>
+<word>واردة</word> 
+ <lemma>وَارِد</lemma>
+</res>
+<res>
+<word>وقد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>يحدث</word> 
+ <lemma>أَحْدَثَ</lemma>
+</res>
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>يقلب</word> 
+ <lemma>قَلَبَ</lemma>
+</res>
+<res>
+<word>المباراة</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>رأسا</word> 
+ <lemma>رَأْس</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>عقب</word> 
+ <lemma>عَقِب</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>واعتبر</word> 
+ <lemma>اعْتَبَرَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>قوة</word> 
+ <lemma>قُوَّة</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>تكمن</word> 
+ <lemma>كَمَنَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>اللعب</word> 
+ <lemma>لَعِب</lemma>
+</res>
+<res>
+<word>بشكل</word> 
+ <lemma>شَكْل</lemma>
+</res>
+<res>
+<word>جماعي</word> 
+ <lemma>جَمَاعِيّ</lemma>
+</res>
+<res>
+<word>وليس</word> 
+ <lemma>لَيْسَ</lemma>
+</res>
+<res>
+<word>ترك</word> 
+ <lemma>تَرَكَ</lemma>
+</res>
+<res>
+<word>الأمر</word> 
+ <lemma>أَمْر</lemma>
+</res>
+<res>
+<word>للاجتهادات</word> 
+ <lemma>اجْتِهَاد</lemma>
+</res>
+<res>
+<word>الفردية</word> 
+ <lemma>فَرْدِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>خاصة</word> 
+ <lemma>خَاصَّة</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>ظل</word> 
+ <lemma>ظَلَّ</lemma>
+</res>
+<res>
+<word>عدم</word> 
+ <lemma>عَدَم</lemma>
+</res>
+<res>
+<word>امتلاكه</word> 
+ <lemma>امْتِلَاك</lemma>
+</res>
+<res>
+<word>للاعب</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>يصنع</word> 
+ <lemma>صَنَعَ</lemma>
+</res>
+<res>
+<word>الفارق</word> 
+ <lemma>فَارِق</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>المقابل</word> 
+ <lemma>مُقَابِل</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>يمني</word> 
+ <lemma>يَمَنِيّ</lemma>
+</res>
+<res>
+<word>تشافي</word> 
+ <lemma>شَافَ</lemma>
+</res>
+<res>
+<word>النفس</word> 
+ <lemma>نَفْس</lemma>
+</res>
+<res>
+<word>بتعويض</word> 
+ <lemma>تَعْوِيض</lemma>
+</res>
+<res>
+<word>إخفاقه</word> 
+ <lemma>إِخْفَاق</lemma>
+</res>
+<res>
+<word>أمام</word> 
+ <lemma>أَمَامَ</lemma>
+</res>
+<res>
+<word>الدحيل</word> 
+ <lemma>الدحيل</lemma>
+</res>
+<res>
+<word> (1-4) </word> 
+ <lemma> (1-4) </lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>نهائي</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>البطولة</word> 
+ <lemma>بُطُولَة</lemma>
+</res>
+<res>
+<word>العام</word> 
+ <lemma>عَام</lemma>
+</res>
+<res>
+<word>الماضي</word> 
+ <lemma>مَاضِي</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>واستعادة</word> 
+ <lemma>اسْتِعَادَة</lemma>
+</res>
+<res>
+<word>اللقب</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>الغائب</word> 
+ <lemma>غَائِب</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>خزائن</word> 
+ <lemma>خِزَانَة</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>العامين</word> 
+ <lemma>عَام</lemma>
+</res>
+<res>
+<word>الماضيين</word> 
+ <lemma>مَاضٍ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>واستكمال</word> 
+ <lemma>اسْتِكْمَال</lemma>
+</res>
+<res>
+<word>مسيرته</word> 
+ <lemma>مَسِيرَة</lemma>
+</res>
+<res>
+<word>الناجحة</word> 
+ <lemma>نَاجِح</lemma>
+</res>
+<res>
+<word>محليا</word> 
+ <lemma>مَحَلِّيّ</lemma>
+</res>
+<res>
+<word>هذا</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>الموسم</word> 
+ <lemma>مَوْسِم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>استهلها</word> 
+ <lemma>اسْتَهَلَّ</lemma>
+</res>
+<res>
+<word>بحصد</word> 
+ <lemma>حَصْد</lemma>
+</res>
+<res>
+<word>لقب</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>كأس</word> 
+ <lemma>كَأْس</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>أوريدو</word> 
+ <lemma>أوريدو</lemma>
+</res>
+<res>
+<word>"، </word> 
+ <lemma>"، </lemma>
+</res>
+<res>
+<word>وتصدر</word> 
+ <lemma>صَدَرَ</lemma>
+</res>
+<res>
+<word>مسابقة</word> 
+ <lemma>مُسَابَقَة</lemma>
+</res>
+<res>
+<word>الدوري</word> 
+ <lemma>دَوْرِيّ</lemma>
+</res>
+<res>
+<word>العام</word> 
+ <lemma>عَامّ</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>الفوز</word> 
+ <lemma>فَوْز</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>المباريات</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>الست</word> 
+ <lemma>سِتّ</lemma>
+</res>
+<res>
+<word>الأخيرة</word> 
+ <lemma>أَخِير</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>بدوره</word> 
+ <lemma>دَار</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>أكد</word> 
+ <lemma>أَكَّدَ</lemma>
+</res>
+<res>
+<word>اللاعب</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>السابق</word> 
+ <lemma>سَابِق</lemma>
+</res>
+<res>
+<word>للسد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>والمنتخب</word> 
+ <lemma>مُنْتَخَب</lemma>
+</res>
+<res>
+<word>القطري</word> 
+ <lemma>قَطَرِيّ</lemma>
+</res>
+<res>
+<word>جفال</word> 
+ <lemma>جُفَال</lemma>
+</res>
+<res>
+<word>راشد</word> 
+ <lemma>رَاشِد</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>الكل</word> 
+ <lemma>كُلّ</lemma>
+</res>
+<res>
+<word>سيكون</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>فائزا</word> 
+ <lemma>فَائِز</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>نهائي</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>كأس</word> 
+ <lemma>كَأْس</lemma>
+</res>
+<res>
+<word>الأمير</word> 
+ <lemma>أَمِير</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>المسابقة</word> 
+ <lemma>مُسَابَقَة</lemma>
+</res>
+<res>
+<word>الغالية</word> 
+ <lemma>غَالِيَة</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>قلوب</word> 
+ <lemma>قَلْب</lemma>
+</res>
+<res>
+<word>الجميع</word> 
+ <lemma>جَمِيع</lemma>
+</res>
+<res>
+<word>"، </word> 
+ <lemma>"، </lemma>
+</res>
+<res>
+<word>خاصة</word> 
+ <lemma>خَاصَّة</lemma>
+</res>
+<res>
+<word>وأنها</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>تقام</word> 
+ <lemma>أَقَامَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>اليوم</word> 
+ <lemma>يَوْم</lemma>
+</res>
+<res>
+<word>الوطني</word> 
+ <lemma>وَطَنِيّ</lemma>
+</res>
+<res>
+<word>للدولة</word> 
+ <lemma>دَوْلَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وأيضا</word> 
+ <lemma>أَيْض</lemma>
+</res>
+<res>
+<word>مع</word> 
+ <lemma>مَعَ</lemma>
+</res>
+<res>
+<word>افتتاح</word> 
+ <lemma>افْتِتَاح</lemma>
+</res>
+<res>
+<word>ملعب</word> 
+ <lemma>مَلْعَب</lemma>
+</res>
+<res>
+<word>الريان</word> 
+ <lemma>رَيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>رابع</word> 
+ <lemma>رَابِع</lemma>
+</res>
+<res>
+<word>ملاعب</word> 
+ <lemma>مَلْعَب</lemma>
+</res>
+<res>
+<word>مونديال</word> 
+ <lemma>مُونديَال</lemma>
+</res>
+<res>
+<word>قطر</word> 
+ <lemma>قَطَر</lemma>
+</res>
+<res>
+<word> 2022</word> 
+ <lemma> 2022</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وقال</word> 
+ <lemma>قَالَ</lemma>
+</res>
+<res>
+<word>راشد</word> 
+ <lemma>رَاشِد</lemma>
+</res>
+<res>
+<word>للجزيرة</word> 
+ <lemma>جَزِيرَة</lemma>
+</res>
+<res>
+<word>نت</word> 
+ <lemma>نِت</lemma>
+</res>
+<res>
+<word>إن</word> 
+ <lemma>إِنَّ</lemma>
+</res>
+<res>
+<word>السد</word> 
+ <lemma>سَدّ</lemma>
+</res>
+<res>
+<word>حظوظه</word> 
+ <lemma>حَظّ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الورق</word> 
+ <lemma>وَرَق</lemma>
+</res>
+<res>
+<word>أقوى</word> 
+ <lemma>أَقْوَى</lemma>
+</res>
+<res>
+<word>للفوز</word> 
+ <lemma>فَوْز</lemma>
+</res>
+<res>
+<word>باللقب</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>نظرا</word> 
+ <lemma>نَظَر</lemma>
+</res>
+<res>
+<word>لامتلاكه</word> 
+ <lemma>امْتِلَاك</lemma>
+</res>
+<res>
+<word>مجموعة</word> 
+ <lemma>مَجْمُوعَة</lemma>
+</res>
+<res>
+<word>مميزة</word> 
+ <lemma>مُمَيَّز</lemma>
+</res>
+<res>
+<word>ومتكاملة</word> 
+ <lemma>مُتَكَامِل</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>اللاعبين</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>كافة</word> 
+ <lemma>كَافَّة</lemma>
+</res>
+<res>
+<word>المراكز</word> 
+ <lemma>مَرْكَز</lemma>
+</res>
+<res>
+<word>مقارنة</word> 
+ <lemma>مُقَارَنَة</lemma>
+</res>
+<res>
+<word>بالعربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>لكن</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>عليه</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنّ</lemma>
+</res>
+<res>
+<word>يحذر</word> 
+ <lemma>حَذَّرَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الثقة</word> 
+ <lemma>ثِقَة</lemma>
+</res>
+<res>
+<word>المفرطة</word> 
+ <lemma>مُفْرِط</lemma>
+</res>
+<res>
+<word>خاصة</word> 
+ <lemma>خَاصَّة</lemma>
+</res>
+<res>
+<word>وأن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>كل</word> 
+ <lemma>كُلّ</lemma>
+</res>
+<res>
+<word>الأمور</word> 
+ <lemma>أَمْر</lemma>
+</res>
+<res>
+<word>واردة</word> 
+ <lemma>وَارِد</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>مباريات</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>مسابقات</word> 
+ <lemma>مُسَابَقَة</lemma>
+</res>
+<res>
+<word>الكأس</word> 
+ <lemma>كَأْس</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وأضاف</word> 
+ <lemma>أَضَافَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>حلم</word> 
+ <lemma>حُلْم</lemma>
+</res>
+<res>
+<word>العربي</word> 
+ <lemma>عَرَبِيّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>إحراز</word> 
+ <lemma>إِحْرَاز</lemma>
+</res>
+<res>
+<word>اللقب</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>مشروع</word> 
+ <lemma>مَشْرُوع</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>أجل</word> 
+ <lemma>أَجْل</lemma>
+</res>
+<res>
+<word>إسعاد</word> 
+ <lemma>إِسْعَاد</lemma>
+</res>
+<res>
+<word>جماهيره</word> 
+ <lemma>جُمْهُور</lemma>
+</res>
+<res>
+<word>المتعطشة</word> 
+ <lemma>مُتَعَطِّش</lemma>
+</res>
+<res>
+<word>للألقاب</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>منذ</word> 
+ <lemma>مُنْذُ</lemma>
+</res>
+<res>
+<word>مدة</word> 
+ <lemma>مُدّ</lemma>
+</res>
+<res>
+<word>طويلة</word> 
+ <lemma>طَوِيل</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ورغم</word> 
+ <lemma>رَغْم</lemma>
+</res>
+<res>
+<word>صعوبة</word> 
+ <lemma>صُعُوبَة</lemma>
+</res>
+<res>
+<word>المباراة</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>عليه</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>خاصة</word> 
+ <lemma>خَاصَّة</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>تراجع</word> 
+ <lemma>تَرَاجُع</lemma>
+</res>
+<res>
+<word>نتائجه</word> 
+ <lemma>نَتِيجَة</lemma>
+</res>
+<res>
+<word>وأدائه</word> 
+ <lemma>أَدَاء</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الفترة</word> 
+ <lemma>فَتْرَة</lemma>
+</res>
+<res>
+<word>الأخيرة</word> 
+ <lemma>أَخِير</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فإن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>المباريات</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>النهائية</word> 
+ <lemma>نِهَائِيّ</lemma>
+</res>
+<res>
+<word>قد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>تشهد</word> 
+ <lemma>شَهِدَ</lemma>
+</res>
+<res>
+<word>مفاجآت</word> 
+ <lemma>مُفَاجَأَة</lemma>
+</res>
+<res>
+<word>تحوّل</word> 
+ <lemma>تَحَوُّل</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>مسار</word> 
+ <lemma>مَسَار</lemma>
+</res>
+<res>
+<word>المباراة</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

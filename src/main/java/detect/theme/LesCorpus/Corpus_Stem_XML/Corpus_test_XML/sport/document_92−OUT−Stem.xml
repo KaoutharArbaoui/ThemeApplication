@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Stems>
+<res>
+<word>مثير</word> 
+ <stem>مُثِير</stem>
+</res>
+<res>
+<word>للجدل</word> 
+ <stem>جَدَل</stem>
+</res>
+<res>
+<word>حتى</word> 
+ <stem>حَتَّى</stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>رحيله</word> 
+ <stem>رَحِيل</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>طلب</word> 
+ <stem>طَلَب</stem>
+</res>
+<res>
+<word>مارادونا</word> 
+ <stem>مارادونا</stem>
+</res>
+<res>
+<word>الأخير</word> 
+ <stem>أَخْيَر</stem>
+</res>
+
+<res>
+<word>تصريحاته</word> 
+ <stem>تَصْرِيحَات</stem>
+</res>
+<res>
+<word>وتصرفاته</word> 
+ <stem>تَصَرُّفَات</stem>
+</res>
+<res>
+<word>كانت</word> 
+ <stem>كَانَت</stem>
+</res>
+<res>
+<word>تطغى</word> 
+ <stem>تَطْغَى</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>بعض</word> 
+ <stem>بَعْض</stem>
+</res>
+<res>
+<word>الأحيان</word> 
+ <stem>أَحْيَان</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>فنياته</word> 
+ <stem>فَنِيَّات</stem>
+</res>
+<res>
+<word>ومهاراته</word> 
+ <stem>مَهَارَات</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>إذ</word> 
+ <stem>إِذ</stem>
+</res>
+<res>
+<word>كان</word> 
+ <stem>كَان</stem>
+</res>
+<res>
+<word>الأسطورة</word> 
+ <stem>أُسْطُورَة</stem>
+</res>
+<res>
+<word>الأرجنتيني</word> 
+ <stem>أَرْجُنْتِينِيّ</stem>
+</res>
+<res>
+<word>الراحل</word> 
+ <stem>رَاحِل</stem>
+</res>
+<res>
+<word>دييغو</word> 
+ <stem>دييغو</stem>
+</res>
+<res>
+<word>مارادونا</word> 
+ <stem>مارادونا</stem>
+</res>
+<res>
+<word>يتصدر</word> 
+ <stem>يَتَصَدَّر</stem>
+</res>
+<res>
+<word>عناوين</word> 
+ <stem>عَنَاوِين</stem>
+</res>
+<res>
+<word>الصحف</word> 
+ <stem>صُحُف</stem>
+</res>
+<res>
+<word>لكلمة</word> 
+ <stem>كَلِمَة</stem>
+</res>
+<res>
+<word>قالها</word> 
+ <stem>قَال</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>عبارة</word> 
+ <stem>عِبَارَة</stem>
+</res>
+<res>
+<word>أدلى</word> 
+ <stem>أَدْلَى</stem>
+</res>
+<res>
+<word>بها</word> 
+ <stem>بِهَا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وليس</word> 
+ <stem>لَيْس</stem>
+</res>
+<res>
+<word>دائما</word> 
+ <stem>دَائِمًا</stem>
+</res>
+<res>
+<word>لهدف</word> 
+ <stem>هَدَف</stem>
+</res>
+<res>
+<word>سجله</word> 
+ <stem>سَجَّل</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>لقب</word> 
+ <stem>لَقَب</stem>
+</res>
+<res>
+<word>رفعه</word> 
+ <stem>رَفْع</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>حياة</word> 
+ <stem>حَيَاة</stem>
+</res>
+<res>
+<word>الرجل</word> 
+ <stem>رَجُل</stem>
+</res>
+<res>
+<word>الصاخبة</word> 
+ <stem>صَاخِبَة</stem>
+</res>
+<res>
+<word>داخل</word> 
+ <stem>دَاخِل</stem>
+</res>
+<res>
+<word>الملعب</word> 
+ <stem>مَلْعَب</stem>
+</res>
+<res>
+<word>وخارجه</word> 
+ <stem>خَارِج</stem>
+</res>
+<res>
+<word>انتهت</word> 
+ <stem>انْتَهَت</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>لكن</word> 
+ <stem>كِن</stem>
+</res>
+<res>
+<word>إثارته</word> 
+ <stem>إِثَارَة</stem>
+</res>
+<res>
+<word>للجدل</word> 
+ <stem>جَدَل</stem>
+</res>
+<res>
+<word>لم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>تتوقف</word> 
+ <stem>تَتَوَقَّف</stem>
+</res>
+<res>
+<word>حتى</word> 
+ <stem>حَتَّى</stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>رحيله</word> 
+ <stem>رَحِيل</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>خاصة</word> 
+ <stem>خَاصَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>طلبه</word> 
+ <stem>طَلَب</stem>
+</res>
+<res>
+<word>الأخير</word> 
+ <stem>أَخْيَر</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>فوفقا</word> 
+ <stem>وِفْقًا</stem>
+</res>
+<res>
+<word>للصحفي</word> 
+ <stem>صُحُفِيّ</stem>
+</res>
+<res>
+<word>الأرجنتيني</word> 
+ <stem>أَرْجُنْتِينِيّ</stem>
+</res>
+<res>
+<word>مارتن</word> 
+ <stem>مارتن</stem>
+</res>
+<res>
+<word>أريفالو</word> 
+ <stem>أريفالو</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>طلب</word> 
+ <stem>طَلَب</stem>
+</res>
+<res>
+<word>مارادونا</word> 
+ <stem>مارادونا</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>عائلته</word> 
+ <stem>عَائِلَة</stem>
+</res>
+<res>
+<word>قبل</word> 
+ <stem>قَبْل</stem>
+</res>
+<res>
+<word>وقت</word> 
+ <stem>وَقْت</stem>
+</res>
+<res>
+<word>قصير</word> 
+ <stem>قَصِير</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>عيد</word> 
+ <stem>عِيد</stem>
+</res>
+<res>
+<word>ميلاده</word> 
+ <stem>مِيلَاد</stem>
+</res>
+<res>
+<word>ال</word> 
+ <stem>ال</stem>
+</res>
+<res>
+<word>60 </word> 
+ <stem>60 </stem>
+</res>
+<res>
+<word>قائلا</word> 
+ <stem>قَائِلًا</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>عندما</word> 
+ <stem>عِنْدَمَا</stem>
+</res>
+<res>
+<word>أموت</word> 
+ <stem>أُمُوت</stem>
+</res>
+<res>
+<word>حنطوا</word> 
+ <stem>حَنِطُوا</stem>
+</res>
+<res>
+<word>جسدي</word> 
+ <stem>جَسَد</stem>
+</res>
+<res>
+<word>للحفاظ</word> 
+ <stem>حِفَاظ</stem>
+</res>
+<res>
+<word>عليه</word> 
+ <stem>عَلَي</stem>
+</res>
+<res>
+<word>مع</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>مرور</word> 
+ <stem>مُرُور</stem>
+</res>
+<res>
+<word>الوقت</word> 
+ <stem>وَقْت</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وفي</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>حال</word> 
+ <stem>حَال</stem>
+</res>
+<res>
+<word>لبي</word> 
+ <stem>لَبِّي</stem>
+</res>
+<res>
+<word>طلب</word> 
+ <stem>طَلَب</stem>
+</res>
+<res>
+<word>النجم</word> 
+ <stem>نَجْم</stem>
+</res>
+<res>
+<word> -</word> 
+ <stem> -</stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>دفن</word> 
+ <stem>دَفْن</stem>
+</res>
+<res>
+<word>بالقرب</word> 
+ <stem>قُرْب</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>قبري</word> 
+ <stem>قَبْرِيّ</stem>
+</res>
+<res>
+<word>والديه</word> 
+ <stem>وَالِدَي</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>مقبرة</word> 
+ <stem>مَقْبَرَة</stem>
+</res>
+<res>
+<word>خاصة</word> 
+ <stem>خَاصَّة</stem>
+</res>
+<res>
+<word>بالعاصمة</word> 
+ <stem>عَاصِمَة</stem>
+</res>
+<res>
+<word>بوينس</word> 
+ <stem>بُوِينُس</stem>
+</res>
+<res>
+<word>آيرس</word> 
+ <stem>آيرس</stem>
+</res>
+<res>
+<word>- </word> 
+ <stem>- </stem>
+</res>
+<res>
+<word>سيصبح</word> 
+ <stem>يُصْبِح</stem>
+</res>
+<res>
+<word>مارادونا</word> 
+ <stem>مارادونا</stem>
+</res>
+<res>
+<word>رابع</word> 
+ <stem>رَابِع</stem>
+</res>
+<res>
+<word>شخص</word> 
+ <stem>شَخْص</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>تاريخ</word> 
+ <stem>تَارِيخ</stem>
+</res>
+<res>
+<word>الأرجنتين</word> 
+ <stem>أَرْجَنْتِين</stem>
+</res>
+<res>
+<word>يتم</word> 
+ <stem>يَتِمّ</stem>
+</res>
+<res>
+<word>تحنيط</word> 
+ <stem>تَحْنِيط</stem>
+</res>
+<res>
+<word>جسده</word> 
+ <stem>جَسَد</stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>وفاته</word> 
+ <stem>وَفَاة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ولم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>يصدر</word> 
+ <stem>يَصْدُر</stem>
+</res>
+<res>
+<word>أي</word> 
+ <stem>أَيّ</stem>
+</res>
+<res>
+<word>رد</word> 
+ <stem>رَدّ</stem>
+</res>
+<res>
+<word>فعل</word> 
+ <stem>فِعْل</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>تصريح</word> 
+ <stem>تَصْرِيح</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>عائلة</word> 
+ <stem>عَائِلَة</stem>
+</res>
+<res>
+<word>مارادونا</word> 
+ <stem>مارادونا</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>محاميه</word> 
+ <stem>مُحَامِي</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>المتحدث</word> 
+ <stem>مُتَحَدِّث</stem>
+</res>
+<res>
+<word>باسمه</word> 
+ <stem>اسْم</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>نشره</word> 
+ <stem>نَشَر</stem>
+</res>
+<res>
+<word>الصحفي</word> 
+ <stem>صُحُفِيّ</stem>
+</res>
+<res>
+<word>أريفالو</word> 
+ <stem>أريفالو</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وكان</word> 
+ <stem>كَان</stem>
+</res>
+<res>
+<word>مارادونا</word> 
+ <stem>مارادونا</stem>
+</res>
+<res>
+<word>توفي</word> 
+ <stem>تُوُفِّي</stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>تعرضه</word> 
+ <stem>تَعَرُّض</stem>
+</res>
+<res>
+<word>لسكتة</word> 
+ <stem>سَكْتَة</stem>
+</res>
+<res>
+<word>قلبية</word> 
+ <stem>قَلْبِيَّة</stem>
+</res>
+<res>
+<word>أول</word> 
+ <stem>أَوَّل</stem>
+</res>
+<res>
+<word>أمس</word> 
+ <stem>أَمْس</stem>
+</res>
+<res>
+<word>الأربعاء</word> 
+ <stem>أَرْبِعَاء</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>دون</word> 
+ <stem>دُون</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَن</stem>
+</res>
+<res>
+<word>تكلل</word> 
+ <stem>تَكَلَّل</stem>
+</res>
+<res>
+<word>محاولات</word> 
+ <stem>مُحَاوَلَات</stem>
+</res>
+<res>
+<word>إنقاذه</word> 
+ <stem>إِنْقَاذ</stem>
+</res>
+<res>
+<word>بالنجاح</word> 
+ <stem>نَجَاح</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>يذكر</word> 
+ <stem>يَذْكُر</stem>
+</res>
+<res>
+<word>أنه</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>تاريخ</word> 
+ <stem>تَارِيخ</stem>
+</res>
+<res>
+<word>الأرجنتين</word> 
+ <stem>أَرْجَنْتِين</stem>
+</res>
+<res>
+<word>حنطت</word> 
+ <stem>حَنَطَت</stem>
+</res>
+<res>
+<word>جثامين</word> 
+ <stem>جَثَّامَيْن</stem>
+</res>
+<res>
+<word> 3 </word> 
+ <stem> 3 </stem>
+</res>
+<res>
+<word>أشخاص</word> 
+ <stem>أَشْخَاص</stem>
+</res>
+<res>
+<word>فقط</word> 
+ <stem>فَقَط</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>هم</word> 
+ <stem>هُم</stem>
+</res>
+<res>
+<word>:</word> 
+ <stem>:</stem>
+</res>
+<res>
+<word>الجنرال</word> 
+ <stem>جِنَرَال</stem>
+</res>
+<res>
+<word>العسكري</word> 
+ <stem>عَسْكَرِيّ</stem>
+</res>
+<res>
+<word>السابق</word> 
+ <stem>سَابِق</stem>
+</res>
+<res>
+<word>خوسيه</word> 
+ <stem>خَوْسَي</stem>
+</res>
+<res>
+<word>دي</word> 
+ <stem>دِي</stem>
+</res>
+<res>
+<word>سان</word> 
+ <stem>سَان</stem>
+</res>
+<res>
+<word>مارتين</word> 
+ <stem>مَارَّتَيْن</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>والرئيس</word> 
+ <stem>رَئِيس</stem>
+</res>
+<res>
+<word>الأرجنتيني</word> 
+ <stem>أَرْجُنْتِينِيّ</stem>
+</res>
+<res>
+<word>السابق</word> 
+ <stem>سَابِق</stem>
+</res>
+<res>
+<word>خوان</word> 
+ <stem>خوان</stem>
+</res>
+<res>
+<word>دومينغو</word> 
+ <stem>دومينغو</stem>
+</res>
+<res>
+<word>بيرون</word> 
+ <stem>بِيرُون</stem>
+</res>
+<res>
+<word>وزوجته</word> 
+ <stem>زَوْجَة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+</Stems>

@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Stems>
+<res>
+<word>يقاوم</word> 
+ <stem>يُقَاوِم</stem>
+</res>
+<res>
+<word>المخترقين</word> 
+ <stem>مُخْتَرِقَيْن</stem>
+</res>
+<res>
+<word>وينبه</word> 
+ <stem>يُنَبِّه</stem>
+</res>
+<res>
+<word>المستخدمين</word> 
+ <stem>مُسْتَخْدَمَيْن</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>ميزات</word> 
+ <stem>مِيزَات</stem>
+</res>
+<res>
+<word>أمان</word> 
+ <stem>أَمَان</stem>
+</res>
+<res>
+<word>حديثة</word> 
+ <stem>حَدِيثَة</stem>
+</res>
+<res>
+<word>لمتصفح</word> 
+ <stem>مُتَصَفَّح</stem>
+</res>
+<res>
+<word>كروم</word> 
+ <stem>كُرُوم</stem>
+</res>
+<res>
+<word>الجديد</word> 
+ <stem>جَدِيد</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>غوغل</word> 
+ <stem>غُوغَل</stem>
+</res>
+
+<res>
+<word>أطلقت</word> 
+ <stem>أُطْلِقَت</stem>
+</res>
+<res>
+<word>غوغل</word> 
+ <stem>غُوغَل</stem>
+</res>
+<res>
+<word>إصدارا</word> 
+ <stem>إِصْدَارًا</stem>
+</res>
+<res>
+<word>جديدا</word> 
+ <stem>جَدِيدًا</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>متصفحها</word> 
+ <stem>مُتَصَفَّح</stem>
+</res>
+<res>
+<word>للويب</word> 
+ <stem>وِيب</stem>
+</res>
+<res>
+<word>غوغل</word> 
+ <stem>غُوغَل</stem>
+</res>
+<res>
+<word>كروم</word> 
+ <stem>كُرُوم</stem>
+</res>
+<res>
+<word>لنظام</word> 
+ <stem>نِظَام</stem>
+</res>
+<res>
+<word>التشغيل</word> 
+ <stem>تَشْغِيل</stem>
+</res>
+<res>
+<word>ويندوز</word> 
+ <stem>ويندوز</stem>
+</res>
+<res>
+<word>وماك</word> 
+ <stem>مَاك</stem>
+</res>
+<res>
+<word>ولينكس</word> 
+ <stem>يَنْكُس</stem>
+</res>
+<res>
+<word>وأندرويد</word> 
+ <stem>وأندرويد</stem>
+</res>
+<res>
+<word>وآي</word> 
+ <stem>آي</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>أس</word> 
+ <stem>أُسّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ويشتمل</word> 
+ <stem>يَشْتَمِل</stem>
+</res>
+<res>
+<word>الإصدار</word> 
+ <stem>إِصْدَار</stem>
+</res>
+<res>
+<word> 79 </word> 
+ <stem> 79 </stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>تحذيرات</word> 
+ <stem>تَحْذِيرَات</stem>
+</res>
+<res>
+<word>مضمنة</word> 
+ <stem>مُضْمِنَة</stem>
+</res>
+<res>
+<word>حول</word> 
+ <stem>حَوْل</stem>
+</res>
+<res>
+<word>كلمات</word> 
+ <stem>كَلِمَات</stem>
+</res>
+<res>
+<word>المرور</word> 
+ <stem>مُرُور</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>تم</word> 
+ <stem>تَمّ</stem>
+</res>
+<res>
+<word>اختراقها</word> 
+ <stem>اخْتِرَاق</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وحماية</word> 
+ <stem>حِمَايَة</stem>
+</res>
+<res>
+<word>ضد</word> 
+ <stem>ضِدّ</stem>
+</res>
+<res>
+<word>التصيد</word> 
+ <stem>تَصَيُّد</stem>
+</res>
+<res>
+<word>الاحتيالي</word> 
+ <stem>الاحتيالي</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الوقت</word> 
+ <stem>وَقْت</stem>
+</res>
+<res>
+<word>الفعلي</word> 
+ <stem>فِعْلِيّ</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ويعزز</word> 
+ <stem>يُعَزِّز</stem>
+</res>
+<res>
+<word>هذا</word> 
+ <stem>هَذَا</stem>
+</res>
+<res>
+<word>الإصدار</word> 
+ <stem>إِصْدَار</stem>
+</res>
+<res>
+<word> -</word> 
+ <stem> -</stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>أعلنت</word> 
+ <stem>أَعْلَنَت</stem>
+</res>
+<res>
+<word>عنه</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>الشركة</word> 
+ <stem>شَرِكَة</stem>
+</res>
+<res>
+<word>الثلاثاء</word> 
+ <stem>ثُلَاثَاء</stem>
+</res>
+<res>
+<word>الماضي</word> 
+ <stem>مَاضِي</stem>
+</res>
+<res>
+<word>- </word> 
+ <stem>- </stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>أمان</word> 
+ <stem>أَمَان</stem>
+</res>
+<res>
+<word>المتصفح</word> 
+ <stem>مُتَصَفَّح</stem>
+</res>
+<res>
+<word>الأكثر</word> 
+ <stem>أَكْثَر</stem>
+</res>
+<res>
+<word>شعبية</word> 
+ <stem>شَعْبِيَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالِم</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>حيث</word> 
+ <stem>حَيْث</stem>
+</res>
+<res>
+<word>يحذر</word> 
+ <stem>يُحَذِّر</stem>
+</res>
+<res>
+<word>المستخدمين</word> 
+ <stem>مُسْتَخْدَمَيْن</stem>
+</res>
+<res>
+<word>إذا</word> 
+ <stem>إِذَا</stem>
+</res>
+<res>
+<word>سرقت</word> 
+ <stem>سَرَقْت</stem>
+</res>
+<res>
+<word>كلمة</word> 
+ <stem>كَلِمَة</stem>
+</res>
+<res>
+<word>المرور</word> 
+ <stem>مُرُور</stem>
+</res>
+<res>
+<word>الخاصة</word> 
+ <stem>خَاصَّة</stem>
+</res>
+<res>
+<word>بهم</word> 
+ <stem>بِهِم</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>خرق</word> 
+ <stem>خَرَق</stem>
+</res>
+<res>
+<word>أمني</word> 
+ <stem>أَمْنِيّ</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بحيث</word> 
+ <stem>حَيْث</stem>
+</res>
+<res>
+<word>إذا</word> 
+ <stem>إِذَا</stem>
+</res>
+<res>
+<word>كان</word> 
+ <stem>كَان</stem>
+</res>
+<res>
+<word>تسجيل</word> 
+ <stem>تَسْجِيل</stem>
+</res>
+<res>
+<word>الدخول</word> 
+ <stem>دُخُول</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>موقع</word> 
+ <stem>مَوْقِع</stem>
+</res>
+<res>
+<word>ويب</word> 
+ <stem>وِيب</stem>
+</res>
+<res>
+<word>باستخدام</word> 
+ <stem>اسْتِخْدَام</stem>
+</res>
+<res>
+<word>بيانات</word> 
+ <stem>بَيَانَات</stem>
+</res>
+<res>
+<word>دخول</word> 
+ <stem>دُخُول</stem>
+</res>
+<res>
+<word>مخترقة</word> 
+ <stem>مُخْتَرَقَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>فسيقوم</word> 
+ <stem>يَقُوم</stem>
+</res>
+<res>
+<word>متصفح</word> 
+ <stem>مُتَصَفَّح</stem>
+</res>
+<res>
+<word>كروم</word> 
+ <stem>كُرُوم</stem>
+</res>
+<res>
+<word>بعرض</word> 
+ <stem>عَرْض</stem>
+</res>
+<res>
+<word>تحذير</word> 
+ <stem>تَحْذِير</stem>
+</res>
+<res>
+<word>يخبرك</word> 
+ <stem>يُخْبِر</stem>
+</res>
+<res>
+<word>بالاختراق</word> 
+ <stem>اخْتِرَاق</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>كما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>يحذرك</word> 
+ <stem>يَحْذَر</stem>
+</res>
+<res>
+<word>متصفح</word> 
+ <stem>مُتَصَفَّح</stem>
+</res>
+<res>
+<word>كروم</word> 
+ <stem>كُرُوم</stem>
+</res>
+<res>
+<word>إذا</word> 
+ <stem>إِذَا</stem>
+</res>
+<res>
+<word>تصفحت</word> 
+ <stem>تَصَفَّحْت</stem>
+</res>
+<res>
+<word>موقعا</word> 
+ <stem>مَوْقِعًا</stem>
+</res>
+<res>
+<word>مزورا</word> 
+ <stem>مُزَوَّرًا</stem>
+</res>
+<res>
+<word>مصمما</word> 
+ <stem>مُصَمِّمًا</stem>
+</res>
+<res>
+<word>للتصيد</word> 
+ <stem>تَصَيُّد</stem>
+</res>
+<res>
+<word>الاحتيالي</word> 
+ <stem>الاحتيالي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وتحتفظ</word> 
+ <stem>تَحْتَفِظ</stem>
+</res>
+<res>
+<word>خدمة</word> 
+ <stem>خِدْمَة</stem>
+</res>
+<res>
+<word>التصفح</word> 
+ <stem>تَصَفُّح</stem>
+</res>
+<res>
+<word>الآمن</word> 
+ <stem>آمِن</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>غوغل</word> 
+ <stem>غُوغَل</stem>
+</res>
+<res>
+<word>بقائمة</word> 
+ <stem>قَائِمَة</stem>
+</res>
+<res>
+<word>شاملة</word> 
+ <stem>شَامِلَة</stem>
+</res>
+<res>
+<word>لمواقع</word> 
+ <stem>مُوَاقِع</stem>
+</res>
+<res>
+<word>الخداع</word> 
+ <stem>خِدَاع</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>يتم</word> 
+ <stem>يَتِمّ</stem>
+</res>
+<res>
+<word>تحديثها</word> 
+ <stem>تَحْدِيث</stem>
+</res>
+<res>
+<word>كل</word> 
+ <stem>كُلّ</stem>
+</res>
+<res>
+<word>ثلاثين</word> 
+ <stem>ثَلَاثِين</stem>
+</res>
+<res>
+<word>دقيقة</word> 
+ <stem>دَقِيقَة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>كما</word> 
+ <stem>كَمًّا</stem>
+</res>
+<res>
+<word>يقترح</word> 
+ <stem>يَقْتَرِح</stem>
+</res>
+<res>
+<word>عليك</word> 
+ <stem>عَلَي</stem>
+</res>
+<res>
+<word>تغيير</word> 
+ <stem>تَغْيِير</stem>
+</res>
+<res>
+<word>بيانات</word> 
+ <stem>بَيَانَات</stem>
+</res>
+<res>
+<word>الدخول</word> 
+ <stem>دُخُول</stem>
+</res>
+<res>
+<word>المخترقة</word> 
+ <stem>مُخْتَرِقَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>كل</word> 
+ <stem>كُل</stem>
+</res>
+<res>
+<word>مكان</word> 
+ <stem>مَكَان</stem>
+</res>
+<res>
+<word>تم</word> 
+ <stem>تَمّ</stem>
+</res>
+<res>
+<word>استخدامها</word> 
+ <stem>اسْتِخْدَام</stem>
+</res>
+<res>
+<word>فيه</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وتعمل</word> 
+ <stem>تَعْمَل</stem>
+</res>
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>الخاصية</word> 
+ <stem>خَاصِّيَّة</stem>
+</res>
+<res>
+<word>مع</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>كلمات</word> 
+ <stem>كَلِمَات</stem>
+</res>
+<res>
+<word>المرور</word> 
+ <stem>مُرُور</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>تتم</word> 
+ <stem>تَتِمّ</stem>
+</res>
+<res>
+<word>مزامنتها</word> 
+ <stem>مُزَامِنَة</stem>
+</res>
+<res>
+<word>وتخزينها</word> 
+ <stem>تَخْزِين</stem>
+</res>
+<res>
+<word>داخل</word> 
+ <stem>دَاخِل</stem>
+</res>
+<res>
+<word>متصفح</word> 
+ <stem>مُتَصَفَّح</stem>
+</res>
+<res>
+<word>كروم</word> 
+ <stem>كُرُوم</stem>
+</res>
+<res>
+<word>فقط</word> 
+ <stem>فَقَط</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وتخزن</word> 
+ <stem>تُخَزْن</stem>
+</res>
+<res>
+<word>غوغل</word> 
+ <stem>غُوغَل</stem>
+</res>
+<res>
+<word>أسماء</word> 
+ <stem>أَسْمَاء</stem>
+</res>
+<res>
+<word>المستخدمين</word> 
+ <stem>مُسْتَخْدَمَيْن</stem>
+</res>
+<res>
+<word>وكلمات</word> 
+ <stem>كَلِمَات</stem>
+</res>
+<res>
+<word>المرور</word> 
+ <stem>مُرُور</stem>
+</res>
+<res>
+<word>المخترقة</word> 
+ <stem>مُخْتَرِقَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>خروقات</word> 
+ <stem>خروقات</stem>
+</res>
+<res>
+<word>البيانات</word> 
+ <stem>بَيَانَات</stem>
+</res>
+<res>
+<word>السابقة</word> 
+ <stem>سَابِقَة</stem>
+</res>
+<res>
+<word>بواسطة</word> 
+ <stem>وَاسِطَة</stem>
+</res>
+<res>
+<word>خوارزمية</word> 
+ <stem>خوارزمية</stem>
+</res>
+<res>
+<word>تشفير</word> 
+ <stem>تَشْفِير</stem>
+</res>
+<res>
+<word>قوية</word> 
+ <stem>قَوِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بحيث</word> 
+ <stem>حَيْث</stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>تظهر</word> 
+ <stem>تَظْهَر</stem>
+</res>
+<res>
+<word>المعلومات</word> 
+ <stem>مَعْلُومَات</stem>
+</res>
+<res>
+<word>الخاصة</word> 
+ <stem>خَاصَّة</stem>
+</res>
+<res>
+<word>بالمستخدمين</word> 
+ <stem>مُسْتَخْدَمَيْن</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وتقول</word> 
+ <stem>تَقُول</stem>
+</res>
+<res>
+<word>الشركة</word> 
+ <stem>شَرِكَة</stem>
+</res>
+<res>
+<word>إن</word> 
+ <stem>إِن</stem>
+</res>
+<res>
+<word>هذا</word> 
+ <stem>هَذَا</stem>
+</res>
+<res>
+<word>التحديث</word> 
+ <stem>تَحْدِيث</stem>
+</res>
+<res>
+<word>يؤدي</word> 
+ <stem>يُؤَدِّي</stem>
+</res>
+<res>
+<word>لالتقاط</word> 
+ <stem>الْتِقَاط</stem>
+</res>
+<res>
+<word>المواقع</word> 
+ <stem>مَوَاقِع</stem>
+</res>
+<res>
+<word>الضارة</word> 
+ <stem>ضَارَّة</stem>
+</res>
+<res>
+<word>بشكل</word> 
+ <stem>شَكْل</stem>
+</res>
+<res>
+<word>أكثر</word> 
+ <stem>أَكْثَر</stem>
+</res>
+<res>
+<word>دقة</word> 
+ <stem>دِقَّة</stem>
+</res>
+<res>
+<word>وسرعة</word> 
+ <stem>سُرْعَة</stem>
+</res>
+<res>
+<word>بنسبة</word> 
+ <stem>نِسْبَة</stem>
+</res>
+<res>
+<word> 30 % "</word> 
+ <stem> 30 % "</stem>
+</res>
+<res>
+<word>ونقدم</word> 
+ <stem>نُقَدِّم</stem>
+</res>
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>الحماية</word> 
+ <stem>حِمَايَة</stem>
+</res>
+<res>
+<word>للجميع</word> 
+ <stem>جَمِيع</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>خلال</word> 
+ <stem>خِلَال</stem>
+</res>
+<res>
+<word>تمكين</word> 
+ <stem>تَمْكِين</stem>
+</res>
+<res>
+<word>إعداد</word> 
+ <stem>إِعْدَاد</stem>
+</res>
+<res>
+<word>جعل</word> 
+ <stem>جَعْل</stem>
+</res>
+<res>
+<word>عمليات</word> 
+ <stem>عَمَلِيَّات</stem>
+</res>
+<res>
+<word>البحث</word> 
+ <stem>بَحْث</stem>
+</res>
+<res>
+<word>والتصفح</word> 
+ <stem>تَصَفُّح</stem>
+</res>
+<res>
+<word>أفضل</word> 
+ <stem>أَفْضَل</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>كروم</word> 
+ <stem>كُرُوم</stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>يستخدمه</word> 
+ <stem>يَسْتَخْدِم</stem>
+</res>
+<res>
+<word>أكثر</word> 
+ <stem>أَكْثَر</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>مليار</word> 
+ <stem>مِلْيَار</stem>
+</res>
+<res>
+<word>مستخدم</word> 
+ <stem>مُسْتَخْدَم</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+</Stems>

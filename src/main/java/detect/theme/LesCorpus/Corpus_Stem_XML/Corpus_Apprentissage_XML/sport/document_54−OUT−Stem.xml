@@ -1,0 +1,3008 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Stems>
+<res>
+<word>دفاعه</word> 
+ <stem>دِفَاع</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>رسول</word> 
+ <stem>رَسُول</stem>
+</res>
+<res>
+<word>الله</word> 
+ <stem>الله</stem>
+</res>
+<res>
+<word>خطف</word> 
+ <stem>خَطَف</stem>
+</res>
+<res>
+<word>الأضواء</word> 
+ <stem>أَضْوَاء</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>ريال</word> 
+ <stem>رِيَال</stem>
+</res>
+<res>
+<word>مدريد</word> 
+ <stem>مَدْرِيد</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>المعلق</word> 
+ <stem>مُعَلِّق</stem>
+</res>
+<res>
+<word>خليل</word> 
+ <stem>خَلِيل</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word>:</word> 
+ <stem>:</stem>
+</res>
+<res>
+<word>المعلقون</word> 
+ <stem>مُعَلِّقُون</stem>
+</res>
+<res>
+<word>أصحاب</word> 
+ <stem>أَصْحَاب</stem>
+</res>
+<res>
+<word>رسالة</word> 
+ <stem>رِسَالَة</stem>
+</res>
+
+<res>
+<word>لاقت</word> 
+ <stem>لَاقَت</stem>
+</res>
+<res>
+<word>افتتاحية</word> 
+ <stem>افْتِتَاحِيَّة</stem>
+</res>
+<res>
+<word>المعلق</word> 
+ <stem>مُعَلِّق</stem>
+</res>
+<res>
+<word>الرياضي</word> 
+ <stem>رِيَاضِيّ</stem>
+</res>
+<res>
+<word>بقناة</word> 
+ <stem>قَنَاة</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>بي</word> 
+ <stem>بِي</stem>
+</res>
+<res>
+<word>إن</word> 
+ <stem>إِنّ</stem>
+</res>
+<res>
+<word>سبورتس</word> 
+ <stem>سبورتس</stem>
+</res>
+<res>
+<word>" </word> 
+ <stem>" </stem>
+</res>
+<res>
+<word>خليل</word> 
+ <stem>خَلِيل</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ودفاعه</word> 
+ <stem>دِفَاع</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>النبي</word> 
+ <stem>نَبِيّ</stem>
+</res>
+<res>
+<word>محمد</word> 
+ <stem>مُحَمَّد</stem>
+</res>
+<res>
+<word>صلى</word> 
+ <stem>صَلَّى</stem>
+</res>
+<res>
+<word>الله</word> 
+ <stem>الله</stem>
+</res>
+<res>
+<word>عليه</word> 
+ <stem>عَلَي</stem>
+</res>
+<res>
+<word>وسلم</word> 
+ <stem>سَلَّم</stem>
+</res>
+<res>
+<word>أثناء</word> 
+ <stem>أَثْنَاء</stem>
+</res>
+<res>
+<word>تعليقه</word> 
+ <stem>تَعْلِيق</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>مباراة</word> 
+ <stem>مُبَارَاة</stem>
+</res>
+<res>
+<word>ريال</word> 
+ <stem>رِيَال</stem>
+</res>
+<res>
+<word>مدريد</word> 
+ <stem>مَدْرِيد</stem>
+</res>
+<res>
+<word>وبوروسيا</word> 
+ <stem>وبوروسيا</stem>
+</res>
+<res>
+<word>موشنغلادباخ</word> 
+ <stem>موشنغلادباخ</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>دوري</word> 
+ <stem>دَوْرِيّ</stem>
+</res>
+<res>
+<word>أبطال</word> 
+ <stem>أَبْطَال</stem>
+</res>
+<res>
+<word>أوروبا</word> 
+ <stem>أُورُوبَّا</stem>
+</res>
+<res>
+<word>لكرة</word> 
+ <stem>كُرَة</stem>
+</res>
+<res>
+<word>القدم</word> 
+ <stem>قَدَم</stem>
+</res>
+<res>
+<word>مساء</word> 
+ <stem>مَسَاء</stem>
+</res>
+<res>
+<word>الثلاثاء</word> 
+ <stem>ثُلَاثَاء</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>انتشارا</word> 
+ <stem>انْتِشَارًا</stem>
+</res>
+<res>
+<word>واسعا</word> 
+ <stem>وَاسِعًا</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>منصات</word> 
+ <stem>مُنْصَات</stem>
+</res>
+<res>
+<word>التواصل</word> 
+ <stem>تَوَاصُل</stem>
+</res>
+<res>
+<word>الاجتماعي</word> 
+ <stem>اجْتِمَاعِيّ</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>أشادت</word> 
+ <stem>أَشَادَت</stem>
+</res>
+<res>
+<word>بمبادرة</word> 
+ <stem>مُبَادَرَة</stem>
+</res>
+<res>
+<word>المعلق</word> 
+ <stem>مُعَلِّق</stem>
+</res>
+<res>
+<word>العماني</word> 
+ <stem>عُمَانِيّ</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وبدأ</word> 
+ <stem>بَدَأ</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word>تعليقه</word> 
+ <stem>تَعْلِيق</stem>
+</res>
+<res>
+<word>بالثناء</word> 
+ <stem>ثَنَاء</stem>
+</res>
+<res>
+<word>والصلاة</word> 
+ <stem>صَلَاة</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>النبي</word> 
+ <stem>نَبِيّ</stem>
+</res>
+<res>
+<word>محمد</word> 
+ <stem>مُحَمَّد</stem>
+</res>
+<res>
+<word>صلى</word> 
+ <stem>صَلَّى</stem>
+</res>
+<res>
+<word>الله</word> 
+ <stem>الله</stem>
+</res>
+<res>
+<word>عليه</word> 
+ <stem>عَلَي</stem>
+</res>
+<res>
+<word>وسلم</word> 
+ <stem>سَلَّم</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وقال</word> 
+ <stem>قَال</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>والله</word> 
+ <stem>الله</stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>خير</word> 
+ <stem>خَيْر</stem>
+</res>
+<res>
+<word>فينا</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>إن</word> 
+ <stem>إِنّ</stem>
+</res>
+<res>
+<word>لم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>ندافع</word> 
+ <stem>نُدَافِع</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>رسول</word> 
+ <stem>رَسُول</stem>
+</res>
+<res>
+<word>الله</word> 
+ <stem>الله</stem>
+</res>
+<res>
+<word>محمد</word> 
+ <stem>مُحَمَّد</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>عندما</word> 
+ <stem>عِنْدَمَا</stem>
+</res>
+<res>
+<word>يستغلون</word> 
+ <stem>يَسْتَغِلُّون</stem>
+</res>
+<res>
+<word>منابرهم</word> 
+ <stem>مَنَابِر</stem>
+</res>
+<res>
+<word>يخرج</word> 
+ <stem>يُخْرِج</stem>
+</res>
+<res>
+<word>البعض</word> 
+ <stem>بَعْض</stem>
+</res>
+<res>
+<word>ويقول</word> 
+ <stem>يَقُول</stem>
+</res>
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>حرية</word> 
+ <stem>حُرِّيَّة</stem>
+</res>
+<res>
+<word>الرأي</word> 
+ <stem>رَأْي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وعندما</word> 
+ <stem>عِنْدَمَا</stem>
+</res>
+<res>
+<word>نستغل</word> 
+ <stem>نُسْتَغَلّ</stem>
+</res>
+<res>
+<word>نحن</word> 
+ <stem>نَحْن</stem>
+</res>
+<res>
+<word>منابرنا</word> 
+ <stem>مَنَابِر</stem>
+</res>
+<res>
+<word>يطلع</word> 
+ <stem>يَطَّلِع</stem>
+</res>
+<res>
+<word>البعض</word> 
+ <stem>بَعْض</stem>
+</res>
+<res>
+<word>ويقول</word> 
+ <stem>يَقُول</stem>
+</res>
+<res>
+<word>لك</word> 
+ <stem>لَك</stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>تخلط</word> 
+ <stem>تُخْلَط</stem>
+</res>
+<res>
+<word>الدين</word> 
+ <stem>دِين</stem>
+</res>
+<res>
+<word>بالرياضة</word> 
+ <stem>رِيَاضَة</stem>
+</res>
+<res>
+<word>ولا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>تخلط</word> 
+ <stem>تُخْلَط</stem>
+</res>
+<res>
+<word>الدين</word> 
+ <stem>دِين</stem>
+</res>
+<res>
+<word>بالسياسة</word> 
+ <stem>سِيَاسَة</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>خير</word> 
+ <stem>خَيْر</stem>
+</res>
+<res>
+<word>فينا</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>إن</word> 
+ <stem>إِنّ</stem>
+</res>
+<res>
+<word>لم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>ندافع</word> 
+ <stem>نُدَافِع</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>رسولنا</word> 
+ <stem>رَسُول</stem>
+</res>
+<res>
+<word>الكريم</word> 
+ <stem>كَرِيم</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>كلمات</word> 
+ <stem>كَلِمَات</stem>
+</res>
+<res>
+<word>مؤثرة</word> 
+ <stem>مُؤَثِّرَة</stem>
+</res>
+<res>
+<word>للمعلق</word> 
+ <stem>مُعَلِّق</stem>
+</res>
+<res>
+<word>خليل</word> 
+ <stem>خَلِيل</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word>قبل</word> 
+ <stem>قَبْل</stem>
+</res>
+<res>
+<word>قليل</word> 
+ <stem>قَلِيل</stem>
+</res>
+<res>
+<word> ❤️ @khalilalbalush1 pic</word> 
+ <stem> ❤️ @khalilalbalush1 pic</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>twitter</word> 
+ <stem>twitter</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>com/BhIXSxFiju</word> 
+ <stem>com/BhIXSxFiju</stem>
+</res>
+
+<res>
+<word>— </word> 
+ <stem>— </stem>
+</res>
+<res>
+<word>نوف</word> 
+ <stem>نَوْف</stem>
+</res>
+<res>
+<word>بنت</word> 
+ <stem>بِنْت</stem>
+</res>
+<res>
+<word>ناصر</word> 
+ <stem>نَاصِر</stem>
+</res>
+<res>
+<word>آل</word> 
+ <stem>آل</stem>
+</res>
+<res>
+<word>ثاني</word> 
+ <stem>ثَانِي</stem>
+</res>
+<res>
+<word> (@AmoreQtr) October 27, 2020</word> 
+ <stem> (@AmoreQtr) October 27, 2020</stem>
+</res>
+
+
+<res>
+<word>وأبدى</word> 
+ <stem>أَبْدَى</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word>دعمه</word> 
+ <stem>دَعْم</stem>
+</res>
+<res>
+<word>لأي</word> 
+ <stem>أَيّ</stem>
+</res>
+<res>
+<word>حراك</word> 
+ <stem>حَرَاك</stem>
+</res>
+<res>
+<word>فيه</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>نصرة</word> 
+ <stem>نُصْرَة</stem>
+</res>
+<res>
+<word>لرسول</word> 
+ <stem>رَسُول</stem>
+</res>
+<res>
+<word>الله</word> 
+ <stem>الله</stem>
+</res>
+<res>
+<word>عليه</word> 
+ <stem>عَلَي</stem>
+</res>
+<res>
+<word>الصلاة</word> 
+ <stem>صَلَاة</stem>
+</res>
+<res>
+<word>والسلام</word> 
+ <stem>سَلَام</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وختم</word> 
+ <stem>خَتَم</stem>
+</res>
+<res>
+<word>حديثه</word> 
+ <stem>حَدِيث</stem>
+</res>
+<res>
+<word>قائلا</word> 
+ <stem>قَائِلًا</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>والله</word> 
+ <stem>الله</stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>خير</word> 
+ <stem>خَيْر</stem>
+</res>
+<res>
+<word>فينا</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>إن</word> 
+ <stem>إِنّ</stem>
+</res>
+<res>
+<word>لم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>نستغل</word> 
+ <stem>نُسْتَغَلّ</stem>
+</res>
+<res>
+<word>منابرنا</word> 
+ <stem>مَنَابِر</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الدفاع</word> 
+ <stem>دِفَاع</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>ديننا</word> 
+ <stem>دِين</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>فنحن</word> 
+ <stem>نَحْن</stem>
+</res>
+<res>
+<word>أمة</word> 
+ <stem>أُمَّة</stem>
+</res>
+<res>
+<word>ا</word> 
+ <stem>ا</stem>
+</res>
+<res>
+<word>ٔ</word> 
+ <stem>ٔ</stem>
+</res>
+<res>
+<word>عزنا</word> 
+ <stem>عِزّ</stem>
+</res>
+<res>
+<word>الله</word> 
+ <stem>الله</stem>
+</res>
+<res>
+<word>بالإسلام</word> 
+ <stem>إِسْلَام</stem>
+</res>
+<res>
+<word>فما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>ابتغينا</word> 
+ <stem>ابْتُغِي</stem>
+</res>
+<res>
+<word>العزة</word> 
+ <stem>عِزَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>غيره</word> 
+ <stem>غَيْر</stem>
+</res>
+<res>
+<word>ا</word> 
+ <stem>ا</stem>
+</res>
+<res>
+<word>ٔ</word> 
+ <stem>ٔ</stem>
+</res>
+<res>
+<word>ذلنا</word> 
+ <stem>ذِلّ</stem>
+</res>
+<res>
+<word>الله</word> 
+ <stem>الله</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وقال</word> 
+ <stem>قَال</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word>للجزيرة</word> 
+ <stem>جَزِيرَة</stem>
+</res>
+<res>
+<word>نت</word> 
+ <stem>نِت</stem>
+</res>
+<res>
+<word>إن</word> 
+ <stem>إِنّ</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>قلته</word> 
+ <stem>قُلْت</stem>
+</res>
+<res>
+<word>لم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>يكن</word> 
+ <stem>يَكُن</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>تخطيطي</word> 
+ <stem>تَخْطِيطِيّ</stem>
+</res>
+<res>
+<word>بهذا</word> 
+ <stem>هَذَا</stem>
+</res>
+<res>
+<word>الشكل</word> 
+ <stem>شَكْل</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>لكن</word> 
+ <stem>كِن</stem>
+</res>
+<res>
+<word>نيتي</word> 
+ <stem>نَيْت</stem>
+</res>
+<res>
+<word>وما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>خططت</word> 
+ <stem>خَطَّطَت</stem>
+</res>
+<res>
+<word>له</word> 
+ <stem>لَه</stem>
+</res>
+<res>
+<word>بالفعل</word> 
+ <stem>فِعْل</stem>
+</res>
+<res>
+<word>ضرورة</word> 
+ <stem>ضَرُورَة</stem>
+</res>
+<res>
+<word>تسجيل</word> 
+ <stem>تَسْجِيل</stem>
+</res>
+<res>
+<word>موقف</word> 
+ <stem>مَوْقِف</stem>
+</res>
+<res>
+<word>قوي</word> 
+ <stem>قَوِيّ</stem>
+</res>
+<res>
+<word>لنصرة</word> 
+ <stem>نُصْرَة</stem>
+</res>
+<res>
+<word>رسول</word> 
+ <stem>رَسُول</stem>
+</res>
+<res>
+<word>الله</word> 
+ <stem>الله</stem>
+</res>
+<res>
+<word>صلى</word> 
+ <stem>صَلَّى</stem>
+</res>
+<res>
+<word>الله</word> 
+ <stem>الله</stem>
+</res>
+<res>
+<word>عليه</word> 
+ <stem>عَلَي</stem>
+</res>
+<res>
+<word>وسلم</word> 
+ <stem>سَلَّم</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وفتح</word> 
+ <stem>فَتَح</stem>
+</res>
+<res>
+<word>الله</word> 
+ <stem>الله</stem>
+</res>
+<res>
+<word>علي</word> 
+ <stem>عَلَي</stem>
+</res>
+<res>
+<word>بما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>قلت</word> 
+ <stem>قُلْت</stem>
+</res>
+<res>
+<word>دون</word> 
+ <stem>دُون</stem>
+</res>
+<res>
+<word>أي</word> 
+ <stem>أَيّ</stem>
+</res>
+<res>
+<word>حسابات</word> 
+ <stem>حِسَابَات</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>تردد</word> 
+ <stem>تَرَدَّد</stem>
+</res>
+<res>
+<word>خشية</word> 
+ <stem>خَشْيَة</stem>
+</res>
+<res>
+<word>رد</word> 
+ <stem>رَدّ</stem>
+</res>
+<res>
+<word>فعل</word> 
+ <stem>فِعْل</stem>
+</res>
+<res>
+<word>القائمين</word> 
+ <stem>قَائِمِين</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>إدارة</word> 
+ <stem>إِدَارَة</stem>
+</res>
+<res>
+<word>القناة</word> 
+ <stem>قَنَاة</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وأضاف</word> 
+ <stem>أَضَاف</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>لو</word> 
+ <stem>لَو</stem>
+</res>
+<res>
+<word>قيل</word> 
+ <stem>قِيل</stem>
+</res>
+<res>
+<word>هذا</word> 
+ <stem>هَذَا</stem>
+</res>
+<res>
+<word>الكلام</word> 
+ <stem>كَلَام</stem>
+</res>
+<res>
+<word>المسيء</word> 
+ <stem>مُسِيء</stem>
+</res>
+<res>
+<word>للنبي</word> 
+ <stem>نَبِيّ</stem>
+</res>
+<res>
+<word>محمد</word> 
+ <stem>مُحَمَّد</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>ملك</word> 
+ <stem>مَلِك</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>رئيس</word> 
+ <stem>رَئِيس</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>كنا</word> 
+ <stem>كُنَّا</stem>
+</res>
+<res>
+<word>لنسكت</word> 
+ <stem>نَسْكُت</stem>
+</res>
+<res>
+<word>وسندافع</word> 
+ <stem>نُدَافِع</stem>
+</res>
+<res>
+<word>عنه</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>فما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>بالنا</word> 
+ <stem>بَالّ</stem>
+</res>
+<res>
+<word>بأنه</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>قيل</word> 
+ <stem>قِيل</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>خير</word> 
+ <stem>خَيْر</stem>
+</res>
+<res>
+<word>الأنام</word> 
+ <stem>الأنام</stem>
+</res>
+<res>
+<word>رسول</word> 
+ <stem>رَسُول</stem>
+</res>
+<res>
+<word>الله</word> 
+ <stem>الله</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>والمعلقون</word> 
+ <stem>مُعَلِّقُون</stem>
+</res>
+<res>
+<word>أصحاب</word> 
+ <stem>أَصْحَاب</stem>
+</res>
+<res>
+<word>رسالة</word> 
+ <stem>رِسَالَة</stem>
+</res>
+<res>
+<word>سلام</word> 
+ <stem>سَلَام</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ودورنا</word> 
+ <stem>دَوْر</stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>يقتصر</word> 
+ <stem>يَقْتَصِر</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>كابينة</word> 
+ <stem>كابينة</stem>
+</res>
+<res>
+<word>التعليق</word> 
+ <stem>تَعْلِيق</stem>
+</res>
+<res>
+<word>فقط</word> 
+ <stem>فَقَط</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بل</word> 
+ <stem>بَل</stem>
+</res>
+<res>
+<word>التفاعل</word> 
+ <stem>تَفَاعُل</stem>
+</res>
+<res>
+<word>مع</word> 
+ <stem>مَع</stem>
+</res>
+<res>
+<word>قضايا</word> 
+ <stem>قَضَايَا</stem>
+</res>
+<res>
+<word>الأمة</word> 
+ <stem>أُمَّة</stem>
+</res>
+<res>
+<word>وأفراحها</word> 
+ <stem>أَفْرَاح</stem>
+</res>
+<res>
+<word>وأتراحها</word> 
+ <stem>أَتْرَاح</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بحيث</word> 
+ <stem>حَيْث</stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>نقلل</word> 
+ <stem>نُقَلِّل</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>أحد</word> 
+ <stem>أَحَد</stem>
+</res>
+<res>
+<word>أو</word> 
+ <stem>أَو</stem>
+</res>
+<res>
+<word>نسيء</word> 
+ <stem>نُسِيء</stem>
+</res>
+<res>
+<word>إليه</word> 
+ <stem>إِلَي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>لكننا</word> 
+ <stem>لَكِنّ</stem>
+</res>
+<res>
+<word>أيضا</word> 
+ <stem>أَيْضًا</stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>نرضى</word> 
+ <stem>نَرْضَى</stem>
+</res>
+<res>
+<word>بالإساءة</word> 
+ <stem>إِسَاءَة</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>رموز</word> 
+ <stem>رُمُوز</stem>
+</res>
+<res>
+<word>الأمة</word> 
+ <stem>أُمَّة</stem>
+</res>
+<res>
+<word>وأعلامها</word> 
+ <stem>أَعْلَام</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وأوضح</word> 
+ <stem>أَوْضَح</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word>أنه</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>تفاجأ</word> 
+ <stem>تُفَاجَأ</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مَن</stem>
+</res>
+<res>
+<word>ردة</word> 
+ <stem>رَدَّة</stem>
+</res>
+<res>
+<word>الفعل</word> 
+ <stem>فِعْل</stem>
+</res>
+<res>
+<word>الإيجابية</word> 
+ <stem>إِيجَابِيَّة</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>مستوى</word> 
+ <stem>مُسْتَوَى</stem>
+</res>
+<res>
+<word>الوطن</word> 
+ <stem>وَطَن</stem>
+</res>
+<res>
+<word>العربي</word> 
+ <stem>عَرَبِيّ</stem>
+</res>
+<res>
+<word>والعالم</word> 
+ <stem>عَالِم</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وأنه</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>أصبح</word> 
+ <stem>أَصْبَح</stem>
+</res>
+<res>
+<word>متصدرا</word> 
+ <stem>مُتَصَدِّرًا</stem>
+</res>
+<res>
+<word>لمواقع</word> 
+ <stem>مَوَاقِع</stem>
+</res>
+<res>
+<word>التواصل</word> 
+ <stem>تَوَاصُل</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الكثير</word> 
+ <stem>كَثِير</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>الدول</word> 
+ <stem>دُوَل</stem>
+</res>
+<res>
+<word>العربية</word> 
+ <stem>عَرَبِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>منها</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>قطر</word> 
+ <stem>قَطَر</stem>
+</res>
+<res>
+<word>وعمان</word> 
+ <stem>عَمَّان</stem>
+</res>
+<res>
+<word>والسعودية</word> 
+ <stem>سُعُودِيَّة</stem>
+</res>
+<res>
+<word>ومصر</word> 
+ <stem>مِصْر</stem>
+</res>
+<res>
+<word>ودول</word> 
+ <stem>دُوَل</stem>
+</res>
+<res>
+<word>المغرب</word> 
+ <stem>مَغْرِب</stem>
+</res>
+<res>
+<word>العربي</word> 
+ <stem>عَرَبِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وهو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>يعكس</word> 
+ <stem>يَعْكِس</stem>
+</res>
+<res>
+<word>نجاح</word> 
+ <stem>نَجَاح</stem>
+</res>
+<res>
+<word>رسالته</word> 
+ <stem>رِسَالَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الوصول</word> 
+ <stem>وُصُول</stem>
+</res>
+<res>
+<word>إلى</word> 
+ <stem>إِلَى</stem>
+</res>
+<res>
+<word>وجدان</word> 
+ <stem>وِجْدَان</stem>
+</res>
+<res>
+<word>الجماهير</word> 
+ <stem>جَمَاهِير</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>ويبلغ</word> 
+ <stem>يَبْلُغ</stem>
+</res>
+<res>
+<word>المعلق</word> 
+ <stem>مُعَلِّق</stem>
+</res>
+<res>
+<word>العماني</word> 
+ <stem>عُمَانِيّ</stem>
+</res>
+<res>
+<word>خليل</word> 
+ <stem>خَلِيل</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word> 41 </word> 
+ <stem> 41 </stem>
+</res>
+<res>
+<word>عاما</word> 
+ <stem>عَامًا</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وهو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>مهندس</word> 
+ <stem>مُهَنْدِس</stem>
+</res>
+<res>
+<word>متخصص</word> 
+ <stem>مُتَخَصِّص</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الهندسة</word> 
+ <stem>هَنْدَسَة</stem>
+</res>
+<res>
+<word>الكهربائية</word> 
+ <stem>كَهْرُبَائِيَّة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>واتجه</word> 
+ <stem>اتَّجَه</stem>
+</res>
+<res>
+<word>للتعليق</word> 
+ <stem>تَعْلِيق</stem>
+</res>
+<res>
+<word>منذ</word> 
+ <stem>مُنْذ</stem>
+</res>
+<res>
+<word>نحو</word> 
+ <stem>نَحْو</stem>
+</res>
+<res>
+<word>عقدين</word> 
+ <stem>عَقْدَيْن</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وبدأت</word> 
+ <stem>بَدَأَت</stem>
+</res>
+<res>
+<word>رحلة</word> 
+ <stem>رِحْلَة</stem>
+</res>
+<res>
+<word>نجاحه</word> 
+ <stem>نَجَاح</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>المستوى</word> 
+ <stem>مُسْتَوَى</stem>
+</res>
+<res>
+<word>العربي</word> 
+ <stem>عَرَبِيّ</stem>
+</res>
+<res>
+<word>عندما</word> 
+ <stem>عِنْدَمَا</stem>
+</res>
+<res>
+<word>أصبح</word> 
+ <stem>أَصْبَح</stem>
+</res>
+<res>
+<word>معلقا</word> 
+ <stem>مُعَلَّقًا</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>قنوات</word> 
+ <stem>قَنَوَات</stem>
+</res>
+<res>
+<word>الكأس</word> 
+ <stem>كَأْس</stem>
+</res>
+<res>
+<word>القطرية</word> 
+ <stem>قَطَرِيَّة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word> 2007، </word> 
+ <stem> 2007، </stem>
+</res>
+<res>
+<word>وتمت</word> 
+ <stem>تَمَّت</stem>
+</res>
+<res>
+<word>الاستعانة</word> 
+ <stem>اسْتِعَانَة</stem>
+</res>
+<res>
+<word>به</word> 
+ <stem>بِه</stem>
+</res>
+<res>
+<word>أيضا</word> 
+ <stem>أَيْضًا</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>التعليق</word> 
+ <stem>تَعْلِيق</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>المباريات</word> 
+ <stem>مُبَارَيَات</stem>
+</res>
+<res>
+<word>الهامة</word> 
+ <stem>هَامَّة</stem>
+</res>
+<res>
+<word>بقنوات</word> 
+ <stem>قَنَوَات</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>بي</word> 
+ <stem>بِي</stem>
+</res>
+<res>
+<word>إن</word> 
+ <stem>إِنّ</stem>
+</res>
+<res>
+<word>سبورتس</word> 
+ <stem>سبورتس</stem>
+</res>
+<res>
+<word>"</word> 
+ <stem>"</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>اهم</word> 
+ <stem>اهْم</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>فالمباراة</word> 
+ <stem>مُبَارَاة</stem>
+</res>
+<res>
+<word>❤️🌝 </word> 
+ <stem>❤️🌝 </stem>
+</res>
+<res>
+<word>خليل</word> 
+ <stem>خَلِيل</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word> pic</word> 
+ <stem> pic</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>twitter</word> 
+ <stem>twitter</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>com/RZdVoF5ztZ</word> 
+ <stem>com/RZdVoF5ztZ</stem>
+</res>
+
+<res>
+<word>— Mustafa Alrawahi (@musta2391) October 28, 2020</word> 
+ <stem>— Mustafa Alrawahi (@musta2391) October 28, 2020</stem>
+</res>
+
+
+<res>
+<word>واحتفى</word> 
+ <stem>احْتَفَى</stem>
+</res>
+<res>
+<word>المغردون</word> 
+ <stem>مُغْرَدُون</stem>
+</res>
+<res>
+<word>ورواد</word> 
+ <stem>رُوَّاد</stem>
+</res>
+<res>
+<word>مواقع</word> 
+ <stem>مَوَاقِع</stem>
+</res>
+<res>
+<word>التواصل</word> 
+ <stem>تَوَاصُل</stem>
+</res>
+<res>
+<word>الاجتماعي</word> 
+ <stem>اجْتِمَاعِيّ</stem>
+</res>
+<res>
+<word>بمبادرة</word> 
+ <stem>مُبَادَرَة</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word>لنصرة</word> 
+ <stem>نُصْرَة</stem>
+</res>
+<res>
+<word>رسول</word> 
+ <stem>رَسُول</stem>
+</res>
+<res>
+<word>الله</word> 
+ <stem>الله</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>واصفين</word> 
+ <stem>وَاصِفِين</stem>
+</res>
+<res>
+<word>كلماته</word> 
+ <stem>كَلِمَات</stem>
+</res>
+<res>
+<word>بأهم</word> 
+ <stem>بأهم</stem>
+</res>
+<res>
+<word>ما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>المباراة</word> 
+ <stem>مُبَارَاة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>كما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>حقق</word> 
+ <stem>حَقَّق</stem>
+</res>
+<res>
+<word>وسم</word> 
+ <stem>سَمّ</stem>
+</res>
+<res>
+<word> #</word> 
+ <stem> #</stem>
+</res>
+<res>
+<word>خليل</word> 
+ <stem>خَلِيل</stem>
+</res>
+<res>
+<word>_</word> 
+ <stem>_</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word>انتشارا</word> 
+ <stem>انْتِشَارًا</stem>
+</res>
+<res>
+<word>واسعا</word> 
+ <stem>وَاسِعًا</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>معظم</word> 
+ <stem>مُعْظَم</stem>
+</res>
+<res>
+<word>البلدان</word> 
+ <stem>بُلْدَان</stem>
+</res>
+<res>
+<word>العربية</word> 
+ <stem>عَرَبِيَّة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+
+<res>
+<word>اروع</word> 
+ <stem>ارْوَع</stem>
+</res>
+<res>
+<word>مقدمة</word> 
+ <stem>مُقَدَّمَة</stem>
+</res>
+<res>
+<word>بالتاريخ</word> 
+ <stem>تَارِيخ</stem>
+</res>
+<res>
+<word>الاسلامي</word> 
+ <stem>الاسلامي</stem>
+</res>
+<res>
+<word>💜#</word> 
+ <stem>💜#</stem>
+</res>
+<res>
+<word>خليل</word> 
+ <stem>خَلِيل</stem>
+</res>
+<res>
+<word>_</word> 
+ <stem>_</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word>كل</word> 
+ <stem>كُلّ</stem>
+</res>
+<res>
+<word>الحب</word> 
+ <stem>حُبّ</stem>
+</res>
+<res>
+<word> #</word> 
+ <stem> #</stem>
+</res>
+<res>
+<word>سلطنة</word> 
+ <stem>سَلْطَنَة</stem>
+</res>
+<res>
+<word>_</word> 
+ <stem>_</stem>
+</res>
+<res>
+<word>عمان</word> 
+ <stem>عُمَان</stem>
+</res>
+<res>
+<word> 😍😍 https</word> 
+ <stem> 😍😍 https</stem>
+</res>
+<res>
+<word>:</word> 
+ <stem>:</stem>
+</res>
+<res>
+<word>//t</word> 
+ <stem>//t</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>co/qJvUw2pnza</word> 
+ <stem>co/qJvUw2pnza</stem>
+</res>
+
+<res>
+<word>— </word> 
+ <stem>— </stem>
+</res>
+<res>
+<word>بويحيى</word> 
+ <stem>بويحيى</stem>
+</res>
+<res>
+<word> 🇵🇸 (@ABN_Palestine_G) October 28, 2020</word> 
+ <stem> 🇵🇸 (@ABN_Palestine_G) October 28, 2020</stem>
+</res>
+
+
+<res>
+<word>موقف</word> 
+ <stem>مَوْقِف</stem>
+</res>
+<res>
+<word>محترم</word> 
+ <stem>مُحْتَرَم</stem>
+</res>
+<res>
+<word>مليون</word> 
+ <stem>مِلْيُون</stem>
+</res>
+<res>
+<word>غيره</word> 
+ <stem>غَيْر</stem>
+</res>
+<res>
+<word>خافوا</word> 
+ <stem>خَافُوا</stem>
+</res>
+<res>
+<word>يخدوه</word> 
+ <stem>يَخُدُّوا</stem>
+</res>
+<res>
+<word>شكرا</word> 
+ <stem>شُكْرًا</stem>
+</res>
+<res>
+<word>خليل</word> 
+ <stem>خَلِيل</stem>
+</res>
+<res>
+<word>البلوشى</word> 
+ <stem>البلوشى</stem>
+</res>
+<res>
+<word> #</word> 
+ <stem> #</stem>
+</res>
+<res>
+<word>خليل</word> 
+ <stem>خَلِيل</stem>
+</res>
+<res>
+<word>_</word> 
+ <stem>_</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+
+<res>
+<word>— Mohamed mosalm (@Mohamedmosalm15) October 28, 2020</word> 
+ <stem>— Mohamed mosalm (@Mohamedmosalm15) October 28, 2020</stem>
+</res>
+
+
+<res>
+<word>شكرًا</word> 
+ <stem>شُكْرًا</stem>
+</res>
+<res>
+<word> #</word> 
+ <stem> #</stem>
+</res>
+<res>
+<word>خليل</word> 
+ <stem>خَلِيل</stem>
+</res>
+<res>
+<word>_</word> 
+ <stem>_</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word>ونرفع</word> 
+ <stem>نَرْفَع</stem>
+</res>
+<res>
+<word>القبعة</word> 
+ <stem>قِبْعَة</stem>
+</res>
+<res>
+<word>احترامًا</word> 
+ <stem>احْتِرَامًا</stem>
+</res>
+<res>
+<word>لك</word> 
+ <stem>لَك</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>وقفتك</word> 
+ <stem>وَقَفْت</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>تعبر</word> 
+ <stem>تُعَبِّر</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>لسان</word> 
+ <stem>لِسَان</stem>
+</res>
+<res>
+<word>كل</word> 
+ <stem>كُلّ</stem>
+</res>
+<res>
+<word>مسلم</word> 
+ <stem>مُسَلَّم</stem>
+</res>
+<res>
+<word>غيور</word> 
+ <stem>غَيُور</stem>
+</res>
+<res>
+<word>فعلا</word> 
+ <stem>فِعْلًا</stem>
+</res>
+<res>
+<word>يجب</word> 
+ <stem>يَجِب</stem>
+</res>
+<res>
+<word>ان</word> 
+ <stem>ان</stem>
+</res>
+<res>
+<word>نكون</word> 
+ <stem>نَكُون</stem>
+</res>
+<res>
+<word>حازمين</word> 
+ <stem>حَازِمِين</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الدفاع</word> 
+ <stem>دِفَاع</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>ديننا</word> 
+ <stem>دِين</stem>
+</res>
+<res>
+<word>وعن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>نبينا</word> 
+ <stem>نَبِيّ</stem>
+</res>
+<res>
+<word>هناك</word> 
+ <stem>هُنَاك</stem>
+</res>
+<res>
+<word>خطوط</word> 
+ <stem>خُطُوط</stem>
+</res>
+<res>
+<word>حمرا</word> 
+ <stem>حُمْرًا</stem>
+</res>
+<res>
+<word>يجب</word> 
+ <stem>يَجِب</stem>
+</res>
+<res>
+<word>ان</word> 
+ <stem>ان</stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>نكون</word> 
+ <stem>نَكُون</stem>
+</res>
+<res>
+<word>فيها</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>متسامحين</word> 
+ <stem>مُتَسَامَحَيْن</stem>
+</res>
+<res>
+<word> @khalilalbalush1 pic</word> 
+ <stem> @khalilalbalush1 pic</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>twitter</word> 
+ <stem>twitter</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>com/GSVTjkgei9</word> 
+ <stem>com/GSVTjkgei9</stem>
+</res>
+
+<res>
+<word>— </word> 
+ <stem>— </stem>
+</res>
+<res>
+<word>مطلق</word> 
+ <stem>مُطْلَق</stem>
+</res>
+<res>
+<word>السميري</word> 
+ <stem>سَمِيرِيّ</stem>
+</res>
+<res>
+<word> (@m6laa8) October 28, 2020</word> 
+ <stem> (@m6laa8) October 28, 2020</stem>
+</res>
+
+
+<res>
+<word>لم</word> 
+ <stem>لَم</stem>
+</res>
+<res>
+<word>أستطع</word> 
+ <stem>أَسْتَطِع</stem>
+</res>
+<res>
+<word>حبس</word> 
+ <stem>حَبَس</stem>
+</res>
+<res>
+<word>دموعي</word> 
+ <stem>دُمُوع</stem>
+</res>
+<res>
+<word>عندما</word> 
+ <stem>عِنْدَمَا</stem>
+</res>
+<res>
+<word>سمعت</word> 
+ <stem>سَمِعْت</stem>
+</res>
+<res>
+<word>المعلق</word> 
+ <stem>مُعَلِّق</stem>
+</res>
+<res>
+<word>العماني</word> 
+ <stem>عُمَانِيّ</stem>
+</res>
+<res>
+<word>الرائع</word> 
+ <stem>رَائِع</stem>
+</res>
+<res>
+<word> #</word> 
+ <stem> #</stem>
+</res>
+<res>
+<word>خليل</word> 
+ <stem>خَلِيل</stem>
+</res>
+<res>
+<word>_</word> 
+ <stem>_</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word>وهو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>يفتتح</word> 
+ <stem>يَفْتَتِح</stem>
+</res>
+<res>
+<word>التعليق</word> 
+ <stem>تَعْلِيق</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>مباراة</word> 
+ <stem>مُبَارَاة</stem>
+</res>
+<res>
+<word>ريال</word> 
+ <stem>رِيَال</stem>
+</res>
+<res>
+<word>مدريد</word> 
+ <stem>مَدْرِيد</stem>
+</res>
+<res>
+<word>بهذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>المقدمة</word> 
+ <stem>مُقَدِّمَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>الدفاع</word> 
+ <stem>دِفَاع</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>رسول</word> 
+ <stem>رَسُول</stem>
+</res>
+<res>
+<word>الله</word> 
+ <stem>الله</stem>
+</res>
+<res>
+<word>صل</word> 
+ <stem>صَلّ</stem>
+</res>
+<res>
+<word>الله</word> 
+ <stem>الله</stem>
+</res>
+<res>
+<word>عليه</word> 
+ <stem>عَلَي</stem>
+</res>
+<res>
+<word>وسلم</word> 
+ <stem>سَلَّم</stem>
+</res>
+<res>
+<word>والإسلام</word> 
+ <stem>إِسْلَام</stem>
+</res>
+<res>
+<word>شكرا</word> 
+ <stem>شُكْرًا</stem>
+</res>
+<res>
+<word>عيال</word> 
+ <stem>عَيَّال</stem>
+</res>
+<res>
+<word>محمد</word> 
+ <stem>مُحَمَّد</stem>
+</res>
+<res>
+<word> pic</word> 
+ <stem> pic</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>twitter</word> 
+ <stem>twitter</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>com/chZU8rRUyj</word> 
+ <stem>com/chZU8rRUyj</stem>
+</res>
+
+<res>
+<word>— dr</word> 
+ <stem>— dr</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>balhaj (@DrBalhaj) October 27, 2020</word> 
+ <stem>balhaj (@DrBalhaj) October 27, 2020</stem>
+</res>
+
+
+<res>
+<word>#</word> 
+ <stem>#</stem>
+</res>
+<res>
+<word>خليل</word> 
+ <stem>خَلِيل</stem>
+</res>
+<res>
+<word>_</word> 
+ <stem>_</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word>المعلق</word> 
+ <stem>مُعَلِّق</stem>
+</res>
+<res>
+<word>الرائع</word> 
+ <stem>رَائِع</stem>
+</res>
+<res>
+<word>الأستاذ</word> 
+ <stem>أُسْتَاذ</stem>
+</res>
+<res>
+<word>خليل</word> 
+ <stem>خَلِيل</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>المباراة</word> 
+ <stem>مُبَارَاة</stem>
+</res>
+<res>
+<word>ستخلد</word> 
+ <stem>تَخْلُد</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>التاريخ</word> 
+ <stem>تَارِيخ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ليس</word> 
+ <stem>لَيْس</stem>
+</res>
+<res>
+<word>لأن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>الريال</word> 
+ <stem>رِيَال</stem>
+</res>
+<res>
+<word>عاد</word> 
+ <stem>عَاد</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>جديد</word> 
+ <stem>جَدِيد</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بل</word> 
+ <stem>بَل</stem>
+</res>
+<res>
+<word>لأن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>كلماتك</word> 
+ <stem>كَلَمَات</stem>
+</res>
+<res>
+<word>الصادقة</word> 
+ <stem>صَادِقَة</stem>
+</res>
+<res>
+<word>أسعدتنا</word> 
+ <stem>أَسْعَدَت</stem>
+</res>
+<res>
+<word>فخورون</word> 
+ <stem>فَخُورُون</stem>
+</res>
+<res>
+<word>جميعًا</word> 
+ <stem>جَمِيعًا</stem>
+</res>
+<res>
+<word>بالمستوى</word> 
+ <stem>مُسْتَوَى</stem>
+</res>
+<res>
+<word>المهني</word> 
+ <stem>مِهْنِيّ</stem>
+</res>
+<res>
+<word>والأخلاقي</word> 
+ <stem>أَخْلَاقِيّ</stem>
+</res>
+<res>
+<word>الذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>تقدمه</word> 
+ <stem>تُقَدَّم</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>شكرًا</word> 
+ <stem>شُكْرًا</stem>
+</res>
+<res>
+<word>لك</word> 
+ <stem>لَك</stem>
+</res>
+<res>
+<word> ♥️</word> 
+ <stem> ♥️</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word> pic</word> 
+ <stem> pic</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>twitter</word> 
+ <stem>twitter</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>com/Dbqmbra8SH</word> 
+ <stem>com/Dbqmbra8SH</stem>
+</res>
+
+<res>
+<word>— </word> 
+ <stem>— </stem>
+</res>
+<res>
+<word>بن</word> 
+ <stem>بْن</stem>
+</res>
+<res>
+<word>طناف</word> 
+ <stem>طَنَّاف</stem>
+</res>
+<res>
+<word>✉️ (@monuter) October 27, 2020</word> 
+ <stem>✉️ (@monuter) October 27, 2020</stem>
+</res>
+
+
+<res>
+<word>كما</word> 
+ <stem>مَا</stem>
+</res>
+<res>
+<word>انتقدت</word> 
+ <stem>انْتَقَدَت</stem>
+</res>
+<res>
+<word>البي</word> 
+ <stem>الْبَي</stem>
+</res>
+<res>
+<word>ان</word> 
+ <stem>ان</stem>
+</res>
+<res>
+<word>سبورت</word> 
+ <stem>سبورت</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>قبل</word> 
+ <stem>قِبَل</stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>املك</word> 
+ <stem>امْلِك</stem>
+</res>
+<res>
+<word>هنا</word> 
+ <stem>هُنَا</stem>
+</res>
+<res>
+<word>الا</word> 
+ <stem>الا</stem>
+</res>
+<res>
+<word>ان</word> 
+ <stem>ان</stem>
+</res>
+<res>
+<word>اقف</word> 
+ <stem>اقْف</stem>
+</res>
+<res>
+<word>احترامًا</word> 
+ <stem>احْتِرَامًا</stem>
+</res>
+<res>
+<word>وتقديرًا</word> 
+ <stem>تَقْدِيرًا</stem>
+</res>
+<res>
+<word>لها</word> 
+ <stem>لَهَا</stem>
+</res>
+<res>
+<word>وللمعلق</word> 
+ <stem>مُعَلِّق</stem>
+</res>
+<res>
+<word>الرائع</word> 
+ <stem>رَائِع</stem>
+</res>
+<res>
+<word> #</word> 
+ <stem> #</stem>
+</res>
+<res>
+<word>خليل</word> 
+ <stem>خَلِيل</stem>
+</res>
+<res>
+<word>_</word> 
+ <stem>_</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>هذه</word> 
+ <stem>هَذِه</stem>
+</res>
+<res>
+<word>المقدمة</word> 
+ <stem>مُقَدَّمَة</stem>
+</res>
+<res>
+<word>الرائعة</word> 
+ <stem>رَائِعَة</stem>
+</res>
+<res>
+<word>دفاعًا</word> 
+ <stem>دِفَاعًا</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>المصطفى</word> 
+ <stem>مُصْطَفَى</stem>
+</res>
+<res>
+<word>بأبي</word> 
+ <stem>أَبِيّ</stem>
+</res>
+<res>
+<word>هو</word> 
+ <stem>هُو</stem>
+</res>
+<res>
+<word>وأمي</word> 
+ <stem>أُمِّيّ</stem>
+</res>
+<res>
+<word>صلوات</word> 
+ <stem>صَلَوَات</stem>
+</res>
+<res>
+<word>ربي</word> 
+ <stem>رَبّ</stem>
+</res>
+<res>
+<word>وسلامه</word> 
+ <stem>سَلَام</stem>
+</res>
+<res>
+<word>عليه</word> 
+ <stem>عَلَي</stem>
+</res>
+<res>
+<word>@beINSPORTS @khalilalbalush1 pic</word> 
+ <stem>@beINSPORTS @khalilalbalush1 pic</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>twitter</word> 
+ <stem>twitter</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>com/Q51iu5Mo2o</word> 
+ <stem>com/Q51iu5Mo2o</stem>
+</res>
+
+<res>
+<word>— </word> 
+ <stem>— </stem>
+</res>
+<res>
+<word>نايف</word> 
+ <stem>نَايِف</stem>
+</res>
+<res>
+<word>جابر</word> 
+ <stem>جَابِر</stem>
+</res>
+<res>
+<word> (@nayef96551) October 27, 2020</word> 
+ <stem> (@nayef96551) October 27, 2020</stem>
+</res>
+
+
+<res>
+<word>حديث</word> 
+ <stem>حَدِيث</stem>
+</res>
+<res>
+<word>المعلق</word> 
+ <stem>مُعَلِّق</stem>
+</res>
+<res>
+<word>الكبير</word> 
+ <stem>كَبِير</stem>
+</res>
+<res>
+<word> #</word> 
+ <stem> #</stem>
+</res>
+<res>
+<word>خليل</word> 
+ <stem>خَلِيل</stem>
+</res>
+<res>
+<word>_</word> 
+ <stem>_</stem>
+</res>
+<res>
+<word>البلوشي</word> 
+ <stem>البلوشي</stem>
+</res>
+<res>
+<word>عن</word> 
+ <stem>عَن</stem>
+</res>
+<res>
+<word>الرسول</word> 
+ <stem>رَسُول</stem>
+</res>
+<res>
+<word>اللهم</word> 
+ <stem>الله</stem>
+</res>
+<res>
+<word>صلِّ</word> 
+ <stem>صَلّ</stem>
+</res>
+<res>
+<word>وسلم</word> 
+ <stem>سَلَّم</stem>
+</res>
+<res>
+<word>عليه</word> 
+ <stem>عَلَي</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>مباراة</word> 
+ <stem>مُبَارَاة</stem>
+</res>
+<res>
+<word>أمس</word> 
+ <stem>أَمْس</stem>
+</res>
+<res>
+<word> #</word> 
+ <stem> #</stem>
+</res>
+<res>
+<word>ريال</word> 
+ <stem>رِيَال</stem>
+</res>
+<res>
+<word>_</word> 
+ <stem>_</stem>
+</res>
+<res>
+<word>مدريد</word> 
+ <stem>مَدْرِيد</stem>
+</res>
+<res>
+<word>_</word> 
+ <stem>_</stem>
+</res>
+<res>
+<word>بوروسيا</word> 
+ <stem>بوروسيا</stem>
+</res>
+<res>
+<word>_</word> 
+ <stem>_</stem>
+</res>
+<res>
+<word>مونشنغلادباخ</word> 
+ <stem>مونشنغلادباخ</stem>
+</res>
+<res>
+<word>واستغلال</word> 
+ <stem>اسْتِغْلَال</stem>
+</res>
+<res>
+<word>المناصب</word> 
+ <stem>مَنَاصِب</stem>
+</res>
+<res>
+<word>لتسخيرها</word> 
+ <stem>تَسْخِير</stem>
+</res>
+<res>
+<word>لخدمة</word> 
+ <stem>خِدْمَة</stem>
+</res>
+<res>
+<word>الدين</word> 
+ <stem>دَيْن</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>جدًا</word> 
+ <stem>جَدًا</stem>
+</res>
+<res>
+<word>رائع</word> 
+ <stem>رَائِع</stem>
+</res>
+<res>
+<word>مثال</word> 
+ <stem>مِثَال</stem>
+</res>
+<res>
+<word>يحتذى</word> 
+ <stem>يُحْتَذَى</stem>
+</res>
+<res>
+<word>به</word> 
+ <stem>بِه</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>ولقطة</word> 
+ <stem>قِطَّة</stem>
+</res>
+<res>
+<word>رائعة</word> 
+ <stem>رَائِعَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>قبل</word> 
+ <stem>قِبَل</stem>
+</res>
+<res>
+<word>خليل</word> 
+ <stem>خَلِيل</stem>
+</res>
+<res>
+<word> pic</word> 
+ <stem> pic</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>twitter</word> 
+ <stem>twitter</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>com/N2HTpeU46L</word> 
+ <stem>com/N2HTpeU46L</stem>
+</res>
+
+<res>
+<word>— +﴿‏﮼</word> 
+ <stem>— +﴿‏﮼</stem>
+</res>
+<res>
+<word>ع</word> 
+ <stem>ع</stem>
+</res>
+<res>
+<word>ٌٓ</word> 
+ <stem>ٌٓ</stem>
+</res>
+<res>
+<word>مر</word> 
+ <stem>مَرّ</stem>
+</res>
+<res>
+<word>🇴🇲 (@qls99_) October 28, 2020</word> 
+ <stem>🇴🇲 (@qls99_) October 28, 2020</stem>
+</res>
+
+
+</Stems>

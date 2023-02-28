@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>إعصار</word> 
+ <lemma>إِعْصَار</lemma>
+</res>
+<res>
+<word>يربك</word> 
+ <lemma>أَرْبَكَ</lemma>
+</res>
+<res>
+<word>جدول</word> 
+ <lemma>جَدْوَل</lemma>
+</res>
+<res>
+<word>سباقات</word> 
+ <lemma>سِبَاق</lemma>
+</res>
+<res>
+<word>فورمولا</word> 
+ <lemma>فورمولا</lemma>
+</res>
+<res>
+<word>1 </word> 
+ <lemma>1 </lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>اليابان</word> 
+ <lemma>يَابَان</lemma>
+</res>
+
+<res>
+<word>ألغى</word> 
+ <lemma>أَلْغَى</lemma>
+</res>
+<res>
+<word>منظمو</word> 
+ <lemma>مُنَظِّم</lemma>
+</res>
+<res>
+<word>جائزة</word> 
+ <lemma>جَائِزَة</lemma>
+</res>
+<res>
+<word>اليابان</word> 
+ <lemma>يَابَان</lemma>
+</res>
+<res>
+<word>الكبرى</word> 
+ <lemma>كُبْرَى</lemma>
+</res>
+<res>
+<word>ببطولة</word> 
+ <lemma>بُطُولَة</lemma>
+</res>
+<res>
+<word>العالم</word> 
+ <lemma>عَالَم</lemma>
+</res>
+<res>
+<word>لسباقات</word> 
+ <lemma>سِبَاق</lemma>
+</res>
+<res>
+<word>فورمولا</word> 
+ <lemma>فورمولا</lemma>
+</res>
+<res>
+<word>1 </word> 
+ <lemma>1 </lemma>
+</res>
+<res>
+<word>للسيارات</word> 
+ <lemma>سَيَّارَة</lemma>
+</res>
+<res>
+<word>جدول</word> 
+ <lemma>جَدْوَل</lemma>
+</res>
+<res>
+<word>يوم</word> 
+ <lemma>يَوْم</lemma>
+</res>
+<res>
+<word>السبت</word> 
+ <lemma>سَبْت</lemma>
+</res>
+<res>
+<word>المكون</word> 
+ <lemma>مُكَوَّن</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>التجارب</word> 
+ <lemma>تَجْرِبَة</lemma>
+</res>
+<res>
+<word>الحرة</word> 
+ <lemma>حُرّ</lemma>
+</res>
+<res>
+<word>الثالثة</word> 
+ <lemma>ثَالِث</lemma>
+</res>
+<res>
+<word>والتجارب</word> 
+ <lemma>تَجْرِبَة</lemma>
+</res>
+<res>
+<word>التأهيلية</word> 
+ <lemma>تَأْهِيلِيّ</lemma>
+</res>
+<res>
+<word>بسبب</word> 
+ <lemma>سَبَب</lemma>
+</res>
+<res>
+<word>الإعصار</word> 
+ <lemma>إِعْصَار</lemma>
+</res>
+<res>
+<word>هاجيبيس</word> 
+ <lemma>هاجيبيس</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ووفق</word> 
+ <lemma>وَفْق</lemma>
+</res>
+<res>
+<word>جدول</word> 
+ <lemma>جَدْوَل</lemma>
+</res>
+<res>
+<word>معدل</word> 
+ <lemma>مُعَدَّل</lemma>
+</res>
+<res>
+<word>ستقام</word> 
+ <lemma>أَقَامَ</lemma>
+</res>
+<res>
+<word>التجارب</word> 
+ <lemma>تَجْرِبَة</lemma>
+</res>
+<res>
+<word>التأهيلية</word> 
+ <lemma>تَأْهِيلِيّ</lemma>
+</res>
+<res>
+<word> -</word> 
+ <lemma> -</lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>تحدد</word> 
+ <lemma>حَدَّدَ</lemma>
+</res>
+<res>
+<word>مكان</word> 
+ <lemma>مَكَان</lemma>
+</res>
+<res>
+<word>كل</word> 
+ <lemma>كُلّ</lemma>
+</res>
+<res>
+<word>سائق</word> 
+ <lemma>سَائِق</lemma>
+</res>
+<res>
+<word>عند</word> 
+ <lemma>عِنْدَ</lemma>
+</res>
+<res>
+<word>الانطلاق</word> 
+ <lemma>انْطِلَاق</lemma>
+</res>
+<res>
+<word>- </word> 
+ <lemma>- </lemma>
+</res>
+<res>
+<word>العاشرة</word> 
+ <lemma>عَاشِر</lemma>
+</res>
+<res>
+<word>صباح</word> 
+ <lemma>صَبَاح</lemma>
+</res>
+<res>
+<word>الأحد</word> 
+ <lemma>أَحَد</lemma>
+</res>
+<res>
+<word> (</word> 
+ <lemma> (</lemma>
+</res>
+<res>
+<word>الواحدة</word> 
+ <lemma>وَاحِد</lemma>
+</res>
+<res>
+<word>صباحا</word> 
+ <lemma>صَبَاح</lemma>
+</res>
+<res>
+<word>بتوقيت</word> 
+ <lemma>تَوْقِيت</lemma>
+</res>
+<res>
+<word>غرينتش</word> 
+ <lemma>غرينتش</lemma>
+</res>
+<res>
+<word>) </word> 
+ <lemma>) </lemma>
+</res>
+<res>
+<word>بدلا</word> 
+ <lemma>بَدَل</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>موعدها</word> 
+ <lemma>مَوْعِد</lemma>
+</res>
+<res>
+<word>الأساسي</word> 
+ <lemma>أَسَاسِيّ</lemma>
+</res>
+<res>
+<word>غدا</word> 
+ <lemma>غَد</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>تمام</word> 
+ <lemma>تَمَام</lemma>
+</res>
+<res>
+<word>الثالثة</word> 
+ <lemma>ثَالِث</lemma>
+</res>
+<res>
+<word>عصرا</word> 
+ <lemma>عَصْر</lemma>
+</res>
+<res>
+<word>بالتوقيت</word> 
+ <lemma>تَوْقِيت</lemma>
+</res>
+<res>
+<word>المحلي</word> 
+ <lemma>مَحَلِّيّ</lemma>
+</res>
+<res>
+<word> (</word> 
+ <lemma> (</lemma>
+</res>
+<res>
+<word>السادسة</word> 
+ <lemma>سَادِس</lemma>
+</res>
+<res>
+<word>صباحا</word> 
+ <lemma>صَبَاح</lemma>
+</res>
+<res>
+<word>بتوقيت</word> 
+ <lemma>تَوْقِيت</lemma>
+</res>
+<res>
+<word>غرينتش</word> 
+ <lemma>غرينتش</lemma>
+</res>
+<res>
+<word>)</word> 
+ <lemma>)</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ولن</word> 
+ <lemma>لَنْ</lemma>
+</res>
+<res>
+<word>تقام</word> 
+ <lemma>أَقَامَ</lemma>
+</res>
+<res>
+<word>التجارب</word> 
+ <lemma>تَجْرِبَة</lemma>
+</res>
+<res>
+<word>الحرة</word> 
+ <lemma>حُرّ</lemma>
+</res>
+<res>
+<word>الثالثة</word> 
+ <lemma>ثَالِث</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>لكن</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>السباق</word> 
+ <lemma>سِبَاق</lemma>
+</res>
+<res>
+<word>الأحد</word> 
+ <lemma>أَحَد</lemma>
+</res>
+<res>
+<word>سينطلق</word> 
+ <lemma>انْطَلَقَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>موعده</word> 
+ <lemma>مَوْعِد</lemma>
+</res>
+<res>
+<word>المحدد</word> 
+ <lemma>مُحَدَّد</lemma>
+</res>
+<res>
+<word>الساعة</word> 
+ <lemma>سَاعَة</lemma>
+</res>
+<res>
+<word> 14</word> 
+ <lemma> 14</lemma>
+</res>
+<res>
+<word>:</word> 
+ <lemma>:</lemma>
+</res>
+<res>
+<word>10 </word> 
+ <lemma>10 </lemma>
+</res>
+<res>
+<word>بالتوقيت</word> 
+ <lemma>تَوْقِيت</lemma>
+</res>
+<res>
+<word>المحلي</word> 
+ <lemma>مَحَلِّيّ</lemma>
+</res>
+<res>
+<word> (05</word> 
+ <lemma> (05</lemma>
+</res>
+<res>
+<word>:</word> 
+ <lemma>:</lemma>
+</res>
+<res>
+<word>10 </word> 
+ <lemma>10 </lemma>
+</res>
+<res>
+<word>بتوقيت</word> 
+ <lemma>تَوْقِيت</lemma>
+</res>
+<res>
+<word>غرينتش</word> 
+ <lemma>غرينتش</lemma>
+</res>
+<res>
+<word>)</word> 
+ <lemma>)</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وتستعد</word> 
+ <lemma>اسْتَعَدَّ</lemma>
+</res>
+<res>
+<word>اليابان</word> 
+ <lemma>يَابَان</lemma>
+</res>
+<res>
+<word>لإعصار</word> 
+ <lemma>إِعْصَار</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>هاجيبيس</word> 
+ <lemma>هاجيبيس</lemma>
+</res>
+<res>
+<word>" </word> 
+ <lemma>" </lemma>
+</res>
+<res>
+<word>القوي</word> 
+ <lemma>قَوِيّ</lemma>
+</res>
+<res>
+<word>اليوم</word> 
+ <lemma>يَوْم</lemma>
+</res>
+<res>
+<word>الجمعة</word> 
+ <lemma>جُمْعَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وتتوقع</word> 
+ <lemma>تَوَقَّعَ</lemma>
+</res>
+<res>
+<word>السلطات</word> 
+ <lemma>سُلْطَة</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>يتسبب</word> 
+ <lemma>تَسَبَّبَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>هبوب</word> 
+ <lemma>هُبُوب</lemma>
+</res>
+<res>
+<word>رياح</word> 
+ <lemma>رِيح</lemma>
+</res>
+<res>
+<word>عاتية</word> 
+ <lemma>عَاتِيَة</lemma>
+</res>
+<res>
+<word>وارتفاع</word> 
+ <lemma>ارْتِفَاع</lemma>
+</res>
+<res>
+<word>أمواج</word> 
+ <lemma>مَوْج</lemma>
+</res>
+<res>
+<word>المد</word> 
+ <lemma>مَدّ</lemma>
+</res>
+<res>
+<word>وهطول</word> 
+ <lemma>وهطول</lemma>
+</res>
+<res>
+<word>أمطار</word> 
+ <lemma>مَطَر</lemma>
+</res>
+<res>
+<word>قياسية</word> 
+ <lemma>قِيَاسِيّ</lemma>
+</res>
+<res>
+<word>بمناطق</word> 
+ <lemma>مِنْطَقَة</lemma>
+</res>
+<res>
+<word>واسعة</word> 
+ <lemma>وَاسِع</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وكان</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>الفنلندي</word> 
+ <lemma>الفنلندي</lemma>
+</res>
+<res>
+<word>فالتيري</word> 
+ <lemma>تِيرِي</lemma>
+</res>
+<res>
+<word>بوتاس</word> 
+ <lemma>بوتاس</lemma>
+</res>
+<res>
+<word>تفوق</word> 
+ <lemma>تَفَوَّقَ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>زميله</word> 
+ <lemma>زَمِيل</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>مرسيدس</word> 
+ <lemma>مرسيدس</lemma>
+</res>
+<res>
+<word>البريطاني</word> 
+ <lemma>بِرِيطَانِيّ</lemma>
+</res>
+<res>
+<word>لويس</word> 
+ <lemma>وَيْس</lemma>
+</res>
+<res>
+<word>هاميلتون</word> 
+ <lemma>هاميلتون</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ليحقق</word> 
+ <lemma>حَقَّقَ</lemma>
+</res>
+<res>
+<word>أسرع</word> 
+ <lemma>أَسْرَع</lemma>
+</res>
+<res>
+<word>زمن</word> 
+ <lemma>زَمَن</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>التجارب</word> 
+ <lemma>تَجْرِبَة</lemma>
+</res>
+<res>
+<word>الحرة</word> 
+ <lemma>حُرّ</lemma>
+</res>
+<res>
+<word>الأولى</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>اليوم</word> 
+ <lemma>يَوْم</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وجاء</word> 
+ <lemma>جَاءَ</lemma>
+</res>
+<res>
+<word>سيباستيان</word> 
+ <lemma>سيباستيان</lemma>
+</res>
+<res>
+<word>فيتل</word> 
+ <lemma>تَلَا</lemma>
+</res>
+<res>
+<word>سائق</word> 
+ <lemma>سَائِق</lemma>
+</res>
+<res>
+<word>فيراري</word> 
+ <lemma>يَرَّار</lemma>
+</res>
+<res>
+<word>ثالثا</word> 
+ <lemma>ثَالِث</lemma>
+</res>
+<res>
+<word>أمام</word> 
+ <lemma>أَمَامَ</lemma>
+</res>
+<res>
+<word>زميله</word> 
+ <lemma>زَمِيل</lemma>
+</res>
+<res>
+<word>شارل</word> 
+ <lemma>شارل</lemma>
+</res>
+<res>
+<word>لوكلير</word> 
+ <lemma>لوكلير</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>لكنهما</word> 
+ <lemma>لَكِنَّ</lemma>
+</res>
+<res>
+<word>كانا</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>بعيدين</word> 
+ <lemma>بَعِيد</lemma>
+</res>
+<res>
+<word>بنحو</word> 
+ <lemma>نَحْو</lemma>
+</res>
+<res>
+<word>ثانية</word> 
+ <lemma>ثَانِي</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>بوتاس</word> 
+ <lemma>بوتاس</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ويتصدر</word> 
+ <lemma>تَصَدَّرَ</lemma>
+</res>
+<res>
+<word>هاميلتون</word> 
+ <lemma>هاميلتون</lemma>
+</res>
+<res>
+<word>بطولة</word> 
+ <lemma>بُطُولَة</lemma>
+</res>
+<res>
+<word>السائقين</word> 
+ <lemma>سَائِق</lemma>
+</res>
+<res>
+<word>بفارق</word> 
+ <lemma>فَارِق</lemma>
+</res>
+<res>
+<word> 73 </word> 
+ <lemma> 73 </lemma>
+</res>
+<res>
+<word>نقطة</word> 
+ <lemma>نُقْطَة</lemma>
+</res>
+<res>
+<word>أمام</word> 
+ <lemma>أَمَامَ</lemma>
+</res>
+<res>
+<word>بوتاس</word> 
+ <lemma>بوتاس</lemma>
+</res>
+<res>
+<word>قبل</word> 
+ <lemma>قِبَل</lemma>
+</res>
+<res>
+<word>خمسة</word> 
+ <lemma>خَمْس</lemma>
+</res>
+<res>
+<word>سباقات</word> 
+ <lemma>سِبَاق</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>النهاية</word> 
+ <lemma>نِهَايَة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

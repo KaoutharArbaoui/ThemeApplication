@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Stems>
+<res>
+<word>ملاعب</word> 
+ <stem>مَلَاعِب</stem>
+</res>
+<res>
+<word>مكيفة</word> 
+ <stem>مُكَيَّفَة</stem>
+</res>
+<res>
+<word>لاستكمال</word> 
+ <stem>اسْتِكْمَال</stem>
+</res>
+<res>
+<word>مباريات</word> 
+ <stem>مُبَارَيَات</stem>
+</res>
+<res>
+<word>الدوري</word> 
+ <stem>دَوْرِيّ</stem>
+</res>
+<res>
+<word>القطري</word> 
+ <stem>قَطَرِيّ</stem>
+</res>
+
+<res>
+<word>أعلنت</word> 
+ <stem>أَعْلَنَت</stem>
+</res>
+<res>
+<word>مؤسسة</word> 
+ <stem>مُؤَسَّسَة</stem>
+</res>
+<res>
+<word>دوري</word> 
+ <stem>دَوْرِيّ</stem>
+</res>
+<res>
+<word>نجوم</word> 
+ <stem>نُجُوم</stem>
+</res>
+<res>
+<word>قطر</word> 
+ <stem>قَطَر</stem>
+</res>
+<res>
+<word>جدول</word> 
+ <stem>جَدْوَل</stem>
+</res>
+<res>
+<word>مباريات</word> 
+ <stem>مُبَارَيَات</stem>
+</res>
+<res>
+<word>الجولات</word> 
+ <stem>جَوْلَات</stem>
+</res>
+<res>
+<word> 18 </word> 
+ <stem> 18 </stem>
+</res>
+<res>
+<word>و</word> 
+ <stem>و</stem>
+</res>
+<res>
+<word>19 </word> 
+ <stem>19 </stem>
+</res>
+<res>
+<word>و</word> 
+ <stem>و</stem>
+</res>
+<res>
+<word>20 </word> 
+ <stem>20 </stem>
+</res>
+<res>
+<word>لبطولة</word> 
+ <stem>بُطُولَة</stem>
+</res>
+<res>
+<word>الدوري</word> 
+ <stem>دَوْرِيّ</stem>
+</res>
+<res>
+<word>للموسم</word> 
+ <stem>مَوْسِم</stem>
+</res>
+<res>
+<word>الحالي</word> 
+ <stem>حَالِيّ</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وذلك</word> 
+ <stem>ذَلِك</stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>قرار</word> 
+ <stem>قَرَار</stem>
+</res>
+<res>
+<word>استئناف</word> 
+ <stem>اسْتِئْنَاف</stem>
+</res>
+<res>
+<word>المسابقة</word> 
+ <stem>مُسَابَقَة</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>والنشاط</word> 
+ <stem>نَشَاط</stem>
+</res>
+<res>
+<word>الرياضي</word> 
+ <stem>رِيَاضِيّ</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>البلاد</word> 
+ <stem>بِلَاد</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>إطار</word> 
+ <stem>إِطَار</stem>
+</res>
+<res>
+<word>تخفيف</word> 
+ <stem>تَخْفِيف</stem>
+</res>
+<res>
+<word>قيود</word> 
+ <stem>قُيُود</stem>
+</res>
+<res>
+<word>الإغلاق</word> 
+ <stem>إِغْلَاق</stem>
+</res>
+<res>
+<word>بسبب</word> 
+ <stem>سَبَب</stem>
+</res>
+<res>
+<word>انتشار</word> 
+ <stem>انْتِشَار</stem>
+</res>
+<res>
+<word>فيروس</word> 
+ <stem>فَيْرُوس</stem>
+</res>
+<res>
+<word>كورونا</word> 
+ <stem>كَوَّرُوا</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وذكرت</word> 
+ <stem>ذَكَرْت</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>بيان</word> 
+ <stem>بَيَان</stem>
+</res>
+<res>
+<word>رسمي</word> 
+ <stem>رَسْمِيّ</stem>
+</res>
+<res>
+<word>أن</word> 
+ <stem>أَنّ</stem>
+</res>
+<res>
+<word>أوقات</word> 
+ <stem>أَوْقَات</stem>
+</res>
+<res>
+<word>وملاعب</word> 
+ <stem>مَلَاعِب</stem>
+</res>
+<res>
+<word>مباريات</word> 
+ <stem>مُبَارَيَات</stem>
+</res>
+<res>
+<word>الجولتين</word> 
+ <stem>جَوْلَتَيْن</stem>
+</res>
+<res>
+<word>الأخيرتين</word> 
+ <stem>أَخِيرَتَيْن</stem>
+</res>
+<res>
+<word> 21 </word> 
+ <stem> 21 </stem>
+</res>
+<res>
+<word>و</word> 
+ <stem>و</stem>
+</res>
+<res>
+<word>22 </word> 
+ <stem>22 </stem>
+</res>
+<res>
+<word>سوف</word> 
+ <stem>سَوْف</stem>
+</res>
+<res>
+<word>يتم</word> 
+ <stem>يَتِمّ</stem>
+</res>
+<res>
+<word>تحديدهما</word> 
+ <stem>تَحْدِيد</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>وقت</word> 
+ <stem>وَقْت</stem>
+</res>
+<res>
+<word>لاحق</word> 
+ <stem>لَاحِق</stem>
+</res>
+<res>
+<word>بناء</word> 
+ <stem>بِنَاء</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>نتائج</word> 
+ <stem>نَتَائِج</stem>
+</res>
+<res>
+<word>الفرق</word> 
+ <stem>فِرَق</stem>
+</res>
+<res>
+<word>المتنافسة</word> 
+ <stem>مُتَنَافَسَة</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>المراكز</word> 
+ <stem>مَرَاكِز</stem>
+</res>
+<res>
+<word>المختلفة</word> 
+ <stem>مُخْتَلِفَة</stem>
+</res>
+<res>
+<word>بجدول</word> 
+ <stem>جَدْوَل</stem>
+</res>
+<res>
+<word>الترتيب</word> 
+ <stem>تَرْتِيب</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>إطار</word> 
+ <stem>إِطَار</stem>
+</res>
+<res>
+<word>الحرص</word> 
+ <stem>حِرْص</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>مبدأ</word> 
+ <stem>مَبْدَأ</stem>
+</res>
+<res>
+<word>تكافؤ</word> 
+ <stem>تَكَافُؤ</stem>
+</res>
+<res>
+<word>الفرص</word> 
+ <stem>فُرَص</stem>
+</res>
+<res>
+<word>أمام</word> 
+ <stem>أَمَام</stem>
+</res>
+<res>
+<word>جميع</word> 
+ <stem>جَمِيع</stem>
+</res>
+<res>
+<word>الفرق</word> 
+ <stem>فِرَق</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وستقام</word> 
+ <stem>تُقَام</stem>
+</res>
+<res>
+<word>كل</word> 
+ <stem>كُلّ</stem>
+</res>
+<res>
+<word>المباريات</word> 
+ <stem>مُبَارَيَات</stem>
+</res>
+<res>
+<word>المتبقية</word> 
+ <stem>مُتَبَقِّيَة</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مَن</stem>
+</res>
+<res>
+<word>الموسم</word> 
+ <stem>مَوْسِم</stem>
+</res>
+<res>
+<word>الحالي</word> 
+ <stem>حَالِيّ</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>الملاعب</word> 
+ <stem>مَلَاعِب</stem>
+</res>
+<res>
+<word>التي</word> 
+ <stem>الَّتِي</stem>
+</res>
+<res>
+<word>تتوفر</word> 
+ <stem>تَتَوَفَّر</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>تقنية</word> 
+ <stem>تِقْنِيَّة</stem>
+</res>
+<res>
+<word>التبريد</word> 
+ <stem>تَبْرِيد</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وهي</word> 
+ <stem>هِي</stem>
+</res>
+<res>
+<word>ملاعب</word> 
+ <stem>مَلَاعِب</stem>
+</res>
+<res>
+<word>المدينة</word> 
+ <stem>مَدِينَة</stem>
+</res>
+<res>
+<word>التعليمية</word> 
+ <stem>تَعْلِيمِيَّة</stem>
+</res>
+<res>
+<word>والجنوب</word> 
+ <stem>جَنُوب</stem>
+</res>
+<res>
+<word>وجاسم</word> 
+ <stem>جَاسِم</stem>
+</res>
+<res>
+<word>بن</word> 
+ <stem>بْن</stem>
+</res>
+<res>
+<word>حمد</word> 
+ <stem>حَمْد</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>جدول</word> 
+ <stem>جَدْوَل</stem>
+</res>
+<res>
+<word>مباريات</word> 
+ <stem>مُبَارَيَات</stem>
+</res>
+<res>
+<word>الأسبوع</word> 
+ <stem>أُسْبُوع</stem>
+</res>
+<res>
+<word> ١٨ </word> 
+ <stem> ١٨ </stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word> #</word> 
+ <stem> #</stem>
+</res>
+<res>
+<word>دوري</word> 
+ <stem>دَوْرِيّ</stem>
+</res>
+<res>
+<word>_</word> 
+ <stem>_</stem>
+</res>
+<res>
+<word>نجوم</word> 
+ <stem>نُجُوم</stem>
+</res>
+<res>
+<word>_QNB ⚽️🙌🏼</word> 
+ <stem>_QNB ⚽️🙌🏼</stem>
+</res>
+
+<res>
+<word>📺 </word> 
+ <stem>📺 </stem>
+</res>
+<res>
+<word>لا</word> 
+ <stem>لَا</stem>
+</res>
+<res>
+<word>تفوت</word> 
+ <stem>تُفَوِّت</stem>
+</res>
+<res>
+<word>المتعة</word> 
+ <stem>مُتْعَة</stem>
+</res>
+<res>
+<word>و</word> 
+ <stem>و</stem>
+</res>
+<res>
+<word>تابع</word> 
+ <stem>تَابِع</stem>
+</res>
+<res>
+<word>المباريات</word> 
+ <stem>مُبَارَيَات</stem>
+</res>
+<res>
+<word>من</word> 
+ <stem>مِن</stem>
+</res>
+<res>
+<word>المنزل</word> 
+ <stem>مَنْزِل</stem>
+</res>
+<res>
+<word>على</word> 
+ <stem>عَلَى</stem>
+</res>
+<res>
+<word>قنوات</word> 
+ <stem>قَنَوَات</stem>
+</res>
+<res>
+<word>الناقل</word> 
+ <stem>نَاقِل</stem>
+</res>
+<res>
+<word>الرسمي</word> 
+ <stem>رَسْمِيّ</stem>
+</res>
+<res>
+<word>للمسابقة</word> 
+ <stem>مُسَابَقَة</stem>
+</res>
+<res>
+<word> @alkasschannel pic</word> 
+ <stem> @alkasschannel pic</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>twitter</word> 
+ <stem>twitter</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+<res>
+<word>com/ArneROavQu</word> 
+ <stem>com/ArneROavQu</stem>
+</res>
+
+<res>
+<word>— </word> 
+ <stem>— </stem>
+</res>
+<res>
+<word>مؤسسة</word> 
+ <stem>مُؤَسَّسَة</stem>
+</res>
+<res>
+<word>دوري</word> 
+ <stem>دَوْرِيّ</stem>
+</res>
+<res>
+<word>نجوم</word> 
+ <stem>نُجُوم</stem>
+</res>
+<res>
+<word>قطر</word> 
+ <stem>قَطَر</stem>
+</res>
+<res>
+<word> (@QSL) June 7, 2020</word> 
+ <stem> (@QSL) June 7, 2020</stem>
+</res>
+
+
+<res>
+<word>وستستأنف</word> 
+ <stem>تَسْتَأْنِف</stem>
+</res>
+<res>
+<word>المنافسات</word> 
+ <stem>مُنَافَسَات</stem>
+</res>
+<res>
+<word>يوم</word> 
+ <stem>يَوْم</stem>
+</res>
+<res>
+<word>الجمعة</word> 
+ <stem>جُمْعَة</stem>
+</res>
+<res>
+<word> 24 </word> 
+ <stem> 24 </stem>
+</res>
+<res>
+<word>يوليو</word> 
+ <stem>يُولْيُو</stem>
+</res>
+<res>
+<word>/</word> 
+ <stem>/</stem>
+</res>
+<res>
+<word>تموز</word> 
+ <stem>تَمُّوز</stem>
+</res>
+<res>
+<word>المقبل</word> 
+ <stem>مُقْبِل</stem>
+</res>
+<res>
+<word>بمباراة</word> 
+ <stem>مُبَارَاة</stem>
+</res>
+<res>
+<word>ستجمع</word> 
+ <stem>تَجْمَع</stem>
+</res>
+<res>
+<word>ناديي</word> 
+ <stem>نَادِي</stem>
+</res>
+<res>
+<word>قطر</word> 
+ <stem>قَطَر</stem>
+</res>
+<res>
+<word>والريان</word> 
+ <stem>رَيَّان</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>وستكون</word> 
+ <stem>تَكُون</stem>
+</res>
+<res>
+<word>بمثابة</word> 
+ <stem>مُثَابَة</stem>
+</res>
+<res>
+<word>التدشين</word> 
+ <stem>تَدْشِين</stem>
+</res>
+<res>
+<word>الرسمي</word> 
+ <stem>رَسْمِيّ</stem>
+</res>
+<res>
+<word>لثالث</word> 
+ <stem>ثَالِث</stem>
+</res>
+<res>
+<word>ملاعب</word> 
+ <stem>مَلَاعِب</stem>
+</res>
+<res>
+<word>كأس</word> 
+ <stem>كَأْس</stem>
+</res>
+<res>
+<word>العالم</word> 
+ <stem>عَالَم</stem>
+</res>
+<res>
+<word> "</word> 
+ <stem> "</stem>
+</res>
+<res>
+<word>مونديال</word> 
+ <stem>مُونديَال</stem>
+</res>
+<res>
+<word>قطر</word> 
+ <stem>قَطَر</stem>
+</res>
+<res>
+<word> 2022" </word> 
+ <stem> 2022" </stem>
+</res>
+<res>
+<word>والذي</word> 
+ <stem>الَّذِي</stem>
+</res>
+<res>
+<word>يقع</word> 
+ <stem>يَقَع</stem>
+</res>
+<res>
+<word>في</word> 
+ <stem>فِي</stem>
+</res>
+<res>
+<word>منطقة</word> 
+ <stem>مَنْطِقَة</stem>
+</res>
+<res>
+<word>المدينة</word> 
+ <stem>مَدِينَة</stem>
+</res>
+<res>
+<word>التعليمية</word> 
+ <stem>تَعْلِيمِيَّة</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+<res>
+<word>وأصبح</word> 
+ <stem>أَصْبَح</stem>
+</res>
+<res>
+<word>ملعب</word> 
+ <stem>مَلْعَب</stem>
+</res>
+<res>
+<word>المدينة</word> 
+ <stem>مَدِينَة</stem>
+</res>
+<res>
+<word>التعليمية</word> 
+ <stem>تَعْلِيمِيَّة</stem>
+</res>
+<res>
+<word>ثالث</word> 
+ <stem>ثَالِث</stem>
+</res>
+<res>
+<word>ملاعب</word> 
+ <stem>مَلَاعِب</stem>
+</res>
+<res>
+<word>المونديال</word> 
+ <stem>مُونديَال</stem>
+</res>
+<res>
+<word>اليت</word> 
+ <stem>اليت</stem>
+</res>
+<res>
+<word>انتهت</word> 
+ <stem>انْتَهَت</stem>
+</res>
+<res>
+<word>بها</word> 
+ <stem>بِهَا</stem>
+</res>
+<res>
+<word>الأشغال</word> 
+ <stem>أَشْغَال</stem>
+</res>
+<res>
+<word>، </word> 
+ <stem>، </stem>
+</res>
+<res>
+<word>بعد</word> 
+ <stem>بَعْد</stem>
+</res>
+<res>
+<word>ملعبي</word> 
+ <stem>مَلْعَب</stem>
+</res>
+<res>
+<word>خليفة</word> 
+ <stem>خَلِيفَة</stem>
+</res>
+<res>
+<word>الدولي</word> 
+ <stem>دُوَلِيّ</stem>
+</res>
+<res>
+<word>والجنوب</word> 
+ <stem>جَنُوب</stem>
+</res>
+<res>
+<word>.</word> 
+ <stem>.</stem>
+</res>
+
+</Stems>

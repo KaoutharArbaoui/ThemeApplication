@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>كيف</word> 
+ <lemma>كَيْفَ</lemma>
+</res>
+<res>
+<word>تقفل</word> 
+ <lemma>أَقْفَلَ</lemma>
+</res>
+<res>
+<word>حاسوبك</word> 
+ <lemma>حَاسُوب</lemma>
+</res>
+<res>
+<word>تلقائيا</word> 
+ <lemma>تِلْقَائِيّ</lemma>
+</res>
+<res>
+<word>بواسطة</word> 
+ <lemma>وَاسِطَة</lemma>
+</res>
+<res>
+<word>هاتفك</word> 
+ <lemma>هَاتِف</lemma>
+</res>
+<res>
+<word>الذكي</word> 
+ <lemma>ذَكِيّ</lemma>
+</res>
+<res>
+<word>؟</word> 
+ <lemma>؟</lemma>
+</res>
+
+<res>
+<word>تتيح</word> 
+ <lemma>أَتَاحَ</lemma>
+</res>
+<res>
+<word>تقنية</word> 
+ <lemma>تَقْنِيّ</lemma>
+</res>
+<res>
+<word>البلوتوث</word> 
+ <lemma>البلوتوث</lemma>
+</res>
+<res>
+<word>للمستخدم</word> 
+ <lemma>مُسْتَخْدَم</lemma>
+</res>
+<res>
+<word>إمكانية</word> 
+ <lemma>إِمْكَانِيَّة</lemma>
+</res>
+<res>
+<word>اقتران</word> 
+ <lemma>اقْتِرَان</lemma>
+</res>
+<res>
+<word>الأجهزة</word> 
+ <lemma>جِهَاز</lemma>
+</res>
+<res>
+<word>الجوالة</word> 
+ <lemma>جَوَّالَة</lemma>
+</res>
+<res>
+<word>مثل</word> 
+ <lemma>مِثْل</lemma>
+</res>
+<res>
+<word>الهواتف</word> 
+ <lemma>هَاتِف</lemma>
+</res>
+<res>
+<word>الذكية</word> 
+ <lemma>ذَكِيّ</lemma>
+</res>
+<res>
+<word>بالحواسيب</word> 
+ <lemma>حَاسُوب</lemma>
+</res>
+<res>
+<word>المزودة</word> 
+ <lemma>مُزَوَّد</lemma>
+</res>
+<res>
+<word>بنظام</word> 
+ <lemma>نِظَام</lemma>
+</res>
+<res>
+<word>التشغيل</word> 
+ <lemma>تَشْغِيل</lemma>
+</res>
+<res>
+<word>مايكروسوفت</word> 
+ <lemma>مَايْكُرُوسُوفْت</lemma>
+</res>
+<res>
+<word>ويندوز</word> 
+ <lemma>ويندوز</lemma>
+</res>
+<res>
+<word> 10، </word> 
+ <lemma> 10، </lemma>
+</res>
+<res>
+<word>حتى</word> 
+ <lemma>حَتَّى</lemma>
+</res>
+<res>
+<word>يتمكن</word> 
+ <lemma>تَمَكَّنَ</lemma>
+</res>
+<res>
+<word>المستخدم</word> 
+ <lemma>مُسْتَخْدَم</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>قفل</word> 
+ <lemma>قُفْل</lemma>
+</res>
+<res>
+<word>الحواسيب</word> 
+ <lemma>حَاسُوب</lemma>
+</res>
+<res>
+<word>تلقائيا</word> 
+ <lemma>تِلْقَائِيّ</lemma>
+</res>
+<res>
+<word>إذا</word> 
+ <lemma>إِذَا</lemma>
+</res>
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>ابتعد</word> 
+ <lemma>ابْتَعَدَ</lemma>
+</res>
+<res>
+<word>عنها</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وإذا</word> 
+ <lemma>إِذَا</lemma>
+</res>
+<res>
+<word>قام</word> 
+ <lemma>قَامَ</lemma>
+</res>
+<res>
+<word>المستخدم</word> 
+ <lemma>مُسْتَخْدَم</lemma>
+</res>
+<res>
+<word>بتفعيل</word> 
+ <lemma>تَفْعِيل</lemma>
+</res>
+<res>
+<word>وظيفة</word> 
+ <lemma>وَظِيفَة</lemma>
+</res>
+<res>
+<word>الأمان</word> 
+ <lemma>أَمَان</lemma>
+</res>
+<res>
+<word>هذه</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فلن</word> 
+ <lemma>لَنْ</lemma>
+</res>
+<res>
+<word>ينسى</word> 
+ <lemma>نَسِيَ</lemma>
+</res>
+<res>
+<word>أبدا</word> 
+ <lemma>أَبَد</lemma>
+</res>
+<res>
+<word>قفل</word> 
+ <lemma>قُفْل</lemma>
+</res>
+<res>
+<word>حاسوبه</word> 
+ <lemma>حَاسُوب</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ويتم</word> 
+ <lemma>تَمَّ</lemma>
+</res>
+<res>
+<word>تفعيل</word> 
+ <lemma>تَفْعِيل</lemma>
+</res>
+<res>
+<word>هذه</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>الوظيفة</word> 
+ <lemma>وَظِيفَة</lemma>
+</res>
+<res>
+<word>باتباع</word> 
+ <lemma>اتِّبَاع</lemma>
+</res>
+<res>
+<word>التالي</word> 
+ <lemma>تَال</lemma>
+</res>
+<res>
+<word>:</word> 
+ <lemma>:</lemma>
+</res>
+
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>حاسوبك</word> 
+ <lemma>حَاسُوب</lemma>
+</res>
+<res>
+<word>العامل</word> 
+ <lemma>عَامِل</lemma>
+</res>
+<res>
+<word>بنظام</word> 
+ <lemma>نِظَام</lemma>
+</res>
+<res>
+<word>ويندوز</word> 
+ <lemma>ويندوز</lemma>
+</res>
+<res>
+<word> 10 </word> 
+ <lemma> 10 </lemma>
+</res>
+<res>
+<word>انقر</word> 
+ <lemma>انْقَارَ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>زر</word> 
+ <lemma>زَرّ</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>ابدأ</word> 
+ <lemma>بَدَأَ</lemma>
+</res>
+<res>
+<word>" </word> 
+ <lemma>" </lemma>
+</res>
+<res>
+<word>ثم</word> 
+ <lemma>ثُمَّ</lemma>
+</res>
+<res>
+<word>إعدادات</word> 
+ <lemma>إِعْدَاد</lemma>
+</res>
+<res>
+<word>ثم</word> 
+ <lemma>ثُمَّ</lemma>
+</res>
+<res>
+<word>الحسابات</word> 
+ <lemma>حِسَاب</lemma>
+</res>
+<res>
+<word>ثم</word> 
+ <lemma>ثُمَّ</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>خيارات</word> 
+ <lemma>خِيَار</lemma>
+</res>
+<res>
+<word>تسجيل</word> 
+ <lemma>تَسْجِيل</lemma>
+</res>
+<res>
+<word>الدخول</word> 
+ <lemma>دُخُول</lemma>
+</res>
+<res>
+<word>"</word> 
+ <lemma>"</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>تحت</word> 
+ <lemma>تَحْتَ</lemma>
+</res>
+<res>
+<word>الخيار</word> 
+ <lemma>خِيَار</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>القفل</word> 
+ <lemma>قُفْل</lemma>
+</res>
+<res>
+<word>الديناميكي</word> 
+ <lemma>الديناميكي</lemma>
+</res>
+<res>
+<word>" </word> 
+ <lemma>" </lemma>
+</res>
+<res>
+<word>اختر</word> 
+ <lemma>خَتَرَ</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>السماح</word> 
+ <lemma>سَمَاح</lemma>
+</res>
+<res>
+<word>لويندوز</word> 
+ <lemma>لويندوز</lemma>
+</res>
+<res>
+<word>بقفل</word> 
+ <lemma>قَفْل</lemma>
+</res>
+<res>
+<word>جهازك</word> 
+ <lemma>جِهَاز</lemma>
+</res>
+<res>
+<word>تلقائيا</word> 
+ <lemma>تِلْقَائِيّ</lemma>
+</res>
+<res>
+<word>عندما</word> 
+ <lemma>عِنْدَ</lemma>
+</res>
+<res>
+<word>تكون</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>بعيدا</word> 
+ <lemma>بَعِيد</lemma>
+</res>
+<res>
+<word>"</word> 
+ <lemma>"</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وبعد</word> 
+ <lemma>بَعْد</lemma>
+</res>
+<res>
+<word>تفعيل</word> 
+ <lemma>تَفْعِيل</lemma>
+</res>
+<res>
+<word>هذه</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>الوظيفة</word> 
+ <lemma>وَظِيفَة</lemma>
+</res>
+<res>
+<word>سيتم</word> 
+ <lemma>تَمَّ</lemma>
+</res>
+<res>
+<word>قفل</word> 
+ <lemma>قُفْل</lemma>
+</res>
+<res>
+<word>الحاسوب</word> 
+ <lemma>حَاسُوب</lemma>
+</res>
+<res>
+<word>تلقائيا</word> 
+ <lemma>تِلْقَائِيّ</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>مرور</word> 
+ <lemma>مُرُور</lemma>
+</res>
+<res>
+<word>دقيقة</word> 
+ <lemma>دَقِيق</lemma>
+</res>
+<res>
+<word>واحدة</word> 
+ <lemma>وَاحِد</lemma>
+</res>
+<res>
+<word>تقريبا</word> 
+ <lemma>تَقْرِيب</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>قطع</word> 
+ <lemma>قَطْع</lemma>
+</res>
+<res>
+<word>الاتصال</word> 
+ <lemma>اتِّصَال</lemma>
+</res>
+<res>
+<word>بين</word> 
+ <lemma>بَيْنَ</lemma>
+</res>
+<res>
+<word>الحاسوب</word> 
+ <lemma>حَاسُوب</lemma>
+</res>
+<res>
+<word>والجهاز</word> 
+ <lemma>جِهَاز</lemma>
+</res>
+<res>
+<word>الجوال</word> 
+ <lemma>جَوَّال</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>عندما</word> 
+ <lemma>عِنْدَ</lemma>
+</res>
+<res>
+<word>تبتعد</word> 
+ <lemma>ابْتَعَدَ</lemma>
+</res>
+<res>
+<word>بجوالك</word> 
+ <lemma>جَوَّال</lemma>
+</res>
+<res>
+<word>مسافة</word> 
+ <lemma>مَسَافَة</lemma>
+</res>
+<res>
+<word>تزيد</word> 
+ <lemma>زَادَ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>نطاق</word> 
+ <lemma>نِطَاق</lemma>
+</res>
+<res>
+<word>تغطية</word> 
+ <lemma>تَغْطِيَة</lemma>
+</res>
+<res>
+<word>البلوتوث</word> 
+ <lemma>البلوتوث</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ويختلف</word> 
+ <lemma>اخْتَلَفَ</lemma>
+</res>
+<res>
+<word>نطاق</word> 
+ <lemma>نِطَاق</lemma>
+</res>
+<res>
+<word>تغطية</word> 
+ <lemma>تَغْطِيَة</lemma>
+</res>
+<res>
+<word>البلوتوث</word> 
+ <lemma>البلوتوث</lemma>
+</res>
+<res>
+<word>باختلاف</word> 
+ <lemma>اخْتِلَاف</lemma>
+</res>
+<res>
+<word>الجهاز</word> 
+ <lemma>جِهَاز</lemma>
+</res>
+<res>
+<word>الجوال</word> 
+ <lemma>جَوَّال</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ويمكن</word> 
+ <lemma>أَمْكَنَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>يمتد</word> 
+ <lemma>امْتَدَّ</lemma>
+</res>
+<res>
+<word>نطاق</word> 
+ <lemma>نِطَاق</lemma>
+</res>
+<res>
+<word>تغطية</word> 
+ <lemma>تَغْطِيَة</lemma>
+</res>
+<res>
+<word>البلوتوث</word> 
+ <lemma>البلوتوث</lemma>
+</res>
+<res>
+<word>لعشرة</word> 
+ <lemma>عِشْرَة</lemma>
+</res>
+<res>
+<word>أمتار</word> 
+ <lemma>مِتْر</lemma>
+</res>
+<res>
+<word>داخل</word> 
+ <lemma>دَاخِل</lemma>
+</res>
+<res>
+<word>الغرف</word> 
+ <lemma>غُرْفَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>لا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>تشتمل</word> 
+ <lemma>اشْتَمَلَ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>عوائق</word> 
+ <lemma>عَائِق</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

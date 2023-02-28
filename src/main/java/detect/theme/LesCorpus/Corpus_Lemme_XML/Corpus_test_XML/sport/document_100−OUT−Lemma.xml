@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>ليفاندوفسكي</word> 
+ <lemma>ليفاندوفسكي</lemma>
+</res>
+<res>
+<word>وغنابري</word> 
+ <lemma>وغنابري</lemma>
+</res>
+<res>
+<word>يحطمان</word> 
+ <lemma>حَطَّمَ</lemma>
+</res>
+<res>
+<word>رقم</word> 
+ <lemma>رَقْم</lemma>
+</res>
+<res>
+<word>ريال</word> 
+ <lemma>رِيَال</lemma>
+</res>
+<res>
+<word>مدريد</word> 
+ <lemma>مَدْرِيد</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>وليفا</word> 
+ <lemma>وَلِيف</lemma>
+</res>
+<res>
+<word>الرهيب</word> 
+ <lemma>رَهِيب</lemma>
+</res>
+<res>
+<word>يتخطى</word> 
+ <lemma>تَخَطَّى</lemma>
+</res>
+<res>
+<word>ميسي</word> 
+ <lemma>مِيسِي</lemma>
+</res>
+<res>
+<word>ويهدد</word> 
+ <lemma>هَدَّدَ</lemma>
+</res>
+<res>
+<word>رونالدو</word> 
+ <lemma>رونالدو</lemma>
+</res>
+
+<res>
+<word>حطم</word> 
+ <lemma>حَطَّمَ</lemma>
+</res>
+<res>
+<word>ثنائي</word> 
+ <lemma>ثَنَائِيّ</lemma>
+</res>
+<res>
+<word>بايرن</word> 
+ <lemma>بَايِرْن</lemma>
+</res>
+<res>
+<word>ميونيخ</word> 
+ <lemma>ميونيخ</lemma>
+</res>
+<res>
+<word>روبرت</word> 
+ <lemma>روبرت</lemma>
+</res>
+<res>
+<word>ليفاندوفسكي</word> 
+ <lemma>ليفاندوفسكي</lemma>
+</res>
+<res>
+<word>وسيرج</word> 
+ <lemma>رَجَا</lemma>
+</res>
+<res>
+<word>غنابري</word> 
+ <lemma>غنابري</lemma>
+</res>
+<res>
+<word>رقما</word> 
+ <lemma>رَقْم</lemma>
+</res>
+<res>
+<word>قياسيا</word> 
+ <lemma>قِيَاسِيّ</lemma>
+</res>
+<res>
+<word>كان</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>مسجلا</word> 
+ <lemma>مُسَجَّل</lemma>
+</res>
+<res>
+<word>باسم</word> 
+ <lemma>اسْم</lemma>
+</res>
+<res>
+<word>فريق</word> 
+ <lemma>فَرِيق</lemma>
+</res>
+<res>
+<word>ريال</word> 
+ <lemma>رِيَال</lemma>
+</res>
+<res>
+<word>مدريد</word> 
+ <lemma>مَدْرِيد</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>كما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>أصبح</word> 
+ <lemma>أَصْبَحَ</lemma>
+</res>
+<res>
+<word>لفاندوفسكي</word> 
+ <lemma>لفاندوفسكي</lemma>
+</res>
+<res>
+<word>قريبا</word> 
+ <lemma>قَرِيب</lemma>
+</res>
+<res>
+<word>جدا</word> 
+ <lemma>جِدّ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>تحطيم</word> 
+ <lemma>تَحْطِيم</lemma>
+</res>
+<res>
+<word>رقم</word> 
+ <lemma>رَقْم</lemma>
+</res>
+<res>
+<word>كريستيانو</word> 
+ <lemma>كِرِيسْتِيَانُو</lemma>
+</res>
+<res>
+<word>رونالدو</word> 
+ <lemma>رونالدو</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>دوري</word> 
+ <lemma>دَوْرِيّ</lemma>
+</res>
+<res>
+<word>أبطال</word> 
+ <lemma>بَطَل</lemma>
+</res>
+<res>
+<word>أوروبا</word> 
+ <lemma>أُورُوبَّا</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ووفقا</word> 
+ <lemma>وِفْق</lemma>
+</res>
+<res>
+<word>لموقع</word> 
+ <lemma>مَوْقِع</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>أوبتا</word> 
+ <lemma>بَتّ</lemma>
+</res>
+<res>
+<word>" (Opta) </word> 
+ <lemma>" (Opta) </lemma>
+</res>
+<res>
+<word>للإحصائيات</word> 
+ <lemma>إِحْصَائِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فقد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>بات</word> 
+ <lemma>بَاتَ</lemma>
+</res>
+<res>
+<word>ليفاندوفسكي</word> 
+ <lemma>ليفاندوفسكي</lemma>
+</res>
+<res>
+<word>وغنابري</word> 
+ <lemma>وغنابري</lemma>
+</res>
+<res>
+<word>أكثر</word> 
+ <lemma>أَكْثَر</lemma>
+</res>
+<res>
+<word>ثنائي</word> 
+ <lemma>ثَنَائِيّ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>فريق</word> 
+ <lemma>فَرِيق</lemma>
+</res>
+<res>
+<word>واحد</word> 
+ <lemma>وَاحِد</lemma>
+</res>
+<res>
+<word>يسجل</word> 
+ <lemma>سَجَّلَ</lemma>
+</res>
+<res>
+<word>الأهداف</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>دوري</word> 
+ <lemma>دَوْرِيّ</lemma>
+</res>
+<res>
+<word>أبطال</word> 
+ <lemma>بَطَل</lemma>
+</res>
+<res>
+<word>أوروبا</word> 
+ <lemma>أُورُوبَّا</lemma>
+</res>
+<res>
+<word>لكرة</word> 
+ <lemma>كُرَة</lemma>
+</res>
+<res>
+<word>القدم</word> 
+ <lemma>قَدَم</lemma>
+</res>
+<res>
+<word>خلال</word> 
+ <lemma>خِلَال</lemma>
+</res>
+<res>
+<word>موسم</word> 
+ <lemma>مَوْسِم</lemma>
+</res>
+<res>
+<word>واحد</word> 
+ <lemma>وَاحِد</lemma>
+</res>
+<res>
+<word>برصيد</word> 
+ <lemma>رَصِيد</lemma>
+</res>
+<res>
+<word> 24 </word> 
+ <lemma> 24 </lemma>
+</res>
+<res>
+<word>هدفا</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>#</word> 
+ <lemma>#</lemma>
+</res>
+<res>
+<word>دوري</word> 
+ <lemma>دَوْرِيّ</lemma>
+</res>
+<res>
+<word>_</word> 
+ <lemma>_</lemma>
+</res>
+<res>
+<word>أبطال</word> 
+ <lemma>بَطَل</lemma>
+</res>
+<res>
+<word>_</word> 
+ <lemma>_</lemma>
+</res>
+<res>
+<word>أوروبا</word> 
+ <lemma>أُورُوبَّا</lemma>
+</res>
+
+<res>
+<word>صاروخ</word> 
+ <lemma>صَارُوخ</lemma>
+</res>
+<res>
+<word>غنابري</word> 
+ <lemma>غنابري</lemma>
+</res>
+<res>
+<word>يهز</word> 
+ <lemma>هَزَّ</lemma>
+</res>
+<res>
+<word>ملعب</word> 
+ <lemma>مَلْعَب</lemma>
+</res>
+<res>
+<word>خوسيه</word> 
+ <lemma>خَوْس</lemma>
+</res>
+<res>
+<word>الفالادي</word> 
+ <lemma>الفالادي</lemma>
+</res>
+<res>
+<word> 🚀⚽👌</word> 
+ <lemma> 🚀⚽👌</lemma>
+</res>
+
+<res>
+<word>⁣</word> 
+ <lemma>⁣</lemma>
+</res>
+<res>
+<word>المباراة</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>مباشرة</word> 
+ <lemma>مُبَاشِر</lemma>
+</res>
+<res>
+<word>الآن</word> 
+ <lemma>آن</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word> HD1 📺</word> 
+ <lemma> HD1 📺</lemma>
+</res>
+
+<res>
+<word>اشترك</word> 
+ <lemma>اشْتَرَكَ</lemma>
+</res>
+<res>
+<word>ولا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>تفوت</word> 
+ <lemma>فَوَّتَ</lemma>
+</res>
+<res>
+<word>المتعة</word> 
+ <lemma>مُتْعَة</lemma>
+</res>
+<res>
+<word>والإثارة</word> 
+ <lemma>إِثَارَة</lemma>
+</res>
+<res>
+<word>👇</word> 
+ <lemma>👇</lemma>
+</res>
+
+<res>
+<word>🔗 https</word> 
+ <lemma>🔗 https</lemma>
+</res>
+<res>
+<word>:</word> 
+ <lemma>:</lemma>
+</res>
+<res>
+<word>//t</word> 
+ <lemma>//t</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>co/XVTWo3xp77 ⁣⁣⁣</word> 
+ <lemma>co/XVTWo3xp77 ⁣⁣⁣</lemma>
+</res>
+
+<res>
+<word>📱 https</word> 
+ <lemma>📱 https</lemma>
+</res>
+<res>
+<word>:</word> 
+ <lemma>:</lemma>
+</res>
+<res>
+<word>//t</word> 
+ <lemma>//t</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>co/alkogGtHdW⁣⁣⁣#beINUCL #UCL pic</word> 
+ <lemma>co/alkogGtHdW⁣⁣⁣#beINUCL #UCL pic</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>twitter</word> 
+ <lemma>twitter</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>com/YF8Uo5JbP2</word> 
+ <lemma>com/YF8Uo5JbP2</lemma>
+</res>
+
+<res>
+<word>— beIN SPORTS (@beINSPORTS) August 19, 2020</word> 
+ <lemma>— beIN SPORTS (@beINSPORTS) August 19, 2020</lemma>
+</res>
+
+
+<res>
+<word>ورغم</word> 
+ <lemma>رَغْم</lemma>
+</res>
+<res>
+<word>وجود</word> 
+ <lemma>وُجُود</lemma>
+</res>
+<res>
+<word>مباراة</word> 
+ <lemma>مُبَارَاة</lemma>
+</res>
+<res>
+<word>أخرى</word> 
+ <lemma>أُخْرَى</lemma>
+</res>
+<res>
+<word>قد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>ترفع</word> 
+ <lemma>رَفَعَ</lemma>
+</res>
+<res>
+<word>رصيد</word> 
+ <lemma>رَصِيد</lemma>
+</res>
+<res>
+<word>الثنائي</word> 
+ <lemma>ثَنَاء</lemma>
+</res>
+<res>
+<word>الرائع</word> 
+ <lemma>رَائِع</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فقد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>كسرا</word> 
+ <lemma>كَسْر</lemma>
+</res>
+<res>
+<word>الرقم</word> 
+ <lemma>رَقْم</lemma>
+</res>
+<res>
+<word>المسجل</word> 
+ <lemma>مُسَجَّل</lemma>
+</res>
+<res>
+<word>باسم</word> 
+ <lemma>اسْم</lemma>
+</res>
+<res>
+<word>كريستيانو</word> 
+ <lemma>كِرِيسْتِيَانُو</lemma>
+</res>
+<res>
+<word>رونالدو</word> 
+ <lemma>رونالدو</lemma>
+</res>
+<res>
+<word>وغاريث</word> 
+ <lemma>وغاريث</lemma>
+</res>
+<res>
+<word>بيل</word> 
+ <lemma>يَلّ</lemma>
+</res>
+<res>
+<word>هدّافا</word> 
+ <lemma>هَدَّاف</lemma>
+</res>
+<res>
+<word>ريال</word> 
+ <lemma>رِيَال</lemma>
+</res>
+<res>
+<word>مدريد</word> 
+ <lemma>مَدْرِيد</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>نسخة</word> 
+ <lemma>نُسْخَة</lemma>
+</res>
+<res>
+<word>أبطال</word> 
+ <lemma>بَطَل</lemma>
+</res>
+<res>
+<word>أوروبا</word> 
+ <lemma>أُورُوبَّا</lemma>
+</res>
+<res>
+<word> 2013-2014 </word> 
+ <lemma> 2013-2014 </lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>تُوج</word> 
+ <lemma>تَوَّجَ</lemma>
+</res>
+<res>
+<word>الملكي</word> 
+ <lemma>مَلَكِيّ</lemma>
+</res>
+<res>
+<word>بلقبها</word> 
+ <lemma>لَقَب</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وسجل</word> 
+ <lemma>سَجَّلَ</lemma>
+</res>
+<res>
+<word>ثنائي</word> 
+ <lemma>ثَنَائِيّ</lemma>
+</res>
+<res>
+<word>ريال</word> 
+ <lemma>رِيَال</lemma>
+</res>
+<res>
+<word>مدريد</word> 
+ <lemma>مَدْرِيد</lemma>
+</res>
+<res>
+<word> 23 </word> 
+ <lemma> 23 </lemma>
+</res>
+<res>
+<word>هدفا</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>هذه</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>النسخة</word> 
+ <lemma>نُسْخَة</lemma>
+</res>
+<res>
+<word>بواقع</word> 
+ <lemma>وَاقِع</lemma>
+</res>
+<res>
+<word> 17 </word> 
+ <lemma> 17 </lemma>
+</res>
+<res>
+<word>هدفا</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>لرونالدو</word> 
+ <lemma>لرونالدو</lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>6 </word> 
+ <lemma>6 </lemma>
+</res>
+<res>
+<word>لبيل</word> 
+ <lemma>يَلّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>مقابل</word> 
+ <lemma>مُقَابِل</lemma>
+</res>
+<res>
+<word> 15 </word> 
+ <lemma> 15 </lemma>
+</res>
+<res>
+<word>هدفا</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>سجلها</word> 
+ <lemma>سَجَّلَ</lemma>
+</res>
+<res>
+<word>ليفاندوفسكي</word> 
+ <lemma>ليفاندوفسكي</lemma>
+</res>
+<res>
+<word>بالبطولة</word> 
+ <lemma>بُطُولَة</lemma>
+</res>
+<res>
+<word>هذا</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>الموسم</word> 
+ <lemma>مَوْسِم</lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>9 </word> 
+ <lemma>9 </lemma>
+</res>
+<res>
+<word>أهداف</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>لغنابري</word> 
+ <lemma>لغنابري</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>كما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>تفوق</word> 
+ <lemma>تَفَوُّق</lemma>
+</res>
+<res>
+<word>ليفاندوفسكي</word> 
+ <lemma>ليفاندوفسكي</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>ميسي</word> 
+ <lemma>مِيسِي</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>سجل</word> 
+ <lemma>سَجَّلَ</lemma>
+</res>
+<res>
+<word>أكبر</word> 
+ <lemma>أَكْبَر</lemma>
+</res>
+<res>
+<word>عدد</word> 
+ <lemma>عَدَد</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الأهداف</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>أبطال</word> 
+ <lemma>بَطَل</lemma>
+</res>
+<res>
+<word>أوروبا</word> 
+ <lemma>أُورُوبَّا</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وهو</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word> 14 </word> 
+ <lemma> 14 </lemma>
+</res>
+<res>
+<word>هدفا</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>نسخة</word> 
+ <lemma>نُسْخَة</lemma>
+</res>
+<res>
+<word> 2011-2012، </word> 
+ <lemma> 2011-2012، </lemma>
+</res>
+<res>
+<word>وأصبح</word> 
+ <lemma>أَصْبَحَ</lemma>
+</res>
+<res>
+<word>المهاجم</word> 
+ <lemma>مُهَاجِم</lemma>
+</res>
+<res>
+<word>البولندي</word> 
+ <lemma>بُولَنْدِيّ</lemma>
+</res>
+<res>
+<word>قاب</word> 
+ <lemma>قَاب</lemma>
+</res>
+<res>
+<word>قوسين</word> 
+ <lemma>قَوْس</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الرقم</word> 
+ <lemma>رَقْم</lemma>
+</res>
+<res>
+<word>القياسي</word> 
+ <lemma>قِيَاسِيّ</lemma>
+</res>
+<res>
+<word>لأكبر</word> 
+ <lemma>أَكْبَر</lemma>
+</res>
+<res>
+<word>عدد</word> 
+ <lemma>عَدَد</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الأهداف</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>سُجل</word> 
+ <lemma>سَجَّلَ</lemma>
+</res>
+<res>
+<word>بموسم</word> 
+ <lemma>مَوْسِم</lemma>
+</res>
+<res>
+<word>واحد</word> 
+ <lemma>وَاحِد</lemma>
+</res>
+<res>
+<word>والمسجل</word> 
+ <lemma>مُسَجِّل</lemma>
+</res>
+<res>
+<word>باسم</word> 
+ <lemma>اسْم</lemma>
+</res>
+<res>
+<word>رونالدو</word> 
+ <lemma>رونالدو</lemma>
+</res>
+<res>
+<word> 17 </word> 
+ <lemma> 17 </lemma>
+</res>
+<res>
+<word>هدفا</word> 
+ <lemma>هَدَف</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>نسخة</word> 
+ <lemma>نُسْخَة</lemma>
+</res>
+<res>
+<word> 2013-2014</word> 
+ <lemma> 2013-2014</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

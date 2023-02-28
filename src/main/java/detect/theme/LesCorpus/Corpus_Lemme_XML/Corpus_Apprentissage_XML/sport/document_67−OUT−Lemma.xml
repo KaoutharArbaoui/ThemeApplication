@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>أصيب</word> 
+ <lemma>أَصَابَ</lemma>
+</res>
+<res>
+<word>بكورونا</word> 
+ <lemma>بكورونا</lemma>
+</res>
+<res>
+<word>فتبرع</word> 
+ <lemma>تَبَرُّع</lemma>
+</res>
+<res>
+<word>بنصف</word> 
+ <lemma>نِصْف</lemma>
+</res>
+<res>
+<word>مليون</word> 
+ <lemma>مِلْيُون</lemma>
+</res>
+<res>
+<word>دولار</word> 
+ <lemma>دُولَار</lemma>
+</res>
+<res>
+<word>لمكافحته</word> 
+ <lemma>مُكَافَحَة</lemma>
+</res>
+
+<res>
+<word>أعلن</word> 
+ <lemma>أَعْلَنَ</lemma>
+</res>
+<res>
+<word>فريق</word> 
+ <lemma>فَرِيق</lemma>
+</res>
+<res>
+<word>يوتا</word> 
+ <lemma>يوتا</lemma>
+</res>
+<res>
+<word>جاز</word> 
+ <lemma>جَازَ</lemma>
+</res>
+<res>
+<word>الأميركي</word> 
+ <lemma>أَمِيرْكِيّ</lemma>
+</res>
+<res>
+<word>لكرة</word> 
+ <lemma>كُرَة</lemma>
+</res>
+<res>
+<word>السلة</word> 
+ <lemma>سَلَّة</lemma>
+</res>
+<res>
+<word>اليوم</word> 
+ <lemma>يَوْم</lemma>
+</res>
+<res>
+<word>السبت</word> 
+ <lemma>سَبْت</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنّ</lemma>
+</res>
+<res>
+<word>نجمه</word> 
+ <lemma>نَجْم</lemma>
+</res>
+<res>
+<word>الفرنسي</word> 
+ <lemma>فَرَنْسِيّ</lemma>
+</res>
+<res>
+<word>رودي</word> 
+ <lemma>رُود</lemma>
+</res>
+<res>
+<word>غبرت</word> 
+ <lemma>غَبِرَ</lemma>
+</res>
+<res>
+<word>تبرع</word> 
+ <lemma>تَبَرَّعَ</lemma>
+</res>
+<res>
+<word>بنصف</word> 
+ <lemma>نِصْف</lemma>
+</res>
+<res>
+<word>مليون</word> 
+ <lemma>مِلْيُون</lemma>
+</res>
+<res>
+<word>دولار</word> 
+ <lemma>دُولَار</lemma>
+</res>
+<res>
+<word>لدعم</word> 
+ <lemma>دَعْم</lemma>
+</res>
+<res>
+<word>الخدمات</word> 
+ <lemma>خِدْمَة</lemma>
+</res>
+<res>
+<word>الصحية</word> 
+ <lemma>صِحِّيّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الولايات</word> 
+ <lemma>وِلَايَة</lemma>
+</res>
+<res>
+<word>المتحدة</word> 
+ <lemma>مُتَّحِد</lemma>
+</res>
+<res>
+<word>وفرنسا</word> 
+ <lemma>فَرَنْسَا</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وأصبح</word> 
+ <lemma>أَصْبَحَ</lemma>
+</res>
+<res>
+<word>غبرت</word> 
+ <lemma>غَبِرَ</lemma>
+</res>
+<res>
+<word>أول</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>لاعب</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>ب</word> 
+ <lemma>بِـ</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>بي</word> 
+ <lemma>بِي</lemma>
+</res>
+<res>
+<word>أي</word> 
+ <lemma>أَيْ</lemma>
+</res>
+<res>
+<word>" </word> 
+ <lemma>" </lemma>
+</res>
+<res>
+<word>يصاب</word> 
+ <lemma>أَصَابَ</lemma>
+</res>
+<res>
+<word>بفيروس</word> 
+ <lemma>فَيْرُوس</lemma>
+</res>
+<res>
+<word>كورونا</word> 
+ <lemma>كَوَّرَ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>مما</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>أدى</word> 
+ <lemma>أَدَّى</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>إيقاف</word> 
+ <lemma>إِيقَاف</lemma>
+</res>
+<res>
+<word>الدوري</word> 
+ <lemma>دَوْرِيّ</lemma>
+</res>
+<res>
+<word>لمدة</word> 
+ <lemma>مِدَّة</lemma>
+</res>
+<res>
+<word>ثلاثين</word> 
+ <lemma>ثَلَاث</lemma>
+</res>
+<res>
+<word>يوما</word> 
+ <lemma>يَوْم</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وأوضح</word> 
+ <lemma>أَوْضَحَ</lemma>
+</res>
+<res>
+<word>يوتا</word> 
+ <lemma>يوتا</lemma>
+</res>
+<res>
+<word>جاز</word> 
+ <lemma>جَازَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>جزءا</word> 
+ <lemma>جُزْء</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>المال</word> 
+ <lemma>مَال</lemma>
+</res>
+<res>
+<word>سيوجه</word> 
+ <lemma>وَجَّهَ</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>الأنشطة</word> 
+ <lemma>نَشَاط</lemma>
+</res>
+<res>
+<word>المخصصة</word> 
+ <lemma>مُخَصَّص</lemma>
+</res>
+<res>
+<word>لمكافحة</word> 
+ <lemma>مُكَافَحَة</lemma>
+</res>
+<res>
+<word>فيروس</word> 
+ <lemma>فَيْرُوس</lemma>
+</res>
+<res>
+<word>كورونا</word> 
+ <lemma>كَوَّرَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>أوكلاهوما</word> 
+ <lemma>أوكلاهوما</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وجرى</word> 
+ <lemma>جَرَى</lemma>
+</res>
+<res>
+<word>تخصيص</word> 
+ <lemma>تَخْصِيص</lemma>
+</res>
+<res>
+<word>مئتي</word> 
+ <lemma>مِئَة</lemma>
+</res>
+<res>
+<word>ألف</word> 
+ <lemma>أَلْف</lemma>
+</res>
+<res>
+<word>دولار</word> 
+ <lemma>دُولَار</lemma>
+</res>
+<res>
+<word>كمساعدة</word> 
+ <lemma>مُسَاعَدَة</lemma>
+</res>
+<res>
+<word>للموظفين</word> 
+ <lemma>مُوَظَّف</lemma>
+</res>
+<res>
+<word>الذين</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>يعملون</word> 
+ <lemma>عَمِلَ</lemma>
+</res>
+<res>
+<word>بدوام</word> 
+ <lemma>دَوَام</lemma>
+</res>
+<res>
+<word>جزئي</word> 
+ <lemma>جُزْئِيّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>يوتا</word> 
+ <lemma>يوتا</lemma>
+</res>
+<res>
+<word>جاز</word> 
+ <lemma>جَازَ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>خاصة</word> 
+ <lemma>خَاصَّة</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>أعمالهم</word> 
+ <lemma>عَمَل</lemma>
+</res>
+<res>
+<word>قد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>توقفت</word> 
+ <lemma>تَوَقَّفَ</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>تعطيل</word> 
+ <lemma>تَعْطِيل</lemma>
+</res>
+<res>
+<word>الدوري</word> 
+ <lemma>دَوْرِيّ</lemma>
+</res>
+<res>
+<word>الأميركي</word> 
+ <lemma>أَمِيرْكِيّ</lemma>
+</res>
+<res>
+<word>للسلة</word> 
+ <lemma>سَلَّة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وتأكد</word> 
+ <lemma>تَأَكُّد</lemma>
+</res>
+<res>
+<word>غبرت</word> 
+ <lemma>غَبِرَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>إصابته</word> 
+ <lemma>إِصَابَة</lemma>
+</res>
+<res>
+<word>بفيروس</word> 
+ <lemma>فَيْرُوس</lemma>
+</res>
+<res>
+<word>كورونا</word> 
+ <lemma>كَوَّرَ</lemma>
+</res>
+<res>
+<word>خلال</word> 
+ <lemma>خِلَال</lemma>
+</res>
+<res>
+<word>وجوده</word> 
+ <lemma>وُجُود</lemma>
+</res>
+<res>
+<word>مع</word> 
+ <lemma>مَعَ</lemma>
+</res>
+<res>
+<word>فريقه</word> 
+ <lemma>فَرِيق</lemma>
+</res>
+<res>
+<word>يوتا</word> 
+ <lemma>يوتا</lemma>
+</res>
+<res>
+<word>جاز</word> 
+ <lemma>جَازَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>أوكلاهوما</word> 
+ <lemma>أوكلاهوما</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>حيث</word> 
+ <lemma>حَيْثُ</lemma>
+</res>
+<res>
+<word>أصيب</word> 
+ <lemma>أَصَابَ</lemma>
+</res>
+<res>
+<word>بالعدوى</word> 
+ <lemma>عَدْوَى</lemma>
+</res>
+<res>
+<word>أيضا</word> 
+ <lemma>أَيْض</lemma>
+</res>
+<res>
+<word>زميله</word> 
+ <lemma>زَمِيل</lemma>
+</res>
+<res>
+<word>بالفريق</word> 
+ <lemma>فَرِيق</lemma>
+</res>
+<res>
+<word>دونوفان</word> 
+ <lemma>دونوفان</lemma>
+</res>
+<res>
+<word>ميتشيل</word> 
+ <lemma>ميتشيل</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وبعد</word> 
+ <lemma>بَعْد</lemma>
+</res>
+<res>
+<word>غبرت</word> 
+ <lemma>غَبِرَ</lemma>
+</res>
+<res>
+<word>وميتشيل</word> 
+ <lemma>وميتشيل</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ذكرت</word> 
+ <lemma>ذَكَرَ</lemma>
+</res>
+<res>
+<word>تقارير</word> 
+ <lemma>تَقْرِير</lemma>
+</res>
+<res>
+<word>إعلامية</word> 
+ <lemma>إِعْلَامِيّ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>كريستيان</word> 
+ <lemma>كريستيان</lemma>
+</res>
+<res>
+<word>وود</word> 
+ <lemma>وُدّ</lemma>
+</res>
+<res>
+<word>لاعب</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>ديترويت</word> 
+ <lemma>ديترويت</lemma>
+</res>
+<res>
+<word>بيستونز</word> 
+ <lemma>بيستونز</lemma>
+</res>
+<res>
+<word>أصبح</word> 
+ <lemma>أَصْبَحَ</lemma>
+</res>
+<res>
+<word>ثالث</word> 
+ <lemma>ثَالِث</lemma>
+</res>
+<res>
+<word>لاعب</word> 
+ <lemma>لَاعِب</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>دوري</word> 
+ <lemma>دَوْرِيّ</lemma>
+</res>
+<res>
+<word>كرة</word> 
+ <lemma>كُرَة</lemma>
+</res>
+<res>
+<word>السلة</word> 
+ <lemma>سَلَّة</lemma>
+</res>
+<res>
+<word>الأميركي</word> 
+ <lemma>أَمِيرْكِيّ</lemma>
+</res>
+<res>
+<word>للمحترفين</word> 
+ <lemma>مُحْتَرِف</lemma>
+</res>
+<res>
+<word>يصاب</word> 
+ <lemma>أَصَابَ</lemma>
+</res>
+<res>
+<word>بفيروس</word> 
+ <lemma>فَيْرُوس</lemma>
+</res>
+<res>
+<word>كورونا</word> 
+ <lemma>كَوَّرَ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>
